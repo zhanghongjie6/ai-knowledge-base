@@ -1,0 +1,11 @@
+{
+  "id": "c3f5e7d9-0a2b-4c6d-8e9f-1a2b3c4d5e6f",
+  "title": "langchain-ai/langchain",
+  "source_url": "https://github.com/langchain-ai/langchain",
+  "source_type": "github_trending",
+  "summary": "LangChain 是构建 LLM 应用的业界标准框架，提供模块化组件（Models、Prompts、Chains、Agents、Memory、RAG），支持多模型后端集成与复杂的 Agent 编排。生态覆盖 LangSmith（调试）、LangServe（部署）、LangGraph（状态化工作流），已成为 LLM 工程化的事实标准基础设施。",
+  "tags": ["LLM", "Agent", "Framework", "RAG", "github"],
+  "status": "pending",
+  "created_at": "2026-04-25T10:00:00+08:00",
+  "updated_at": "2026-04-25T10:00:00+08:00"
+}

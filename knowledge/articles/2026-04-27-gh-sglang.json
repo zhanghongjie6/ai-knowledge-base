@@ -1,0 +1,11 @@
+{
+  "id": "75e350da-e191-4960-ba10-53514e400224",
+  "title": "sgl-project/sglang",
+  "source_url": "https://github.com/sgl-project/sglang",
+  "source_type": "github_trending",
+  "summary": "高性能 LLM 及多模态模型推理服务框架，已部署在 40 万+ GPU 上，日处理数万亿 token，被 xAI/AMD/NVIDIA/Cursor 等采用，RadixAttention 实现 5x 推理加速",
+  "tags": ["LLM", "Inference", "Serving", "Framework", "github"],
+  "status": "pending",
+  "created_at": "2026-04-27T10:00:00+08:00",
+  "updated_at": "2026-04-27T10:00:00+08:00"
+}

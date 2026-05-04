@@ -1,0 +1,11 @@
+{
+  "id": "27d46441-412b-40bc-932e-48e083113264",
+  "title": "mattpocock/skills",
+  "source_url": "https://github.com/mattpocock/skills",
+  "source_type": "github_trending",
+  "summary": "TypeScript 专家 Matt Pocock 公开的 .claude 技能配置集合，面向真实工程师的 Agent Skills，开箱即用提升编码体验",
+  "tags": ["Agent", "Skill", "Claude", "Coding", "github"],
+  "status": "pending",
+  "created_at": "2026-04-27T10:00:00+08:00",
+  "updated_at": "2026-04-27T10:00:00+08:00"
+}

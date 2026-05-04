@@ -1,0 +1,223 @@
+{
+  "source": "tech_summary",
+  "skill": "tech-summary",
+  "analyzed_at": "2026-04-27T12:00:00+08:00",
+  "source_file": "github-trending-2026-04-27.json",
+  "trends": {
+    "common_themes": [
+      "AI 编程 Agent 生态全面爆发 — 本周 15 个项目中有 8 个直接与 AI Agent 相关，涵盖 Agent 框架、内存管理、协作平台、Computer-Use 基础设施等多个维度",
+      "Agent 长期记忆成为核心痛点 — claude-mem、beads 等工具聚焦编码 Agent 的上下文保持问题，表明社区已从"能否写代码"转向"能否记得住上下文"",
+      "多 Agent 协作与团队化 — OpenAI Agents SDK 和 multica 分别从框架和平台层面推动多智能体协作，Agent 正在从单兵作战转向团队协作",
+      "RAG 技术持续深化 — markitdown 文档预处理工具达到 11.7 万星，RAG-Anything 推出多模态 RAG，GitNexus 将 Graph RAG 引入代码探索",
+      "LLM 推理引擎竞争白热化 — SGLang 以 26.5k 星持续领跑，已部署在 40 万+ GPU 上，成为业界事实标准"
+    ],
+    "new_concepts": [
+      "Agent Skills 配置化（.claude/SKILL.md） — Karpathy Skills 和 mattpocock/skills 代表了将 Agent 行为模式作为可共享配置资产的新范式，一周内获得近 3 万星",
+      "计算机操作 Agent（Computer-Use Agent）基础设施 — trycua/cua 提供从沙箱、SDK 到基准测试的全栈基础设施，标志着 Agent 从"读代码"到"操控整个桌面"的进化",
+      "Sandbox Agent 模式 — OpenAI Agents SDK 引入的 Sandbox Agent 概念，让 Agent 在隔离环境中拥有文件系统并执行长时间运行的任务",
+      "代码知识图谱 + Graph RAG — GitNexus 将 GitHub 仓库转化为交互式知识图谱并内置 Graph RAG Agent，开辟了代码理解的新路径",
+      "Agent 团队协作平台 — multica 将编码 Agent 视为"团队成员"，分配任务、追踪进度、累积技能，代表 Agent 管理从工具向平台演进"
+    ]
+  },
+  "items": [
+    {
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "summary": "跨平台个人 AI 助手，支持任意操作系统，以 Agent 能力增强为核心卖点",
+      "highlights": [
+        "36.4 万星，为本周 Trending 榜首，社区认可度极高",
+        "跨平台覆盖所有主流操作系统，定位通用 AI 助手",
+        "近期因 Agent 能力增强引发热度飙升，符合本轮 Agent 浪潮"
+      ],
+      "rating": 8,
+      "rating_reason": "36 万+ 星的超大规模社区认可，跨平台能力全面，但本质仍是个人 AI 助手类产品，未构成技术路线的根本性突破",
+      "suggested_tags": ["AI Assistant", "Agent", "Cross-Platform"]
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "微软开源的文档转 Markdown 工具，支持 PDF/Office/图片等格式，RAG 流水线核心依赖",
+      "highlights": [
+        "11.7 万星，由微软 AutoGen 团队维护，支持 PDF、PPT、Word、Excel、图片、音频等 10+ 格式",
+        "支持 OCR 插件和 LLM Vision 图片描述，可与 GPT-4o 等模型联动",
+        "已成为 RAG 系统中文档预处理的标配工具，具有 Plugin 扩展架构"
+      ],
+      "rating": 8,
+      "rating_reason": "RAG 流水线中文档预处理的关键基础设施，微软背书+插件生态+多格式支持，直接解决实际问题",
+      "suggested_tags": ["RAG", "Document Processing", "Markdown", "Microsoft"]
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "summary": "基于 Karpathy 洞察优化的 Claude Code 配置文件，本周狂揽近 3 万星",
+      "highlights": [
+        "85k 星，一周内从零飙升至近 3 万星，增速惊人",
+        "基于 Karpathy 对 LLM 编码陷阱的系统性洞察提炼而成",
+        "代表 Agent 行为配置化、可分享的新范式——.claude/SKILL.md"
+      ],
+      "rating": 7,
+      "rating_reason": "现象级增长反映了社区对 Agent 配置优化的高需求，本身是配置文件而非工具，但开创了技能分享的新模式",
+      "suggested_tags": ["Agent", "Claude", "Coding", "Skill"]
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "Claude Code 自动记忆插件，自动压缩编码会话注入上下文",
+      "highlights": [
+        "67k 星，TypeScript 实现，安装即用",
+        "自动捕获编码会话并用 AI 压缩后注入上下文，解决长期记忆痛点",
+        "专为 Claude Code 设计，零配置即可提升编码 Agent 的上下文保持能力"
+      ],
+      "rating": 7,
+      "rating_reason": "直击 AI 编程 Agent 的长期记忆核心痛点，设计简洁实用，社区反响强烈",
+      "suggested_tags": ["Agent", "Claude", "Memory", "Coding"]
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "summary": "AI 驱动舆情监控与热点筛选工具，支持 RSS 订阅和多渠道推送",
+      "highlights": [
+        "55k 星，Python 实现，支持 RSS 订阅、AI 翻译分析",
+        "聚合多平台信息并支持多渠道推送，内置 MCP 协议支持",
+        "功能定位与本项目（AI Knowledge Base）有高度相似性"
+      ],
+      "rating": 6,
+      "rating_reason": "功能完整但同类竞品较多，MCP 支持和 AI 翻译是亮点但未构成差异化壁垒",
+      "suggested_tags": ["Monitor", "RSS", "MCP", "AI"]
+    },
+    {
+      "name": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "summary": "《动手学大模型》中文教程，系统覆盖 LLM 从理论到编程实践",
+      "highlights": [
+        "34k 星，Jupyter Notebook 格式，代码与讲解结合",
+        "覆盖 LLM 从入门到进阶的完整知识体系，中文优质资源",
+        "适合初学者系统学习，兼顾理论和代码实践"
+      ],
+      "rating": 7,
+      "rating_reason": "优质的 LLM 中文教育资源，系统性好，对中文开发者社区价值大",
+      "suggested_tags": ["LLM", "Tutorial", "Education", "Chinese"]
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "summary": "浏览器端代码智能引擎，将 GitHub 仓库转化为交互式知识图谱",
+      "highlights": [
+        "30k 星，TypeScript 实现，纯浏览器端运行",
+        "将 GitHub 仓库转化为交互式知识图谱，内置 Graph RAG Agent",
+        "革新代码探索方式，结合知识图谱与 RAG 进行代码理解"
+      ],
+      "rating": 7,
+      "rating_reason": "Graph RAG + 代码知识图谱的组合创新，浏览器端运行降低使用门槛，概念新颖",
+      "suggested_tags": ["RAG", "Knowledge Graph", "Code Analysis", "Agent"]
+    },
+    {
+      "name": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "summary": "高性能 LLM 推理服务框架，已部署在 40 万+ GPU 上，业界事实标准",
+      "highlights": [
+        "26.5k 星，由 LMSYS 组织维护，12,000+ 次提交，社区极其活跃",
+        "已部署在 400,000+ GPU 上，日处理数万亿 token，被 xAI、AMD、NVIDIA、LinkedIn、Cursor 等采用",
+        "支持 Llama/DeepSeek/Qwen/GPT 等主流模型，RadixAttention 实现 5x 推理加速",
+        "被 AReaL、verl 等主流后训练框架采用作为 rollout 后端"
+      ],
+      "rating": 9,
+      "rating_reason": "已成长为 LLM 推理引擎的业界事实标准，40 万+ GPU 部署规模、xAI 等头部客户、被选为 RL 后训练框架的 rollout 后端，改变了 LLM 服务化的技术格局",
+      "suggested_tags": ["LLM", "Inference", "Serving", "Framework"]
+    },
+    {
+      "name": "openai/openai-agents-python",
+      "url": "https://github.com/openai/openai-agents-python",
+      "summary": "OpenAI 官方轻量级多智能体工作流 SDK，支持 100+ LLM 提供商",
+      "highlights": [
+        "25.3k 星，1,386 次提交，88 个 release，迭代极快",
+        "支持 Agents、Handoffs、Guardrails、Sandbox Agents、Tracing、Realtime Agents 等完整功能",
+        "Provider-agnostic 设计，不仅支持 OpenAI 还支持 100+ 其他 LLM",
+        "v0.14 引入 Sandbox Agent，Agent 可在隔离环境中运行长时间任务"
+      ],
+      "rating": 8,
+      "rating_reason": "OpenAI 官方出品，功能完整且迭代迅速，Sandbox Agent 是重要创新，但尚处于早期快速迭代阶段",
+      "suggested_tags": ["Agent", "Multi-Agent", "OpenAI", "Framework"]
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "summary": "面向真实工程师的 Agent Skills 集合，来自作者的 .claude 目录",
+      "highlights": [
+        "24k 星，直接来自 TypeScript 专家 Matt Pocock 的 .claude 目录",
+        "开箱即用提升编码体验，代表 Agent Skill 共享的新趋势",
+        "与 Karpathy Skills 呼应，形成 Agent 配置共享的微生态"
+      ],
+      "rating": 5,
+      "rating_reason": "与 Karpathy Skills 模式高度重复，价值在于工程实践但独创性不足",
+      "suggested_tags": ["Agent", "Skill", "Claude", "Coding"]
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "summary": "开源 AI 语音工作室，支持声音克隆、听写和语音创作",
+      "highlights": [
+        "23k 星，TypeScript 实现，一站式语音处理",
+        "支持声音克隆、听写和语音创作三大核心功能",
+        "开源方案，可在本地部署，保护音频数据隐私"
+      ],
+      "rating": 6,
+      "rating_reason": "功能全面的一站式语音工具，但该领域已有较多竞品，差异化不够突出",
+      "suggested_tags": ["Voice", "TTS", "Audio", "Open Source"]
+    },
+    {
+      "name": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "summary": "AI 编码 Agent 的记忆升级工具，增强长期上下文保持能力",
+      "highlights": [
+        "21k 星，Go 语言实现，专注编码 Agent 记忆优化",
+        "大幅提升编码助手的长期记忆和上下文保持能力",
+        "与 claude-mem 类似但技术栈不同（Go vs TypeScript）"
+      ],
+      "rating": 6,
+      "rating_reason": "切入点与 claude-mem 高度重叠，Go 语言实现有一定差异化但功能尚不成熟",
+      "suggested_tags": ["Agent", "Memory", "Coding"]
+    },
+    {
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "summary": "开源托管 Agent 平台，将编码 Agent 转化为团队协作者",
+      "highlights": [
+        "20k 星，TypeScript 实现，定位 Agent 团队协作平台",
+        "支持任务分配、进度追踪和技能累积，将 Agent 视为团队成员",
+        "代表 Agent 管理从个人工具向团队平台演进的趋势"
+      ],
+      "rating": 7,
+      "rating_reason": "概念新颖——将 AI Agent 当作团队成员管理，填补了多 Agent 协作管理的空白",
+      "suggested_tags": ["Agent", "Platform", "Multi-Agent", "Collaboration"]
+    },
+    {
+      "name": "HKUDS/RAG-Anything",
+      "url": "https://github.com/HKUDS/RAG-Anything",
+      "summary": "港大推出的全能多模态 RAG 框架，支持图文表公式混合查询",
+      "highlights": [
+        "18.8k 星，基于 LightRAG 构建，有 arXiv 技术报告",
+        "支持 PDF/Office/图片等多种格式，集成 MinerU 进行文档解析",
+        "创新性支持多模态知识图谱、VLM 增强查询、LaTeX 公式解析",
+        "全面的多模态 RAG 能力：图片、表格、方程式均可检索"
+      ],
+      "rating": 7,
+      "rating_reason": "多模态 RAG 能力全面，有学术论文支撑，但框架复杂度较高，依赖较多外部组件",
+      "suggested_tags": ["RAG", "Multimodal", "Framework", "Retrieval"]
+    },
+    {
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "summary": "计算机操作 Agent 的开源基础设施，支持桌面环境操控",
+      "highlights": [
+        "14.4k 星，支持 macOS/Linux/Windows/Android 多种操作系统",
+        "提供沙箱（本地/云端）、SDK（Python API）、基准测试（cua-bench）等完整基础设施",
+        "Cua Driver 可在后台驱动 macOS 原生应用（无需抢光标焦点），支持 Chromium 和 Canvas",
+        "被 ClawCon 社区关注，已有 cuabot 等多 Agent 编排工具"
+      ],
+      "rating": 7,
+      "rating_reason": "计算机操作 Agent 领域的基础设施级项目，架构完整（沙箱+SDK+基准测试），但生态尚在早期建设中",
+      "suggested_tags": ["Agent", "Computer-Use", "Sandbox", "Automation"]
+    }
+  ]
+}

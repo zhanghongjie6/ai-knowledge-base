@@ -1,0 +1,11 @@
+{
+  "id": "5b91bdf4-b93d-49ad-8002-be6bdda389e5",
+  "title": "sansan0/TrendRadar",
+  "source_url": "https://github.com/sansan0/TrendRadar",
+  "source_type": "github_trending",
+  "summary": "AI 驱动的舆情监控与热点筛选工具，聚合多平台信息，支持 RSS 订阅、AI 翻译分析和多渠道推送，内置 MCP 协议支持",
+  "tags": ["Monitor", "RSS", "MCP", "AI", "github"],
+  "status": "pending",
+  "created_at": "2026-04-27T10:00:00+08:00",
+  "updated_at": "2026-04-27T10:00:00+08:00"
+}

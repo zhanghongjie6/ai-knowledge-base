@@ -1,0 +1,11 @@
+{
+  "id": "59f20f97-81f3-4b23-8825-eed9dddf7ce5",
+  "title": "jamiepine/voicebox",
+  "source_url": "https://github.com/jamiepine/voicebox",
+  "source_type": "github_trending",
+  "summary": "开源 AI 语音工作室，支持声音克隆、听写和语音创作三大功能，一站式解决语音合成与编辑需求，可在本地部署保护音频隐私",
+  "tags": ["Voice", "TTS", "Audio", "Open Source", "github"],
+  "status": "pending",
+  "created_at": "2026-04-27T10:00:00+08:00",
+  "updated_at": "2026-04-27T10:00:00+08:00"
+}

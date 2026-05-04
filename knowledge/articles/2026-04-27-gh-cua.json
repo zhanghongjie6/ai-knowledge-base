@@ -1,0 +1,11 @@
+{
+  "id": "67cb7298-96ed-49ce-8f41-314e0b56b89d",
+  "title": "trycua/cua",
+  "source_url": "https://github.com/trycua/cua",
+  "source_type": "github_trending",
+  "summary": "计算机操作 Agent 的开源基础设施，提供沙箱/SDK/基准测试全栈方案，Cua Driver 可在后台驱动 macOS 原生应用，支持多 Agent 编排",
+  "tags": ["Agent", "Computer-Use", "Sandbox", "Automation", "github"],
+  "status": "pending",
+  "created_at": "2026-04-27T10:00:00+08:00",
+  "updated_at": "2026-04-27T10:00:00+08:00"
+}
