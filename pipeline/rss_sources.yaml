@@ -1,0 +1,59 @@
+# RSS 数据源配置
+# 通过 enabled 字段控制是否采集
+# 量太大的源或未经验证的源默认为 enabled: false
+
+sources:
+  # ── 综合技术 ──────────────────────────────────────────────
+  - name: "Hacker News Best"
+    url: "https://hnrss.org/best"
+    category: "综合技术"
+    enabled: true
+    notes: "Hacker News 高分帖子，采集后由 LLM 过滤 AI/LLM/Agent 相关内容"
+
+  - name: "Hacker News (AI 关键词)"
+    url: "https://hnrss.org/search?q=AI+LLM+Agent+deep+learning+language+model+artificial+intelligence&points=30"
+    category: "综合技术"
+    enabled: false
+    notes: "按 AI 关键词搜索过滤；默认关闭（与 Hacker News Best 来源重叠，量较大）"
+
+  - name: "Lobsters"
+    url: "https://lobste.rs/rss"
+    category: "综合技术"
+    enabled: true
+    notes: "Lobsters 全站 RSS，采集后由 LLM 过滤 AI/ML/编程相关条目"
+
+  # ── AI 研究 ────────────────────────────────────────────────
+  - name: "arXiv cs.AI"
+    url: "https://rss.arxiv.org/rss/cs.AI"
+    category: "AI 研究"
+    enabled: true
+
+  # ── 公司博客 ──────────────────────────────────────────────
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    category: "公司博客"
+    enabled: true
+
+  - name: "Anthropic Research"
+    url: "https://www.anthropic.com/newsroom"
+    category: "公司博客"
+    enabled: false
+    notes: "Anthropic 官方博客暂未提供公开 RSS；需通过页面抓取或等待官方提供 feed"
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "公司博客"
+    enabled: true
+
+  # ── 中文社区 ──────────────────────────────────────────────
+  - name: "量子位"
+    url: "https://www.qbitai.com/feed"
+    category: "中文社区"
+    enabled: false
+    notes: "RSS 已确认可用，但因内容量大且质量参差，默认关闭；按需开启"
+
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com/rss"
+    category: "中文社区"
+    enabled: false
+    notes: "RSS 可用性待确认（请求超时）；默认关闭"
