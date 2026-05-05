@@ -1,0 +1,19 @@
+{
+  "id": "github-20260505-009",
+  "title": "huggingface/transformers",
+  "source_url": "https://github.com/huggingface/transformers",
+  "source_type": "github_trending",
+  "summary": "Hugging Face Transformers 是一个提供数千种预训练模型（文本、视觉、音频、多模态）的统一框架，支持推理与训练。其核心价值在于简化 SOTA 模型的加载、微调和部署，广泛应用于 NLP、计算机视觉和语音处理等场景，是机器学习领域的标杆工具。",
+  "tags": [
+    "Transformers",
+    "Deep Learning",
+    "NLP",
+    "Computer Vision",
+    "Audio",
+    "github"
+  ],
+  "score": 9,
+  "status": "draft",
+  "created_at": "2026-05-05T01:23:10+00:00",
+  "updated_at": "2026-05-05T01:23:10+00:00"
+}
