@@ -10,6 +10,8 @@ Usage:
     python pipeline/pipeline.py --verbose
 """
 
+from __future__ import annotations
+
 import argparse
 import json
 import logging
@@ -23,7 +25,7 @@ from typing import Any
 
 import httpx
 
-from model_client import create_provider, chat_with_retry
+from model_client import TRACKER, create_provider, chat_with_retry
 
 
 logger = logging.getLogger(__name__)
@@ -32,6 +34,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 RAW_DIR = BASE_DIR / "knowledge" / "raw"
 ARTICLES_DIR = BASE_DIR / "knowledge" / "articles"
 RSS_CONFIG = BASE_DIR / "pipeline" / "rss_sources.yaml"
+STATE_FILE = RAW_DIR / ".pipeline_state.json"
 
 GITHUB_SEARCH_URL = "https://api.github.com/search/repositories"
 GITHUB_QUERY = "AI OR LLM OR Agent OR RAG in:name,description,topics"
@@ -117,6 +120,11 @@ def parse_args() -> argparse.Namespace:
         type=int,
         default=20,
         help="Maximum number of items to collect. Default: 20",
+    )
+    parser.add_argument(
+        "--step",
+        type=str,
+        help="Comma-separated step numbers to run (e.g. 1,2 or 3,4). Default: all steps",
     )
     parser.add_argument(
         "--dry-run",
@@ -332,7 +340,7 @@ def analyze_items(
         try:
             response = chat_with_retry(provider, [
                 {"role": "user", "content": prompt},
-            ])
+            ], tracker=TRACKER)
             analysis = _parse_analysis_response(response)
         except (RuntimeError, json.JSONDecodeError) as e:
             logger.warning("Analysis failed for '%s': %s", item["title"], e)
@@ -540,58 +548,115 @@ def save_articles(articles: list[dict[str, Any]], dry_run: bool = False) -> list
 
 # ── Main ─────────────────────────────────────────────────────────────────
 
+def _parse_step_arg(raw: str | None) -> list[int]:
+    """Parse --step argument into a list of step numbers (1-4)."""
+    if raw is None:
+        return [1, 2, 3, 4]
+    steps: list[int] = []
+    for part in raw.split(","):
+        part = part.strip()
+        if not part.isdigit():
+            raise ValueError(f"Invalid step value: '{part}'")
+        n = int(part)
+        if n < 1 or n > 4:
+            raise ValueError(f"Step must be 1-4, got {n}")
+        steps.append(n)
+    return sorted(set(steps))
+
+
 def main() -> int:
-    """Execute the full pipeline: collect → analyze → organize → save."""
+    """Execute pipeline steps: collect → analyze → organize → save."""
     args = parse_args()
     setup_logging(args.verbose)
 
-    logger.info("Pipeline started (sources=%s, limit=%d, dry_run=%s)",
-                args.sources, args.limit, args.dry_run)
+    steps = _parse_step_arg(args.step)
+    logger.info("Pipeline started (steps=%s, sources=%s, limit=%d, dry_run=%s)",
+                steps, args.sources, args.limit, args.dry_run)
 
     selected = [s.strip() for s in args.sources.split(",") if s.strip()]
 
-    # Step 1: Collect
-    all_items: list[dict[str, Any]] = []
-    remaining = args.limit
+    # ── Step 1: Collect ──────────────────────────────────────────────────
+    if 1 in steps:
+        all_items: list[dict[str, Any]] = []
+        remaining = args.limit
 
-    if "github" in selected:
-        gh_token = os.environ.get("GITHUB_TOKEN")
-        gh_items = collect_github(remaining, gh_token)
-        all_items.extend(gh_items)
-        remaining -= len(gh_items)
+        if "github" in selected:
+            gh_token = os.environ.get("GITHUB_TOKEN")
+            gh_items = collect_github(remaining, gh_token)
+            all_items.extend(gh_items)
+            remaining -= len(gh_items)
 
-    if "rss" in selected and remaining > 0:
-        rss_items = collect_rss(remaining)
-        all_items.extend(rss_items)
+        if "rss" in selected and remaining > 0:
+            rss_items = collect_rss(remaining)
+            all_items.extend(rss_items)
 
-    if not all_items:
-        logger.warning("No items collected, exiting")
-        return 0
+        if not all_items:
+            logger.warning("No items collected, exiting")
+            return 0
 
-    # Save raw data
-    RAW_DIR.mkdir(parents=True, exist_ok=True)
-    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H-%M-%SZ")
-    raw_file = RAW_DIR / f"raw-{timestamp}.json"
-    raw_file.write_text(
-        json.dumps(all_items, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    logger.info("Raw data saved: %s (%d items)", raw_file, len(all_items))
+        RAW_DIR.mkdir(parents=True, exist_ok=True)
+        timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H-%M-%SZ")
+        raw_file = RAW_DIR / f"raw-{timestamp}.json"
+        raw_file.write_text(
+            json.dumps(all_items, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        logger.info("Raw data saved: %s (%d items)", raw_file, len(all_items))
+    else:
+        all_items = []
 
-    # Step 2: Analyze
-    provider: dict[str, Any] | None = None
-    try:
-        provider = create_provider()
-    except ValueError as e:
-        logger.warning("LLM provider setup failed: %s", e)
+    # ── Step 2: Analyze ──────────────────────────────────────────────────
+    if 2 in steps:
+        if not all_items:
+            logger.warning("No items to analyze, skipping")
+            return 0
 
-    analyzed = analyze_items(all_items, provider)
+        provider: dict[str, Any] | None = None
+        try:
+            provider = create_provider()
+        except ValueError as e:
+            logger.warning("LLM provider setup failed: %s", e)
 
-    # Step 3: Organize
-    organized = organize_items(analyzed)
+        analyzed = analyze_items(all_items, provider)
+        RAW_DIR.mkdir(parents=True, exist_ok=True)
+        STATE_FILE.write_text(
+            json.dumps(analyzed, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        logger.info("State saved: %s (%d items)", STATE_FILE, len(analyzed))
 
-    # Step 4: Save
-    save_articles(organized, dry_run=args.dry_run)
+        if 3 not in steps and 4 not in steps:
+            logger.info("Step 2 complete, state saved for later processing")
+            return 0
+    else:
+        if STATE_FILE.is_file():
+            analyzed = json.loads(STATE_FILE.read_text(encoding="utf-8"))
+            logger.info("Loaded %d items from state file", len(analyzed))
+        else:
+            analyzed = []
+
+    # ── Step 3: Organize ────────────────────────────────────────────────
+    if 3 in steps:
+        if not analyzed:
+            logger.warning("No items to organize, exiting")
+            return 0
+        organized = organize_items(analyzed)
+    else:
+        organized = analyzed
+
+    # ── Step 4: Save ────────────────────────────────────────────────────
+    if 4 in steps:
+        if not organized:
+            logger.warning("No articles to save, exiting")
+            return 0
+        save_articles(organized, dry_run=args.dry_run)
+
+        # Clean up state file after successful save
+        if STATE_FILE.is_file():
+            STATE_FILE.unlink()
+            logger.info("State file cleaned up")
+
+    TRACKER.report()
 
     logger.info("Pipeline completed")
     return 0
