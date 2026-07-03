@@ -364,6 +364,9 @@ def main() -> int:
             continue
         file_queue.extend(matched)
 
+    # Filter out non-article files (e.g. index.json)
+    file_queue = [f for f in file_queue if f.name != "index.json"]
+
     total = len(file_queue)
     for i, filepath in enumerate(file_queue, 1):
         report = check_file(filepath)
