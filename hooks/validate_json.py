@@ -27,7 +27,8 @@ VALID_STATUSES = {"draft", "review", "published", "archived"}
 
 VALID_AUDIENCES = {"beginner", "intermediate", "advanced"}
 
-ID_PATTERN = re.compile(r"^[a-z][a-z0-9_]*-\d{8}-\d{3}$")
+# Accepts both sequential (github-20260504-001) and UUID v4 formats.
+ID_PATTERN = re.compile(r"^(?:[a-z][a-z0-9_]*-\d{8}-\d{3}|[a-f0-9]{8}-(?:[a-f0-9]{4}-){3}[a-f0-9]{12})$")
 
 URL_PATTERN = re.compile(r"^https?://\S+")  # noqa: W605
 
@@ -143,6 +144,8 @@ def main() -> int:
             continue
 
         for filepath in matched:
+            if filepath.name == "index.json":
+                continue
             total_files += 1
             errors = validate_file(filepath)
             if errors:
