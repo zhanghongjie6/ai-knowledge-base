@@ -9,6 +9,8 @@ on:
 permissions:
   contents: write
 
+
+
 jobs:
   collect-and-push:
     runs-on: ubuntu-latest
