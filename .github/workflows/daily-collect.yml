@@ -1,15 +1,16 @@
-name: Daily Collection
+name: Daily Collect And Push
 
 on:
   schedule:
-    - cron: '0 8 * * *'
+    # 北京时间每天 09:00 = UTC 01:00
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  collect:
+  collect-and-push:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,7 +18,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
           cache: pip
 
       - run: pip install -r requirements.txt
@@ -29,12 +30,18 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           QWEN_API_KEY: ${{ secrets.QWEN_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Validate article JSONs
         run: python hooks/validate_json.py knowledge/articles/*.json
 
       - name: Check article quality
         run: python hooks/check_quality.py knowledge/articles/*.json
+
+      - name: Push Top-3 tech/tool digest to WeChat
+        run: python pipeline/digest_push.py --limit 3 --days 3 --verbose
+        env:
+          WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
 
       - name: Commit and push new articles
         run: |

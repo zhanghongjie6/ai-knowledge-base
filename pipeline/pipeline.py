@@ -498,6 +498,7 @@ def _format_article(item: dict[str, Any]) -> dict[str, Any]:
         "summary": analysis.get("summary", item.get("summary", "")),
         "tags": tags,
         "score": analysis.get("score", 5),
+        "popularity": int(item.get("popularity") or 0),
         "status": "draft",
         "created_at": timestamp,
         "updated_at": timestamp,
