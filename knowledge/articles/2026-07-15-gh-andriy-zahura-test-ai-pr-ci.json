@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-005",
+  "title": "andriy-zahura/test-ai-pr-ci",
+  "source_url": "https://github.com/andriy-zahura/test-ai-pr-ci",
+  "source_type": "github_trending",
+  "summary": "这是一个用于在本地测试AI工具进行PR审查的仓库，核心价值在于提供轻量级实验环境，技术亮点是模拟真实PR流程，适用于开发者评估AI审查工具效果。",
+  "tags": [
+    "AI",
+    "PR Review",
+    "Testing",
+    "Local",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:51+00:00"
+}

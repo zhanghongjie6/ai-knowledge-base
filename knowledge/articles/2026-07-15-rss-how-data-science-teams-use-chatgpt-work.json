@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-010",
+  "title": "How data science teams use ChatGPT Work",
+  "source_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+  "source_type": "rss",
+  "summary": "该资源展示了数据科学团队如何利用ChatGPT Work从实际工作输入中构建根本原因简报、影响报告、KPI备忘录、范围分析和仪表板规范，核心价值在于提升数据分析效率与自动化水平，技术亮点包括自然语言驱动的分析生成，适用于日常数据报告与决策支持场景。",
+  "tags": [
+    "Data Science",
+    "ChatGPT",
+    "Automation",
+    "Analytics",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:51+00:00"
+}

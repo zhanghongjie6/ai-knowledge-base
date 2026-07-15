@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-003",
+  "title": "qr-swastika-avoider v0.1.0",
+  "source_url": "https://crates.io/crates/qr-swastika-avoider",
+  "source_type": "rss",
+  "summary": "qr-swastika-avoider v0.1.0 是一个用于生成QR码时自动避免出现类似万字符图案的Rust库。其核心价值在于通过算法调整QR码的模块排列，防止因随机图案巧合形成敏感符号，适用于需要避免文化误解的二维码生成场景。技术亮点包括轻量级实现和快速集成。",
+  "tags": [
+    "QR Code",
+    "Rust",
+    "Pattern Avoidance",
+    "Cultural Sensitivity",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:51+00:00"
+}

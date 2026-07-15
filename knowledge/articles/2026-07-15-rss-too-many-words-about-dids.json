@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-004",
+  "title": "Too many words about DIDs",
+  "source_url": "https://steveklabnik.com/writing/too-many-words-about-dids/",
+  "source_type": "rss",
+  "summary": "本文深入探讨去中心化标识符（DID）的技术细节、设计理念与实际应用，分析其与区块链、身份验证系统的关系，指出DID在去中心化身份管理中的核心价值，但当前面临标准化不足、互操作性差等挑战，适用于数字身份、隐私保护等场景。",
+  "tags": [
+    "DID",
+    "Decentralized Identity",
+    "Blockchain",
+    "Identity Management",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:51+00:00"
+}

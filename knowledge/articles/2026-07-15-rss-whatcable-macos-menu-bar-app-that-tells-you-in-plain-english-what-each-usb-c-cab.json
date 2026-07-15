@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-002",
+  "title": "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+  "source_url": "https://github.com/darrylmorley/whatcable",
+  "source_type": "rss",
+  "summary": "whatcable 是一款 macOS 菜单栏应用，能清晰显示每个 USB-C 线缆的实际能力（如充电功率、数据传输速度、视频支持等），以通俗易懂的英文描述替代技术参数，帮助用户快速识别线缆性能，适用于日常设备管理、故障排查和配件选购场景。",
+  "tags": [
+    "macOS",
+    "USB-C",
+    "Utility",
+    "Hardware",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:51+00:00"
+}
