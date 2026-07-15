@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-019",
+  "title": "irushiuk/AI-Powered-Project-Evaluator-and-Viva-Examiner-Frontend",
+  "source_url": "https://github.com/irushiuk/AI-Powered-Project-Evaluator-and-Viva-Examiner-Frontend",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI驱动的项目评估与答辩考官前端系统，核心价值在于利用大语言模型自动化评估学生项目并模拟答辩提问。技术亮点包括集成LLM进行智能评分、生成个性化反馈，以及支持实时交互。适用于教育机构的项目评审、在线考试和技能评估场景。",
+  "tags": [
+    "LLM",
+    "Education",
+    "Assessment",
+    "Frontend",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:52:49+00:00",
+  "updated_at": "2026-07-15T09:52:49+00:00"
+}

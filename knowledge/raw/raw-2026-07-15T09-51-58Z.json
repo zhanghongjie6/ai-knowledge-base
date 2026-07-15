@@ -1,0 +1,172 @@
+[
+  {
+    "title": "jasim28v-cloud/Ai4",
+    "url": "https://github.com/jasim28v-cloud/Ai4",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:51:51Z",
+    "created_at_source": "2026-07-13T21:08:39Z"
+  },
+  {
+    "title": "OmarYousef05/embedded-ai-focus-monitor",
+    "url": "https://github.com/OmarYousef05/embedded-ai-focus-monitor",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Real-time embedded AI system for classifying focused and distracted states using pulse and motion signals on Arduino.",
+    "pushed_at": "2026-07-15T09:51:50Z",
+    "created_at_source": "2026-07-15T09:51:49Z"
+  },
+  {
+    "title": "tziyon31/AIOps-Triage-Engine",
+    "url": "https://github.com/tziyon31/AIOps-Triage-Engine",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:51:49Z",
+    "created_at_source": "2026-07-02T07:41:50Z"
+  },
+  {
+    "title": "grimaldost/convoy",
+    "url": "https://github.com/grimaldost/convoy",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Governed, measurable multi-PR execution engine: decompose work into a PR series, drive a coding agent to implement each under budget, gate, integrate, and record per-spawn economy.",
+    "pushed_at": "2026-07-15T09:51:49Z",
+    "created_at_source": "2026-07-03T18:24:18Z"
+  },
+  {
+    "title": "Kanishka-Hewageegana-IWMI/ai-research-analyzer-graph-llm",
+    "url": "https://github.com/Kanishka-Hewageegana-IWMI/ai-research-analyzer-graph-llm",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:51:48Z",
+    "created_at_source": "2025-09-23T04:39:31Z"
+  },
+  {
+    "title": "fireddd/fireddd.github.io",
+    "url": "https://github.com/fireddd/fireddd.github.io",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Personal site — Shubhransh Jagota. Static, agent-readable profile.",
+    "pushed_at": "2026-07-15T09:51:48Z",
+    "created_at_source": "2026-07-13T18:40:03Z"
+  },
+  {
+    "title": "larrazc-cloud/funidelia-agentes-documentador",
+    "url": "https://github.com/larrazc-cloud/funidelia-agentes-documentador",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:51:48Z",
+    "created_at_source": "2026-04-13T09:57:35Z"
+  },
+  {
+    "title": "coderanik/ORBITA",
+    "url": "https://github.com/coderanik/ORBITA",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Integrated platform bridging ATSADBench evaluation and operational deployment of LLM-based anomaly detection on spacecraft telemetry. Features real-time telemetry management, model registry, automated",
+    "pushed_at": "2026-07-15T09:51:53Z",
+    "created_at_source": "2026-02-18T05:01:43Z"
+  },
+  {
+    "title": "irushiuk/AI-Powered-Project-Evaluator-and-Viva-Examiner-Frontend",
+    "url": "https://github.com/irushiuk/AI-Powered-Project-Evaluator-and-Viva-Examiner-Frontend",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:51:47Z",
+    "created_at_source": "2026-05-08T06:57:29Z"
+  },
+  {
+    "title": "ainijijor99-png/mexc-ai-singit",
+    "url": "https://github.com/ainijijor99-png/mexc-ai-singit",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:51:47Z",
+    "created_at_source": "2026-07-15T09:47:28Z"
+  },
+  {
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "source": "hacker_news",
+    "popularity": 0,
+    "summary": "Article URL: https://www.ayush.digital/blog/the-memory-heist\nComments URL: https://news.ycombinator.com/item?id=48916975\nPoints: 285\n# Comments: 124",
+    "feed_name": "Hacker News Best"
+  },
+  {
+    "title": "Jurassic Park computers in excruciating detail",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "source": "hacker_news",
+    "popularity": 0,
+    "summary": "Article URL: https://fabiensanglard.net/jurrasic_park_computers/index.html\nComments URL: https://news.ycombinator.com/item?id=48915709\nPoints: 431\n# Comments: 102",
+    "feed_name": "Hacker News Best"
+  },
+  {
+    "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
+    "url": "https://vpd.ca/",
+    "source": "hacker_news",
+    "popularity": 0,
+    "summary": "Article URL: https://vpd.ca/\nComments URL: https://news.ycombinator.com/item?id=48914644\nPoints: 266\n# Comments: 107",
+    "feed_name": "Hacker News Best"
+  },
+  {
+    "title": "How I use HTMX with Go",
+    "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+    "source": "hacker_news",
+    "popularity": 0,
+    "summary": "Article URL: https://www.alexedwards.net/blog/how-i-use-htmx-with-go\nComments URL: https://news.ycombinator.com/item?id=48912175\nPoints: 245\n# Comments: 66",
+    "feed_name": "Hacker News Best"
+  },
+  {
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "feed_name": "OpenAI Blog"
+  },
+  {
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "feed_name": "OpenAI Blog"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Data for Agents",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Hugging Face Blog"
+  },
+  {
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Hugging Face Blog"
+  }
+]

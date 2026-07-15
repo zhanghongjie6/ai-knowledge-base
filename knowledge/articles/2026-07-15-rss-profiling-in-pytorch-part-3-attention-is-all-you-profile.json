@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-013",
+  "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+  "source_url": "https://huggingface.co/blog/torch-attention-profile",
+  "source_type": "rss",
+  "summary": "本文是PyTorch性能分析系列第三篇，聚焦注意力机制的Profiling。核心价值在于提供系统化方法，通过PyTorch Profiler工具精确测量Transformer中自注意力、交叉注意力等模块的计算时间、内存占用及CUDA内核启动开销。技术亮点包括利用Chrome Trace可视化瓶颈、对比不同实现（如FlashAttention）的性能差异。适用于大模型训练加速、推理优化及硬件资源调优场景。",
+  "tags": [
+    "PyTorch",
+    "Profiling",
+    "Attention",
+    "Performance Optimization",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:52:49+00:00",
+  "updated_at": "2026-07-15T09:52:49+00:00"
+}

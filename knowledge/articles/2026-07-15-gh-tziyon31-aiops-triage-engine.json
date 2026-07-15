@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-013",
+  "title": "tziyon31/AIOps-Triage-Engine",
+  "source_url": "https://github.com/tziyon31/AIOps-Triage-Engine",
+  "source_type": "github_trending",
+  "summary": "AIOps-Triage-Engine 是一个基于 AI 的运维事件分类与根因分析引擎，核心价值在于自动化处理告警、快速定位故障根因。技术亮点包括集成大语言模型进行日志分析、支持多数据源接入，适用于 IT 运维、云监控等场景，能显著提升故障响应效率。",
+  "tags": [
+    "AIOps",
+    "Root Cause Analysis",
+    "LLM",
+    "Incident Management",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:52:49+00:00",
+  "updated_at": "2026-07-15T09:52:49+00:00"
+}

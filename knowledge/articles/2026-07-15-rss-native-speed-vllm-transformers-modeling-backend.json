@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-015",
+  "title": "Native-speed vLLM transformers modeling backend",
+  "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+  "source_type": "rss",
+  "summary": "vLLM推出原生速度Transformer建模后端，显著提升推理性能，支持高吞吐量部署。核心技术包括PagedAttention和连续批处理，适用于大模型推理优化、实时应用和成本敏感场景。",
+  "tags": [
+    "vLLM",
+    "LLM",
+    "Inference",
+    "Transformer",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:52:49+00:00",
+  "updated_at": "2026-07-15T09:52:49+00:00"
+}

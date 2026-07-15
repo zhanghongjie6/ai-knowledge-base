@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-014",
+  "title": "grimaldost/convoy",
+  "source_url": "https://github.com/grimaldost/convoy",
+  "source_type": "github_trending",
+  "summary": "Convoy 是一个受控、可衡量的多PR执行引擎，能够将复杂工作分解为一系列PR，驱动编码代理在预算内逐个实现，并通过门控、集成和记录每次生成的经济性来确保质量。其核心价值在于提升代码交付的效率和可追溯性，适用于需要精细管理多步骤开发任务的团队。",
+  "tags": [
+    "PR Execution Engine",
+    "Coding Agent",
+    "DevOps",
+    "Workflow Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:52:49+00:00",
+  "updated_at": "2026-07-15T09:52:49+00:00"
+}

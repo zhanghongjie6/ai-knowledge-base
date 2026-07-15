@@ -24,6 +24,30 @@
       "landing_url": "https://github.com/joe-broadhead/dbt-nova",
       "display_title": "joe-broadhead/dbt-nova",
       "pushed_at": "2026-07-15T09:44:57+00:00"
+    },
+    "url:https://huggingface.co/blog/nvidia/open-data-for-agents": {
+      "id": "rss-20260715-014",
+      "title": "Data for Agents",
+      "source_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "landing_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "display_title": "Data for Agents",
+      "pushed_at": "2026-07-15T09:52:50+00:00"
+    },
+    "url:https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio": {
+      "id": "rss-20260715-016",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "source_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "landing_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+      "display_title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "pushed_at": "2026-07-15T09:52:50+00:00"
+    },
+    "url:https://openai.com/index/deutsche-telekom": {
+      "id": "rss-20260715-012",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "source_url": "https://openai.com/index/deutsche-telekom",
+      "landing_url": "https://openai.com/index/deutsche-telekom",
+      "display_title": "德国电信与OpenAI合作，通过AI原生转型重塑电信行业",
+      "pushed_at": "2026-07-15T09:52:50+00:00"
     }
   },
   "runs": [
@@ -39,6 +63,20 @@
         "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
         "zetdotcom/workflow-agent",
         "joe-broadhead/dbt-nova"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T09:52:50+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://huggingface.co/blog/nvidia/open-data-for-agents",
+        "url:https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+        "url:https://openai.com/index/deutsche-telekom"
+      ],
+      "titles": [
+        "Data for Agents",
+        "From Hugging Face to Amazon SageMaker Studio in one click",
+        "德国电信与OpenAI合作，通过AI原生转型重塑电信行业"
       ]
     }
   ]
