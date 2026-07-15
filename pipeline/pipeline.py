@@ -809,7 +809,12 @@ def main() -> int:
     # ── Step 4: Save ────────────────────────────────────────────────────
     if 4 in steps:
         if not organized:
-            logger.warning("No articles to save, exiting")
+            # Expected when all collected items are already in knowledge/articles/.
+            # Use info (not warning) so GitHub Actions does not create a false annotation.
+            logger.info(
+                "No new articles to save (all duplicates); "
+                "pipeline done, workflow will continue to digest push"
+            )
             return 0
         save_articles(organized, dry_run=args.dry_run)
 
