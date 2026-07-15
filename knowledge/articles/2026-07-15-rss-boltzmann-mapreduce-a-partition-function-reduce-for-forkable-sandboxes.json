@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-008",
+  "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+  "source_url": "https://arxiv.org/abs/2607.09689",
+  "source_type": "rss",
+  "summary": "Boltzmann MapReduce 提出了一种基于统计力学原理的分布式计算框架，通过将工作节点的置信密度建模为吉布斯-玻尔兹曼分布，实现了在可分叉沙箱环境下的高效分区归约。其核心价值在于利用局部渐近正态性（LAN）理论，将传统MapReduce的确定性聚合扩展为概率性融合，适用于需要不确定性量化的大规模数据分析场景，如贝叶斯推断和蒙特卡洛模拟。",
+  "tags": [
+    "MapReduce",
+    "Distributed Computing",
+    "Statistical Mechanics",
+    "Bayesian Inference",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:51+00:00"
+}

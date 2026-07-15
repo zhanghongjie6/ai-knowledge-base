@@ -1,0 +1,18 @@
+{
+  "id": "github-20260715-007",
+  "title": "fuller-yao/ai-shindan",
+  "source_url": "https://github.com/fuller-yao/ai-shindan",
+  "source_type": "github_trending",
+  "summary": "一个基于AI的趣味性格诊断工具，通过用户输入生成个性化诊断结果。技术亮点包括使用大语言模型进行自然语言理解与生成，支持多种诊断模板。适用于娱乐、社交互动和自我探索场景。",
+  "tags": [
+    "LLM",
+    "AI Application",
+    "Entertainment",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:51+00:00"
+}

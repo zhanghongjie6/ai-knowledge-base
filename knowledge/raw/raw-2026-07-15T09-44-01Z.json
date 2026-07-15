@@ -1,0 +1,172 @@
+[
+  {
+    "title": "ingmido/ai-lesson-tool",
+    "url": "https://github.com/ingmido/ai-lesson-tool",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:43:56Z",
+    "created_at_source": "2026-07-15T09:43:55Z"
+  },
+  {
+    "title": "raniara7-byte/homeshopping-ai-dashboard",
+    "url": "https://github.com/raniara7-byte/homeshopping-ai-dashboard",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:43:55Z",
+    "created_at_source": "2026-07-15T09:43:54Z"
+  },
+  {
+    "title": "saoescape/villa-cua-ai",
+    "url": "https://github.com/saoescape/villa-cua-ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "villa-cua-ai",
+    "pushed_at": "2026-07-15T09:43:54Z",
+    "created_at_source": "2026-07-15T09:40:36Z"
+  },
+  {
+    "title": "zetdotcom/workflow-agent",
+    "url": "https://github.com/zetdotcom/workflow-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:43:54Z",
+    "created_at_source": "2026-07-14T12:41:19Z"
+  },
+  {
+    "title": "andriy-zahura/test-ai-pr-ci",
+    "url": "https://github.com/andriy-zahura/test-ai-pr-ci",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Repo to test AI-tooling PR review on a local level",
+    "pushed_at": "2026-07-15T09:43:53Z",
+    "created_at_source": "2026-07-13T10:06:33Z"
+  },
+  {
+    "title": "savanza/PTCG_AI_0.3",
+    "url": "https://github.com/savanza/PTCG_AI_0.3",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:43:53Z",
+    "created_at_source": "2026-07-15T09:43:52Z"
+  },
+  {
+    "title": "fuller-yao/ai-shindan",
+    "url": "https://github.com/fuller-yao/ai-shindan",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:43:53Z",
+    "created_at_source": "2026-07-15T09:08:52Z"
+  },
+  {
+    "title": "Sidaq2908/job-match-agent",
+    "url": "https://github.com/Sidaq2908/job-match-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:43:53Z",
+    "created_at_source": "2026-07-15T09:43:52Z"
+  },
+  {
+    "title": "evolutis-ai/evolutis",
+    "url": "https://github.com/evolutis-ai/evolutis",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "",
+    "pushed_at": "2026-07-15T09:43:52Z",
+    "created_at_source": "2026-01-29T17:13:59Z"
+  },
+  {
+    "title": "joe-broadhead/dbt-nova",
+    "url": "https://github.com/joe-broadhead/dbt-nova",
+    "source": "github_trending",
+    "popularity": 6,
+    "summary": "DBT Nova is the metadata bridge between your dbt project and agentic workflows.",
+    "pushed_at": "2026-07-15T09:43:52Z",
+    "created_at_source": "2026-02-17T15:02:12Z"
+  },
+  {
+    "title": "You should probably check on your smart appliances",
+    "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Comments",
+    "feed_name": "Lobsters"
+  },
+  {
+    "title": "whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Comments",
+    "feed_name": "Lobsters"
+  },
+  {
+    "title": "qr-swastika-avoider v0.1.0",
+    "url": "https://crates.io/crates/qr-swastika-avoider",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Comments",
+    "feed_name": "Lobsters"
+  },
+  {
+    "title": "Too many words about DIDs",
+    "url": "https://steveklabnik.com/writing/too-many-words-about-dids/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Comments",
+    "feed_name": "Lobsters"
+  },
+  {
+    "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+    "url": "https://arxiv.org/abs/2607.09664",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2607.09664v1 Announce Type: new \nAbstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentati",
+    "feed_name": "arXiv cs.AI"
+  },
+  {
+    "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+    "url": "https://arxiv.org/abs/2607.09665",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2607.09665v1 Announce Type: new \nAbstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under ",
+    "feed_name": "arXiv cs.AI"
+  },
+  {
+    "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+    "url": "https://arxiv.org/abs/2607.09678",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2607.09678v1 Announce Type: new \nAbstract: When LLM agents hand off information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that st",
+    "feed_name": "arXiv cs.AI"
+  },
+  {
+    "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
+    "url": "https://arxiv.org/abs/2607.09689",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2607.09689v1 Announce Type: new \nAbstract: To leading order under local asymptotic normality (LAN), the confidence density a worker emits over a chunk of size $n$ is a Gibbs--Boltzmann measure $",
+    "feed_name": "arXiv cs.AI"
+  },
+  {
+    "title": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "feed_name": "OpenAI Blog"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "feed_name": "OpenAI Blog"
+  }
+]

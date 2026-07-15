@@ -1,0 +1,20 @@
+{
+  "id": "github-20260715-010",
+  "title": "joe-broadhead/dbt-nova",
+  "source_url": "https://github.com/joe-broadhead/dbt-nova",
+  "source_type": "github_trending",
+  "summary": "dbt-nova 是连接 dbt 项目与智能体工作流的元数据桥梁，核心价值在于将 dbt 的元数据（模型、测试、文档等）暴露给 AI 代理，使其能理解数据管道并自动执行分析、调试或优化任务。技术亮点包括无缝集成 dbt 和 LLM 代理，支持自然语言查询数据血缘。适用于数据治理自动化、智能数据探索和运维场景。",
+  "tags": [
+    "dbt",
+    "Agent",
+    "Metadata",
+    "DataOps",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 6,
+  "status": "published",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:57+00:00"
+}

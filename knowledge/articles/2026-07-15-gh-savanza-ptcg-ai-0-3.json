@@ -1,0 +1,18 @@
+{
+  "id": "github-20260715-006",
+  "title": "savanza/PTCG_AI_0.3",
+  "source_url": "https://github.com/savanza/PTCG_AI_0.3",
+  "source_type": "github_trending",
+  "summary": "基于强化学习的宝可梦卡牌游戏AI，通过自对弈训练实现高胜率对战策略。核心技术包括深度Q网络与蒙特卡洛树搜索结合，适用于卡牌游戏AI研究与对战模拟。",
+  "tags": [
+    "Reinforcement Learning",
+    "Game AI",
+    "Pokemon TCG",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:51+00:00"
+}

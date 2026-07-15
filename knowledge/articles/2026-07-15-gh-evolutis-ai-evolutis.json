@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-009",
+  "title": "evolutis-ai/evolutis",
+  "source_url": "https://github.com/evolutis-ai/evolutis",
+  "source_type": "github_trending",
+  "summary": "Evolutis是一个开源AI代理框架，支持多模型协作与自动化任务执行。其核心价值在于通过模块化设计简化复杂工作流构建，技术亮点包括动态任务编排、工具集成和可扩展性。适用于自动化办公、数据分析和智能客服等场景。",
+  "tags": [
+    "AI Agent",
+    "Workflow Automation",
+    "Multi-Model",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:51+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260715-007",
+  "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
+  "source_url": "https://arxiv.org/abs/2607.09678",
+  "source_type": "rss",
+  "summary": "该研究探讨了在多跳代理中继中，消息格式对信息传递的影响。核心发现是格式效果具有层级依赖性：在低层级中，代理倾向于忠实传递信息；在高层级中，格式优化可能失效。技术亮点在于揭示了格式与任务层级的交互作用，用例包括优化多代理协作系统的通信协议。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Multi-Hop",
+    "Message Format",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:44:51+00:00",
+  "updated_at": "2026-07-15T09:44:51+00:00"
+}
