@@ -332,13 +332,12 @@
       "note": "marked_without_send"
     },
     "url:https://arxiv.org/abs/2607.09665": {
-      "id": "rss-20260715-006",
+      "id": "rss-20260715-004",
       "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
       "source_url": "https://arxiv.org/abs/2607.09665",
       "landing_url": "https://arxiv.org/abs/2607.09665",
-      "display_title": "arXiv:2607.09665v1 Announce Type: new",
-      "pushed_at": "2026-07-15T01:26:13+00:00",
-      "note": "marked_without_send"
+      "display_title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+      "pushed_at": "2026-07-15T08:39:49+00:00"
     },
     "url:https://arxiv.org/abs/2607.09664": {
       "id": "rss-20260715-005",
@@ -394,12 +393,12 @@
       "pushed_at": "2026-07-15T08:30:31+00:00"
     },
     "url:https://github.com/mojing666awa/mo-virtual-singer": {
-      "id": "github-20260715-013",
+      "id": "github-20260715-008",
       "title": "mojing666awa/Mo-Virtual-Singer",
       "source_url": "https://github.com/mojing666awa/Mo-Virtual-Singer",
-      "landing_url": "https://deepwiki.com/mojing666awa/Mo-Virtual-Singer",
+      "landing_url": "https://github.com/mojing666awa/Mo-Virtual-Singer",
       "display_title": "mojing666awa/Mo-Virtual-Singer",
-      "pushed_at": "2026-07-15T08:05:16+00:00"
+      "pushed_at": "2026-07-15T08:39:49+00:00"
     },
     "url:https://github.com/different-ai-studio/teamclaw": {
       "id": "github-20260715-018",
@@ -592,6 +591,14 @@
       "landing_url": "https://github.com/yassarminhaj/agentic-sales-report",
       "display_title": "yassarminhaj/agentic-sales-report",
       "pushed_at": "2026-07-15T08:32:55+00:00"
+    },
+    "url:https://github.com/kanigithub/flowcraft_ai": {
+      "id": "github-20260715-009",
+      "title": "Kanigithub/Flowcraft_AI",
+      "source_url": "https://github.com/Kanigithub/Flowcraft_AI",
+      "landing_url": "https://github.com/Kanigithub/Flowcraft_AI",
+      "display_title": "Kanigithub/Flowcraft_AI",
+      "pushed_at": "2026-07-15T08:39:49+00:00"
     }
   },
   "runs": [
@@ -955,6 +962,20 @@
         "devbratghosh/Enterprise-RAG-Assistant-v1.0",
         "hbq7303-hash/QuoteBloom-AI",
         "yassarminhaj/agentic-sales-report"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:39:49+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/kanigithub/flowcraft_ai",
+        "url:https://arxiv.org/abs/2607.09665",
+        "url:https://github.com/mojing666awa/mo-virtual-singer"
+      ],
+      "titles": [
+        "Kanigithub/Flowcraft_AI",
+        "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+        "mojing666awa/Mo-Virtual-Singer"
       ]
     }
   ]

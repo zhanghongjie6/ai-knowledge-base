@@ -30,15 +30,16 @@ sources:
 
   # ── 公司博客 ──────────────────────────────────────────────
   - name: "OpenAI Blog"
-    url: "https://openai.com/blog/rss.xml"
+    url: "https://openai.com/news/rss.xml"
     category: "公司博客"
     enabled: true
+    notes: "原 /blog/rss.xml 会 307 跳转到 /news/rss.xml"
 
   - name: "Anthropic Research"
-    url: "https://www.anthropic.com/newsroom"
+    url: "https://www.anthropic.com/news"
     category: "公司博客"
-    enabled: true
-    notes: "Anthropic 官方博客暂未提供公开 RSS；需通过页面抓取或等待官方提供 feed"
+    enabled: false
+    notes: "官方无公开 RSS；旧 URL /newsroom 已 404。页面抓取暂未实现，默认关闭"
 
   - name: "Hugging Face Blog"
     url: "https://huggingface.co/blog/feed.xml"
@@ -49,11 +50,11 @@ sources:
   - name: "量子位"
     url: "https://www.qbitai.com/feed"
     category: "中文社区"
-    enabled: true
-    notes: "RSS 已确认可用，但因内容量大且质量参差，默认关闭；按需开启"
+    enabled: false
+    notes: "常返回 403；按需开启"
 
   - name: "机器之心"
     url: "https://www.jiqizhixin.com/rss"
     category: "中文社区"
-    enabled: true
+    enabled: false
     notes: "RSS 可用性待确认（请求超时）；默认关闭"
