@@ -11,10 +11,10 @@ sources:
     notes: "Hacker News 高分帖子，采集后由 LLM 过滤 AI/LLM/Agent 相关内容"
 
   - name: "Hacker News (AI 关键词)"
-    url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+Agent"
+    url: "https://hnrss.org/search?q=AI+LLM+Agent+deep+learning+language+model+artificial+intelligence&points=30"
     category: "综合技术"
     enabled: false
-    notes: "按 AI 关键词搜索；原 search URL 易 404，默认关闭"
+    notes: "按 AI 关键词搜索过滤；默认关闭（与 Hacker News Best 来源重叠，量较大）"
 
   - name: "Lobsters"
     url: "https://lobste.rs/rss"
@@ -30,16 +30,15 @@ sources:
 
   # ── 公司博客 ──────────────────────────────────────────────
   - name: "OpenAI Blog"
-    url: "https://openai.com/news/rss.xml"
+    url: "https://openai.com/blog/rss.xml"
     category: "公司博客"
     enabled: true
-    notes: "原 /blog/rss.xml 会 307 跳转到 /news/rss.xml"
 
   - name: "Anthropic Research"
-    url: "https://www.anthropic.com/news"
+    url: "https://www.anthropic.com/newsroom"
     category: "公司博客"
     enabled: false
-    notes: "官方无公开 RSS；旧 URL /newsroom 已 404。页面抓取暂未实现，默认关闭"
+    notes: "Anthropic 官方博客暂未提供公开 RSS；需通过页面抓取或等待官方提供 feed"
 
   - name: "Hugging Face Blog"
     url: "https://huggingface.co/blog/feed.xml"
@@ -51,7 +50,7 @@ sources:
     url: "https://www.qbitai.com/feed"
     category: "中文社区"
     enabled: false
-    notes: "常返回 403；按需开启"
+    notes: "RSS 已确认可用，但因内容量大且质量参差，默认关闭；按需开启"
 
   - name: "机器之心"
     url: "https://www.jiqizhixin.com/rss"
