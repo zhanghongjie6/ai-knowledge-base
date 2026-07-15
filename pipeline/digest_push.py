@@ -7,6 +7,8 @@ Usage:
     python pipeline/digest_push.py --limit 3
     python pipeline/digest_push.py --limit 3 --dry-run
     python pipeline/digest_push.py --limit 3 --days 3
+    python pipeline/digest_push.py --mark-all-pushed
+    python pipeline/digest_push.py --force   # ignore history, allow re-push
 """
 
 from __future__ import annotations
@@ -32,6 +34,7 @@ logger = logging.getLogger(__name__)
 BASE_DIR = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = BASE_DIR / "knowledge" / "articles"
 RAW_DIR = BASE_DIR / "knowledge" / "raw"
+PUSH_HISTORY_FILE = BASE_DIR / "knowledge" / "push_history.json"
 
 # Tags that signal tools / developer technique content
 TECH_TOOL_TAGS = {
@@ -195,10 +198,105 @@ def rank_key(article: dict[str, Any]) -> tuple[float, float, float]:
     return (combined, heat, score)
 
 
+def article_dedupe_key(article: dict[str, Any]) -> str:
+    """Stable key for push-history dedupe (prefer id, else source_url)."""
+    art_id = str(article.get("id") or "").strip()
+    if art_id:
+        return f"id:{art_id}"
+    url = str(article.get("source_url") or "").strip().rstrip("/")
+    return f"url:{url}"
+
+
+def load_push_history() -> dict[str, Any]:
+    """Load push history JSON; return empty structure if missing."""
+    empty: dict[str, Any] = {"version": 1, "items": {}, "runs": []}
+    if not PUSH_HISTORY_FILE.is_file():
+        return empty
+    try:
+        data = json.loads(PUSH_HISTORY_FILE.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError) as e:
+        logger.warning("Failed to read push history: %s", e)
+        return empty
+    if not isinstance(data, dict):
+        return empty
+    data.setdefault("version", 1)
+    data.setdefault("items", {})
+    data.setdefault("runs", [])
+    if not isinstance(data["items"], dict):
+        data["items"] = {}
+    if not isinstance(data["runs"], list):
+        data["runs"] = []
+    return data
+
+
+def save_push_history(history: dict[str, Any]) -> None:
+    """Persist push history to knowledge/push_history.json."""
+    PUSH_HISTORY_FILE.parent.mkdir(parents=True, exist_ok=True)
+    PUSH_HISTORY_FILE.write_text(
+        json.dumps(history, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    logger.info("Push history saved: %s (%d items)", PUSH_HISTORY_FILE, len(history.get("items", {})))
+
+
+def record_push(
+    history: dict[str, Any],
+    articles: list[dict[str, Any]],
+    news: list[dict[str, str]],
+) -> dict[str, Any]:
+    """Append successful push entries into history."""
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+    run_ids: list[str] = []
+    for art, card in zip(articles, news):
+        key = article_dedupe_key(art)
+        run_ids.append(key)
+        history["items"][key] = {
+            "id": art.get("id"),
+            "title": art.get("title"),
+            "source_url": art.get("source_url"),
+            "landing_url": card.get("url"),
+            "display_title": card.get("title"),
+            "pushed_at": now,
+        }
+    history["runs"].append(
+        {
+            "pushed_at": now,
+            "count": len(run_ids),
+            "keys": run_ids,
+            "titles": [c.get("title") for c in news],
+        }
+    )
+    # Keep run log bounded
+    if len(history["runs"]) > 200:
+        history["runs"] = history["runs"][-200:]
+    return history
+
+
+def is_already_pushed(article: dict[str, Any], history: dict[str, Any]) -> bool:
+    """Return True if this article appears in push history."""
+    items = history.get("items") or {}
+    key = article_dedupe_key(article)
+    if key in items:
+        return True
+    # Also match by bare source_url against recorded entries
+    url = str(article.get("source_url") or "").strip().rstrip("/")
+    art_id = str(article.get("id") or "").strip()
+    for rec in items.values():
+        if not isinstance(rec, dict):
+            continue
+        if art_id and str(rec.get("id") or "") == art_id:
+            return True
+        if url and str(rec.get("source_url") or "").rstrip("/") == url:
+            return True
+    return False
+
+
 def select_digest(
     articles: list[dict[str, Any]],
     limit: int = 3,
     days: int | None = 3,
+    history: dict[str, Any] | None = None,
+    skip_pushed: bool = True,
 ) -> list[dict[str, Any]]:
     """Filter recent tech-leaning articles and return Top-N by heat.
 
@@ -206,36 +304,77 @@ def select_digest(
         articles: Full article list.
         limit: Max items to return (default 3).
         days: Only consider articles created within N days; None = all.
+        history: Push history for dedupe.
+        skip_pushed: If True, exclude already-pushed articles.
 
     Returns:
         Sorted shortlist (highest first).
     """
+    history = history or {"items": {}}
     now = datetime.now(timezone.utc)
-    pool: list[dict[str, Any]] = []
-    for art in articles:
-        if days is not None:
+
+    def _eligible(art: dict[str, Any], *, apply_days: bool) -> bool:
+        if skip_pushed and is_already_pushed(art, history):
+            return False
+        if apply_days and days is not None:
             created = _parse_created_at(str(art.get("created_at") or ""))
             if created is None or (now - created) > timedelta(days=days):
-                continue
-        # Soft filter: keep if tech boost non-negative after demotion,
-        # or if overall score is high enough to still be useful.
+                return False
         boost = tech_tool_boost(art)
         score = float(art.get("score") or 0)
         if boost < -2 and score < 8:
-            continue
-        pool.append(art)
+            return False
+        return True
+
+    pool = [art for art in articles if _eligible(art, apply_days=True)]
+    skipped = sum(1 for art in articles if skip_pushed and is_already_pushed(art, history))
+    if skipped:
+        logger.info("Skipped %d already-pushed articles", skipped)
 
     # If recent window too small, fall back to full library with same ranking
     if len(pool) < limit:
         logger.info(
-            "Only %d articles in last %s days; expanding to full library",
+            "Only %d unpushed articles in last %s days; expanding to full library",
             len(pool),
             days,
         )
-        pool = list(articles)
+        pool = [art for art in articles if _eligible(art, apply_days=False)]
 
     pool.sort(key=rank_key, reverse=True)
     return pool[:limit]
+
+
+def mark_articles_pushed(
+    articles: list[dict[str, Any]],
+    history: dict[str, Any],
+) -> dict[str, Any]:
+    """Mark articles as pushed without sending (backfill history)."""
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S+00:00")
+    keys: list[str] = []
+    for art in articles:
+        key = article_dedupe_key(art)
+        keys.append(key)
+        history["items"][key] = {
+            "id": art.get("id"),
+            "title": art.get("title"),
+            "source_url": art.get("source_url"),
+            "landing_url": rewrite_landing_url(str(art.get("source_url") or "")),
+            "display_title": display_title(art),
+            "pushed_at": now,
+            "note": "marked_without_send",
+        }
+    history["runs"].append(
+        {
+            "pushed_at": now,
+            "count": len(keys),
+            "keys": keys,
+            "titles": [display_title(a) for a in articles],
+            "note": "mark_only",
+        }
+    )
+    if len(history["runs"]) > 200:
+        history["runs"] = history["runs"][-200:]
+    return history
 
 
 def display_title(article: dict[str, Any]) -> str:
@@ -336,6 +475,16 @@ def parse_args() -> argparse.Namespace:
         help="Print selection only, do not push",
     )
     parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Ignore push history and allow re-push",
+    )
+    parser.add_argument(
+        "--mark-all-pushed",
+        action="store_true",
+        help="Mark all existing articles as already pushed (no send)",
+    )
+    parser.add_argument(
         "--verbose",
         action="store_true",
         help="Debug logging",
@@ -349,16 +498,29 @@ def main() -> int:
     setup_logging(args.verbose)
     limit = max(1, min(args.limit, 8))
     days: int | None = None if args.days == 0 else max(1, args.days)
+    history = load_push_history()
 
     articles = load_articles()
     if not articles:
         logger.error("No articles found in %s", ARTICLES_DIR)
         return 1
 
-    selected = select_digest(articles, limit=limit, days=days)
+    if args.mark_all_pushed:
+        history = mark_articles_pushed(articles, history)
+        save_push_history(history)
+        logger.info("Marked %d articles as pushed", len(articles))
+        return 0
+
+    selected = select_digest(
+        articles,
+        limit=limit,
+        days=days,
+        history=history,
+        skip_pushed=not args.force,
+    )
     if not selected:
-        logger.error("No articles selected for digest")
-        return 1
+        logger.info("No new unpushed articles to send; skipping push")
+        return 0
 
     news = to_news_articles(selected)
     logger.info("Selected %d digest items:", len(news))
@@ -389,6 +551,9 @@ def main() -> int:
     logger.info("WeChat response: %s", result)
     if result.get("errcode", -1) != 0:
         return 1
+
+    history = record_push(history, selected, news)
+    save_push_history(history)
     return 0
 
 

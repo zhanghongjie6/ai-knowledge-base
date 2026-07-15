@@ -19,7 +19,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
@@ -122,6 +122,12 @@ def parse_args() -> argparse.Namespace:
         help="Maximum number of items to collect. Default: 20",
     )
     parser.add_argument(
+        "--fresh-days",
+        type=int,
+        default=7,
+        help="GitHub only: prefer repos created/pushed within N days (default: 7)",
+    )
+    parser.add_argument(
         "--step",
         type=str,
         help="Comma-separated step numbers to run (e.g. 1,2 or 3,4). Default: all steps",
@@ -141,39 +147,52 @@ def parse_args() -> argparse.Namespace:
 
 # ── Step 1: Collect ──────────────────────────────────────────────────────
 
-def collect_github(limit: int, token: str | None) -> list[dict[str, Any]]:
-    """Collect AI-related repositories from GitHub Search API.
+def _existing_source_urls() -> set[str]:
+    """Return source_url set already saved under knowledge/articles/."""
+    urls: set[str] = set()
+    if not ARTICLES_DIR.is_dir():
+        return urls
+    for fpath in ARTICLES_DIR.glob("*.json"):
+        if fpath.name == "index.json":
+            continue
+        try:
+            data = json.loads(fpath.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            continue
+        if isinstance(data, dict):
+            url = str(data.get("source_url") or "").strip().rstrip("/")
+            if url:
+                urls.add(url)
+    return urls
 
-    Args:
-        limit: Maximum number of repos to return.
-        token: Optional GitHub personal access token.
 
-    Returns:
-        List of raw item dicts with title, url, source, popularity, summary.
-    """
-    logger.info("Collecting from GitHub Search API (limit=%d)", limit)
-    headers = {"Accept": "application/vnd.github.v3+json"}
-    if token:
-        headers["Authorization"] = f"Bearer {token}"
-
+def _github_search(
+    client: httpx.Client,
+    headers: dict[str, str],
+    query: str,
+    sort: str,
+    per_page: int,
+) -> list[dict[str, Any]]:
+    """Execute one GitHub Search API request and map repos to raw items."""
     params = {
-        "q": GITHUB_QUERY,
-        "sort": "stars",
+        "q": query,
+        "sort": sort,
         "order": "desc",
-        "per_page": min(limit, 100),
+        "per_page": min(per_page, 100),
     }
-
-    items: list[dict[str, Any]] = []
     try:
-        with httpx.Client(timeout=30.0) as client:
-            resp = client.get(GITHUB_SEARCH_URL, headers=headers, params=params)
-            resp.raise_for_status()
-            data = resp.json()
+        resp = client.get(GITHUB_SEARCH_URL, headers=headers, params=params)
+        resp.raise_for_status()
+        data = resp.json()
+    except httpx.HTTPStatusError as e:
+        logger.error("GitHub API HTTP error: %s", e)
+        return []
     except httpx.RequestError as e:
         logger.error("GitHub API request failed: %s", e)
-        return items
+        return []
 
-    for repo in data.get("items", [])[:limit]:
+    items: list[dict[str, Any]] = []
+    for repo in data.get("items", []):
         desc = repo.get("description") or ""
         items.append({
             "title": repo["full_name"],
@@ -181,10 +200,107 @@ def collect_github(limit: int, token: str | None) -> list[dict[str, Any]]:
             "source": "github_trending",
             "popularity": repo.get("stargazers_count", 0),
             "summary": desc.strip()[:200],
+            "pushed_at": repo.get("pushed_at") or "",
+            "created_at_source": repo.get("created_at") or "",
         })
-
-    logger.info("GitHub: collected %d items", len(items))
     return items
+
+
+def collect_github(
+    limit: int,
+    token: str | None,
+    fresh_days: int = 7,
+) -> list[dict[str, Any]]:
+    """Collect fresh AI-related repos (recently pushed / newly created).
+
+    Avoids the all-time stars ranking which returns the same mega-repos every day.
+    Skips URLs already present in knowledge/articles/.
+
+    Args:
+        limit: Maximum number of repos to return.
+        token: Optional GitHub personal access token.
+        fresh_days: Lookback window for pushed/created filters.
+
+    Returns:
+        List of raw item dicts with title, url, source, popularity, summary.
+    """
+    fresh_days = max(1, fresh_days)
+    since = (datetime.now(timezone.utc) - timedelta(days=fresh_days)).strftime(
+        "%Y-%m-%d"
+    )
+    logger.info(
+        "Collecting fresh GitHub repos (limit=%d, window=%d days, since=%s)",
+        limit,
+        fresh_days,
+        since,
+    )
+
+    headers = {"Accept": "application/vnd.github.v3+json"}
+    if token:
+        headers["Authorization"] = f"Bearer {token}"
+
+    existing = _existing_source_urls()
+    # Over-fetch so we can skip known URLs and still fill ``limit``
+    fetch_n = min(100, max(limit * 3, limit + 10))
+
+    # Two complementary queries for daily freshness
+    queries = [
+        (f"{GITHUB_QUERY} pushed:>{since}", "updated", "recently_pushed"),
+        (f"{GITHUB_QUERY} created:>{since}", "stars", "newly_created"),
+    ]
+
+    seen: set[str] = set()
+    items: list[dict[str, Any]] = []
+
+    with httpx.Client(timeout=30.0) as client:
+        for query, sort, label in queries:
+            if len(items) >= limit:
+                break
+            logger.info("GitHub query [%s]: %s (sort=%s)", label, query, sort)
+            batch = _github_search(client, headers, query, sort, fetch_n)
+            # gentle pacing between search requests (secondary rate limit)
+            time.sleep(1.0)
+            for item in batch:
+                url = str(item.get("url") or "").rstrip("/")
+                if not url or url in seen:
+                    continue
+                if url in existing:
+                    logger.debug("Skip known repo: %s", item.get("title"))
+                    continue
+                seen.add(url)
+                items.append(item)
+                if len(items) >= limit:
+                    break
+
+    # Fallback: if the fresh window yields too few new repos, widen once
+    if len(items) < max(1, limit // 2):
+        wider_since = (
+            datetime.now(timezone.utc) - timedelta(days=max(fresh_days * 2, 14))
+        ).strftime("%Y-%m-%d")
+        logger.info(
+            "Fresh window yielded %d items; widening to since=%s",
+            len(items),
+            wider_since,
+        )
+        with httpx.Client(timeout=30.0) as client:
+            batch = _github_search(
+                client,
+                headers,
+                f"{GITHUB_QUERY} pushed:>{wider_since}",
+                "updated",
+                fetch_n,
+            )
+            for item in batch:
+                url = str(item.get("url") or "").rstrip("/")
+                if not url or url in seen or url in existing:
+                    continue
+                seen.add(url)
+                items.append(item)
+                if len(items) >= limit:
+                    break
+
+    logger.info("GitHub: collected %d fresh items (skipped known=%d)", len(items), len(existing))
+    return items[:limit]
 
 
 def collect_rss(limit: int) -> list[dict[str, Any]]:
@@ -215,16 +331,25 @@ def collect_rss(limit: int) -> list[dict[str, Any]]:
         logger.info("No enabled RSS feeds found")
         return []
 
+    existing = _existing_source_urls()
     items: list[dict[str, Any]] = []
-    per_feed = max(1, limit // len(enabled))
+    seen: set[str] = set()
+    per_feed = max(1, (limit * 2) // len(enabled))
 
     for feed in enabled:
         feed_items = _fetch_rss_feed(feed, per_feed)
-        items.extend(feed_items)
+        for item in feed_items:
+            url = str(item.get("url") or "").rstrip("/")
+            if not url or url in seen or url in existing:
+                continue
+            seen.add(url)
+            items.append(item)
+            if len(items) >= limit:
+                break
         if len(items) >= limit:
             break
 
-    logger.info("RSS: collected %d items from %d feeds", len(items), len(enabled))
+    logger.info("RSS: collected %d fresh items from %d feeds", len(items), len(enabled))
     return items[:limit]
 
 
@@ -583,16 +708,33 @@ def main() -> int:
     # ── Step 1: Collect ──────────────────────────────────────────────────
     if 1 in steps:
         all_items: list[dict[str, Any]] = []
-        remaining = args.limit
+        selected_set = set(selected)
+        use_github = "github" in selected_set
+        use_rss = "rss" in selected_set
 
-        if "github" in selected:
+        # Split budget so RSS is not starved when GitHub fills --limit
+        if use_github and use_rss:
+            gh_budget = max(1, args.limit // 2)
+            rss_budget = max(1, args.limit - gh_budget)
+        elif use_github:
+            gh_budget, rss_budget = args.limit, 0
+        else:
+            gh_budget, rss_budget = 0, args.limit
+
+        if use_github:
             gh_token = os.environ.get("GITHUB_TOKEN")
-            gh_items = collect_github(remaining, gh_token)
+            gh_items = collect_github(
+                gh_budget,
+                gh_token,
+                fresh_days=args.fresh_days,
+            )
             all_items.extend(gh_items)
-            remaining -= len(gh_items)
+            # Give leftover GitHub quota to RSS
+            leftover = max(0, gh_budget - len(gh_items))
+            rss_budget += leftover
 
-        if "rss" in selected and remaining > 0:
-            rss_items = collect_rss(remaining)
+        if use_rss and rss_budget > 0:
+            rss_items = collect_rss(rss_budget)
             all_items.extend(rss_items)
 
         if not all_items:
@@ -602,11 +744,18 @@ def main() -> int:
         RAW_DIR.mkdir(parents=True, exist_ok=True)
         timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H-%M-%SZ")
         raw_file = RAW_DIR / f"raw-{timestamp}.json"
-        raw_file.write_text(
-            json.dumps(all_items, ensure_ascii=False, indent=2) + "\n",
-            encoding="utf-8",
-        )
-        logger.info("Raw data saved: %s (%d items)", raw_file, len(all_items))
+        if args.dry_run:
+            logger.info(
+                "Dry-run: would save %d items to %s",
+                len(all_items),
+                raw_file,
+            )
+        else:
+            raw_file.write_text(
+                json.dumps(all_items, ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+            logger.info("Raw data saved: %s (%d items)", raw_file, len(all_items))
     else:
         all_items = []
 

@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "items": {
+    "id:1b687ec5-7e8d-4255-b46a-b8dd7b2aac77": {
+      "id": "1b687ec5-7e8d-4255-b46a-b8dd7b2aac77",
+      "title": "affaan-m/everything-claude-code",
+      "source_url": "https://github.com/affaan-m/everything-claude-code",
+      "landing_url": "https://deepwiki.com/affaan-m/everything-claude-code",
+      "display_title": "Everything Claude Code：扩展合集",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:ead56eca-f8c5-49d3-ad4b-3928831a3646": {
+      "id": "ead56eca-f8c5-49d3-ad4b-3928831a3646",
+      "title": "anomalyco/opencode",
+      "source_url": "https://github.com/anomalyco/opencode",
+      "landing_url": "https://opencode.ai/",
+      "display_title": "OpenCode：开源 AI 编程助手",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:cfe5bfb8-d6a9-4524-b49b-11f0a5d890ae": {
+      "id": "cfe5bfb8-d6a9-4524-b49b-11f0a5d890ae",
+      "title": "AUTOMATIC1111/stable-diffusion-webui",
+      "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+      "landing_url": "https://deepwiki.com/AUTOMATIC1111/stable-diffusion-webui",
+      "display_title": "SD WebUI：本地绘图工具",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:1673cdb3-8fb3-40dd-8b9a-f33369590a0d": {
+      "id": "1673cdb3-8fb3-40dd-8b9a-f33369590a0d",
+      "title": "f/prompts.chat",
+      "source_url": "https://github.com/f/prompts.chat",
+      "landing_url": "https://prompts.chat/",
+      "display_title": "prompts.chat：提示词社区",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:e5584b29-4398-46d8-bf13-dec4f779c90a": {
+      "id": "e5584b29-4398-46d8-bf13-dec4f779c90a",
+      "title": "huggingface/transformers",
+      "source_url": "https://github.com/huggingface/transformers",
+      "landing_url": "https://deepwiki.com/huggingface/transformers",
+      "display_title": "Transformers：HF 模型与推理库",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:895d7a15-c581-4366-979f-34269b37e5fd": {
+      "id": "895d7a15-c581-4366-979f-34269b37e5fd",
+      "title": "n8n-io/n8n",
+      "source_url": "https://github.com/n8n-io/n8n",
+      "landing_url": "https://n8n.io/",
+      "display_title": "n8n：开源 AI 工作流自动化",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:81028b8e-90a4-436c-b62c-d72ee6a6f2ea": {
+      "id": "81028b8e-90a4-436c-b62c-d72ee6a6f2ea",
+      "title": "obra/superpowers",
+      "source_url": "https://github.com/obra/superpowers",
+      "landing_url": "https://deepwiki.com/obra/superpowers",
+      "display_title": "Superpowers：Agent 超级能力技能集",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:fb56aba8-8171-4bf6-803a-08a6eab8de5b": {
+      "id": "fb56aba8-8171-4bf6-803a-08a6eab8de5b",
+      "title": "ollama/ollama",
+      "source_url": "https://github.com/ollama/ollama",
+      "landing_url": "https://ollama.com/",
+      "display_title": "Ollama：本地大模型一键运行",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:3d71ea7d-3750-4999-a4a1-0a0288d8f756": {
+      "id": "3d71ea7d-3750-4999-a4a1-0a0288d8f756",
+      "title": "openclaw/openclaw",
+      "source_url": "https://github.com/openclaw/openclaw",
+      "landing_url": "https://deepwiki.com/openclaw/openclaw",
+      "display_title": "OpenClaw：跨平台个人 AI 助手",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:a381b90f-9ac4-4b7b-aa09-1ffc2a65cc67": {
+      "id": "a381b90f-9ac4-4b7b-aa09-1ffc2a65cc67",
+      "title": "Significant-Gravitas/AutoGPT",
+      "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "landing_url": "https://agpt.co/",
+      "display_title": "AutoGPT：自主 Agent 框架",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-001": {
+      "id": "github-20260703-001",
+      "title": "affaan-m/ECC",
+      "source_url": "https://github.com/affaan-m/ECC",
+      "landing_url": "https://deepwiki.com/affaan-m/ECC",
+      "display_title": "ECC：Claude Code 性能与技能增强",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-005": {
+      "id": "github-20260703-005",
+      "title": "anthropics/skills",
+      "source_url": "https://github.com/anthropics/skills",
+      "landing_url": "https://deepwiki.com/anthropics/skills",
+      "display_title": "Anthropic Skills：可复用 Agent 技能包",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-010": {
+      "id": "github-20260703-010",
+      "title": "firecrawl/firecrawl",
+      "source_url": "https://github.com/firecrawl/firecrawl",
+      "landing_url": "https://www.firecrawl.dev/",
+      "display_title": "Firecrawl：网页转 LLM 友好数据",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-007": {
+      "id": "github-20260703-007",
+      "title": "langflow-ai/langflow",
+      "source_url": "https://github.com/langflow-ai/langflow",
+      "landing_url": "https://www.langflow.org/",
+      "display_title": "Langflow：可视化编排 LLM / Agent",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-008": {
+      "id": "github-20260703-008",
+      "title": "langgenius/dify",
+      "source_url": "https://github.com/langgenius/dify",
+      "landing_url": "https://dify.ai/",
+      "display_title": "Dify：生产级 Agent / RAG 平台",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-004": {
+      "id": "github-20260703-004",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "landing_url": "https://deepwiki.com/multica-ai/andrej-karpathy-skills",
+      "display_title": "Karpathy Skills：编码技能合集",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-002": {
+      "id": "github-20260703-002",
+      "title": "NousResearch/hermes-agent",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "landing_url": "https://deepwiki.com/NousResearch/hermes-agent",
+      "display_title": "Hermes Agent：开源智能体工具",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-009": {
+      "id": "github-20260703-009",
+      "title": "open-webui/open-webui",
+      "source_url": "https://github.com/open-webui/open-webui",
+      "landing_url": "https://openwebui.com/",
+      "display_title": "Open WebUI：私有化 AI 对话界面",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-006": {
+      "id": "github-20260703-006",
+      "title": "Snailclimb/JavaGuide",
+      "source_url": "https://github.com/Snailclimb/JavaGuide",
+      "landing_url": "https://javaguide.cn/",
+      "display_title": "JavaGuide：Java 学习知识库",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-003": {
+      "id": "github-20260703-003",
+      "title": "ultraworkers/claw-code",
+      "source_url": "https://github.com/ultraworkers/claw-code",
+      "landing_url": "https://deepwiki.com/ultraworkers/claw-code",
+      "display_title": "Claw Code：开源 Agent 编程运行时",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260703-011": {
+      "id": "github-20260703-011",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "source_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "landing_url": "https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "display_title": "AI 工具 System Prompt 合集",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260712-001": {
+      "id": "github-20260712-001",
+      "title": "re4/LibreCode",
+      "source_url": "https://github.com/re4/LibreCode",
+      "landing_url": "https://deepwiki.com/re4/LibreCode",
+      "display_title": "LibreCode：基于 Ollama 的开源类 Cursor",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260714-001": {
+      "id": "github-20260714-001",
+      "title": "anthropics/claude-code",
+      "source_url": "https://github.com/anthropics/claude-code",
+      "landing_url": "https://code.claude.com/docs/zh-CN/overview",
+      "display_title": "Claude Code：终端原生 AI 编程代理",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260714-003": {
+      "id": "github-20260714-003",
+      "title": "github/spec-kit",
+      "source_url": "https://github.com/github/spec-kit",
+      "landing_url": "https://gitcode.com/GitHub_Trending/sp/spec-kit",
+      "display_title": "GitHub Spec Kit：规范驱动开发工具包",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    },
+    "id:github-20260714-002": {
+      "id": "github-20260714-002",
+      "title": "msitarzewski/agency-agents",
+      "source_url": "https://github.com/msitarzewski/agency-agents",
+      "landing_url": "https://agencyagents.app/",
+      "display_title": "Agency Agents：AI 专员一键装进 IDE",
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "note": "marked_without_send"
+    }
+  },
+  "runs": [
+    {
+      "pushed_at": "2026-07-15T01:12:26+00:00",
+      "count": 25,
+      "keys": [
+        "id:1b687ec5-7e8d-4255-b46a-b8dd7b2aac77",
+        "id:ead56eca-f8c5-49d3-ad4b-3928831a3646",
+        "id:cfe5bfb8-d6a9-4524-b49b-11f0a5d890ae",
+        "id:1673cdb3-8fb3-40dd-8b9a-f33369590a0d",
+        "id:e5584b29-4398-46d8-bf13-dec4f779c90a",
+        "id:895d7a15-c581-4366-979f-34269b37e5fd",
+        "id:81028b8e-90a4-436c-b62c-d72ee6a6f2ea",
+        "id:fb56aba8-8171-4bf6-803a-08a6eab8de5b",
+        "id:3d71ea7d-3750-4999-a4a1-0a0288d8f756",
+        "id:a381b90f-9ac4-4b7b-aa09-1ffc2a65cc67",
+        "id:github-20260703-001",
+        "id:github-20260703-005",
+        "id:github-20260703-010",
+        "id:github-20260703-007",
+        "id:github-20260703-008",
+        "id:github-20260703-004",
+        "id:github-20260703-002",
+        "id:github-20260703-009",
+        "id:github-20260703-006",
+        "id:github-20260703-003",
+        "id:github-20260703-011",
+        "id:github-20260712-001",
+        "id:github-20260714-001",
+        "id:github-20260714-003",
+        "id:github-20260714-002"
+      ],
+      "titles": [
+        "Everything Claude Code：扩展合集",
+        "OpenCode：开源 AI 编程助手",
+        "SD WebUI：本地绘图工具",
+        "prompts.chat：提示词社区",
+        "Transformers：HF 模型与推理库",
+        "n8n：开源 AI 工作流自动化",
+        "Superpowers：Agent 超级能力技能集",
+        "Ollama：本地大模型一键运行",
+        "OpenClaw：跨平台个人 AI 助手",
+        "AutoGPT：自主 Agent 框架",
+        "ECC：Claude Code 性能与技能增强",
+        "Anthropic Skills：可复用 Agent 技能包",
+        "Firecrawl：网页转 LLM 友好数据",
+        "Langflow：可视化编排 LLM / Agent",
+        "Dify：生产级 Agent / RAG 平台",
+        "Karpathy Skills：编码技能合集",
+        "Hermes Agent：开源智能体工具",
+        "Open WebUI：私有化 AI 对话界面",
+        "JavaGuide：Java 学习知识库",
+        "Claw Code：开源 Agent 编程运行时",
+        "AI 工具 System Prompt 合集",
+        "LibreCode：基于 Ollama 的开源类 Cursor",
+        "Claude Code：终端原生 AI 编程代理",
+        "GitHub Spec Kit：规范驱动开发工具包",
+        "Agency Agents：AI 专员一键装进 IDE"
+      ],
+      "note": "mark_only"
+    }
+  ]
+}

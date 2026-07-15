@@ -17,8 +17,8 @@ if [[ ! -x "$PYTHON" ]]; then
   PYTHON="$(command -v python3)"
 fi
 
-echo "==> [$(date -Iseconds)] pipeline collect+analyze"
-"$PYTHON" pipeline/pipeline.py --sources github,rss --limit 20 --verbose
+echo "==> [$(date -Iseconds)] pipeline collect+analyze (fresh 7d)"
+"$PYTHON" pipeline/pipeline.py --sources github,rss --limit 20 --fresh-days 7 --verbose
 
 echo "==> [$(date -Iseconds)] digest push top-3 (tech/tool, last 3 days)"
 "$PYTHON" pipeline/digest_push.py --limit 3 --days 3 --verbose
