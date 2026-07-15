@@ -3,7 +3,7 @@ name: Daily Collect And Push
 on:
   schedule:
     # 北京时间每天 08:00 = UTC 00:00
-    - cron: '0 0 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 permissions:
