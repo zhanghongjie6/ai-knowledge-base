@@ -48,6 +48,30 @@
       "landing_url": "https://openai.com/index/deutsche-telekom",
       "display_title": "德国电信与OpenAI合作，通过AI原生转型重塑电信行业",
       "pushed_at": "2026-07-15T09:52:50+00:00"
+    },
+    "url:https://github.com/dorukardahan/headless-relay": {
+      "id": "github-20260715-027",
+      "title": "dorukardahan/headless-relay",
+      "source_url": "https://github.com/dorukardahan/headless-relay",
+      "landing_url": "https://github.com/dorukardahan/headless-relay",
+      "display_title": "dorukardahan/headless-relay",
+      "pushed_at": "2026-07-15T09:58:19+00:00"
+    },
+    "url:https://github.com/coderanik/orbita": {
+      "id": "github-20260715-018",
+      "title": "coderanik/ORBITA",
+      "source_url": "https://github.com/coderanik/ORBITA",
+      "landing_url": "https://github.com/coderanik/ORBITA",
+      "display_title": "coderanik/ORBITA",
+      "pushed_at": "2026-07-15T09:58:19+00:00"
+    },
+    "url:https://huggingface.co/blog/native-speed-vllm-transformers-backend": {
+      "id": "rss-20260715-015",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "landing_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "display_title": "Native-speed vLLM transformers modeling backend",
+      "pushed_at": "2026-07-15T09:58:19+00:00"
     }
   },
   "runs": [
@@ -77,6 +101,20 @@
         "Data for Agents",
         "From Hugging Face to Amazon SageMaker Studio in one click",
         "德国电信与OpenAI合作，通过AI原生转型重塑电信行业"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T09:58:19+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/dorukardahan/headless-relay",
+        "url:https://github.com/coderanik/orbita",
+        "url:https://huggingface.co/blog/native-speed-vllm-transformers-backend"
+      ],
+      "titles": [
+        "dorukardahan/headless-relay",
+        "coderanik/ORBITA",
+        "Native-speed vLLM transformers modeling backend"
       ]
     }
   ]

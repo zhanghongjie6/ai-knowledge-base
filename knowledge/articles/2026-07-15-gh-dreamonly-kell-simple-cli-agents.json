@@ -1,0 +1,20 @@
+{
+  "id": "github-20260715-023",
+  "title": "DreamOnly-Kell/simple-cli-agents",
+  "source_url": "https://github.com/DreamOnly-Kell/simple-cli-agents",
+  "source_type": "github_trending",
+  "summary": "该项目提供极简的终端代码代理演示，通过Python/LangChain和Java/Spring AI的并排实现，帮助开发者学习LLM工具调用。核心价值在于降低学习门槛，展示两种主流语言下的代理构建模式，适用于AI教学、快速原型开发和跨语言技术对比。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "LangChain",
+    "Spring AI",
+    "CLI",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:58:12+00:00",
+  "updated_at": "2026-07-15T09:58:12+00:00"
+}

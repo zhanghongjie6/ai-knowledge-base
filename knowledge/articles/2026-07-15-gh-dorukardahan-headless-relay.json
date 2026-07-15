@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-027",
+  "title": "dorukardahan/headless-relay",
+  "source_url": "https://github.com/dorukardahan/headless-relay",
+  "source_type": "github_trending",
+  "summary": "headless-relay 是一个智能体技能，允许编码代理调用本地机器上的其他AI模型（如GPT、GLM、Grok、Gemini、Claude及本地模型）寻求帮助。核心价值在于实现多模型协作，支持第二意见、并行共识和图像生成，提升编码任务的准确性和多样性。适用于需要多模型验证或创意生成的开发场景。",
+  "tags": [
+    "Agent",
+    "Multi-Model",
+    "Coding",
+    "LLM",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-15T09:58:12+00:00",
+  "updated_at": "2026-07-15T09:58:19+00:00"
+}
