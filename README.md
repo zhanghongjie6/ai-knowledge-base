@@ -75,7 +75,7 @@
 | AI 驱动开发 | [OpenCode](https://opencode.ai) + Agent 定义 |
 | 工作流编排 | [LangGraph](https://langchain-ai.github.io/langgraph/) |
 | LLM 提供商 | DeepSeek / 通义千问 / OpenAI |
-| 定时任务 | GitHub Actions（每日 UTC 08:00） |
+| 定时任务 | GitHub Actions（每日北京时间 08:00 / UTC 00:00） |
 | 数据格式 | JSON（结构化知识条目） |
 | 搜索服务 | MCP Server（JSON-RPC 2.0 over stdio） |
 
@@ -335,7 +335,7 @@ python mcp_knowledge_server.py
 
 ## CI/CD
 
-GitHub Actions 每日 UTC 08:00 自动执行：
+GitHub Actions 每日北京时间 08:00（UTC 00:00）自动执行：
 
 1. 安装依赖
 2. 运行采集 Pipeline（GitHub + RSS，各 20 条）

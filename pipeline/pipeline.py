@@ -404,6 +404,14 @@ def _fetch_rss_feed(feed: dict[str, Any], limit: int) -> list[dict[str, Any]]:
             resp = client.get(url)
             resp.raise_for_status()
             body = resp.text
+    except httpx.HTTPStatusError as e:
+        logger.warning(
+            "RSS feed '%s' HTTP %s: %s",
+            name,
+            e.response.status_code,
+            url,
+        )
+        return []
     except httpx.RequestError as e:
         logger.warning("RSS feed '%s' request failed: %s", name, e)
         return []

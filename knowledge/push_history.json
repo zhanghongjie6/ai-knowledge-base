@@ -194,9 +194,9 @@
       "id": "github-20260712-001",
       "title": "re4/LibreCode",
       "source_url": "https://github.com/re4/LibreCode",
-      "landing_url": "https://deepwiki.com/re4/LibreCode",
+      "landing_url": "https://github.com/re4/LibreCode",
       "display_title": "LibreCode：基于 Ollama 的开源类 Cursor",
-      "pushed_at": "2026-07-15T01:26:57+00:00"
+      "pushed_at": "2026-07-15T08:30:31+00:00"
     },
     "url:https://github.com/anthropics/claude-code": {
       "id": "github-20260714-001",
@@ -204,7 +204,7 @@
       "source_url": "https://github.com/anthropics/claude-code",
       "landing_url": "https://code.claude.com/docs/zh-CN/overview",
       "display_title": "Claude Code：终端原生 AI 编程代理",
-      "pushed_at": "2026-07-15T01:26:57+00:00"
+      "pushed_at": "2026-07-15T08:30:31+00:00"
     },
     "url:https://github.com/github/spec-kit": {
       "id": "github-20260714-003",
@@ -384,6 +384,214 @@
       "display_title": "You should probably check on your smart appliances",
       "pushed_at": "2026-07-15T01:26:13+00:00",
       "note": "marked_without_send"
+    },
+    "url:https://github.com/dida-ai/dida-hotel-mcp-cn": {
+      "id": "github-20260715-011",
+      "title": "DIDA-AI/Dida-hotel-MCP-CN",
+      "source_url": "https://github.com/DIDA-AI/Dida-hotel-MCP-CN",
+      "landing_url": "https://github.com/DIDA-AI/Dida-hotel-MCP-CN",
+      "display_title": "DIDA-AI/Dida-hotel-MCP-CN",
+      "pushed_at": "2026-07-15T08:30:31+00:00"
+    },
+    "url:https://github.com/mojing666awa/mo-virtual-singer": {
+      "id": "github-20260715-013",
+      "title": "mojing666awa/Mo-Virtual-Singer",
+      "source_url": "https://github.com/mojing666awa/Mo-Virtual-Singer",
+      "landing_url": "https://deepwiki.com/mojing666awa/Mo-Virtual-Singer",
+      "display_title": "mojing666awa/Mo-Virtual-Singer",
+      "pushed_at": "2026-07-15T08:05:16+00:00"
+    },
+    "url:https://github.com/different-ai-studio/teamclaw": {
+      "id": "github-20260715-018",
+      "title": "different-ai-studio/teamclaw",
+      "source_url": "https://github.com/different-ai-studio/teamclaw",
+      "landing_url": "https://deepwiki.com/different-ai-studio/teamclaw",
+      "display_title": "different-ai-studio/teamclaw",
+      "pushed_at": "2026-07-15T08:05:16+00:00"
+    },
+    "url:https://github.com/agent-baba/netops": {
+      "id": "github-20260715-012",
+      "title": "AGENT-BABA/NetOps",
+      "source_url": "https://github.com/AGENT-BABA/NetOps",
+      "landing_url": "https://deepwiki.com/AGENT-BABA/NetOps",
+      "display_title": "AGENT-BABA/NetOps",
+      "pushed_at": "2026-07-15T08:06:54+00:00"
+    },
+    "url:https://github.com/gituser1305/tradingagentclaude": {
+      "id": "github-20260715-015",
+      "title": "gituser1305/TradingAgentClaude",
+      "source_url": "https://github.com/gituser1305/TradingAgentClaude",
+      "landing_url": "https://deepwiki.com/gituser1305/TradingAgentClaude",
+      "display_title": "gituser1305/TradingAgentClaude",
+      "pushed_at": "2026-07-15T08:06:54+00:00"
+    },
+    "url:https://github.com/dstolder/ragmxk": {
+      "id": "github-20260715-017",
+      "title": "dstolder/ragmxk",
+      "source_url": "https://github.com/dstolder/ragmxk",
+      "landing_url": "https://deepwiki.com/dstolder/ragmxk",
+      "display_title": "dstolder/ragmxk",
+      "pushed_at": "2026-07-15T08:06:54+00:00"
+    },
+    "url:https://github.com/mbalenhleolifant/rag-document-assistant": {
+      "id": "github-20260715-019",
+      "title": "mbalenhleolifant/rag-document-assistant",
+      "source_url": "https://github.com/mbalenhleolifant/rag-document-assistant",
+      "landing_url": "https://deepwiki.com/mbalenhleolifant/rag-document-assistant",
+      "display_title": "mbalenhleolifant/rag-document-assistant",
+      "pushed_at": "2026-07-15T08:07:04+00:00"
+    },
+    "url:https://github.com/whitedragon-1/llm-chat-app-template": {
+      "id": "github-20260715-016",
+      "title": "WhiteDragon-1/llm-chat-app-template",
+      "source_url": "https://github.com/WhiteDragon-1/llm-chat-app-template",
+      "landing_url": "https://deepwiki.com/WhiteDragon-1/llm-chat-app-template",
+      "display_title": "WhiteDragon-1/llm-chat-app-template",
+      "pushed_at": "2026-07-15T08:07:04+00:00"
+    },
+    "url:https://github.com/microsoftexpert/tf-mod-azure-ai-services": {
+      "id": "github-20260715-014",
+      "title": "microsoftexpert/tf-mod-azure-ai-services",
+      "source_url": "https://github.com/microsoftexpert/tf-mod-azure-ai-services",
+      "landing_url": "https://deepwiki.com/microsoftexpert/tf-mod-azure-ai-services",
+      "display_title": "microsoftexpert/tf-mod-azure-ai-services",
+      "pushed_at": "2026-07-15T08:07:04+00:00"
+    },
+    "url:https://crates.io/crates/qr-swastika-avoider": {
+      "id": "rss-20260715-009",
+      "title": "qr-swastika-avoider v0.1.0",
+      "source_url": "https://crates.io/crates/qr-swastika-avoider",
+      "landing_url": "https://crates.io/crates/qr-swastika-avoider",
+      "display_title": "qr-swastika-avoider v0.1.0",
+      "pushed_at": "2026-07-15T08:10:30+00:00"
+    },
+    "url:https://github.com/daromegal/informe-calidad-aire-openaq": {
+      "id": "github-20260715-020",
+      "title": "DaromeGal/informe-calidad-aire-openaq",
+      "source_url": "https://github.com/DaromeGal/informe-calidad-aire-openaq",
+      "landing_url": "https://deepwiki.com/DaromeGal/informe-calidad-aire-openaq",
+      "display_title": "DaromeGal/informe-calidad-aire-openaq",
+      "pushed_at": "2026-07-15T08:10:30+00:00"
+    },
+    "url:https://github.com/brandonross62/snow-cli-ai-2026": {
+      "id": "github-20260715-027",
+      "title": "brandonross62/snow-cli-ai-2026",
+      "source_url": "https://github.com/brandonross62/snow-cli-ai-2026",
+      "landing_url": "https://deepwiki.com/brandonross62/snow-cli-ai-2026",
+      "display_title": "brandonross62/snow-cli-ai-2026",
+      "pushed_at": "2026-07-15T08:13:16+00:00"
+    },
+    "url:https://github.com/a3s-lab/cloud": {
+      "id": "github-20260715-025",
+      "title": "A3S-Lab/Cloud",
+      "source_url": "https://github.com/A3S-Lab/Cloud",
+      "landing_url": "https://deepwiki.com/A3S-Lab/Cloud",
+      "display_title": "A3S-Lab/Cloud",
+      "pushed_at": "2026-07-15T08:13:16+00:00"
+    },
+    "url:https://github.com/jinchainne/genlayer-builder-agent": {
+      "id": "github-20260715-022",
+      "title": "Jinchainne/genlayer-builder-agent",
+      "source_url": "https://github.com/Jinchainne/genlayer-builder-agent",
+      "landing_url": "https://deepwiki.com/Jinchainne/genlayer-builder-agent",
+      "display_title": "Jinchainne/genlayer-builder-agent",
+      "pushed_at": "2026-07-15T08:13:16+00:00"
+    },
+    "url:https://github.com/ekkolearnai/hermes-studio": {
+      "id": "github-20260715-032",
+      "title": "EKKOLearnAI/hermes-studio",
+      "source_url": "https://github.com/EKKOLearnAI/hermes-studio",
+      "landing_url": "https://deepwiki.com/EKKOLearnAI/hermes-studio",
+      "display_title": "EKKOLearnAI/hermes-studio",
+      "pushed_at": "2026-07-15T08:15:45+00:00"
+    },
+    "url:https://github.com/thanhdat77/herdr-navigator": {
+      "id": "github-20260715-038",
+      "title": "thanhdat77/herdr-navigator",
+      "source_url": "https://github.com/thanhdat77/herdr-navigator",
+      "landing_url": "https://deepwiki.com/thanhdat77/herdr-navigator",
+      "display_title": "thanhdat77/herdr-navigator",
+      "pushed_at": "2026-07-15T08:15:45+00:00"
+    },
+    "url:https://github.com/jmiller488/rag-from-first-principles": {
+      "id": "github-20260715-040",
+      "title": "JMiller488/RAG-from-first-principles",
+      "source_url": "https://github.com/JMiller488/RAG-from-first-principles",
+      "landing_url": "https://deepwiki.com/JMiller488/RAG-from-first-principles",
+      "display_title": "JMiller488/RAG-from-first-principles",
+      "pushed_at": "2026-07-15T08:15:45+00:00"
+    },
+    "url:https://github.com/anriss-dev/anriss": {
+      "id": "github-20260715-049",
+      "title": "anriss-dev/anriss",
+      "source_url": "https://github.com/anriss-dev/anriss",
+      "landing_url": "https://gitcode.com/GitHub_Trending/an/anriss",
+      "display_title": "anriss是一个自托管的视觉标注层，专为AI编码代理设计",
+      "pushed_at": "2026-07-15T08:26:21+00:00"
+    },
+    "url:https://github.com/ibrokhimn/ijai": {
+      "id": "github-20260715-044",
+      "title": "IbrokhimN/IJAI",
+      "source_url": "https://github.com/IbrokhimN/IJAI",
+      "landing_url": "https://gitcode.com/GitHub_Trending/ij/IJAI",
+      "display_title": "IbrokhimN/IJAI",
+      "pushed_at": "2026-07-15T08:26:21+00:00"
+    },
+    "url:https://github.com/sthamann/shopware-autoresearch": {
+      "id": "github-20260715-047",
+      "title": "sthamann/shopware-autoresearch",
+      "source_url": "https://github.com/sthamann/shopware-autoresearch",
+      "landing_url": "https://gitcode.com/GitHub_Trending/sh/shopware-autoresearch",
+      "display_title": "sthamann/shopware-autoresearch",
+      "pushed_at": "2026-07-15T08:26:21+00:00"
+    },
+    "url:https://github.com/sparkleware/sparkleware": {
+      "id": "github-20260715-046",
+      "title": "sparkleware/sparkleware",
+      "source_url": "https://github.com/sparkleware/sparkleware",
+      "landing_url": "https://github.com/sparkleware/sparkleware",
+      "display_title": "sparkleware/sparkleware",
+      "pushed_at": "2026-07-15T08:32:01+00:00"
+    },
+    "url:https://github.com/arianvcl1985/nlsh": {
+      "id": "github-20260715-045",
+      "title": "ArianVCL1985/nlsh",
+      "source_url": "https://github.com/ArianVCL1985/nlsh",
+      "landing_url": "https://github.com/ArianVCL1985/nlsh",
+      "display_title": "ArianVCL1985/nlsh",
+      "pushed_at": "2026-07-15T08:32:01+00:00"
+    },
+    "url:https://github.com/cnashn/your-daily-sports-agent": {
+      "id": "github-20260715-035",
+      "title": "Cnashn/your-daily-sports-agent",
+      "source_url": "https://github.com/Cnashn/your-daily-sports-agent",
+      "landing_url": "https://github.com/Cnashn/your-daily-sports-agent",
+      "display_title": "Cnashn/your-daily-sports-agent",
+      "pushed_at": "2026-07-15T08:32:01+00:00"
+    },
+    "url:https://github.com/devbratghosh/enterprise-rag-assistant-v1.0": {
+      "id": "github-20260715-039",
+      "title": "devbratghosh/Enterprise-RAG-Assistant-v1.0",
+      "source_url": "https://github.com/devbratghosh/Enterprise-RAG-Assistant-v1.0",
+      "landing_url": "https://github.com/devbratghosh/Enterprise-RAG-Assistant-v1.0",
+      "display_title": "devbratghosh/Enterprise-RAG-Assistant-v1.0",
+      "pushed_at": "2026-07-15T08:32:55+00:00"
+    },
+    "url:https://github.com/hbq7303-hash/quotebloom-ai": {
+      "id": "github-20260715-037",
+      "title": "hbq7303-hash/QuoteBloom-AI",
+      "source_url": "https://github.com/hbq7303-hash/QuoteBloom-AI",
+      "landing_url": "https://github.com/hbq7303-hash/QuoteBloom-AI",
+      "display_title": "hbq7303-hash/QuoteBloom-AI",
+      "pushed_at": "2026-07-15T08:32:55+00:00"
+    },
+    "url:https://github.com/yassarminhaj/agentic-sales-report": {
+      "id": "github-20260715-028",
+      "title": "yassarminhaj/agentic-sales-report",
+      "source_url": "https://github.com/yassarminhaj/agentic-sales-report",
+      "landing_url": "https://github.com/yassarminhaj/agentic-sales-report",
+      "display_title": "yassarminhaj/agentic-sales-report",
+      "pushed_at": "2026-07-15T08:32:55+00:00"
     }
   },
   "runs": [
@@ -595,6 +803,158 @@
         "Claude Code：终端原生 AI 编程代理",
         "GitHub Spec Kit：规范驱动开发工具包",
         "LibreCode：基于 Ollama 的开源类 Cursor"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:05:16+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/dida-ai/dida-hotel-mcp-cn",
+        "url:https://github.com/mojing666awa/mo-virtual-singer",
+        "url:https://github.com/different-ai-studio/teamclaw"
+      ],
+      "titles": [
+        "DIDA-AI/Dida-hotel-MCP-CN",
+        "mojing666awa/Mo-Virtual-Singer",
+        "different-ai-studio/teamclaw"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:06:54+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/agent-baba/netops",
+        "url:https://github.com/gituser1305/tradingagentclaude",
+        "url:https://github.com/dstolder/ragmxk"
+      ],
+      "titles": [
+        "AGENT-BABA/NetOps",
+        "gituser1305/TradingAgentClaude",
+        "dstolder/ragmxk"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:07:04+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/mbalenhleolifant/rag-document-assistant",
+        "url:https://github.com/whitedragon-1/llm-chat-app-template",
+        "url:https://github.com/microsoftexpert/tf-mod-azure-ai-services"
+      ],
+      "titles": [
+        "mbalenhleolifant/rag-document-assistant",
+        "WhiteDragon-1/llm-chat-app-template",
+        "microsoftexpert/tf-mod-azure-ai-services"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:10:30+00:00",
+      "count": 2,
+      "keys": [
+        "url:https://crates.io/crates/qr-swastika-avoider",
+        "url:https://github.com/daromegal/informe-calidad-aire-openaq"
+      ],
+      "titles": [
+        "qr-swastika-avoider v0.1.0",
+        "DaromeGal/informe-calidad-aire-openaq"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:13:16+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/brandonross62/snow-cli-ai-2026",
+        "url:https://github.com/a3s-lab/cloud",
+        "url:https://github.com/jinchainne/genlayer-builder-agent"
+      ],
+      "titles": [
+        "brandonross62/snow-cli-ai-2026",
+        "A3S-Lab/Cloud",
+        "Jinchainne/genlayer-builder-agent"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:15:45+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/ekkolearnai/hermes-studio",
+        "url:https://github.com/thanhdat77/herdr-navigator",
+        "url:https://github.com/jmiller488/rag-from-first-principles"
+      ],
+      "titles": [
+        "EKKOLearnAI/hermes-studio",
+        "thanhdat77/herdr-navigator",
+        "JMiller488/RAG-from-first-principles"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:25:59+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/re4/librecode",
+        "url:https://github.com/anthropics/claude-code",
+        "url:https://github.com/dida-ai/dida-hotel-mcp-cn"
+      ],
+      "titles": [
+        "LibreCode：基于 Ollama 的开源类 Cursor",
+        "Claude Code：终端原生 AI 编程代理",
+        "DIDA-AI/Dida-hotel-MCP-CN"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:26:21+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/anriss-dev/anriss",
+        "url:https://github.com/ibrokhimn/ijai",
+        "url:https://github.com/sthamann/shopware-autoresearch"
+      ],
+      "titles": [
+        "anriss是一个自托管的视觉标注层，专为AI编码代理设计",
+        "IbrokhimN/IJAI",
+        "sthamann/shopware-autoresearch"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:30:31+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/re4/librecode",
+        "url:https://github.com/anthropics/claude-code",
+        "url:https://github.com/dida-ai/dida-hotel-mcp-cn"
+      ],
+      "titles": [
+        "LibreCode：基于 Ollama 的开源类 Cursor",
+        "Claude Code：终端原生 AI 编程代理",
+        "DIDA-AI/Dida-hotel-MCP-CN"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:32:01+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/sparkleware/sparkleware",
+        "url:https://github.com/arianvcl1985/nlsh",
+        "url:https://github.com/cnashn/your-daily-sports-agent"
+      ],
+      "titles": [
+        "sparkleware/sparkleware",
+        "ArianVCL1985/nlsh",
+        "Cnashn/your-daily-sports-agent"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-15T08:32:55+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/devbratghosh/enterprise-rag-assistant-v1.0",
+        "url:https://github.com/hbq7303-hash/quotebloom-ai",
+        "url:https://github.com/yassarminhaj/agentic-sales-report"
+      ],
+      "titles": [
+        "devbratghosh/Enterprise-RAG-Assistant-v1.0",
+        "hbq7303-hash/QuoteBloom-AI",
+        "yassarminhaj/agentic-sales-report"
       ]
     }
   ]

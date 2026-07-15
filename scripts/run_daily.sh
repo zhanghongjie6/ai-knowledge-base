@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Daily collect → Top-3 tech/tool digest → WeChat push
-# Usage (Linux server cron @ 09:00):
-#   0 9 * * * /opt/ai-knowledge-base/scripts/run_daily.sh >> /var/log/ai-kb.log 2>&1
+# Usage (Linux server cron @ 08:00 CST):
+#   0 8 * * * /opt/ai-knowledge-base/scripts/run_daily.sh >> /var/log/ai-kb.log 2>&1
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
