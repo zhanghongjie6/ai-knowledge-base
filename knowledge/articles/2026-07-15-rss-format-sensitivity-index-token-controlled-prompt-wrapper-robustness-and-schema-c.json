@@ -1,0 +1,15 @@
+{
+  "id": "rss-20260715-006",
+  "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+  "source_url": "https://arxiv.org/abs/2607.09665",
+  "source_type": "rss",
+  "summary": "arXiv:2607.09665v1 Announce Type: new \nAbstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under ",
+  "tags": [
+    "rss"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-15T01:21:44+00:00",
+  "updated_at": "2026-07-15T01:26:13+00:00"
+}

@@ -199,17 +199,17 @@ def rank_key(article: dict[str, Any]) -> tuple[float, float, float]:
 
 
 def article_dedupe_key(article: dict[str, Any]) -> str:
-    """Stable key for push-history dedupe (prefer id, else source_url)."""
-    art_id = str(article.get("id") or "").strip()
-    if art_id:
-        return f"id:{art_id}"
+    """Stable push-history key — always by source_url (IDs may change)."""
     url = str(article.get("source_url") or "").strip().rstrip("/")
-    return f"url:{url}"
+    if url:
+        return f"url:{url.lower()}"
+    art_id = str(article.get("id") or "").strip()
+    return f"id:{art_id}"
 
 
 def load_push_history() -> dict[str, Any]:
     """Load push history JSON; return empty structure if missing."""
-    empty: dict[str, Any] = {"version": 1, "items": {}, "runs": []}
+    empty: dict[str, Any] = {"version": 2, "items": {}, "runs": []}
     if not PUSH_HISTORY_FILE.is_file():
         return empty
     try:
@@ -219,13 +219,22 @@ def load_push_history() -> dict[str, Any]:
         return empty
     if not isinstance(data, dict):
         return empty
-    data.setdefault("version", 1)
+    data.setdefault("version", 2)
     data.setdefault("items", {})
     data.setdefault("runs", [])
     if not isinstance(data["items"], dict):
         data["items"] = {}
     if not isinstance(data["runs"], list):
         data["runs"] = []
+    # Migrate legacy id:* keys → url:* when source_url is present
+    migrated: dict[str, Any] = {}
+    for key, rec in list(data["items"].items()):
+        if not isinstance(rec, dict):
+            continue
+        url = str(rec.get("source_url") or "").strip().rstrip("/").lower()
+        new_key = f"url:{url}" if url else key
+        migrated[new_key] = rec
+    data["items"] = migrated
     return data
 
 
@@ -236,7 +245,11 @@ def save_push_history(history: dict[str, Any]) -> None:
         json.dumps(history, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    logger.info("Push history saved: %s (%d items)", PUSH_HISTORY_FILE, len(history.get("items", {})))
+    logger.info(
+        "Push history saved: %s (%d items)",
+        PUSH_HISTORY_FILE,
+        len(history.get("items", {})),
+    )
 
 
 def record_push(
@@ -258,6 +271,7 @@ def record_push(
             "display_title": card.get("title"),
             "pushed_at": now,
         }
+        _mark_article_file_published(art)
     history["runs"].append(
         {
             "pushed_at": now,
@@ -266,27 +280,67 @@ def record_push(
             "titles": [c.get("title") for c in news],
         }
     )
-    # Keep run log bounded
     if len(history["runs"]) > 200:
         history["runs"] = history["runs"][-200:]
     return history
 
 
+def _mark_article_file_published(article: dict[str, Any]) -> None:
+    """Set article JSON status to published after a successful push."""
+    target_id = str(article.get("id") or "")
+    target_url = str(article.get("source_url") or "").strip().rstrip("/").lower()
+    if not ARTICLES_DIR.is_dir():
+        return
+    for path in ARTICLES_DIR.glob("*.json"):
+        if path.name == "index.json":
+            continue
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            continue
+        if not isinstance(data, dict):
+            continue
+        match_id = target_id and str(data.get("id") or "") == target_id
+        match_url = (
+            target_url
+            and str(data.get("source_url") or "").strip().rstrip("/").lower()
+            == target_url
+        )
+        if not (match_id or match_url):
+            continue
+        if data.get("status") == "published":
+            return
+        data["status"] = "published"
+        data["updated_at"] = datetime.now(timezone.utc).strftime(
+            "%Y-%m-%dT%H:%M:%S+00:00"
+        )
+        path.write_text(
+            json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+            encoding="utf-8",
+        )
+        logger.debug("Marked published: %s", path.name)
+        return
+
+
 def is_already_pushed(article: dict[str, Any], history: dict[str, Any]) -> bool:
-    """Return True if this article appears in push history."""
+    """Return True if this article was pushed or marked published."""
+    if str(article.get("status") or "").lower() == "published":
+        return True
+
     items = history.get("items") or {}
     key = article_dedupe_key(article)
     if key in items:
         return True
-    # Also match by bare source_url against recorded entries
-    url = str(article.get("source_url") or "").strip().rstrip("/")
+
+    url = str(article.get("source_url") or "").strip().rstrip("/").lower()
     art_id = str(article.get("id") or "").strip()
     for rec in items.values():
         if not isinstance(rec, dict):
             continue
         if art_id and str(rec.get("id") or "") == art_id:
             return True
-        if url and str(rec.get("source_url") or "").rstrip("/") == url:
+        rec_url = str(rec.get("source_url") or "").strip().rstrip("/").lower()
+        if url and rec_url == url:
             return True
     return False
 
@@ -305,40 +359,51 @@ def select_digest(
         limit: Max items to return (default 3).
         days: Only consider articles created within N days; None = all.
         history: Push history for dedupe.
-        skip_pushed: If True, exclude already-pushed articles.
+        skip_pushed: If True, exclude already-pushed / published articles.
 
     Returns:
-        Sorted shortlist (highest first).
+        Sorted shortlist (highest first). Never re-includes pushed items
+        when ``skip_pushed`` is True — even if the recent window is sparse.
     """
     history = history or {"items": {}}
     now = datetime.now(timezone.utc)
 
-    def _eligible(art: dict[str, Any], *, apply_days: bool) -> bool:
-        if skip_pushed and is_already_pushed(art, history):
-            return False
-        if apply_days and days is not None:
-            created = _parse_created_at(str(art.get("created_at") or ""))
-            if created is None or (now - created) > timedelta(days=days):
-                return False
+    def _tech_ok(art: dict[str, Any]) -> bool:
         boost = tech_tool_boost(art)
         score = float(art.get("score") or 0)
         if boost < -2 and score < 8:
             return False
         return True
 
-    pool = [art for art in articles if _eligible(art, apply_days=True)]
-    skipped = sum(1 for art in articles if skip_pushed and is_already_pushed(art, history))
-    if skipped:
-        logger.info("Skipped %d already-pushed articles", skipped)
+    def _not_pushed(art: dict[str, Any]) -> bool:
+        return not (skip_pushed and is_already_pushed(art, history))
 
-    # If recent window too small, fall back to full library with same ranking
+    def _in_days(art: dict[str, Any]) -> bool:
+        if days is None:
+            return True
+        created = _parse_created_at(str(art.get("created_at") or ""))
+        if created is None:
+            return False
+        return (now - created) <= timedelta(days=days)
+
+    skipped = sum(1 for art in articles if not _not_pushed(art))
+    if skipped:
+        logger.info("Skipped %d already-pushed/published articles", skipped)
+
+    pool = [
+        art
+        for art in articles
+        if _not_pushed(art) and _in_days(art) and _tech_ok(art)
+    ]
+
     if len(pool) < limit:
         logger.info(
-            "Only %d unpushed articles in last %s days; expanding to full library",
+            "Only %d unpushed articles in last %s days; "
+            "expanding to all unpushed (still skip history)",
             len(pool),
             days,
         )
-        pool = [art for art in articles if _eligible(art, apply_days=False)]
+        pool = [art for art in articles if _not_pushed(art) and _tech_ok(art)]
 
     pool.sort(key=rank_key, reverse=True)
     return pool[:limit]
@@ -363,6 +428,7 @@ def mark_articles_pushed(
             "pushed_at": now,
             "note": "marked_without_send",
         }
+        _mark_article_file_published(art)
     history["runs"].append(
         {
             "pushed_at": now,

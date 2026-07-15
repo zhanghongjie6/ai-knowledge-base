@@ -1,0 +1,79 @@
+[
+  {
+    "title": "def-peter/bloom-canvas",
+    "url": "https://github.com/def-peter/bloom-canvas",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Open-source desktop workspace for AI image creation, prompt refinement, and strategy-driven logo design with OpenAI-compatible providers.",
+    "pushed_at": "2026-07-15T01:14:19Z",
+    "created_at_source": "2026-07-15T01:14:18Z"
+  },
+  {
+    "title": "carboalvaro-dotcom/agente-fe",
+    "url": "https://github.com/carboalvaro-dotcom/agente-fe",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-15T01:14:17Z",
+    "created_at_source": "2026-04-20T20:57:31Z"
+  },
+  {
+    "title": "JGalego/HyperionOS",
+    "url": "https://github.com/JGalego/HyperionOS",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "The first intent-native operating system 🧠🚀🌌",
+    "pushed_at": "2026-07-15T01:14:17Z",
+    "created_at_source": "2026-07-10T12:10:41Z"
+  },
+  {
+    "title": "JiChenSSG/pi",
+    "url": "https://github.com/JiChenSSG/pi",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "pi agent extions",
+    "pushed_at": "2026-07-15T01:14:16Z",
+    "created_at_source": "2026-07-15T01:14:15Z"
+  },
+  {
+    "title": "bentonitic-shielding4582/memory-palace-web-frontend",
+    "url": "https://github.com/bentonitic-shielding4582/memory-palace-web-frontend",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Browse MemPalace SQLite stores with this lightweight web interface and JSON API.",
+    "pushed_at": "2026-07-15T01:14:16Z",
+    "created_at_source": "2026-05-02T00:50:23Z"
+  },
+  {
+    "title": "You should probably check on your smart appliances",
+    "url": "https://xeiaso.net/notes/2026/check-your-smart-tv/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/slrak5/you_should_probably_check_on_your_smart\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "feed_name": "Lobsters"
+  },
+  {
+    "title": "Too many words about DIDs",
+    "url": "https://steveklabnik.com/writing/too-many-words-about-dids/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/86lwsv/too_many_words_about_dids\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "feed_name": "Lobsters"
+  },
+  {
+    "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
+    "url": "https://arxiv.org/abs/2607.09664",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2607.09664v1 Announce Type: new \nAbstract: To provide a structured and interpretable assessment, we decompose the image-based diagnosis into components following the Toulmin model of argumentati",
+    "feed_name": "arXiv cs.AI"
+  },
+  {
+    "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
+    "url": "https://arxiv.org/abs/2607.09665",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2607.09665v1 Announce Type: new \nAbstract: Prompt wrappers often differ only in formatting, yet they can change model scores enough to flip leaderboard conclusions. We study this variance under ",
+    "feed_name": "arXiv cs.AI"
+  }
+]
