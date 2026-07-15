@@ -19,6 +19,7 @@ import os
 import re
 import sys
 import time
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
@@ -39,12 +40,15 @@ STATE_FILE = RAW_DIR / ".pipeline_state.json"
 GITHUB_SEARCH_URL = "https://api.github.com/search/repositories"
 GITHUB_QUERY = "AI OR LLM OR Agent OR RAG in:name,description,topics"
 
-RSS_ITEM_RE = re.compile(
-    r"<item>.*?<title>(.*?)</title>.*?<link>(.*?)</link>.*?<description>(.*?)</description>.*?</item>",
+# Per-item regex only (never run over whole multi-MB feeds — causes hangs).
+_RSS_FIELD_RE = re.compile(
+    r"<title>(.*?)</title>.*?<link>(.*?)</link>(?:.*?<description>(.*?)</description>)?",
     re.DOTALL | re.IGNORECASE,
 )
 
 HTML_TAG_RE = re.compile(r"<[^>]+>")
+
+RSS_HTTP_TIMEOUT = 15.0
 
 SOURCE_CODE_MAP = {
     "github_trending": "gh",
@@ -383,6 +387,72 @@ def _parse_yaml_simple(text: str) -> dict[str, Any]:
     return {"sources": sources}
 
 
+def _local_tag(tag: str) -> str:
+    """Strip XML namespace from an Element tag name."""
+    if "}" in tag:
+        return tag.rsplit("}", 1)[-1]
+    return tag
+
+
+def _parse_rss_items(body: str, limit: int) -> list[tuple[str, str, str]]:
+    """Parse title/link/description triples from an RSS or Atom body.
+
+    Uses ElementTree first. Falls back to splitting on ``<item>`` /
+    ``<entry>`` chunks and applying a small per-chunk regex — never a
+    single DOTALL match over a multi-MB feed (that hangs Actions).
+    """
+    results: list[tuple[str, str, str]] = []
+
+    try:
+        root = ET.fromstring(body)
+    except ET.ParseError:
+        root = None
+
+    if root is not None:
+        for el in root.iter():
+            tag = _local_tag(el.tag).lower()
+            if tag not in {"item", "entry"}:
+                continue
+            title = ""
+            link = ""
+            desc = ""
+            for child in el:
+                ctag = _local_tag(child.tag).lower()
+                if ctag == "title":
+                    title = (child.text or "").strip()
+                elif ctag == "link":
+                    # Atom: link is often an attribute; RSS: text/CDATA
+                    href = (child.attrib.get("href") or "").strip()
+                    link = href or (child.text or "").strip()
+                elif ctag in {"description", "summary", "content"}:
+                    desc = (child.text or "").strip()
+            if title and link:
+                results.append((title, link, desc))
+                if len(results) >= limit:
+                    return results
+
+    if results:
+        return results
+
+    # Fallback: split into chunks, regex only within each chunk
+    parts = re.split(r"(?i)<(?:item|entry)[\s>]", body)
+    for chunk in parts[1:]:
+        end = re.search(r"(?i)</(?:item|entry)>", chunk)
+        if end:
+            chunk = chunk[: end.start()]
+        m = _RSS_FIELD_RE.search(chunk)
+        if not m:
+            continue
+        title = (m.group(1) or "").strip()
+        link = (m.group(2) or "").strip()
+        desc = (m.group(3) or "").strip()
+        if title and link:
+            results.append((title, link, desc))
+            if len(results) >= limit:
+                break
+    return results
+
+
 def _fetch_rss_feed(feed: dict[str, Any], limit: int) -> list[dict[str, Any]]:
     """Fetch and parse a single RSS feed.
 
@@ -400,7 +470,7 @@ def _fetch_rss_feed(feed: dict[str, Any], limit: int) -> list[dict[str, Any]]:
         return []
 
     try:
-        with httpx.Client(timeout=30.0, follow_redirects=True) as client:
+        with httpx.Client(timeout=RSS_HTTP_TIMEOUT, follow_redirects=True) as client:
             resp = client.get(url)
             resp.raise_for_status()
             body = resp.text
@@ -416,24 +486,28 @@ def _fetch_rss_feed(feed: dict[str, Any], limit: int) -> list[dict[str, Any]]:
         logger.warning("RSS feed '%s' request failed: %s", name, e)
         return []
 
+    source = (
+        "hacker_news"
+        if "hackernews" in url.lower() or "hnrss" in url.lower()
+        else "rss"
+    )
     items: list[dict[str, Any]] = []
-    for match in list(RSS_ITEM_RE.finditer(body))[:limit]:
-        title = strip_html(match.group(1)).strip()
-        link = strip_html(match.group(2)).strip()
-        desc = strip_html(match.group(3)).strip()[:200]
-
+    for title_raw, link_raw, desc_raw in _parse_rss_items(body, limit):
+        title = strip_html(title_raw).strip()
+        link = strip_html(link_raw).strip()
+        desc = strip_html(desc_raw).strip()[:200]
         if not title or not link:
             continue
-
         items.append({
             "title": title,
             "url": link,
-            "source": "hacker_news" if "hackernews" in url.lower() or "hnrss" in url.lower() else "rss",
+            "source": source,
             "popularity": 0,
             "summary": desc[:200],
             "feed_name": name,
         })
 
+    logger.info("RSS feed '%s': parsed %d items", name, len(items))
     return items
 
 
@@ -462,7 +536,7 @@ def analyze_items(
 
     analyzed: list[dict[str, Any]] = []
     for i, item in enumerate(items):
-        logger.debug("Analyzing [%d/%d]: %s", i + 1, len(items), item["title"])
+        logger.info("Analyzing [%d/%d]: %s", i + 1, len(items), item["title"])
         prompt = ANALYSIS_PROMPT.format(
             title=item["title"],
             url=item["url"],
