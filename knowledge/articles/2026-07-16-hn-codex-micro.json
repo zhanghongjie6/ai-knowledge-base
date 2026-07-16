@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260716-004",
+  "title": "Codex Micro",
+  "source_url": "https://openai.com/supply/co-lab/work-louder/",
+  "source_type": "hacker_news",
+  "summary": "Codex Micro 是 OpenAI 推出的微型代码生成模型，专注于轻量级、低延迟的代码补全与生成任务。其核心价值在于将强大的代码智能压缩至极小体积，适用于边缘设备、浏览器插件及实时编码辅助场景。技术亮点包括高效的小模型架构、精准的上下文理解以及极快的推理速度。用例涵盖移动端 IDE、在线代码编辑器及自动化脚本编写，为开发者提供即时、低成本的代码支持。",
+  "tags": [
+    "Code Generation",
+    "Small Model",
+    "Edge AI",
+    "Developer Tools",
+    "hackernews"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-16T02:00:31+00:00",
+  "updated_at": "2026-07-16T02:00:31+00:00"
+}

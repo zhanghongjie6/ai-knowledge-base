@@ -1,0 +1,19 @@
+{
+  "id": "github-20260716-001",
+  "title": "codegood21/session-ai",
+  "source_url": "https://github.com/codegood21/session-ai",
+  "source_type": "github_trending",
+  "summary": "Session-ai 是一个为 Bagus Ai 提供会话存储的轻量级工具，核心价值在于高效管理 AI 对话的上下文数据，支持持久化存储与快速检索，适用于聊天机器人、智能客服等需要维护会话状态的场景。技术亮点包括简洁的 API 设计和与 Bagus Ai 的无缝集成。",
+  "tags": [
+    "Session Storage",
+    "AI",
+    "Bagus Ai",
+    "Context Management",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-16T02:00:31+00:00",
+  "updated_at": "2026-07-16T02:00:31+00:00"
+}

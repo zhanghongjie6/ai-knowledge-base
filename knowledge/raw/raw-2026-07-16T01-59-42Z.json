@@ -1,0 +1,172 @@
+[
+  {
+    "title": "codegood21/session-ai",
+    "url": "https://github.com/codegood21/session-ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Session storage for Bagus Ai",
+    "pushed_at": "2026-07-16T01:59:37Z",
+    "created_at_source": "2026-03-31T11:35:49Z"
+  },
+  {
+    "title": "ChallengerBey/Saerix-Finance-7b-Rag",
+    "url": "https://github.com/ChallengerBey/Saerix-Finance-7b-Rag",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Local LLM (7B) + RAG pipeline for BIST/US equities — structured JSON output, live yfinance data, 15yr CAGR from Excel, EVDS macro",
+    "pushed_at": "2026-07-16T01:59:36Z",
+    "created_at_source": "2026-07-16T01:15:55Z"
+  },
+  {
+    "title": "hjxccc/cairn",
+    "url": "https://github.com/hjxccc/cairn",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Markdown-native memory & progress layer for AI coding agents (Claude Code, Cursor, Codex). No framework, no runtime - just conventions that survive.",
+    "pushed_at": "2026-07-16T01:59:36Z",
+    "created_at_source": "2026-07-14T10:57:34Z"
+  },
+  {
+    "title": "selvamanigovindaraj/multi-agent-conversational-recommendation-system",
+    "url": "https://github.com/selvamanigovindaraj/multi-agent-conversational-recommendation-system",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-16T01:59:36Z",
+    "created_at_source": "2026-07-16T01:59:35Z"
+  },
+  {
+    "title": "sarot-tabrot/wazuh-dashboard-airtable",
+    "url": "https://github.com/sarot-tabrot/wazuh-dashboard-airtable",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-16T01:59:36Z",
+    "created_at_source": "2026-07-16T01:52:27Z"
+  },
+  {
+    "title": "spiceai/spiceai",
+    "url": "https://github.com/spiceai/spiceai",
+    "source": "github_trending",
+    "popularity": 3032,
+    "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+    "pushed_at": "2026-07-16T01:59:34Z",
+    "created_at_source": "2021-08-08T23:26:13Z"
+  },
+  {
+    "title": "gabrielk83/AntCV",
+    "url": "https://github.com/gabrielk83/AntCV",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Multi-agent job application orchestration platform with provider routing, validation, provenance, and ATS-aware document generation.",
+    "pushed_at": "2026-07-16T01:59:34Z",
+    "created_at_source": "2026-05-12T16:20:49Z"
+  },
+  {
+    "title": "indmdev/Custom-AI-Telegram-Bots-MiniApps",
+    "url": "https://github.com/indmdev/Custom-AI-Telegram-Bots-MiniApps",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Beautiful Telegram Customer Support AI Bots and MiniApp by InDMDev Teams of Developers, the best Telegram AI Bot and MiniApp everyone is using.",
+    "pushed_at": "2026-07-16T01:59:33Z",
+    "created_at_source": "2026-06-05T03:30:10Z"
+  },
+  {
+    "title": "guochongjun/RAIN-agent",
+    "url": "https://github.com/guochongjun/RAIN-agent",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "本版本基于Hermes深度优化，带来安全与性能的双重飞跃：安全升级：创新引入“工作目录”机制，实现运行环境的独立隔离，有效防止数据交叉污染，大幅提升文件与系统的安全性。极简安装：全新封装为Windows标准安装包，支持一键部署，提供极简的安装流程，让新手也能零门槛快速上手。 性能飞跃：将基础包与核心依赖库提前预置并深度集成至安装包中，实现真正的“开箱即用”。这不仅免去了繁琐的环境配置与二次下载，更",
+    "pushed_at": "2026-07-16T01:59:33Z",
+    "created_at_source": "2026-07-15T15:26:27Z"
+  },
+  {
+    "title": "zodia8393/data-scientist-career",
+    "url": "https://github.com/zodia8393/data-scientist-career",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "DecisionOps AI suite portfolio for Applied AI, ML Product DS, and ML engineering roles",
+    "pushed_at": "2026-07-16T01:59:33Z",
+    "created_at_source": "2026-07-03T00:52:56Z"
+  },
+  {
+    "title": "Grok Build is open source",
+    "url": "https://github.com/xai-org/grok-build",
+    "source": "hacker_news",
+    "popularity": 0,
+    "summary": "Article URL: https://github.com/xai-org/grok-build\nComments URL: https://news.ycombinator.com/item?id=48926590\nPoints: 243\n# Comments: 290",
+    "feed_name": "Hacker News Best"
+  },
+  {
+    "title": "Why I Left Google DeepMind",
+    "url": "https://turntrout.com/why-i-left-google-deepmind",
+    "source": "hacker_news",
+    "popularity": 0,
+    "summary": "Article URL: https://turntrout.com/why-i-left-google-deepmind\nComments URL: https://news.ycombinator.com/item?id=48925271\nPoints: 291\n# Comments: 153",
+    "feed_name": "Hacker News Best"
+  },
+  {
+    "title": "Inkling: Our Open-Weights Model",
+    "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "source": "hacker_news",
+    "popularity": 0,
+    "summary": "Article URL: https://thinkingmachines.ai/news/introducing-inkling/\nComments URL: https://news.ycombinator.com/item?id=48924912\nPoints: 660\n# Comments: 165",
+    "feed_name": "Hacker News Best"
+  },
+  {
+    "title": "Codex Micro",
+    "url": "https://openai.com/supply/co-lab/work-louder/",
+    "source": "hacker_news",
+    "popularity": 0,
+    "summary": "Article URL: https://openai.com/supply/co-lab/work-louder/\nComments URL: https://news.ycombinator.com/item?id=48923079\nPoints: 262\n# Comments: 224",
+    "feed_name": "Hacker News Best"
+  },
+  {
+    "title": "SQLite should have (Rust-style) editions",
+    "url": "https://mort.coffee/home/sqlite-editions/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Comments",
+    "feed_name": "Lobsters"
+  },
+  {
+    "title": "The Tower Keeps Rising",
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Comments",
+    "feed_name": "Lobsters"
+  },
+  {
+    "title": "FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System",
+    "url": "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Comments",
+    "feed_name": "Lobsters"
+  },
+  {
+    "title": "Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing",
+    "url": "https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Comments",
+    "feed_name": "Lobsters"
+  },
+  {
+    "title": "The US is advancing AI safety through state and federal action",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "feed_name": "OpenAI Blog"
+  },
+  {
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "feed_name": "OpenAI Blog"
+  }
+]

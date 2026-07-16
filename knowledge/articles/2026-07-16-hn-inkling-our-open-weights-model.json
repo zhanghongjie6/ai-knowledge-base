@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260716-003",
+  "title": "Inkling: Our Open-Weights Model",
+  "source_url": "https://thinkingmachines.ai/news/introducing-inkling/",
+  "source_type": "hacker_news",
+  "summary": "Inkling 是 Thinking Machines 推出的开放权重模型，核心价值在于提供高性能且可自由使用的 AI 模型。技术亮点包括优化的架构和高效训练，适用于文本生成、代码辅助等场景。该模型旨在推动 AI 民主化，降低开发者使用门槛。",
+  "tags": [
+    "Open-weights",
+    "LLM",
+    "AI Democratization",
+    "hackernews"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-16T02:00:31+00:00",
+  "updated_at": "2026-07-16T02:00:31+00:00"
+}

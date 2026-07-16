@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-002",
+  "title": "The Tower Keeps Rising",
+  "source_url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+  "source_type": "rss",
+  "summary": "本文探讨了AI领域技术栈日益复杂化的趋势，指出尽管底层模型不断进步，但上层应用和工具链的构建却变得愈发繁琐和脆弱。核心价值在于警示开发者关注技术债务和系统复杂性，避免盲目堆叠组件。技术亮点包括对当前AI生态中过度工程化现象的批判，以及提倡更简洁、可维护的设计哲学。用例适用于AI架构师和开发者反思系统设计。",
+  "tags": [
+    "AI",
+    "Software Engineering",
+    "System Design",
+    "Tech Debt",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-16T02:00:31+00:00",
+  "updated_at": "2026-07-16T02:00:31+00:00"
+}

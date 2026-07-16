@@ -72,6 +72,30 @@
       "landing_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
       "display_title": "Native-speed vLLM transformers modeling backend",
       "pushed_at": "2026-07-15T09:58:19+00:00"
+    },
+    "url:https://github.com/spiceai/spiceai": {
+      "id": "github-20260716-006",
+      "title": "spiceai/spiceai",
+      "source_url": "https://github.com/spiceai/spiceai",
+      "landing_url": "https://deepwiki.com/spiceai/spiceai",
+      "display_title": "spiceai/spiceai",
+      "pushed_at": "2026-07-16T02:00:36+00:00"
+    },
+    "url:https://github.com/xai-org/grok-build": {
+      "id": "hn-20260716-001",
+      "title": "Grok Build is open source",
+      "source_url": "https://github.com/xai-org/grok-build",
+      "landing_url": "https://deepwiki.com/xai-org/grok-build",
+      "display_title": "xAI 开源了 Grok 的构建系统，提供从零构建 Grok 大模型的完整工具链",
+      "pushed_at": "2026-07-16T02:00:36+00:00"
+    },
+    "url:https://github.com/hjxccc/cairn": {
+      "id": "github-20260716-003",
+      "title": "hjxccc/cairn",
+      "source_url": "https://github.com/hjxccc/cairn",
+      "landing_url": "https://github.com/hjxccc/cairn",
+      "display_title": "hjxccc/cairn",
+      "pushed_at": "2026-07-16T02:00:36+00:00"
     }
   },
   "runs": [
@@ -115,6 +139,20 @@
         "dorukardahan/headless-relay",
         "coderanik/ORBITA",
         "Native-speed vLLM transformers modeling backend"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-16T02:00:36+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/spiceai/spiceai",
+        "url:https://github.com/xai-org/grok-build",
+        "url:https://github.com/hjxccc/cairn"
+      ],
+      "titles": [
+        "spiceai/spiceai",
+        "xAI 开源了 Grok 的构建系统，提供从零构建 Grok 大模型的完整工具链",
+        "hjxccc/cairn"
       ]
     }
   ]
