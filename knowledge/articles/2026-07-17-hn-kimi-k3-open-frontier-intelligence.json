@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260717-004",
+  "title": "Kimi K3: Open Frontier Intelligence",
+  "source_url": "https://www.kimi.com/blog/kimi-k3",
+  "source_type": "hacker_news",
+  "summary": "Kimi K3 是月之暗面推出的新一代开源大模型，在性能上对标 GPT-4o 和 Claude 3.5 Sonnet，同时大幅降低推理成本。其核心价值在于以开源形式提供前沿智能，支持长上下文和复杂推理，适用于代码生成、内容创作、数据分析等场景。技术亮点包括高效的 MoE 架构和优化的训练方法，实现了性能与成本的平衡。",
+  "tags": [
+    "LLM",
+    "Open Source",
+    "MoE",
+    "Cost Efficiency",
+    "hackernews"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-17T02:04:06+00:00",
+  "updated_at": "2026-07-17T02:04:06+00:00"
+}

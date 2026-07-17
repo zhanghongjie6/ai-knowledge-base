@@ -1,0 +1,19 @@
+{
+  "id": "github-20260717-010",
+  "title": "yimgao/hermes-skills-collection",
+  "source_url": "https://github.com/yimgao/hermes-skills-collection",
+  "source_type": "github_trending",
+  "summary": "Hermes Agent技能集合是一个精心策划的可复用技能库，按类别组织，旨在帮助开发者快速集成和部署智能代理功能。其核心价值在于提供即用型技能模块，涵盖多种应用场景，如自动化任务、数据处理和交互式服务，技术亮点包括模块化设计、易于扩展和社区驱动更新。适用于需要快速构建智能代理系统的开发者和团队。",
+  "tags": [
+    "Agent",
+    "Skill Collection",
+    "Modular",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-17T02:04:06+00:00",
+  "updated_at": "2026-07-17T02:04:06+00:00"
+}
