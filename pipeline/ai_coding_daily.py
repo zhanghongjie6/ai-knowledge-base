@@ -78,6 +78,8 @@ CHINESE_SOURCES = {
 }
 
 AI_CODING_KEYWORDS = [
+    "AI",
+    "ai",
     "AI编程",
     "代码生成",
     "编程助手",
@@ -225,6 +227,13 @@ NON_AI_KEYWORDS = [
     "职场", "招聘", "面试", "薪资",
     "理财", "股票", "基金", "投资",
     "数码", "评测", "对比", "推荐",
+    "桌面", "桌垫", "收纳", "整理", "家居", "生活",
+    "角落", "房间", "装修", "设计", "风格",
+    "咖啡", "咖啡杯", "办公室", "工位", "文具",
+    "读书", "书单", "阅读", "推荐书籍",
+    "壁纸", "主题", "皮肤", "美化",
+    "宠物", "猫", "狗", "动物",
+    "穿搭", "时尚", "衣服", "鞋子", "包包",
 ]
 
 def is_ai_coding_relevant(article: dict[str, Any]) -> bool:
@@ -232,18 +241,11 @@ def is_ai_coding_relevant(article: dict[str, Any]) -> bool:
     summary = str(article.get("summary") or "").lower()
     url = str(article.get("source_url") or "").lower()
     
-    for keyword in NON_AI_KEYWORDS:
-        if keyword.lower() in title or keyword.lower() in summary:
-            return False
-    
     has_ai_keyword = False
     for keyword in AI_CODING_KEYWORDS:
         if keyword.lower() in title or keyword.lower() in summary:
             has_ai_keyword = True
             break
-    
-    if has_ai_keyword:
-        return True
     
     ai_domains = {
         "arxiv.org", "openai.com", "anthropic.com", "huggingface.co",
@@ -251,14 +253,19 @@ def is_ai_coding_relevant(article: dict[str, Any]) -> bool:
         "infoq.cn", "jiqizhixin.com", "qbitai.com",
     }
     domain = get_source_domain(url)
-    if domain in ai_domains:
-        return True
+    is_ai_domain = domain in ai_domains
     
     source_type = str(article.get("source_type") or "").lower()
-    if source_type in ["github_trending", "ai"]:
-        return True
+    is_ai_source = source_type in ["github_trending", "ai"]
     
-    return False
+    is_ai_content = has_ai_keyword or is_ai_domain or is_ai_source
+    
+    if not is_ai_content:
+        for keyword in NON_AI_KEYWORDS:
+            if keyword.lower() in title or keyword.lower() in summary:
+                return False
+    
+    return is_ai_content
 
 
 def is_github_source_code_update(article: dict[str, Any]) -> bool:
