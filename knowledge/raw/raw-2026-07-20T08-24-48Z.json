@@ -1,0 +1,116 @@
+[
+  {
+    "title": "chenxi750328ai/agent-jianghu",
+    "url": "https://github.com/chenxi750328ai/agent-jianghu",
+    "source": "github_trending",
+    "popularity": 9,
+    "summary": "agent江湖 - 多Agent协作平台",
+    "pushed_at": "2026-07-20T08:24:28Z",
+    "created_at_source": "2026-02-01T11:37:49Z"
+  },
+  {
+    "title": "iwindd/ai-agent",
+    "url": "https://github.com/iwindd/ai-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T08:24:30Z",
+    "created_at_source": "2026-07-20T08:24:26Z"
+  },
+  {
+    "title": "chandan-pandey-velsof/tip-session-79",
+    "url": "https://github.com/chandan-pandey-velsof/tip-session-79",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "TIP AI Coder session 79",
+    "pushed_at": "2026-07-20T08:24:26Z",
+    "created_at_source": "2026-07-20T08:24:25Z"
+  },
+  {
+    "title": "div339175/codepilot-ai",
+    "url": "https://github.com/div339175/codepilot-ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "CodePilot AI is a multi-agent software engineering assistant that understands GitHub repositories, answers questions about code, detects bugs, generates documentation, and assists developers throughou",
+    "pushed_at": "2026-07-20T08:24:26Z",
+    "created_at_source": "2026-07-18T08:22:10Z"
+  },
+  {
+    "title": "SharjilSharma/composio_task",
+    "url": "https://github.com/SharjilSharma/composio_task",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "This repository contains an autonomous research agent built using Python and the Google Gemini API. Its purpose is to ingest a list of applications and autonomously research their API buildability, au",
+    "pushed_at": "2026-07-20T08:24:26Z",
+    "created_at_source": "2026-07-20T08:19:56Z"
+  },
+  {
+    "title": "alikatgh/quenderin",
+    "url": "https://github.com/alikatgh/quenderin",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Run LLMs locally. Mission: Local Autonomous Computer Usage",
+    "pushed_at": "2026-07-20T08:24:25Z",
+    "created_at_source": "2025-07-24T09:03:15Z"
+  },
+  {
+    "title": "joshuasetiawann/ai-marketplace-website",
+    "url": "https://github.com/joshuasetiawann/ai-marketplace-website",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "",
+    "pushed_at": "2026-07-20T08:24:25Z",
+    "created_at_source": "2026-06-09T11:26:58Z"
+  },
+  {
+    "title": "V1B3hR/AiMedRes",
+    "url": "https://github.com/V1B3hR/AiMedRes",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AdaptiveNN provides the \"brain\" - dynamic, learning, biological DuetMind provides the \"mind\" - reasoning, safety, social interaction Together they create truly adaptive, safe, multi-agent systems with",
+    "pushed_at": "2026-07-20T08:24:25Z",
+    "created_at_source": "2025-09-04T04:11:26Z"
+  },
+  {
+    "title": "Siva2859/HireSense-AI",
+    "url": "https://github.com/Siva2859/HireSense-AI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T08:24:24Z",
+    "created_at_source": "2026-07-20T07:38:23Z"
+  },
+  {
+    "title": "flokynguyenhophach214-byte/Ai",
+    "url": "https://github.com/flokynguyenhophach214-byte/Ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T08:24:23Z",
+    "created_at_source": "2026-07-20T08:23:36Z"
+  },
+  {
+    "title": "角落新声 | 把杂乱桌面收拾得像样，只需要一张桌垫",
+    "url": "https://sspai.com/post/112453",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "在拥有你我理想的超大自主空间之前，不如用一张桌垫改善一下自己的工作生活环境，过得多舒心一点点吧。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "CHIEF: A Case Study in Retiring a Legacy System",
+    "url": "https://dev.to/icustoms12/chief-a-case-study-in-retiring-a-legacy-system-514a",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Every long-running system eventually reaches its limits. The UK's CHIEF customs platform ran for almost three decades before HMRC replaced it with CDS.\n\n\n  \n  \n  The pressures that ended CHIEF\n\n\nMaint",
+    "feed_name": "DEV.to AI"
+  },
+  {
+    "title": "Reignat",
+    "url": "https://www.producthunt.com/products/reignat",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Privacy-friendly web analytics with realtime AI insights\n          \n          \n            Discussion\n            |\n            Link",
+    "feed_name": "Product Hunt"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-199",
+  "title": "Ani-HQ/vesta",
+  "source_url": "https://github.com/Ani-HQ/vesta",
+  "source_type": "github_trending",
+  "summary": "Vesta 是一个开源的分页翻牌倒计时板，实时显示当年剩余小时数，并每日生成 AI 撰写的励志或趣味消息。核心价值在于将时间感知与 AI 创意结合，适合作为桌面装饰、直播背景或团队激励工具。技术亮点包括纯前端实现、可自定义样式和消息源。",
+  "tags": [
+    "AI",
+    "Countdown",
+    "Open Source",
+    "Frontend",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:26:29+00:00",
+  "updated_at": "2026-07-20T08:26:29+00:00"
+}

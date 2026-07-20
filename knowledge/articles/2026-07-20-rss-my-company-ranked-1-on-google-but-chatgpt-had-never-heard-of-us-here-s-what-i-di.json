@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260720-049",
+  "title": "My company ranked #1 on Google but ChatGPT had never heard of us. Here's what I did about it.",
+  "source_url": "https://dev.to/agustaon/my-company-ranked-1-on-google-but-chatgpt-had-never-heard-of-us-heres-what-i-did-about-it-241o",
+  "source_type": "rss",
+  "summary": "本文讲述了一家公司在谷歌排名第一，但ChatGPT却对其一无所知的问题。作者通过构建RAG系统，将公司网站内容转化为向量数据库，并集成到ChatGPT中，成功让AI能准确回答公司信息。核心价值在于揭示了传统SEO与AI知识库的差距，提供了低成本、高效果的解决方案，适用于企业品牌管理和AI时代的知识可见性优化。",
+  "tags": [
+    "RAG",
+    "SEO",
+    "ChatGPT",
+    "Knowledge Base",
+    "Enterprise AI",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:26:29+00:00",
+  "updated_at": "2026-07-20T08:26:29+00:00"
+}

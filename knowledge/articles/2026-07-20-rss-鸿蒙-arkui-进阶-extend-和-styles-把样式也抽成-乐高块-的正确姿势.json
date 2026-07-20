@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-051",
+  "title": "鸿蒙 ArkUI 进阶：@Extend 和 @Styles，把样式也抽成「乐高块」的正确姿势",
+  "source_url": "https://juejin.cn/post/7664387452488908841",
+  "source_type": "rss",
+  "summary": "本文介绍了鸿蒙ArkUI中@Extend和@Styles装饰器的用法，通过demo演示了如何将样式抽离为可复用的“乐高块”。@Styles用于定义一组不带参数的通用样式，@Extend则支持为指定组件扩展带参数的样式。核心价值在于提升代码复用性和可维护性，适用于鸿蒙应用开发中的UI样式管理场景。",
+  "tags": [
+    "HarmonyOS",
+    "ArkUI",
+    "UI",
+    "Component",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:26:30+00:00",
+  "updated_at": "2026-07-20T08:26:30+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-195",
+  "title": "y-unees/ai-video-analysis-python",
+  "source_url": "https://github.com/y-unees/ai-video-analysis-python",
+  "source_type": "github_trending",
+  "summary": "一个基于Python的视频分析工具，支持持续改进和后续集成。核心价值在于提供可扩展的视频分析基础框架，技术亮点包括Python实现和模块化设计，适用于监控、内容审核等场景。",
+  "tags": [
+    "Video Analysis",
+    "Python",
+    "Computer Vision",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-20T08:26:29+00:00",
+  "updated_at": "2026-07-20T08:26:29+00:00"
+}

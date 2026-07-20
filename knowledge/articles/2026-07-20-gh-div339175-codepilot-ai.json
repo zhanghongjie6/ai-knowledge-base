@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-184",
+  "title": "div339175/codepilot-ai",
+  "source_url": "https://github.com/div339175/codepilot-ai",
+  "source_type": "github_trending",
+  "summary": "CodePilot AI 是一款多智能体软件工程助手，能够理解GitHub仓库、回答代码相关问题、检测bug、生成文档，并在开发全流程中提供辅助。其核心价值在于通过多智能体协作提升开发效率，技术亮点包括仓库级代码理解与自动化任务执行，适用于代码审查、文档生成和bug修复等场景。",
+  "tags": [
+    "Multi-Agent",
+    "Code Assistant",
+    "GitHub",
+    "Bug Detection",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:25:14+00:00",
+  "updated_at": "2026-07-20T08:25:14+00:00"
+}

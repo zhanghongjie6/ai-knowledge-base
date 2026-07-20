@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-185",
+  "title": "SharjilSharma/composio_task",
+  "source_url": "https://github.com/SharjilSharma/composio_task",
+  "source_type": "github_trending",
+  "summary": "该项目基于Python和Google Gemini API构建了一个自主研究代理，能够自动分析多个应用的API可构建性。核心价值在于自动化API可行性研究，技术亮点包括自主决策与Gemini集成，适用于快速评估第三方API集成潜力。",
+  "tags": [
+    "Agent",
+    "API",
+    "Gemini",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:25:14+00:00",
+  "updated_at": "2026-07-20T08:25:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-186",
+  "title": "alikatgh/quenderin",
+  "source_url": "https://github.com/alikatgh/quenderin",
+  "source_type": "github_trending",
+  "summary": "Quenderin 是一个开源项目，旨在本地运行大型语言模型（LLM），并实现自主计算机使用。其核心价值在于让用户无需依赖云端即可在本地部署和操控LLM，技术亮点包括本地化执行和自动化任务处理，适用于隐私敏感场景和离线环境下的智能代理应用。",
+  "tags": [
+    "LLM",
+    "Local Deployment",
+    "Autonomous Agent",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:25:14+00:00",
+  "updated_at": "2026-07-20T08:25:14+00:00"
+}
