@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-118",
+  "title": "ythottman-glitch/ai-hedge-fund",
+  "source_url": "https://github.com/ythottman-glitch/ai-hedge-fund",
+  "source_type": "github_trending",
+  "summary": "一个基于AI的对冲基金后端项目，支持部署到Koyeb平台。核心价值在于利用AI算法进行量化交易决策，技术亮点包括自动化交易策略和云端部署能力，适用于金融科技领域的量化投资场景。",
+  "tags": [
+    "AI",
+    "Quantitative Trading",
+    "FinTech",
+    "Deployment",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:39:30+00:00",
+  "updated_at": "2026-07-20T07:39:30+00:00"
+}

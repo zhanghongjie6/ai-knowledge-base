@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-114",
+  "title": "ganeshmshetty/airsync-mac",
+  "source_url": "https://github.com/ganeshmshetty/airsync-mac",
+  "source_type": "github_trending",
+  "summary": "AirSync-Mac 是一款 macOS 应用，通过无线局域网自动同步 iPhone/iPad 照片和视频到 Mac，无需 iCloud 或数据线。核心价值在于提供免费、本地化的同步方案，技术亮点包括自动检测设备、增量同步和后台运行。适用于需要频繁备份移动设备媒体文件的用户。",
+  "tags": [
+    "macOS",
+    "iOS",
+    "Sync",
+    "Photo Backup",
+    "Local Network",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:39:30+00:00",
+  "updated_at": "2026-07-20T07:39:30+00:00"
+}

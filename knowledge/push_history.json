@@ -264,6 +264,30 @@
       "landing_url": "https://github.com/WallShrimpConsider88/Edit-Master-Pro",
       "display_title": "WallShrimpConsider88/Edit-Master-Pro",
       "pushed_at": "2026-07-20T07:34:57+00:00"
+    },
+    "url:https://github.com/jeongdowook/vuln-agent": {
+      "id": "github-20260720-117",
+      "title": "JeongDoWook/vuln-agent",
+      "source_url": "https://github.com/JeongDoWook/vuln-agent",
+      "landing_url": "https://github.com/JeongDoWook/vuln-agent",
+      "display_title": "JeongDoWook/vuln-agent",
+      "pushed_at": "2026-07-20T07:39:38+00:00"
+    },
+    "url:https://github.com/ntuaiclub/ian": {
+      "id": "github-20260720-076",
+      "title": "ntuaiclub/ian",
+      "source_url": "https://github.com/ntuaiclub/ian",
+      "landing_url": "https://github.com/ntuaiclub/ian",
+      "display_title": "ntuaiclub/ian",
+      "pushed_at": "2026-07-20T07:39:38+00:00"
+    },
+    "url:https://github.com/haitanghuaweimiantom/mathmodel-mutiagentsystem": {
+      "id": "github-20260720-026",
+      "title": "haitanghuaweimianTom/MathModel-MutiAgentSystem",
+      "source_url": "https://github.com/haitanghuaweimianTom/MathModel-MutiAgentSystem",
+      "landing_url": "https://github.com/haitanghuaweimianTom/MathModel-MutiAgentSystem",
+      "display_title": "该项目实现了一个用于数学建模的多智能体系统，通过多个AI代理协作解决复杂数学问题",
+      "pushed_at": "2026-07-20T07:39:38+00:00"
     }
   },
   "runs": [
@@ -419,6 +443,20 @@
         "sanchit0496/engineering-intelligence-mcp",
         "Torusnokindle/Creative-Workflow-Tool",
         "WallShrimpConsider88/Edit-Master-Pro"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:39:38+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/jeongdowook/vuln-agent",
+        "url:https://github.com/ntuaiclub/ian",
+        "url:https://github.com/haitanghuaweimiantom/mathmodel-mutiagentsystem"
+      ],
+      "titles": [
+        "JeongDoWook/vuln-agent",
+        "ntuaiclub/ian",
+        "该项目实现了一个用于数学建模的多智能体系统，通过多个AI代理协作解决复杂数学问题"
       ]
     }
   ]

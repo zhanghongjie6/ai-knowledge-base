@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-037",
+  "title": "从零到一手撸 Agent 系列 — 第 3 篇：Agent 的\"心跳\" — 主循环与 System Prompt",
+  "source_url": "https://juejin.cn/post/7664115885457473582",
+  "source_type": "rss",
+  "summary": "本文是手写Agent系列第三篇，聚焦Agent核心机制——主循环与System Prompt。通过Go语言实现终端AI编码助手，涵盖代码阅读、Bug修复、命令执行和外部工具接入，展示Agent从零构建的完整流程。",
+  "tags": [
+    "Agent",
+    "Go",
+    "System Prompt",
+    "Main Loop",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:39:30+00:00",
+  "updated_at": "2026-07-20T07:39:30+00:00"
+}
