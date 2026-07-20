@@ -1,45 +1,9 @@
 {
   "version": 2,
   "items": {
-    "url:https://arxiv.org/abs/2607.09665": {
-      "id": "rss-20260715-006",
-      "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-      "source_url": "https://arxiv.org/abs/2607.09665",
-      "landing_url": "https://arxiv.org/abs/2607.09665",
-      "display_title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-      "pushed_at": "2026-07-15T09:44:57+00:00"
-    },
-    "url:https://github.com/zetdotcom/workflow-agent": {
-      "id": "github-20260715-004",
-      "title": "zetdotcom/workflow-agent",
-      "source_url": "https://github.com/zetdotcom/workflow-agent",
-      "landing_url": "https://github.com/zetdotcom/workflow-agent",
-      "display_title": "zetdotcom/workflow-agent",
-      "pushed_at": "2026-07-15T09:44:57+00:00"
-    },
-    "url:https://github.com/joe-broadhead/dbt-nova": {
-      "id": "github-20260715-010",
-      "title": "joe-broadhead/dbt-nova",
-      "source_url": "https://github.com/joe-broadhead/dbt-nova",
-      "landing_url": "https://github.com/joe-broadhead/dbt-nova",
-      "display_title": "joe-broadhead/dbt-nova",
-      "pushed_at": "2026-07-15T09:44:57+00:00"
-    }
+
   },
   "runs": [
-    {
-      "pushed_at": "2026-07-15T09:44:57+00:00",
-      "count": 3,
-      "keys": [
-        "url:https://arxiv.org/abs/2607.09665",
-        "url:https://github.com/zetdotcom/workflow-agent",
-        "url:https://github.com/joe-broadhead/dbt-nova"
-      ],
-      "titles": [
-        "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-        "zetdotcom/workflow-agent",
-        "joe-broadhead/dbt-nova"
-      ]
-    }
+
   ]
 }

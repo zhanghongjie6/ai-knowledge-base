@@ -1,59 +1,216 @@
-# RSS 数据源配置
-# 通过 enabled 字段控制是否采集
-# 量太大的源或未经验证的源默认为 enabled: false
-
 sources:
-  # ── 综合技术 ──────────────────────────────────────────────
-  - name: "Hacker News Best"
-    url: "https://hnrss.org/best"
-    category: "综合技术"
-    enabled: true
-    notes: "Hacker News 高分帖子，采集后由 LLM 过滤 AI/LLM/Agent 相关内容"
-
-  - name: "Hacker News (AI 关键词)"
-    url: "https://hnrss.org/search?q=AI+LLM+Agent+deep+learning+language+model+artificial+intelligence&points=30"
-    category: "综合技术"
-    enabled: false
-    notes: "按 AI 关键词搜索过滤；默认关闭（与 Hacker News Best 来源重叠，量较大）"
-
-  - name: "Lobsters"
-    url: "https://lobste.rs/rss"
-    category: "综合技术"
-    enabled: true
-    notes: "Lobsters 全站 RSS，采集后由 LLM 过滤 AI/ML/编程相关条目"
-
-  # ── AI 研究 ────────────────────────────────────────────────
-  - name: "arXiv cs.AI"
-    url: "https://rss.arxiv.org/rss/cs.AI"
-    category: "AI 研究"
-    enabled: true
-
-  # ── 公司博客 ──────────────────────────────────────────────
-  - name: "OpenAI Blog"
-    url: "https://openai.com/blog/rss.xml"
-    category: "公司博客"
-    enabled: true
-
-  - name: "Anthropic Research"
-    url: "https://www.anthropic.com/newsroom"
-    category: "公司博客"
-    enabled: false
-    notes: "Anthropic 官方博客暂未提供公开 RSS；需通过页面抓取或等待官方提供 feed"
-
-  - name: "Hugging Face Blog"
-    url: "https://huggingface.co/blog/feed.xml"
-    category: "公司博客"
-    enabled: true
-
-  # ── 中文社区 ──────────────────────────────────────────────
   - name: "量子位"
     url: "https://www.qbitai.com/feed"
-    category: "中文社区"
+    category: "中文媒体"
     enabled: false
-    notes: "RSS 已确认可用，但因内容量大且质量参差，默认关闭；按需开启"
+    notes: "403 禁止访问"
 
-  - name: "机器之心"
-    url: "https://www.jiqizhixin.com/rss"
-    category: "中文社区"
+  - name: "InfoQ中文"
+    url: "https://www.infoq.cn/feed"
+    category: "中文媒体"
+    enabled: true
+    notes: "高质量技术媒体，AI Coding 相关教程"
+
+  - name: "少数派"
+    url: "https://sspai.com/feed"
+    category: "中文媒体"
+    enabled: true
+    notes: "科技生活媒体，AI 工具使用技巧"
+
+  - name: "36氪"
+    url: "https://36kr.com/feed"
+    category: "中文媒体"
+    enabled: true
+    notes: "综合科技媒体，AI 创业和技术报道"
+
+  - name: "ArXiv AI"
+    url: "https://arxiv.org/rss/cs.AI"
+    category: "论文研究"
+    enabled: true
+    notes: "AI 领域最新论文"
+
+  - name: "ArXiv CL"
+    url: "https://arxiv.org/rss/cs.CL"
+    category: "论文研究"
+    enabled: true
+    notes: "计算语言学论文，LLM 相关"
+
+  - name: "ArXiv LG"
+    url: "https://arxiv.org/rss/cs.LG"
+    category: "论文研究"
+    enabled: true
+    notes: "机器学习论文"
+
+  - name: "ArXiv CV"
+    url: "https://arxiv.org/rss/cs.CV"
+    category: "论文研究"
+    enabled: true
+    notes: "计算机视觉论文"
+
+  - name: "HuggingFace Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "核心框架"
     enabled: false
-    notes: "RSS 可用性待确认（请求超时）；默认关闭"
+    notes: "连接超时"
+
+  - name: "The Decoder"
+    url: "https://the-decoder.com/feed/"
+    category: "AI 媒体"
+    enabled: true
+    notes: "AI 深度分析报道"
+
+  - name: "MarkTechPost"
+    url: "https://www.marktechpost.com/feed/"
+    category: "AI 媒体"
+    enabled: true
+    notes: "AI 技术新闻和研究"
+
+  - name: "TLDR AI"
+    url: "https://tldr.tech/api/rss/ai"
+    category: "AI 媒体"
+    enabled: true
+    notes: "AI 新闻简报"
+
+  - name: "Last Week in AI"
+    url: "https://lastweekin.ai/feed"
+    category: "AI 媒体"
+    enabled: true
+    notes: "AI 每周回顾"
+
+  - name: "OpenAI"
+    url: "https://openai.com/blog/rss.xml"
+    category: "核心框架"
+    enabled: true
+    notes: "OpenAI 官方博客"
+
+  - name: "Google AI"
+    url: "https://blog.google/technology/ai/rss/"
+    category: "核心框架"
+    enabled: false
+    notes: "500 错误"
+
+  - name: "Anthropic News"
+    url: "https://rsshub.bestblogs.dev/anthropic/news"
+    category: "核心框架"
+    enabled: true
+    notes: "Anthropic 新闻 RSS 桥接"
+
+  - name: "Google DeepMind"
+    url: "https://deepmind.com/blog/feed/basic/"
+    category: "核心框架"
+    enabled: true
+    notes: "DeepMind 官方博客"
+
+  - name: "AI at Meta"
+    url: "https://rsshub.bestblogs.dev/meta/ai/blog"
+    category: "核心框架"
+    enabled: true
+    notes: "Meta AI 博客 RSS 桥接"
+
+  - name: "AWS ML Blog"
+    url: "https://aws.amazon.com/blogs/amazon-ai/feed/"
+    category: "核心框架"
+    enabled: true
+    notes: "AWS 机器学习博客"
+
+  - name: "GitHub Blog"
+    url: "https://github.blog/feed/"
+    category: "核心框架"
+    enabled: true
+    notes: "GitHub 官方博客"
+
+  - name: "Vercel News"
+    url: "https://vercel.com/atom"
+    category: "核心框架"
+    enabled: true
+    notes: "Vercel 新闻"
+
+  - name: "VentureBeat AI"
+    url: "https://venturebeat.com/category/ai/feed/"
+    category: "AI 媒体"
+    enabled: true
+    notes: "VentureBeat AI 新闻"
+
+  - name: "MIT Tech Review"
+    url: "https://www.technologyreview.com/feed/"
+    category: "AI 媒体"
+    enabled: true
+    notes: "MIT 技术评论"
+
+  - name: "The Verge AI"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    category: "AI 媒体"
+    enabled: true
+    notes: "The Verge AI 板块"
+
+  - name: "HackerNews AI"
+    url: "https://hnrss.org/frontpage?q=ai+OR+agent+OR+llm"
+    category: "全球社区"
+    enabled: false
+    notes: "502 错误"
+
+  - name: "Reddit ML"
+    url: "https://www.reddit.com/r/MachineLearning/.rss"
+    category: "全球社区"
+    enabled: false
+    notes: "连接超时"
+
+  - name: "DEV.to AI"
+    url: "https://dev.to/feed/tag/ai"
+    category: "全球社区"
+    enabled: true
+    notes: "DEV.to AI 标签文章"
+
+  - name: "Product Hunt"
+    url: "https://www.producthunt.com/feed"
+    category: "全球社区"
+    enabled: true
+    notes: "产品发现平台，AI 工具相关"
+
+  - name: "TechCrunch AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    category: "AI 媒体"
+    enabled: true
+    notes: "TechCrunch AI 板块"
+
+  - name: "阮一峰博客"
+    url: "https://www.ruanyifeng.com/blog/atom.xml"
+    category: "中文媒体"
+    enabled: true
+    notes: "高质量技术文章，AI、编程、工具"
+
+  - name: "美团技术团队"
+    url: "https://tech.meituan.com/feed"
+    category: "中文媒体"
+    enabled: true
+    notes: "大厂技术博客，AI 应用和工程实践"
+
+  - name: "掘金"
+    url: "https://juejin.cn/rss"
+    category: "中文媒体"
+    enabled: true
+    notes: "国内开发者社区，AI Coding 工具和实战技巧"
+
+  - name: "OpenClaw Releases"
+    url: "https://github.com/openclaw/openclaw/releases.atom"
+    category: "AI 工具"
+    enabled: false
+    notes: "GitHub 源码更新，已过滤"
+
+  - name: "Cursor 更新日志"
+    url: "https://github.com/getcursor/cursor/releases.atom"
+    category: "AI 工具"
+    enabled: false
+    notes: "GitHub 源码更新，已过滤"
+
+  - name: "OpenCode GitHub"
+    url: "https://github.com/anomalyco/opencode/releases.atom"
+    category: "AI 工具"
+    enabled: false
+    notes: "GitHub 源码更新，已过滤"
+
+  - name: "Ollama Blog"
+    url: "https://ollama.com/blog/rss.xml"
+    category: "AI 工具"
+    enabled: true
+    notes: "Ollama 本地大模型运行时博客"
