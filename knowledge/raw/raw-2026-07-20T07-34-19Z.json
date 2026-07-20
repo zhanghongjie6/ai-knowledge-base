@@ -1,0 +1,100 @@
+[
+  {
+    "title": "fernandocoronatomf/cg-agentic-review",
+    "url": "https://github.com/fernandocoronatomf/cg-agentic-review",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "CG Agentic Review is a lightweight, local-first workspace for reviewing AI-generated plans, reports, comparisons, and other structured outputs. It lets users comment directly on   specific sections of",
+    "pushed_at": "2026-07-20T07:33:43Z",
+    "created_at_source": "2026-07-20T07:33:43Z"
+  },
+  {
+    "title": "ddua123-tyu/Deya-AI-Assistant",
+    "url": "https://github.com/ddua123-tyu/Deya-AI-Assistant",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:33:43Z",
+    "created_at_source": "2026-07-20T07:33:43Z"
+  },
+  {
+    "title": "sanchit0496/engineering-intelligence-mcp",
+    "url": "https://github.com/sanchit0496/engineering-intelligence-mcp",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Production-oriented Model Context Protocol (MCP) server for Express.js applications that enables AI clients to investigate backend systems through structured engineering tools. Exposes Git history, Wi",
+    "pushed_at": "2026-07-20T07:33:42Z",
+    "created_at_source": "2026-07-13T14:03:01Z"
+  },
+  {
+    "title": "samay-ai/livekit-plugins-quickdial",
+    "url": "https://github.com/samay-ai/livekit-plugins-quickdial",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "LiveKit Agents plugin for Quickdial TTS & STT (Python)",
+    "pushed_at": "2026-07-20T07:33:39Z",
+    "created_at_source": "2026-07-20T07:26:53Z"
+  },
+  {
+    "title": "pandego/awesome-agentic",
+    "url": "https://github.com/pandego/awesome-agentic",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Curated awesome list for coding agents, memory-first assistants, and agent frameworks.",
+    "pushed_at": "2026-07-20T07:33:39Z",
+    "created_at_source": "2026-03-03T20:44:37Z"
+  },
+  {
+    "title": "venkatyarl/forge-fleet",
+    "url": "https://github.com/venkatyarl/forge-fleet",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Distributed AI Coding Agent Orchestration — tiered build pipeline across fleet of local LLMs",
+    "pushed_at": "2026-07-20T07:33:39Z",
+    "created_at_source": "2026-03-25T01:55:08Z"
+  },
+  {
+    "title": "SubhamSwain2025/WellMindAI-Health-Project",
+    "url": "https://github.com/SubhamSwain2025/WellMindAI-Health-Project",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:33:39Z",
+    "created_at_source": "2026-07-20T07:33:38Z"
+  },
+  {
+    "title": "nicks0098/CRONOSv1.0.0",
+    "url": "https://github.com/nicks0098/CRONOSv1.0.0",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "CRONOS AI is a premium local-first desktop AI assistant built with Electron, designed for private, fast, and flexible AI workflows. It supports local chat, model management, settings persistence, and ",
+    "pushed_at": "2026-07-20T07:33:37Z",
+    "created_at_source": "2026-07-14T22:07:07Z"
+  },
+  {
+    "title": "9t29zhmwdh-coder/CleanFlow",
+    "url": "https://github.com/9t29zhmwdh-coder/CleanFlow",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI-powered file organizer: scan, classify, deduplicate and organize your files. Built with Rust and Tauri.",
+    "pushed_at": "2026-07-20T07:33:37Z",
+    "created_at_source": "2026-06-12T09:49:46Z"
+  },
+  {
+    "title": "pavan968968/AI-Powered-Student-Project-Discovery-Platform",
+    "url": "https://github.com/pavan968968/AI-Powered-Student-Project-Discovery-Platform",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:33:36Z",
+    "created_at_source": "2026-07-19T14:15:31Z"
+  },
+  {
+    "title": "【节点】[PackWaterVertexData节点]原理解析与实际应用",
+    "url": "https://juejin.cn/post/7664412459718508582",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Pack Water Vertex Data 节点是 Unity 高清渲染管线（HDRP）中专门用于水面渲染的高级着色器节点。该节点在水面着色器图中扮演着关键角色，负责将多个与水相关的属性高效地打包到",
+    "feed_name": "掘金"
+  }
+]

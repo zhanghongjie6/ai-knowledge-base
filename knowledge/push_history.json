@@ -240,6 +240,30 @@
       "landing_url": "https://github.com/snatchnodejack/Creative-Studio-Tool",
       "display_title": "snatchnodejack/Creative-Studio-Tool",
       "pushed_at": "2026-07-20T07:32:47+00:00"
+    },
+    "url:https://github.com/sanchit0496/engineering-intelligence-mcp": {
+      "id": "github-20260720-103",
+      "title": "sanchit0496/engineering-intelligence-mcp",
+      "source_url": "https://github.com/sanchit0496/engineering-intelligence-mcp",
+      "landing_url": "https://github.com/sanchit0496/engineering-intelligence-mcp",
+      "display_title": "sanchit0496/engineering-intelligence-mcp",
+      "pushed_at": "2026-07-20T07:34:57+00:00"
+    },
+    "url:https://github.com/torusnokindle/creative-workflow-tool": {
+      "id": "github-20260720-055",
+      "title": "Torusnokindle/Creative-Workflow-Tool",
+      "source_url": "https://github.com/Torusnokindle/Creative-Workflow-Tool",
+      "landing_url": "https://github.com/Torusnokindle/Creative-Workflow-Tool",
+      "display_title": "Torusnokindle/Creative-Workflow-Tool",
+      "pushed_at": "2026-07-20T07:34:57+00:00"
+    },
+    "url:https://github.com/wallshrimpconsider88/edit-master-pro": {
+      "id": "github-20260720-059",
+      "title": "WallShrimpConsider88/Edit-Master-Pro",
+      "source_url": "https://github.com/WallShrimpConsider88/Edit-Master-Pro",
+      "landing_url": "https://github.com/WallShrimpConsider88/Edit-Master-Pro",
+      "display_title": "WallShrimpConsider88/Edit-Master-Pro",
+      "pushed_at": "2026-07-20T07:34:57+00:00"
     }
   },
   "runs": [
@@ -381,6 +405,20 @@
         "该项目由507开发，专注于Agent工作流、Pi扩展和可复用技能",
         "ysysn315/data-agent",
         "snatchnodejack/Creative-Studio-Tool"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:34:57+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/sanchit0496/engineering-intelligence-mcp",
+        "url:https://github.com/torusnokindle/creative-workflow-tool",
+        "url:https://github.com/wallshrimpconsider88/edit-master-pro"
+      ],
+      "titles": [
+        "sanchit0496/engineering-intelligence-mcp",
+        "Torusnokindle/Creative-Workflow-Tool",
+        "WallShrimpConsider88/Edit-Master-Pro"
       ]
     }
   ]

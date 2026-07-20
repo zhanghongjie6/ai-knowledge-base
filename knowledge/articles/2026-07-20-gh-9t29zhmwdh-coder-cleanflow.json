@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-109",
+  "title": "9t29zhmwdh-coder/CleanFlow",
+  "source_url": "https://github.com/9t29zhmwdh-coder/CleanFlow",
+  "source_type": "github_trending",
+  "summary": "CleanFlow 是一款基于 Rust 和 Tauri 构建的 AI 驱动文件整理工具，能够自动扫描、分类、去重和组织文件。其核心价值在于利用 AI 技术实现智能化的文件管理，提升效率，适用于个人电脑文件清理与整理场景。",
+  "tags": [
+    "AI",
+    "File Organization",
+    "Rust",
+    "Tauri",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:34:44+00:00",
+  "updated_at": "2026-07-20T07:34:44+00:00"
+}

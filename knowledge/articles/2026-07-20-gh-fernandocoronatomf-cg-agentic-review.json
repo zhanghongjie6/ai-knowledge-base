@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-101",
+  "title": "fernandocoronatomf/cg-agentic-review",
+  "source_url": "https://github.com/fernandocoronatomf/cg-agentic-review",
+  "source_type": "github_trending",
+  "summary": "CG Agentic Review 是一个轻量级、本地优先的工作空间，用于审查 AI 生成的计划、报告、比较等结构化输出。它允许用户直接对特定部分进行评论，核心价值在于提供高效、私密的协作审查体验，技术亮点包括本地运行和结构化交互，适用于团队对 AI 输出进行人工审核的场景。",
+  "tags": [
+    "AI Review",
+    "Local-first",
+    "Collaboration",
+    "Workflow",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:34:44+00:00",
+  "updated_at": "2026-07-20T07:34:44+00:00"
+}

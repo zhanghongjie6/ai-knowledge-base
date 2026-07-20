@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-103",
+  "title": "sanchit0496/engineering-intelligence-mcp",
+  "source_url": "https://github.com/sanchit0496/engineering-intelligence-mcp",
+  "source_type": "github_trending",
+  "summary": "一个面向生产环境的Express.js应用MCP服务器，通过结构化工程工具使AI客户端能够调查后端系统。核心价值在于将Git历史、代码分析、日志检查等工程能力封装为标准化接口，支持AI代理直接交互。适用于自动化调试、代码审查、运维监控等场景，提升开发效率。",
+  "tags": [
+    "MCP",
+    "Express.js",
+    "AI Agent",
+    "DevOps",
+    "Code Analysis",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 1,
+  "status": "published",
+  "created_at": "2026-07-20T07:34:44+00:00",
+  "updated_at": "2026-07-20T07:34:57+00:00"
+}
