@@ -248,12 +248,19 @@ def is_ai_coding_relevant(article: dict[str, Any]) -> bool:
             break
     
     ai_domains = {
-        "arxiv.org", "openai.com", "anthropic.com", "huggingface.co",
+        "openai.com", "anthropic.com", "huggingface.co",
         "deepmind.com", "ollama.com", "langchain.com",
         "infoq.cn", "jiqizhixin.com", "qbitai.com",
     }
     domain = get_source_domain(url)
     is_ai_domain = domain in ai_domains
+    
+    if domain == "arxiv.org":
+        arxiv_ai_categories = {"cs.ai", "cs.cl", "cs.lg", "cs.cv"}
+        for cat in arxiv_ai_categories:
+            if cat in url.lower():
+                is_ai_domain = True
+                break
     
     source_type = str(article.get("source_type") or "").lower()
     is_ai_source = source_type in ["github_trending", "ai"]
