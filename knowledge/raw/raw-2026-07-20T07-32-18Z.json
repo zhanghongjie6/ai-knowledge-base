@@ -1,0 +1,92 @@
+[
+  {
+    "title": "jaeseok614/llm-gpu-checker-ko",
+    "url": "https://github.com/jaeseok614/llm-gpu-checker-ko",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Korean web-based LLM GPU compatibility and VRAM calculator",
+    "pushed_at": "2026-07-20T07:31:56Z",
+    "created_at_source": "2026-07-20T04:36:21Z"
+  },
+  {
+    "title": "umanari0617-ai/simple-shift-retail",
+    "url": "https://github.com/umanari0617-ai/simple-shift-retail",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:31:56Z",
+    "created_at_source": "2026-07-20T07:31:56Z"
+  },
+  {
+    "title": "shinkeonkim/boardai",
+    "url": "https://github.com/shinkeonkim/boardai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "보드게임을 같이 해주는 AI (Vision / AI 기반 / 멀티 플레이어 / 다양한 게임 지원)",
+    "pushed_at": "2026-07-20T07:31:56Z",
+    "created_at_source": "2026-07-20T07:31:55Z"
+  },
+  {
+    "title": "MaybeLL/interview-growth",
+    "url": "https://github.com/MaybeLL/interview-growth",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Agent-native interview practice and capability growth system for software engineering roles",
+    "pushed_at": "2026-07-20T07:31:56Z",
+    "created_at_source": "2026-07-19T21:02:47Z"
+  },
+  {
+    "title": "Orchardxyz/simple-amit",
+    "url": "https://github.com/Orchardxyz/simple-amit",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Simple extension for generating commit message with AI.",
+    "pushed_at": "2026-07-20T07:31:55Z",
+    "created_at_source": "2026-07-10T10:59:46Z"
+  },
+  {
+    "title": "Wamaoo/AI-Mental-Health-Assistant",
+    "url": "https://github.com/Wamaoo/AI-Mental-Health-Assistant",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:31:55Z",
+    "created_at_source": "2026-07-16T18:43:37Z"
+  },
+  {
+    "title": "LeahyCC/kungfu-kanban",
+    "url": "https://github.com/LeahyCC/kungfu-kanban",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "A personal kanban board where every card is an AI agent run — on your Claude subscription. Cards become PRs, a Sensei triages the queue. 🥋",
+    "pushed_at": "2026-07-20T07:31:59Z",
+    "created_at_source": "2026-07-17T09:32:33Z"
+  },
+  {
+    "title": "Hariom-patidar-tech/Chewbe-AI-Diet-Assistant",
+    "url": "https://github.com/Hariom-patidar-tech/Chewbe-AI-Diet-Assistant",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:31:55Z",
+    "created_at_source": "2026-06-03T07:06:45Z"
+  },
+  {
+    "title": "ppanturat/financial-dashboard",
+    "url": "https://github.com/ppanturat/financial-dashboard",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Personal stock portfolio tracker with performance metrics, live prices, AI analysis, and dividend income tracking. Built with React + FastAPI.",
+    "pushed_at": "2026-07-20T07:31:55Z",
+    "created_at_source": "2026-05-22T12:33:04Z"
+  },
+  {
+    "title": "O0000-code/awesome-academic-skills",
+    "url": "https://github.com/O0000-code/awesome-academic-skills",
+    "source": "github_trending",
+    "popularity": 13,
+    "summary": "An index of Claude and agent skills for academic work, from literature search to peer review. Organized by where each skill fits in the research lifecycle; each entry notes its license and what it run",
+    "pushed_at": "2026-07-20T07:31:53Z",
+    "created_at_source": "2026-05-29T09:38:08Z"
+  }
+]

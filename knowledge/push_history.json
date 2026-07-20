@@ -216,6 +216,30 @@
       "landing_url": "https://github.com/opyamorpen/agent-platform",
       "display_title": "一个轻量级AI Agent开发平台，支持快速构建、部署和管理智能代理",
       "pushed_at": "2026-07-20T07:30:59+00:00"
+    },
+    "url:https://github.com/ssdiwu/ssdiwu": {
+      "id": "github-20260720-050",
+      "title": "ssdiwu/ssdiwu",
+      "source_url": "https://github.com/ssdiwu/ssdiwu",
+      "landing_url": "https://github.com/ssdiwu/ssdiwu",
+      "display_title": "该项目由507开发，专注于Agent工作流、Pi扩展和可复用技能",
+      "pushed_at": "2026-07-20T07:32:47+00:00"
+    },
+    "url:https://github.com/ysysn315/data-agent": {
+      "id": "github-20260720-014",
+      "title": "ysysn315/data-agent",
+      "source_url": "https://github.com/ysysn315/data-agent",
+      "landing_url": "https://github.com/ysysn315/data-agent",
+      "display_title": "ysysn315/data-agent",
+      "pushed_at": "2026-07-20T07:32:47+00:00"
+    },
+    "url:https://github.com/snatchnodejack/creative-studio-tool": {
+      "id": "github-20260720-086",
+      "title": "snatchnodejack/Creative-Studio-Tool",
+      "source_url": "https://github.com/snatchnodejack/Creative-Studio-Tool",
+      "landing_url": "https://github.com/snatchnodejack/Creative-Studio-Tool",
+      "display_title": "snatchnodejack/Creative-Studio-Tool",
+      "pushed_at": "2026-07-20T07:32:47+00:00"
     }
   },
   "runs": [
@@ -343,6 +367,20 @@
         "该项目整理了关于自进化智能体的全面资源列表，涵盖综述、论文、基准测试和开源项目",
         "zircote/rlm-rs",
         "一个轻量级AI Agent开发平台，支持快速构建、部署和管理智能代理"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:32:47+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/ssdiwu/ssdiwu",
+        "url:https://github.com/ysysn315/data-agent",
+        "url:https://github.com/snatchnodejack/creative-studio-tool"
+      ],
+      "titles": [
+        "该项目由507开发，专注于Agent工作流、Pi扩展和可复用技能",
+        "ysysn315/data-agent",
+        "snatchnodejack/Creative-Studio-Tool"
       ]
     }
   ]

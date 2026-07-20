@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-097",
+  "title": "LeahyCC/kungfu-kanban",
+  "source_url": "https://github.com/LeahyCC/kungfu-kanban",
+  "source_type": "github_trending",
+  "summary": "Kungfu Kanban 是一个将看板管理与 Claude AI 代理执行相结合的个人项目管理系统。每个看板卡片对应一个 AI 代理任务，卡片可转化为 PR，内置 Sensei 角色自动排序队列。核心价值在于利用 Claude 订阅实现自动化任务编排，适用于个人开发者的轻量级项目管理与 AI 驱动工作流。",
+  "tags": [
+    "Kanban",
+    "AI Agent",
+    "Claude",
+    "Project Management",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-07-20T07:32:39+00:00",
+  "updated_at": "2026-07-20T07:32:39+00:00"
+}

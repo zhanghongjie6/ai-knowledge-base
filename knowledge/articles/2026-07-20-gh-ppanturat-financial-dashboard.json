@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-099",
+  "title": "ppanturat/financial-dashboard",
+  "source_url": "https://github.com/ppanturat/financial-dashboard",
+  "source_type": "github_trending",
+  "summary": "一个基于React和FastAPI的个人股票投资组合追踪器，提供实时价格、绩效指标、AI分析和股息收入追踪功能。核心价值在于整合多维度数据，帮助用户高效管理投资组合并获取智能洞察。",
+  "tags": [
+    "Finance",
+    "Portfolio Tracker",
+    "React",
+    "FastAPI",
+    "AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:32:39+00:00",
+  "updated_at": "2026-07-20T07:32:39+00:00"
+}
