@@ -72,6 +72,30 @@
       "landing_url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
       "display_title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
       "pushed_at": "2026-07-20T07:18:19+00:00"
+    },
+    "url:https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model": {
+      "id": "rss-20260720-012",
+      "title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
+      "source_url": "https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/",
+      "landing_url": "https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/",
+      "display_title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
+      "pushed_at": "2026-07-20T07:21:55+00:00"
+    },
+    "url:https://github.blog/engineering/the-cost-of-saying-yes-has-changed": {
+      "id": "rss-20260720-018",
+      "title": "The cost of saying yes has changed",
+      "source_url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+      "landing_url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+      "display_title": "The cost of saying yes has changed",
+      "pushed_at": "2026-07-20T07:21:55+00:00"
+    },
+    "url:https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5": {
+      "id": "rss-20260720-008",
+      "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
+      "source_url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
+      "landing_url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
+      "display_title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
+      "pushed_at": "2026-07-20T07:21:55+00:00"
     }
   },
   "runs": [
@@ -115,6 +139,20 @@
         "SuperMarioYL/idemstep",
         "Ollama: all aboard open models",
         "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:21:55+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model",
+        "url:https://github.blog/engineering/the-cost-of-saying-yes-has-changed",
+        "url:https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5"
+      ],
+      "titles": [
+        "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
+        "The cost of saying yes has changed",
+        "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\""
       ]
     }
   ]

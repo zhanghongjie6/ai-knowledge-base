@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-032",
+  "title": "Harshguliag416/wine-quality-predictor",
+  "source_url": "https://github.com/Harshguliag416/wine-quality-predictor",
+  "source_type": "github_trending",
+  "summary": "基于Flask、scikit-learn和Chart.js构建的AI葡萄酒质量预测工具，通过机器学习模型分析葡萄酒理化指标，实时预测品质评分并可视化展示。核心价值在于将传统品酒经验转化为可量化的数据驱动决策，适用于葡萄酒生产商的质量控制、消费者选购参考及教学演示场景。",
+  "tags": [
+    "Machine Learning",
+    "Flask",
+    "Data Visualization",
+    "Wine Quality",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:21:54+00:00",
+  "updated_at": "2026-07-20T07:21:54+00:00"
+}
