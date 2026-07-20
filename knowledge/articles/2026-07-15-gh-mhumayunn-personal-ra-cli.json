@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-025",
+  "title": "mhumayunn/personal-ra-cli",
+  "source_url": "https://github.com/mhumayunn/personal-ra-cli",
+  "source_type": "github_trending",
+  "summary": "一个注重隐私的研究助手命令行工具，集成RAG检索增强生成、引用来源和测试功能。核心价值在于本地化运行，保护用户数据隐私；技术亮点包括基于CLI的高效交互、RAG提升答案准确性、自动生成引用；适用于学术研究、技术文档查询等场景。",
+  "tags": [
+    "RAG",
+    "CLI",
+    "Privacy",
+    "Research Assistant",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:58:12+00:00",
+  "updated_at": "2026-07-15T09:58:12+00:00"
+}

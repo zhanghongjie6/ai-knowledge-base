@@ -1,0 +1,19 @@
+{
+  "id": "github-20260717-007",
+  "title": "devhub-agent-maxim/devhub-agent-maxim.github.io",
+  "source_url": "https://github.com/devhub-agent-maxim/devhub-agent-maxim.github.io",
+  "source_type": "github_trending",
+  "summary": "DevHub Agent Maxim 是一个实时仪表盘项目，用于展示 HL Fleet 的运营数据。其核心价值在于提供直观、动态的可视化界面，帮助用户监控车队状态。技术亮点包括实时数据更新和前端可视化。适用于车队管理、物流监控等场景。",
+  "tags": [
+    "Dashboard",
+    "Real-time",
+    "Visualization",
+    "Fleet Management",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-17T02:04:06+00:00",
+  "updated_at": "2026-07-17T02:04:06+00:00"
+}

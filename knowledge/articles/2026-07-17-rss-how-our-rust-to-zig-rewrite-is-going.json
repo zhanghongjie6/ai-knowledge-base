@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260717-001",
+  "title": "How Our Rust-to-Zig Rewrite is Going",
+  "source_url": "https://rtfeldman.com/rust-to-zig",
+  "source_type": "rss",
+  "summary": "本文讨论了将项目从Rust重写为Zig的实践经验与进展，核心价值在于对比两种系统编程语言在性能、内存管理、编译速度及开发体验上的差异。技术亮点包括Zig在无运行时、手动内存控制方面的优势，以及重写过程中遇到的挑战与解决方案。适用场景为对系统编程语言选型感兴趣或考虑迁移的开发者。",
+  "tags": [
+    "Rust",
+    "Zig",
+    "Systems Programming",
+    "Rewrite",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-17T02:04:06+00:00",
+  "updated_at": "2026-07-17T02:04:06+00:00"
+}

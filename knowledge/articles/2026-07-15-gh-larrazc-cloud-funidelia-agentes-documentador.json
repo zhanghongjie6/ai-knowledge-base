@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-017",
+  "title": "larrazc-cloud/funidelia-agentes-documentador",
+  "source_url": "https://github.com/larrazc-cloud/funidelia-agentes-documentador",
+  "source_type": "github_trending",
+  "summary": "一个基于AI代理的自动化文档生成工具，利用大型语言模型从代码库中提取信息并生成结构化文档。核心价值在于减少手动编写文档的工作量，技术亮点包括智能代码分析、上下文感知的文档生成，适用于开发团队快速维护项目文档。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Documentation",
+    "Code Analysis",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-15T09:52:49+00:00",
+  "updated_at": "2026-07-15T09:52:49+00:00"
+}

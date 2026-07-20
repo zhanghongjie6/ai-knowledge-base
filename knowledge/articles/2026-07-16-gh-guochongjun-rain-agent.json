@@ -1,0 +1,19 @@
+{
+  "id": "github-20260716-009",
+  "title": "guochongjun/RAIN-agent",
+  "source_url": "https://github.com/guochongjun/RAIN-agent",
+  "source_type": "github_trending",
+  "summary": "RAIN-agent 基于 Hermes 深度优化，通过创新的“工作目录”机制实现运行环境隔离，提升安全性与防数据污染。提供 Windows 一键安装包，预置核心依赖库，实现开箱即用，降低新手使用门槛。适用于需要安全隔离与快速部署的 AI 代理场景。",
+  "tags": [
+    "Agent",
+    "AI Safety",
+    "Deployment",
+    "Hermes",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-07-16T02:00:31+00:00",
+  "updated_at": "2026-07-16T02:00:31+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260716-007",
+  "title": "gabrielk83/AntCV",
+  "source_url": "https://github.com/gabrielk83/AntCV",
+  "source_type": "github_trending",
+  "summary": "AntCV 是一个多智能体求职申请编排平台，核心价值在于通过智能路由、验证、溯源和ATS感知文档生成，自动化并优化求职流程。技术亮点包括多代理协作、简历定制和申请跟踪。适用于求职者高效管理多公司申请。",
+  "tags": [
+    "Multi-Agent",
+    "Job Application",
+    "ATS",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-16T02:00:31+00:00",
+  "updated_at": "2026-07-16T02:00:31+00:00"
+}

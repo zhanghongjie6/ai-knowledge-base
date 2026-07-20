@@ -1,0 +1,19 @@
+{
+  "id": "github-20260717-003",
+  "title": "siyuliu040-crypto/siyu-factory-ai",
+  "source_url": "https://github.com/siyuliu040-crypto/siyu-factory-ai",
+  "source_type": "github_trending",
+  "summary": "Siyu Factory AI 是一个基于 Render 部署的图像与视频生成网站，提供便捷的 AI 内容创作服务。其核心价值在于简化部署流程，支持快速生成视觉内容，适用于社交媒体、广告创意等场景。技术亮点包括集成主流生成模型和自动化渲染管道。",
+  "tags": [
+    "AI",
+    "Image Generation",
+    "Video Generation",
+    "Render Deployment",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-17T02:04:06+00:00",
+  "updated_at": "2026-07-17T02:04:06+00:00"
+}

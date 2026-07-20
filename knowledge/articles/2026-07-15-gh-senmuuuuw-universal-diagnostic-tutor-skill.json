@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-022",
+  "title": "SenmuuuuW/universal-diagnostic-tutor-skill",
+  "source_url": "https://github.com/SenmuuuuW/universal-diagnostic-tutor-skill",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于诊断优先的AI导师技能，专为STEM、AI/CS学习设计。核心价值在于先诊断学习者知识漏洞，再针对性教学、检查理解并构建掌握，实现个性化学习路径。技术亮点包括自适应诊断算法与交互式教学。适用于编程、数学等学科的自主辅导与课堂辅助。",
+  "tags": [
+    "AI Tutor",
+    "STEM Education",
+    "Adaptive Learning",
+    "Diagnostic",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 132,
+  "status": "draft",
+  "created_at": "2026-07-15T09:58:12+00:00",
+  "updated_at": "2026-07-15T09:58:12+00:00"
+}

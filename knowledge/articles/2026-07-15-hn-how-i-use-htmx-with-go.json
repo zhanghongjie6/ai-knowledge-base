@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260715-004",
+  "title": "How I use HTMX with Go",
+  "source_url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+  "source_type": "hacker_news",
+  "summary": "本文介绍了如何将HTMX与Go语言结合使用，通过HTMX的HTML属性驱动AJAX请求，实现无需编写JavaScript的交互式Web应用。核心价值在于简化前端开发，利用Go的模板和标准库处理服务器端逻辑，适用于构建动态表单、实时更新列表等场景。技术亮点包括使用HTMX的hx-trigger、hx-target等属性，以及Go的http.Handler和模板渲染。",
+  "tags": [
+    "HTMX",
+    "Go",
+    "Web Development",
+    "Server-Side Rendering",
+    "hackernews"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:52:49+00:00",
+  "updated_at": "2026-07-15T09:52:49+00:00"
+}

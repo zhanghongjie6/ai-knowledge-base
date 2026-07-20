@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260717-002",
+  "title": "Linus Torvalds on LLM usage in kernel development",
+  "source_url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
+  "source_type": "rss",
+  "summary": "Linus Torvalds 对LLM在Linux内核开发中的应用持谨慎态度，认为其可能引入不可靠代码，强调内核开发需要严格审查和人类判断，核心价值在于维护代码质量与安全性。",
+  "tags": [
+    "LLM",
+    "Linux Kernel",
+    "Open Source",
+    "Code Review",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-17T02:04:06+00:00",
+  "updated_at": "2026-07-17T02:04:06+00:00"
+}

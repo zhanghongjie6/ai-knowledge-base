@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-030",
+  "title": "dalum/sprig",
+  "source_url": "https://github.com/dalum/sprig",
+  "source_type": "github_trending",
+  "summary": "Sprig 是一个 Emacs 扩展，支持非线性代理对话，允许用户在 Emacs 中创建和管理分支对话路径，适用于交互式编程、调试和探索性分析。其核心价值在于将 LLM 代理的对话能力与 Emacs 的编辑环境深度集成，技术亮点包括对话树结构、分支切换和上下文保留，使用场景涵盖代码生成、问题解决和知识探索。",
+  "tags": [
+    "Emacs",
+    "Agent",
+    "LLM",
+    "Conversation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:58:12+00:00",
+  "updated_at": "2026-07-15T09:58:12+00:00"
+}

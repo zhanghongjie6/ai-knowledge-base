@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-021",
+  "title": "D-ing-Y/Campus-Recruitment-Agent",
+  "source_url": "https://github.com/D-ing-Y/Campus-Recruitment-Agent",
+  "source_type": "github_trending",
+  "summary": "基于大语言模型的校园招聘智能体，自动化处理简历筛选、面试安排与候选人沟通，提升招聘效率。核心价值在于通过Agent技术实现端到端招聘流程自动化，适用于企业HR部门快速筛选海量应届生简历。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Recruitment",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:58:12+00:00",
+  "updated_at": "2026-07-15T09:58:12+00:00"
+}

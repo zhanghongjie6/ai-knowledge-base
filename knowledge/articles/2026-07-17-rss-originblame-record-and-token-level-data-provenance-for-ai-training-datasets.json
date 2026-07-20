@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260717-004",
+  "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+  "source_url": "https://arxiv.org/abs/2607.13037",
+  "source_type": "rss",
+  "summary": "OriginBlame 是一种用于AI训练数据集的数据溯源工具，能够在记录和令牌级别定位数据来源。它解决了模型训练者在处理数据贡献者删除请求时的实际难题：遗忘算法需要遗忘集，但缺乏工具来精确识别哪些数据需要被遗忘。该工具通过细粒度溯源，支持数据合规与隐私保护。",
+  "tags": [
+    "Data Provenance",
+    "Unlearning",
+    "Privacy",
+    "AI Training",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-17T02:04:06+00:00",
+  "updated_at": "2026-07-17T02:04:06+00:00"
+}

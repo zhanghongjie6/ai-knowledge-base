@@ -1,0 +1,19 @@
+{
+  "id": "github-20260715-026",
+  "title": "JohnMelord07/Project-INVICTUS",
+  "source_url": "https://github.com/JohnMelord07/Project-INVICTUS",
+  "source_type": "github_trending",
+  "summary": "基于Tkinter的AI四子棋游戏，采用启发式MINIMAX算法，实现约95%胜率。核心价值在于展示经典AI算法在棋盘游戏中的高效应用，技术亮点包括动画交互界面与优化搜索策略，适用于AI教学、游戏开发学习及娱乐场景。",
+  "tags": [
+    "Game AI",
+    "Minimax",
+    "Tkinter",
+    "Connect4",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-15T09:58:12+00:00",
+  "updated_at": "2026-07-15T09:58:12+00:00"
+}

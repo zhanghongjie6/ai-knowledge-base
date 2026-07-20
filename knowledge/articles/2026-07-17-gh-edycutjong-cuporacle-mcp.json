@@ -1,0 +1,20 @@
+{
+  "id": "github-20260717-001",
+  "title": "edycutjong/cuporacle-mcp",
+  "source_url": "https://github.com/edycutjong/cuporacle-mcp",
+  "source_type": "github_trending",
+  "summary": "一个世界杯MCP服务器，提供实时赛程、比分、赔率和淘汰赛赛程等免费工具，并包含一个名为wc_edge的智能体，该智能体可通过Injective x402自行支付0.05 USDC并引用链上收据。核心价值在于将体育数据与链上支付结合，实现自动化数据获取与交易验证。",
+  "tags": [
+    "MCP",
+    "Blockchain",
+    "Sports Data",
+    "Agent",
+    "DeFi",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-17T02:04:06+00:00",
+  "updated_at": "2026-07-17T02:04:06+00:00"
+}
