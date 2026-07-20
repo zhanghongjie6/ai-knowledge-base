@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-153",
+  "title": "BougieZoe/3DP-Agent-",
+  "source_url": "https://github.com/BougieZoe/3DP-Agent-",
+  "source_type": "github_trending",
+  "summary": "3DP-Agent是一个基于大语言模型的3D打印智能体系统，能够自动解析用户需求并生成可打印的3D模型。核心技术结合了LLM的语义理解与3D建模能力，支持文本到3D的快速生成。适用于快速原型设计、教育、创客等场景，显著降低3D建模门槛。",
+  "tags": [
+    "LLM",
+    "3D Printing",
+    "Agent",
+    "Generative Design",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-20T07:58:41+00:00",
+  "updated_at": "2026-07-20T07:58:41+00:00"
+}

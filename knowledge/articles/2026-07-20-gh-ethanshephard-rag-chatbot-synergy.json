@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-160",
+  "title": "EthanShephard/Rag_Chatbot_Synergy",
+  "source_url": "https://github.com/EthanShephard/Rag_Chatbot_Synergy",
+  "source_type": "github_trending",
+  "summary": "Rag_Chatbot_Synergy 是一个结合检索增强生成（RAG）与聊天机器人技术的开源项目，通过整合外部知识库提升对话系统的准确性和上下文理解能力。其核心价值在于利用向量数据库和语言模型协同工作，实现实时信息检索与智能问答，适用于客服、教育、企业知识管理等场景。技术亮点包括模块化设计、易于部署的API接口以及对多种文档格式的支持。",
+  "tags": [
+    "RAG",
+    "Chatbot",
+    "LLM",
+    "Knowledge Base",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:58:41+00:00",
+  "updated_at": "2026-07-20T07:58:41+00:00"
+}

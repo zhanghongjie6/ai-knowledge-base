@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-152",
+  "title": "sachsen/llm_cost_manager_release",
+  "source_url": "https://github.com/sachsen/llm_cost_manager_release",
+  "source_type": "github_trending",
+  "summary": "LLM Cost Manager 是一个开源工具，用于跟踪和管理大语言模型的使用成本。它提供实时监控、预算控制和历史数据分析功能，帮助用户优化LLM调用开销，适用于企业级AI应用的成本管理场景。",
+  "tags": [
+    "LLM",
+    "Cost Management",
+    "Monitoring",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:58:41+00:00",
+  "updated_at": "2026-07-20T07:58:41+00:00"
+}
