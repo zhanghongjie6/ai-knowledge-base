@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-124",
+  "title": "SuperMarioYL/dirtygraph",
+  "source_url": "https://github.com/SuperMarioYL/dirtygraph",
+  "source_type": "github_trending",
+  "summary": "Dirtygraph 采用 Bazel 风格的脏标记与增量重推导机制，专为智能体维护的文档和代码库知识图谱设计。其核心价值在于仅重新推导脏子图，而非重建整个图谱，大幅提升效率。技术亮点包括精确的依赖追踪和增量更新，适用于持续集成、代码审查和知识库管理等场景。",
+  "tags": [
+    "Knowledge Graph",
+    "Incremental Update",
+    "Agent",
+    "Dependency Tracking",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:44:26+00:00",
+  "updated_at": "2026-07-20T07:44:32+00:00"
+}
