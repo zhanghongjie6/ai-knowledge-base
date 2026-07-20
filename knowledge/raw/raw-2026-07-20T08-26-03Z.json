@@ -1,0 +1,116 @@
+[
+  {
+    "title": "Arunkumarab1718/FoodSnap_AI_Instant_Calorie_Detection_System",
+    "url": "https://github.com/Arunkumarab1718/FoodSnap_AI_Instant_Calorie_Detection_System",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T08:25:40Z",
+    "created_at_source": "2026-07-18T12:17:03Z"
+  },
+  {
+    "title": "davidberea/optimizing-llms-contextual-reasoning",
+    "url": "https://github.com/davidberea/optimizing-llms-contextual-reasoning",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T08:25:39Z",
+    "created_at_source": "2026-07-20T08:25:36Z"
+  },
+  {
+    "title": "naveenkumarrk/ai-infra-upskill",
+    "url": "https://github.com/naveenkumarrk/ai-infra-upskill",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T08:25:39Z",
+    "created_at_source": "2026-07-20T08:25:36Z"
+  },
+  {
+    "title": "tanmay-d-s/AI-Study-Assistant",
+    "url": "https://github.com/tanmay-d-s/AI-Study-Assistant",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T08:25:39Z",
+    "created_at_source": "2026-07-20T08:25:38Z"
+  },
+  {
+    "title": "y-unees/ai-video-analysis-python",
+    "url": "https://github.com/y-unees/ai-video-analysis-python",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "This repository contains video analysis tool made using python and will be used for continuous improvements and other integrations later on.",
+    "pushed_at": "2026-07-20T08:25:38Z",
+    "created_at_source": "2026-07-11T15:48:49Z"
+  },
+  {
+    "title": "dlgudgh1107-jpg/AI_ChatBot",
+    "url": "https://github.com/dlgudgh1107-jpg/AI_ChatBot",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T08:25:38Z",
+    "created_at_source": "2026-07-20T08:25:37Z"
+  },
+  {
+    "title": "gitychzh/NVForge",
+    "url": "https://github.com/gitychzh/NVForge",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "NVForge — dual-host gateway infra tuning the nv_gw → NVCF link for hermes/openclaw/opencode agents. Data-driven round-by-round optimization.",
+    "pushed_at": "2026-07-20T08:25:37Z",
+    "created_at_source": "2026-06-25T06:59:10Z"
+  },
+  {
+    "title": "yuanlsii/s20-agent",
+    "url": "https://github.com/yuanlsii/s20-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "s20-agent",
+    "pushed_at": "2026-07-20T08:25:37Z",
+    "created_at_source": "2026-07-20T07:50:44Z"
+  },
+  {
+    "title": "Ani-HQ/vesta",
+    "url": "https://github.com/Ani-HQ/vesta",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Split-flap board counting down the hours left in the year. AI-written daily messages.",
+    "pushed_at": "2026-07-20T08:25:37Z",
+    "created_at_source": "2026-06-10T07:04:37Z"
+  },
+  {
+    "title": "MIgHTy-alIeN/Trading-Bot",
+    "url": "https://github.com/MIgHTy-alIeN/Trading-Bot",
+    "source": "github_trending",
+    "popularity": 351,
+    "summary": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+    "pushed_at": "2026-07-20T08:25:37Z",
+    "created_at_source": "2026-07-17T09:45:22Z"
+  },
+  {
+    "title": "My company ranked #1 on Google but ChatGPT had never heard of us. Here's what I did about it.",
+    "url": "https://dev.to/agustaon/my-company-ranked-1-on-google-but-chatgpt-had-never-heard-of-us-heres-what-i-did-about-it-241o",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Last month my manager forwarded me a Slack message from our founder that just said: \"Ask ChatGPT what our company does. Then panic.\"\n\nSo I did. I opened ChatGPT and typed our company name. It confiden",
+    "feed_name": "DEV.to AI"
+  },
+  {
+    "title": "Backbeat Forge",
+    "url": "https://www.producthunt.com/products/backbeat-forge",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Turn drum audio into a score you can actually edit\n          \n          \n            Discussion\n            |\n            Link",
+    "feed_name": "Product Hunt"
+  },
+  {
+    "title": "鸿蒙 ArkUI 进阶：@Extend 和 @Styles，把样式也抽成「乐高块」的正确姿势",
+    "url": "https://juejin.cn/post/7664387452488908841",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "@Styles 抽一组通用样式不带参,@Extend 扩展指定组件样式可带参。本文用同台 demo 演示三姿势:@Styles 三卡共用、@Extend(Text) 带参标题、@Extend(Butt",
+    "feed_name": "掘金"
+  }
+]

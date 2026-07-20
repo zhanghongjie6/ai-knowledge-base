@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-191",
+  "title": "Arunkumarab1718/FoodSnap_AI_Instant_Calorie_Detection_System",
+  "source_url": "https://github.com/Arunkumarab1718/FoodSnap_AI_Instant_Calorie_Detection_System",
+  "source_type": "github_trending",
+  "summary": "FoodSnap AI 是一款基于深度学习的食物卡路里即时检测系统，用户拍照即可识别食物种类并估算热量。核心技术采用图像分类与营养数据库结合，适用于健康管理、饮食记录和健身辅助场景。",
+  "tags": [
+    "Computer Vision",
+    "Health Tech",
+    "Deep Learning",
+    "Calorie Detection",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:26:29+00:00",
+  "updated_at": "2026-07-20T08:26:29+00:00"
+}

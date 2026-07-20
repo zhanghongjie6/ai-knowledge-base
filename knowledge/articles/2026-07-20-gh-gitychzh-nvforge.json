@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-197",
+  "title": "gitychzh/NVForge",
+  "source_url": "https://github.com/gitychzh/NVForge",
+  "source_type": "github_trending",
+  "summary": "NVForge 是一个双主机网关基础设施，通过数据驱动的逐轮优化，调优 nv_gw 到 NVCF 的链路，专为 hermes、openclaw、opencode 等代理设计，提升推理效率与稳定性。",
+  "tags": [
+    "Agent",
+    "Infrastructure",
+    "Gateway",
+    "Optimization",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:26:29+00:00",
+  "updated_at": "2026-07-20T08:26:29+00:00"
+}

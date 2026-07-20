@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-192",
+  "title": "davidberea/optimizing-llms-contextual-reasoning",
+  "source_url": "https://github.com/davidberea/optimizing-llms-contextual-reasoning",
+  "source_type": "github_trending",
+  "summary": "该项目提出了一种优化大语言模型上下文推理能力的方法，通过改进提示策略和推理路径，显著提升模型在复杂任务中的准确性和效率。核心价值在于降低推理成本并增强可解释性，适用于问答、代码生成和逻辑分析等场景。",
+  "tags": [
+    "LLM",
+    "Reasoning",
+    "Prompt Engineering",
+    "Optimization",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:26:29+00:00",
+  "updated_at": "2026-07-20T08:26:29+00:00"
+}
