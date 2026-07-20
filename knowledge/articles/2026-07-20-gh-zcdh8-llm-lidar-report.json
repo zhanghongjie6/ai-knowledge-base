@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-168",
+  "title": "zcdh8/llm_lidar_report",
+  "source_url": "https://github.com/zcdh8/llm_lidar_report",
+  "source_type": "github_trending",
+  "summary": "该项目利用大语言模型自动生成激光雷达日报，核心价值在于将LLM与激光雷达数据结合，实现自动化报告生成。技术亮点包括自然语言处理与传感器数据融合，适用于自动驾驶、测绘等领域的日常监测与汇报。",
+  "tags": [
+    "LLM",
+    "LiDAR",
+    "Automation",
+    "Report Generation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:01:05+00:00",
+  "updated_at": "2026-07-20T08:01:05+00:00"
+}

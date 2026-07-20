@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-043",
+  "title": "A Day in the Life: Programming With an AI Partner",
+  "source_url": "https://dev.to/archantech/a-day-in-the-life-programming-with-an-ai-partner-2o4o",
+  "source_type": "rss",
+  "summary": "本文通过作者与AI编程助手协作的真实经历，展示了AI在代码重构中可能引发的连锁错误。核心价值在于揭示AI辅助编程的局限性，强调开发者仍需保持警惕和审查能力。技术亮点包括对AI错误模式的剖析，以及如何从失败中学习。适用于开发者理解AI工具的边界，提升人机协作效率。",
+  "tags": [
+    "AI-Assisted Programming",
+    "Code Review",
+    "Developer Experience",
+    "Human-AI Collaboration",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:01:05+00:00",
+  "updated_at": "2026-07-20T08:01:05+00:00"
+}

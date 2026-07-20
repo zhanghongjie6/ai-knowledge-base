@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-179",
+  "title": "jatinbansalwork-commits/ai-playground",
+  "source_url": "https://github.com/jatinbansalwork-commits/ai-playground",
+  "source_type": "github_trending",
+  "summary": "一个面向AI开发者的实验性代码库，包含多种前沿AI技术的实现示例，如LLM微调、RAG应用、Agent开发等。核心价值在于提供可直接运行的代码片段和最佳实践，帮助开发者快速上手并集成AI能力到实际项目中。适用于学习、原型验证和快速迭代。",
+  "tags": [
+    "LLM",
+    "RAG",
+    "Agent",
+    "AI Development",
+    "Playground",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-20T08:04:12+00:00",
+  "updated_at": "2026-07-20T08:04:12+00:00"
+}

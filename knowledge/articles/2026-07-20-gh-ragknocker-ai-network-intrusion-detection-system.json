@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-158",
+  "title": "Ragknocker/ai-network-intrusion-detection-system",
+  "source_url": "https://github.com/Ragknocker/ai-network-intrusion-detection-system",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于机器学习的网络入侵检测系统，利用随机森林算法对网络流量进行分类，识别正常与恶意行为。核心价值在于提供轻量级、可部署的AI安全方案，适用于中小型网络环境。技术亮点包括特征工程优化和实时检测能力，使用场景涵盖企业内网监控和边缘安全防护。",
+  "tags": [
+    "Network Security",
+    "Intrusion Detection",
+    "Machine Learning",
+    "Random Forest",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:58:41+00:00",
+  "updated_at": "2026-07-20T07:58:41+00:00"
+}

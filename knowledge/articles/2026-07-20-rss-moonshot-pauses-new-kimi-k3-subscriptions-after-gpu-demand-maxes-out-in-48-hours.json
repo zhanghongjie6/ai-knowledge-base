@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-042",
+  "title": "Moonshot pauses new Kimi K3 subscriptions after GPU demand maxes out in 48 hours",
+  "source_url": "https://the-decoder.com/moonshot-pauses-new-kimi-k3-subscriptions-after-gpu-demand-maxes-out-in-48-hours/",
+  "source_type": "rss",
+  "summary": "Moonshot因GPU算力在48小时内被抢购一空，暂停Kimi K3新订阅。该模型需求远超预期，公司计划拆分订阅模式以分散负载。核心价值在于验证了高性能AI模型的爆发式需求，技术亮点是快速扩容能力，用例包括高并发AI推理场景。",
+  "tags": [
+    "GPU",
+    "AI Model",
+    "Subscription",
+    "Capacity Planning",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:58:41+00:00",
+  "updated_at": "2026-07-20T07:58:41+00:00"
+}

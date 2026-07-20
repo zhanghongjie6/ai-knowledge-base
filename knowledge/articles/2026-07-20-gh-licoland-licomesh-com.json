@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-161",
+  "title": "LicoLand/licomesh.com",
+  "source_url": "https://github.com/LicoLand/licomesh.com",
+  "source_type": "github_trending",
+  "summary": "LicoMesh 是一个开源、可私有部署的代理连接平台，旨在实现安全、可控的智能体互联。其核心价值在于提供去中心化的代理治理与通信基础设施，适用于企业级 AI 应用、多代理协作和隐私敏感场景。技术亮点包括端到端加密、权限控制和模块化架构。",
+  "tags": [
+    "Agent",
+    "Open Source",
+    "Private Deployment",
+    "Connectivity",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:01:05+00:00",
+  "updated_at": "2026-07-20T08:01:05+00:00"
+}

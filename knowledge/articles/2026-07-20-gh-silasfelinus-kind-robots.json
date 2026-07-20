@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-159",
+  "title": "silasfelinus/kind_robots",
+  "source_url": "https://github.com/silasfelinus/kind_robots",
+  "source_type": "github_trending",
+  "summary": "基于Vue 3.2、Nuxt 3、Prisma和Nuxt Content构建的模块化NLP提示机器人项目，提供可扩展的对话AI框架，支持自定义提示词和内容管理，适用于快速搭建智能问答与交互应用。",
+  "tags": [
+    "NLP",
+    "Vue",
+    "Nuxt",
+    "Prisma",
+    "Chatbot",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 11,
+  "status": "draft",
+  "created_at": "2026-07-20T07:58:41+00:00",
+  "updated_at": "2026-07-20T07:58:41+00:00"
+}
