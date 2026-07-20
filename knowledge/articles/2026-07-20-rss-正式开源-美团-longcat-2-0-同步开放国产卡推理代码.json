@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260720-027",
+  "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+  "source_url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+  "source_type": "rss",
+  "summary": "美团开源LongCat-2.0，总参数1.6T，平均激活约48B，专为真实Agentic Coding任务设计。创新引入LongCat稀疏注意力和N-gram Embedding，提升长上下文处理效率与Token级表示能力，结合动态激活强化代码理解、生成与执行，支持国产卡推理。",
+  "tags": [
+    "LLM",
+    "MoE",
+    "Agentic Coding",
+    "Long Context",
+    "Open Source",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:18:16+00:00",
+  "updated_at": "2026-07-20T07:18:19+00:00"
+}

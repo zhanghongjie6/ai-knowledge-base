@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-026",
+  "title": "haitanghuaweimianTom/MathModel-MutiAgentSystem",
+  "source_url": "https://github.com/haitanghuaweimianTom/MathModel-MutiAgentSystem",
+  "source_type": "github_trending",
+  "summary": "该项目实现了一个用于数学建模的多智能体系统，通过多个AI代理协作解决复杂数学问题。核心价值在于利用多代理分工与交互提升建模效率与准确性，技术亮点包括任务分解、代理间通信与结果整合。适用于数学竞赛、科研建模及教育场景。",
+  "tags": [
+    "Multi-Agent",
+    "Mathematical Modeling",
+    "AI Collaboration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 15,
+  "status": "draft",
+  "created_at": "2026-07-20T07:18:15+00:00",
+  "updated_at": "2026-07-20T07:18:15+00:00"
+}

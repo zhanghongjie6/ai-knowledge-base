@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-023",
+  "title": "jiyoung04lee/Pilll_Agent",
+  "source_url": "https://github.com/jiyoung04lee/Pilll_Agent",
+  "source_type": "github_trending",
+  "summary": "Pilll_Agent 是一个基于大语言模型的智能用药助手代理，通过自然语言交互帮助用户管理用药计划、提供药物信息查询和提醒功能。其核心技术亮点包括结合 LLM 的对话理解与结构化数据检索，支持多轮对话和个性化用药建议。适用于个人健康管理、老年人用药辅助及医疗咨询场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Healthcare",
+    "Personal Assistant",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:18:15+00:00",
+  "updated_at": "2026-07-20T07:18:15+00:00"
+}

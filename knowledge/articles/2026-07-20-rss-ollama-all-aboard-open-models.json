@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-028",
+  "title": "Ollama: all aboard open models",
+  "source_url": "https://ollama.com/blog/all-aboard-open-models",
+  "source_type": "rss",
+  "summary": "Ollama 已服务 890 万开发者，获得 8800 万美元融资，核心价值在于简化开源大模型的本地部署与运行，技术亮点包括一键式模型管理、跨平台支持及高性能推理，适用于个人开发、隐私敏感场景和离线 AI 应用。",
+  "tags": [
+    "LLM",
+    "Open Source",
+    "Local Deployment",
+    "Developer Tools",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:18:16+00:00",
+  "updated_at": "2026-07-20T07:18:19+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-024",
+  "title": "COK-ZhangZiliang/AI-Agent-Security",
+  "source_url": "https://github.com/COK-ZhangZiliang/AI-Agent-Security",
+  "source_type": "github_trending",
+  "summary": "该项目聚焦AI Agent安全领域，系统梳理了提示注入、数据泄露、权限滥用等核心威胁，并提供检测与防御方案。适用于企业级Agent部署、安全审计及开发者防护实践，技术亮点包括攻击分类矩阵与开源工具链。",
+  "tags": [
+    "AI Security",
+    "Agent",
+    "Prompt Injection",
+    "Security Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:18:15+00:00",
+  "updated_at": "2026-07-20T07:18:15+00:00"
+}

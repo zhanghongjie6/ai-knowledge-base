@@ -48,6 +48,30 @@
       "landing_url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
       "display_title": "Our approach to bioresilience",
       "pushed_at": "2026-07-20T07:12:12+00:00"
+    },
+    "url:https://github.com/supermarioyl/idemstep": {
+      "id": "github-20260720-028",
+      "title": "SuperMarioYL/idemstep",
+      "source_url": "https://github.com/SuperMarioYL/idemstep",
+      "landing_url": "https://github.com/SuperMarioYL/idemstep",
+      "display_title": "SuperMarioYL/idemstep",
+      "pushed_at": "2026-07-20T07:18:19+00:00"
+    },
+    "url:https://ollama.com/blog/all-aboard-open-models": {
+      "id": "rss-20260720-028",
+      "title": "Ollama: all aboard open models",
+      "source_url": "https://ollama.com/blog/all-aboard-open-models",
+      "landing_url": "https://ollama.com/blog/all-aboard-open-models",
+      "display_title": "Ollama: all aboard open models",
+      "pushed_at": "2026-07-20T07:18:19+00:00"
+    },
+    "url:https://tech.meituan.com/2026/07/12/longcat-2.0-open-source.html": {
+      "id": "rss-20260720-027",
+      "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+      "source_url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+      "landing_url": "https://tech.meituan.com/2026/07/12/LongCat-2.0-Open-source.html",
+      "display_title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+      "pushed_at": "2026-07-20T07:18:19+00:00"
     }
   },
   "runs": [
@@ -77,6 +101,20 @@
         "该研究提出将大型语言模型作为统一多模态学习器，用于临床预测",
         "Introducing Muse Spark 1.1",
         "Our approach to bioresilience"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:18:19+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/supermarioyl/idemstep",
+        "url:https://ollama.com/blog/all-aboard-open-models",
+        "url:https://tech.meituan.com/2026/07/12/longcat-2.0-open-source.html"
+      ],
+      "titles": [
+        "SuperMarioYL/idemstep",
+        "Ollama: all aboard open models",
+        "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码"
       ]
     }
   ]

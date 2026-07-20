@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-027",
+  "title": "MachineLearning-Nerd/icml26-repro-dfqmQ9WhCP-ai4slt-formalization",
+  "source_url": "https://github.com/MachineLearning-Nerd/icml26-repro-dfqmQ9WhCP-ai4slt-formalization",
+  "source_type": "github_trending",
+  "summary": "该项目为ICML 2026论文的复现代码，专注于AI4SLT（人工智能驱动的统计语言翻译）的形式化方法。核心价值在于提供可复现的基准实现，技术亮点包括形式化验证框架与翻译模型集成，适用于学术研究中的算法对比与实验验证。",
+  "tags": [
+    "Reproducibility",
+    "Formalization",
+    "Machine Translation",
+    "AI4SLT",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:18:15+00:00",
+  "updated_at": "2026-07-20T07:18:15+00:00"
+}
