@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-147",
+  "title": "xd2621128/KimiDesk",
+  "source_url": "https://github.com/xd2621128/KimiDesk",
+  "source_type": "github_trending",
+  "summary": "KimiDesk 是一个轻量级 Electron 封装工具，将 Kimi Code CLI 网页界面转换为跨平台桌面应用。核心价值在于提供原生窗口、系统托盘、全局快捷键和本地文件系统访问，简化了 Kimi 代码助手的桌面使用体验。适用于开发者日常编码辅助场景。",
+  "tags": [
+    "Electron",
+    "Desktop App",
+    "Kimi",
+    "CLI",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:54:09+00:00",
+  "updated_at": "2026-07-20T07:54:09+00:00"
+}

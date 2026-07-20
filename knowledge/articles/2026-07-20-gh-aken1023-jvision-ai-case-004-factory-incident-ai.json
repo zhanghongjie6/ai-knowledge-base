@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-145",
+  "title": "aken1023/jvision-ai-case-004-factory-incident-ai",
+  "source_url": "https://github.com/aken1023/jvision-ai-case-004-factory-incident-ai",
+  "source_type": "github_trending",
+  "summary": "该项目是一个工厂事故AI检测案例，利用计算机视觉技术实时监控工厂环境，自动识别并报警潜在的安全隐患，如人员违规操作、设备异常等。核心价值在于提升工厂安全管理的智能化水平，降低人工监控成本，适用于制造业、化工等高风险场景。",
+  "tags": [
+    "Computer Vision",
+    "Industrial Safety",
+    "AI Monitoring",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:54:09+00:00",
+  "updated_at": "2026-07-20T07:54:09+00:00"
+}

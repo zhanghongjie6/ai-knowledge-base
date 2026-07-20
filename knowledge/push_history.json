@@ -88,6 +88,30 @@
       "landing_url": "https://github.com/9t29zhmwdh-coder/SwiftAgent",
       "display_title": "9t29zhmwdh-coder/SwiftAgent",
       "pushed_at": "2026-07-20T07:46:51+00:00"
+    },
+    "url:https://github.com/the-geek-freaks/neoth": {
+      "id": "github-20260720-148",
+      "title": "The-Geek-Freaks/NEOTH",
+      "source_url": "https://github.com/The-Geek-Freaks/NEOTH",
+      "landing_url": "https://deepwiki.com/The-Geek-Freaks/NEOTH",
+      "display_title": "The-Geek-Freaks/NEOTH",
+      "pushed_at": "2026-07-20T07:54:15+00:00"
+    },
+    "url:https://github.com/b3stw0rd/ai_plugin": {
+      "id": "github-20260720-064",
+      "title": "b3stw0rd/AI_Plugin",
+      "source_url": "https://github.com/b3stw0rd/AI_Plugin",
+      "landing_url": "https://github.com/b3stw0rd/AI_Plugin",
+      "display_title": "b3stw0rd/AI_Plugin",
+      "pushed_at": "2026-07-20T07:54:15+00:00"
+    },
+    "url:https://github.com/dakshhbn/rag-chatbot": {
+      "id": "github-20260720-078",
+      "title": "DakshhBN/RAG-Chatbot",
+      "source_url": "https://github.com/DakshhBN/RAG-Chatbot",
+      "landing_url": "https://github.com/DakshhBN/RAG-Chatbot",
+      "display_title": "DakshhBN/RAG-Chatbot",
+      "pushed_at": "2026-07-20T07:54:15+00:00"
     }
   },
   "runs": [
@@ -135,6 +159,20 @@
         "maximhq/bifrost",
         "CCCCgitgit/KG-RAG-Agent",
         "9t29zhmwdh-coder/SwiftAgent"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:54:15+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/the-geek-freaks/neoth",
+        "url:https://github.com/b3stw0rd/ai_plugin",
+        "url:https://github.com/dakshhbn/rag-chatbot"
+      ],
+      "titles": [
+        "The-Geek-Freaks/NEOTH",
+        "b3stw0rd/AI_Plugin",
+        "DakshhBN/RAG-Chatbot"
       ]
     }
   ]
