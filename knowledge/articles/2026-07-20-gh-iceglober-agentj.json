@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-016",
+  "title": "iceglober/agentj",
+  "source_url": "https://github.com/iceglober/agentj",
+  "source_type": "github_trending",
+  "summary": "AgentJ 是一个基于 Vercel AI SDK 的无头编码代理，强调计算优先于推理，通过保持短上下文来提高准确性。核心价值在于减少大模型幻觉，适用于自动化代码生成、调试和重构等场景。",
+  "tags": [
+    "Coding Agent",
+    "AI SDK",
+    "Code Generation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:12:11+00:00",
+  "updated_at": "2026-07-20T07:12:11+00:00"
+}

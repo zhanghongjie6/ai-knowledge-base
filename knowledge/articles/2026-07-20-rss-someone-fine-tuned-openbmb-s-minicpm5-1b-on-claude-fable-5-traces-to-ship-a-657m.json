@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-012",
+  "title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
+  "source_url": "https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/",
+  "source_type": "rss",
+  "summary": "社区开发者对OpenBMB的MiniCPM5-1B模型进行微调，使用Claude Fable 5的推理轨迹训练，得到仅657MB的本地推理模型。该模型支持128K上下文窗口，具备可见的推理过程，可在本地完全运行，为资源受限场景提供轻量级思维链能力。",
+  "tags": [
+    "Fine-tuning",
+    "Small Language Model",
+    "Local Inference",
+    "Chain-of-Thought",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:12:11+00:00",
+  "updated_at": "2026-07-20T07:12:11+00:00"
+}

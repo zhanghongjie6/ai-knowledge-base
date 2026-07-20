@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-016",
+  "title": "Introducing Muse Spark 1.1",
+  "source_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+  "source_type": "rss",
+  "summary": "Muse Spark 1.1 是 Meta 推出的新一代 AI 模型，专注于提升多模态理解和生成能力，支持图像、文本和音频的协同处理。其核心技术亮点包括高效的跨模态对齐和实时推理优化，适用于内容创作、智能助手和虚拟现实等场景，有望推动多模态 AI 应用的普及。",
+  "tags": [
+    "Multimodal",
+    "AI Model",
+    "Real-time Inference",
+    "Content Creation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:12:11+00:00",
+  "updated_at": "2026-07-20T07:12:12+00:00"
+}

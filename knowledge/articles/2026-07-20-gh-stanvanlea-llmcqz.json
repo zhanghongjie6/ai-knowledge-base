@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-015",
+  "title": "stanvanlea/llmcqz",
+  "source_url": "https://github.com/stanvanlea/llmcqz",
+  "source_type": "github_trending",
+  "summary": "llmcqz 是一个用于 LLM 推理的量化工具，通过混合精度量化（如 4-bit 和 8-bit）显著降低模型内存占用和推理延迟，同时保持高精度。适用于资源受限环境下的模型部署，如边缘设备和移动端。",
+  "tags": [
+    "LLM",
+    "Quantization",
+    "Inference",
+    "Edge AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:12:11+00:00",
+  "updated_at": "2026-07-20T07:12:11+00:00"
+}

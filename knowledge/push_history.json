@@ -24,6 +24,30 @@
       "landing_url": "https://arxiv.org/abs/2607.15280",
       "display_title": "GraphDx是一个成本感知的知识增强多智能体框架，专为顺序诊断设计",
       "pushed_at": "2026-07-20T07:05:39+00:00"
+    },
+    "url:https://arxiv.org/abs/2607.15380": {
+      "id": "rss-20260720-005",
+      "title": "Large Language Models as Unified Multimodal Learners for Clinical Prediction",
+      "source_url": "https://arxiv.org/abs/2607.15380",
+      "landing_url": "https://arxiv.org/abs/2607.15380",
+      "display_title": "该研究提出将大型语言模型作为统一多模态学习器，用于临床预测",
+      "pushed_at": "2026-07-20T07:12:12+00:00"
+    },
+    "url:https://ai.meta.com/blog/introducing-muse-spark-meta-model-api": {
+      "id": "rss-20260720-016",
+      "title": "Introducing Muse Spark 1.1",
+      "source_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "landing_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "display_title": "Introducing Muse Spark 1.1",
+      "pushed_at": "2026-07-20T07:12:12+00:00"
+    },
+    "url:https://deepmind.google/blog/our-approach-to-bioresilience": {
+      "id": "rss-20260720-015",
+      "title": "Our approach to bioresilience",
+      "source_url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "landing_url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "display_title": "Our approach to bioresilience",
+      "pushed_at": "2026-07-20T07:12:12+00:00"
     }
   },
   "runs": [
@@ -39,6 +63,20 @@
         "Kimi K3 发布，性能卓越，可能重塑行业格局",
         "Nexussyn/ai-growth-platform",
         "GraphDx是一个成本感知的知识增强多智能体框架，专为顺序诊断设计"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:12:12+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://arxiv.org/abs/2607.15380",
+        "url:https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
+        "url:https://deepmind.google/blog/our-approach-to-bioresilience"
+      ],
+      "titles": [
+        "该研究提出将大型语言模型作为统一多模态学习器，用于临床预测",
+        "Introducing Muse Spark 1.1",
+        "Our approach to bioresilience"
       ]
     }
   ]

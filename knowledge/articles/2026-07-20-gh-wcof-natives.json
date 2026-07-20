@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-017",
+  "title": "Wcof/Natives",
+  "source_url": "https://github.com/Wcof/Natives",
+  "source_type": "github_trending",
+  "summary": "AI Steam Base 是一个面向AI时代的桌面应用容器，基于Electron、Next.js和SQLite构建。它提供类似Steam的界面来管理和运行各类AI应用，核心价值在于统一AI工具生态，技术亮点包括跨平台桌面支持、现代前端框架和本地数据库，适用于AI模型管理、工具集成和开发者实验场景。",
+  "tags": [
+    "Desktop",
+    "AI",
+    "Electron",
+    "Next.js",
+    "Container",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-20T07:12:11+00:00",
+  "updated_at": "2026-07-20T07:12:11+00:00"
+}
