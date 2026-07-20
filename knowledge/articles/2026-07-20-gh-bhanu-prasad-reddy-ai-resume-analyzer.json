@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-041",
+  "title": "bhanu-prasad-reddy/AI-Resume-Analyzer",
+  "source_url": "https://github.com/bhanu-prasad-reddy/AI-Resume-Analyzer",
+  "source_type": "github_trending",
+  "summary": "基于Streamlit和LLM的AI简历分析系统，核心价值在于利用大语言模型自动解析简历内容，提供技能匹配、职位推荐和优化建议。技术亮点包括集成多种LLM接口、支持PDF解析和实时交互界面。适用于招聘筛选、求职者自我评估和职业规划场景。",
+  "tags": [
+    "LLM",
+    "Resume Analysis",
+    "Streamlit",
+    "NLP",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:23:23+00:00",
+  "updated_at": "2026-07-20T07:23:23+00:00"
+}

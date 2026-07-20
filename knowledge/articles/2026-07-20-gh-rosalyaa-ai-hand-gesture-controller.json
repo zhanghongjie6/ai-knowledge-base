@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-042",
+  "title": "rosalyaa/AI-Hand-Gesture-Controller",
+  "source_url": "https://github.com/rosalyaa/AI-Hand-Gesture-Controller",
+  "source_type": "github_trending",
+  "summary": "基于MediaPipe的手势识别控制器，通过摄像头实时捕捉手势动作，实现鼠标控制、音量调节、媒体播放等交互功能。核心价值在于零硬件成本的人机交互方案，技术亮点包括高精度手部关键点检测与多手势映射，适用于演示、无障碍操作和智能家居场景。",
+  "tags": [
+    "Gesture Recognition",
+    "MediaPipe",
+    "Human-Computer Interaction",
+    "Computer Vision",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:23:23+00:00",
+  "updated_at": "2026-07-20T07:23:23+00:00"
+}

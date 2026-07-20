@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-050",
+  "title": "ssdiwu/ssdiwu",
+  "source_url": "https://github.com/ssdiwu/ssdiwu",
+  "source_type": "github_trending",
+  "summary": "该项目由507开发，专注于Agent工作流、Pi扩展和可复用技能。核心价值在于提供模块化的Agent构建框架，支持灵活的工作流编排和技能复用，适用于自动化任务、智能助手和复杂流程管理。技术亮点包括轻量级扩展机制和可组合的技能库。",
+  "tags": [
+    "Agent",
+    "Workflow",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:23:23+00:00",
+  "updated_at": "2026-07-20T07:23:23+00:00"
+}

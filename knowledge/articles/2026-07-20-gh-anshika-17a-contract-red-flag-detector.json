@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-047",
+  "title": "Anshika-17a/contract-red-flag-detector",
+  "source_url": "https://github.com/Anshika-17a/contract-red-flag-detector",
+  "source_type": "github_trending",
+  "summary": "ClauseGuard是一个基于AI的合同分析工具，利用NLP和微调BERT模型自动标记法律条款中的风险点。核心价值在于快速识别合同中的危险条款，降低法律风险，适用于法务审核、合规检查等场景。技术亮点包括针对法律文本的专用模型和高效的风险标记机制。",
+  "tags": [
+    "NLP",
+    "BERT",
+    "LegalTech",
+    "Contract Analysis",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:23:23+00:00",
+  "updated_at": "2026-07-20T07:23:23+00:00"
+}

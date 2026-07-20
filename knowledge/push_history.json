@@ -96,6 +96,30 @@
       "landing_url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
       "display_title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
       "pushed_at": "2026-07-20T07:21:55+00:00"
+    },
+    "url:https://github.com/ahartntkn/prax": {
+      "id": "github-20260720-043",
+      "title": "AHartNtkn/Prax",
+      "source_url": "https://github.com/AHartNtkn/Prax",
+      "landing_url": "https://github.com/AHartNtkn/Prax",
+      "display_title": "AHartNtkn/Prax",
+      "pushed_at": "2026-07-20T07:23:27+00:00"
+    },
+    "url:https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to": {
+      "id": "rss-20260720-010",
+      "title": "Last Week in AI #341 - Musk loses to OpenAI, Google's IO updates, OpenAI solves Erdős",
+      "source_url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+      "landing_url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+      "display_title": "Last Week in AI #341 - Musk loses to OpenAI, Google's IO updates, OpenAI solves Erdős",
+      "pushed_at": "2026-07-20T07:23:27+00:00"
+    },
+    "url:https://www.infoq.cn/article/xszussr8prtcjzobwkya?utm_source=rss&utm_medium=article": {
+      "id": "rss-20260720-011",
+      "title": "专访孙元浩：乘坐星环号，把数据库“移民火星”的人",
+      "source_url": "https://www.infoq.cn/article/xsZUSSR8PRtcjZobwkYA?utm_source=rss&utm_medium=article",
+      "landing_url": "https://www.infoq.cn/article/xsZUSSR8PRtcjZobwkYA?utm_source=rss&utm_medium=article",
+      "display_title": "专访孙元浩：乘坐星环号，把数据库“移民火星”的人",
+      "pushed_at": "2026-07-20T07:23:27+00:00"
     }
   },
   "runs": [
@@ -153,6 +177,20 @@
         "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
         "The cost of saying yes has changed",
         "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\""
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:23:27+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/ahartntkn/prax",
+        "url:https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+        "url:https://www.infoq.cn/article/xszussr8prtcjzobwkya?utm_source=rss&utm_medium=article"
+      ],
+      "titles": [
+        "AHartNtkn/Prax",
+        "Last Week in AI #341 - Musk loses to OpenAI, Google's IO updates, OpenAI solves Erdős",
+        "专访孙元浩：乘坐星环号，把数据库“移民火星”的人"
       ]
     }
   ]
