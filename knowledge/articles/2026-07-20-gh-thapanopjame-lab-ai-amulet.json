@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-051",
+  "title": "thapanopjame-lab/ai-amulet",
+  "source_url": "https://github.com/thapanopjame-lab/ai-amulet",
+  "source_type": "github_trending",
+  "summary": "AI-Amulet 是一个基于 Flutter、FastAPI、YOLO、DINOv2 和 PyTorch 的泰国护身符视觉筛查工具。核心价值在于利用深度学习实现护身符的自动识别与分类，技术亮点包括目标检测与特征提取的结合，适用于收藏鉴定、市场交易和文化遗产保护等场景。",
+  "tags": [
+    "Computer Vision",
+    "Object Detection",
+    "Flutter",
+    "FastAPI",
+    "PyTorch",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:25:13+00:00",
+  "updated_at": "2026-07-20T07:25:13+00:00"
+}

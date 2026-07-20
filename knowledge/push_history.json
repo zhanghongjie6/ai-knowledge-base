@@ -120,6 +120,30 @@
       "landing_url": "https://www.infoq.cn/article/xsZUSSR8PRtcjZobwkYA?utm_source=rss&utm_medium=article",
       "display_title": "专访孙元浩：乘坐星环号，把数据库“移民火星”的人",
       "pushed_at": "2026-07-20T07:23:27+00:00"
+    },
+    "url:https://github.com/long-safe-accont-4567-uvwxyz-9876/xiaoda-agent": {
+      "id": "github-20260720-011",
+      "title": "long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
+      "source_url": "https://github.com/long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
+      "landing_url": "https://github.com/long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
+      "display_title": "long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
+      "pushed_at": "2026-07-20T07:25:22+00:00"
+    },
+    "url:https://github.com/heitang321/findjobagent": {
+      "id": "github-20260720-057",
+      "title": "heitang321/FindJobAgent",
+      "source_url": "https://github.com/heitang321/FindJobAgent",
+      "landing_url": "https://github.com/heitang321/FindJobAgent",
+      "display_title": "heitang321/FindJobAgent",
+      "pushed_at": "2026-07-20T07:25:22+00:00"
+    },
+    "url:https://github.com/ooredactedoo/regathered-ai-portfolio": {
+      "id": "github-20260720-012",
+      "title": "oOREDACTEDOo/regathered-ai-portfolio",
+      "source_url": "https://github.com/oOREDACTEDOo/regathered-ai-portfolio",
+      "landing_url": "https://github.com/oOREDACTEDOo/regathered-ai-portfolio",
+      "display_title": "该项目展示了一个AI自动化作品集，涵盖智能体工作流、RAG管道和报告系统",
+      "pushed_at": "2026-07-20T07:25:22+00:00"
     }
   },
   "runs": [
@@ -191,6 +215,20 @@
         "AHartNtkn/Prax",
         "Last Week in AI #341 - Musk loses to OpenAI, Google's IO updates, OpenAI solves Erdős",
         "专访孙元浩：乘坐星环号，把数据库“移民火星”的人"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:25:22+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
+        "url:https://github.com/heitang321/findjobagent",
+        "url:https://github.com/ooredactedoo/regathered-ai-portfolio"
+      ],
+      "titles": [
+        "long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
+        "heitang321/FindJobAgent",
+        "该项目展示了一个AI自动化作品集，涵盖智能体工作流、RAG管道和报告系统"
       ]
     }
   ]
