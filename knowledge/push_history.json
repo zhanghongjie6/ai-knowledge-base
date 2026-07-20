@@ -1,9 +1,65 @@
 {
   "version": 2,
   "items": {
-
+    "url:https://www.kimi.com/blog/kimi-k3": {
+      "id": "hn-20260717-004",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "source_url": "https://www.kimi.com/blog/kimi-k3",
+      "landing_url": "https://www.kimi.com/blog/kimi-k3",
+      "display_title": "Kimi K3: Open Frontier Intelligence",
+      "pushed_at": "2026-07-20T07:41:04+00:00"
+    },
+    "url:https://arxiv.org/abs/2607.13069": {
+      "id": "rss-20260717-006",
+      "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "source_url": "https://arxiv.org/abs/2607.13069",
+      "landing_url": "https://arxiv.org/abs/2607.13069",
+      "display_title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+      "pushed_at": "2026-07-20T07:41:04+00:00"
+    },
+    "url:https://www.ayush.digital/blog/the-memory-heist": {
+      "id": "hn-20260715-001",
+      "title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "source_url": "https://www.ayush.digital/blog/the-memory-heist",
+      "landing_url": "https://www.ayush.digital/blog/the-memory-heist",
+      "display_title": "I tricked Claude into leaking your deepest, darkest secrets",
+      "pushed_at": "2026-07-20T07:41:04+00:00"
+    },
+    "url:https://openai.com/index/unlocking-self-improvement-gpt-red": {
+      "id": "rss-20260716-006",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "source_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "landing_url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "display_title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "pushed_at": "2026-07-20T07:41:04+00:00"
+    },
+    "url:https://github.com/senmuuuuw/universal-diagnostic-tutor-skill": {
+      "id": "github-20260715-022",
+      "title": "SenmuuuuW/universal-diagnostic-tutor-skill",
+      "source_url": "https://github.com/SenmuuuuW/universal-diagnostic-tutor-skill",
+      "landing_url": "https://github.com/SenmuuuuW/universal-diagnostic-tutor-skill",
+      "display_title": "该项目是一个基于诊断优先的AI导师技能，专为STEM、AI/CS学习设计",
+      "pushed_at": "2026-07-20T07:41:04+00:00"
+    }
   },
   "runs": [
-
+    {
+      "pushed_at": "2026-07-20T07:41:04+00:00",
+      "count": 5,
+      "keys": [
+        "url:https://www.kimi.com/blog/kimi-k3",
+        "url:https://arxiv.org/abs/2607.13069",
+        "url:https://www.ayush.digital/blog/the-memory-heist",
+        "url:https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "url:https://github.com/senmuuuuw/universal-diagnostic-tutor-skill"
+      ],
+      "titles": [
+        "Kimi K3: Open Frontier Intelligence",
+        "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+        "I tricked Claude into leaking your deepest, darkest secrets",
+        "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "该项目是一个基于诊断优先的AI导师技能，专为STEM、AI/CS学习设计"
+      ]
+    }
   ]
 }

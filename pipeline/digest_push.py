@@ -58,13 +58,30 @@ TECH_TOOL_TAGS = {
 
 TECH_KEYWORDS = re.compile(
     r"(工具|技巧|编程|编码|Agent|CLI|终端|RAG|编排|助手|本地模型|"
-    r"工作流|开发|IDE|Cursor|Claude Code|prompt|技能|SDK|API)",
+    r"工作流|开发|IDE|Cursor|Claude Code|prompt|技能|SDK|API|"
+    r"大模型|LLM|LangChain|LangGraph|Ollama|OpenClaw|OpenCode|"
+    r"实战|教程|指南|配置|设置|部署|集成)",
     re.IGNORECASE,
 )
 
 # Soft / interview / broad learning content — demote in ranking
 DEMOTE_KEYWORDS = re.compile(
     r"(面试|八股|学习路线|知识体系|入门教程合集)",
+)
+
+# Non-AI content — completely exclude from selection
+EXCLUDE_KEYWORDS = re.compile(
+    r"(iphone|手机|电脑|笔记本|相机|平板|手表|"
+    r"游戏|手游|电竞|主机|显卡|硬件|"
+    r"汽车|特斯拉|比亚迪|新能源|"
+    r"美食|旅游|电影|音乐|综艺|"
+    r"购物|电商|促销|优惠|"
+    r"健康|医疗|健身|运动|"
+    r"教育|高考|考研|留学|"
+    r"职场|招聘|面试|薪资|"
+    r"理财|股票|基金|投资|"
+    r"数码|评测|对比|推荐)",
+    re.IGNORECASE,
 )
 
 TITLE_HINTS: dict[str, str] = {
@@ -171,9 +188,16 @@ def load_articles() -> list[dict[str, Any]]:
 
 
 def tech_tool_boost(article: dict[str, Any]) -> float:
-    """Return ranking boost for technical / tool-tip oriented items."""
+    """Return ranking boost for technical / tool-tip oriented items.
+    
+    Returns negative infinity for non-AI content that should be completely excluded.
+    """
     tags = {str(t).strip().lower() for t in article.get("tags") or []}
     text = f"{article.get('title', '')} {article.get('summary', '')}"
+    
+    if EXCLUDE_KEYWORDS.search(text):
+        return float("-inf")
+    
     boost = 0.0
     overlap = tags & TECH_TOOL_TAGS
     boost += 1.5 * len(overlap)
@@ -181,7 +205,6 @@ def tech_tool_boost(article: dict[str, Any]) -> float:
         boost += 2.0
     if DEMOTE_KEYWORDS.search(text):
         boost -= 3.0
-    # Pure interview / general Java guide without AI coding signal
     if "javaguide" in str(article.get("title", "")).lower() and not overlap:
         boost -= 4.0
     return boost
