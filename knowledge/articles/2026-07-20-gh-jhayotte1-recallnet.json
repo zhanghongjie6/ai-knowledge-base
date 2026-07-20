@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-150",
+  "title": "jhayotte1/RecallNet",
+  "source_url": "https://github.com/jhayotte1/RecallNet",
+  "source_type": "github_trending",
+  "summary": "RecallNet 通过利用大语言模型（LLM）自动清洗并合并两个知识库，显著提升 ConceptNet 的召回率，同时保持高精度。其核心价值在于低成本构建更完整的常识知识图谱，适用于问答、推理和对话系统等场景。",
+  "tags": [
+    "Knowledge Graph",
+    "LLM",
+    "ConceptNet",
+    "Data Cleaning",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:54:09+00:00",
+  "updated_at": "2026-07-20T07:54:09+00:00"
+}

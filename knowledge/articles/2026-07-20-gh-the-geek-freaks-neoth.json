@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-148",
+  "title": "The-Geek-Freaks/NEOTH",
+  "source_url": "https://github.com/The-Geek-Freaks/NEOTH",
+  "source_type": "github_trending",
+  "summary": "NEOTH 是一个用 Rust 编写的本地优先个人 AI 守护进程，具备五级记忆系统、基于同意的工具调用、WASM 插件沙箱、多提供商 LLM 路由、频道、GUI、签名审计日志和 Babel-Index 崩溃预测功能。其核心价值在于提供隐私安全、可扩展的本地 AI 助手，适用于个人知识管理、自动化工作流和离线智能场景。",
+  "tags": [
+    "Rust",
+    "AI Agent",
+    "Local-first",
+    "WASM",
+    "Privacy",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 5,
+  "status": "published",
+  "created_at": "2026-07-20T07:54:09+00:00",
+  "updated_at": "2026-07-20T07:54:15+00:00"
+}

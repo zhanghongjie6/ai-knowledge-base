@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-149",
+  "title": "Yuhamixli/MEM-AIVisdefect",
+  "source_url": "https://github.com/Yuhamixli/MEM-AIVisdefect",
+  "source_type": "github_trending",
+  "summary": "MEM-AIVisdefect 是清华大学 MEM 2026 第三组的项目，专注于利用人工智能进行视觉缺陷检测。其核心价值在于将深度学习技术应用于工业质检场景，提供高效的自动化缺陷识别方案。技术亮点包括基于视觉的模型优化和实时检测能力，适用于制造业中的表面缺陷检测、装配验证等用例。",
+  "tags": [
+    "Computer Vision",
+    "Defect Detection",
+    "Deep Learning",
+    "Industrial AI",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:54:09+00:00",
+  "updated_at": "2026-07-20T07:54:09+00:00"
+}

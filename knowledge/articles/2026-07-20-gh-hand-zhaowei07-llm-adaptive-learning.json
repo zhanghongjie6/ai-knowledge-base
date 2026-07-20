@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-141",
+  "title": "Hand-zhaowei07/llm-adaptive-learning",
+  "source_url": "https://github.com/Hand-zhaowei07/llm-adaptive-learning",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套基于大语言模型的适应性学习系统，核心价值在于通过动态调整学习路径和内容难度，实现个性化教育。技术亮点包括利用LLM进行实时评估与反馈，结合知识图谱优化学习序列。适用于在线教育、技能培训等场景，能显著提升学习效率。",
+  "tags": [
+    "LLM",
+    "Adaptive Learning",
+    "Education",
+    "Knowledge Graph",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:54:09+00:00",
+  "updated_at": "2026-07-20T07:54:09+00:00"
+}

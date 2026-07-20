@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-142",
+  "title": "gurnursingh05/Research-agent-project",
+  "source_url": "https://github.com/gurnursingh05/Research-agent-project",
+  "source_type": "github_trending",
+  "summary": "一个基于LangGraph构建的智能研究代理项目，能够自动执行研究任务，包括搜索、信息提取和报告生成。核心技术亮点是使用图结构编排多步骤研究流程，支持自定义工具和模型。适用于学术研究、市场分析等需要自动化信息收集的场景。",
+  "tags": [
+    "LangGraph",
+    "Agent",
+    "Research",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:54:09+00:00",
+  "updated_at": "2026-07-20T07:54:09+00:00"
+}

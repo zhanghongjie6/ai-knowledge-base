@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-040",
+  "title": "What breaks when nobody touches your app for three years",
+  "source_url": "https://dev.to/goodbarber/what-breaks-when-nobody-touches-your-app-for-three-years-2dgm",
+  "source_type": "rss",
+  "summary": "本文探讨了当应用三年无人维护时，外部环境变化（如API变更、依赖库过期、安全漏洞、平台更新）如何导致应用失效，而代码本身未变。核心价值在于警示开发者关注技术债务和持续维护的重要性，技术亮点是揭示“静默死亡”现象，用例包括长期项目维护和遗留系统评估。",
+  "tags": [
+    "Software Maintenance",
+    "Technical Debt",
+    "Legacy Systems",
+    "Dependency Management",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:54:09+00:00",
+  "updated_at": "2026-07-20T07:54:09+00:00"
+}
