@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-061",
+  "title": "arnpal961/retrace",
+  "source_url": "https://github.com/arnpal961/retrace",
+  "source_type": "github_trending",
+  "summary": "Retrace 是一个为 AI 代理设计的确定性记录/重放与因果差异飞行记录器。其核心价值在于通过记录代理的完整执行轨迹（包括输入、输出、中间状态及时间戳），实现精确的调试、回放和因果分析。技术亮点包括确定性重放、因果差异比较和轻量级集成。适用于 AI 代理开发中的故障排查、行为验证和性能优化。",
+  "tags": [
+    "AI Agent",
+    "Debugging",
+    "Deterministic Replay",
+    "Causal Analysis",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:27:20+00:00",
+  "updated_at": "2026-07-20T07:27:28+00:00"
+}

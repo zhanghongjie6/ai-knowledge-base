@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-063",
+  "title": "tkarim45/sec-rag-analyst",
+  "source_url": "https://github.com/tkarim45/sec-rag-analyst",
+  "source_type": "github_trending",
+  "summary": "该项目实现了一个生产级RAG系统，专门针对SEC 10-K文件进行检索增强生成。核心价值在于结合BM25稀疏检索与稠密检索的混合策略，并利用交叉编码器重排序提升精度，通过Claude生成带引用的答案，支持FastAPI后端与Streamlit前端。适用于金融分析、合规审查等场景，提供可测量的评估指标。",
+  "tags": [
+    "RAG",
+    "SEC",
+    "BM25",
+    "Dense Retrieval",
+    "Financial Analysis",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:27:20+00:00",
+  "updated_at": "2026-07-20T07:27:28+00:00"
+}

@@ -144,6 +144,30 @@
       "landing_url": "https://github.com/oOREDACTEDOo/regathered-ai-portfolio",
       "display_title": "该项目展示了一个AI自动化作品集，涵盖智能体工作流、RAG管道和报告系统",
       "pushed_at": "2026-07-20T07:25:22+00:00"
+    },
+    "url:https://github.com/tkarim45/sec-rag-analyst": {
+      "id": "github-20260720-063",
+      "title": "tkarim45/sec-rag-analyst",
+      "source_url": "https://github.com/tkarim45/sec-rag-analyst",
+      "landing_url": "https://github.com/tkarim45/sec-rag-analyst",
+      "display_title": "该项目实现了一个生产级RAG系统，专门针对SEC 10-K文件进行检索增强生成",
+      "pushed_at": "2026-07-20T07:27:28+00:00"
+    },
+    "url:https://github.com/arnpal961/retrace": {
+      "id": "github-20260720-061",
+      "title": "arnpal961/retrace",
+      "source_url": "https://github.com/arnpal961/retrace",
+      "landing_url": "https://github.com/arnpal961/retrace",
+      "display_title": "Retrace 是一个为 AI 代理设计的确定性记录/重放与因果差异飞行记录器",
+      "pushed_at": "2026-07-20T07:27:28+00:00"
+    },
+    "url:https://github.com/linny006/llm-agents-radar": {
+      "id": "github-20260720-067",
+      "title": "linny006/llm-agents-radar",
+      "source_url": "https://github.com/linny006/llm-agents-radar",
+      "landing_url": "https://github.com/linny006/llm-agents-radar",
+      "display_title": "linny006/llm-agents-radar",
+      "pushed_at": "2026-07-20T07:27:28+00:00"
     }
   },
   "runs": [
@@ -229,6 +253,20 @@
         "long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
         "heitang321/FindJobAgent",
         "该项目展示了一个AI自动化作品集，涵盖智能体工作流、RAG管道和报告系统"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:27:28+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/tkarim45/sec-rag-analyst",
+        "url:https://github.com/arnpal961/retrace",
+        "url:https://github.com/linny006/llm-agents-radar"
+      ],
+      "titles": [
+        "该项目实现了一个生产级RAG系统，专门针对SEC 10-K文件进行检索增强生成",
+        "Retrace 是一个为 AI 代理设计的确定性记录/重放与因果差异飞行记录器",
+        "linny006/llm-agents-radar"
       ]
     }
   ]

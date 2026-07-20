@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-065",
+  "title": "wjdxor0405/research_agent_fastapi_final",
+  "source_url": "https://github.com/wjdxor0405/research_agent_fastapi_final",
+  "source_type": "github_trending",
+  "summary": "基于FastAPI构建的研究助手Agent，集成网络搜索与LLM能力，支持多轮对话、上下文记忆和结构化报告生成。技术亮点包括异步处理、模块化设计和可扩展插件架构，适用于学术调研、竞品分析和知识问答场景。",
+  "tags": [
+    "Agent",
+    "FastAPI",
+    "Research",
+    "LLM",
+    "WebSearch",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:27:20+00:00",
+  "updated_at": "2026-07-20T07:27:20+00:00"
+}

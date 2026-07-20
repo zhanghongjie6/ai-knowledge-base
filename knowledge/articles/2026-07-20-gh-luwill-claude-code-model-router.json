@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-068",
+  "title": "luwill/Claude-Code-Model-Router",
+  "source_url": "https://github.com/luwill/Claude-Code-Model-Router",
+  "source_type": "github_trending",
+  "summary": "Claude-Code-Model-Router 是一个轻量级 API 网关，能够在 Claude Code 使用过程中无缝切换到第三方 AI 模型（如 OpenAI、Gemini 等），避免单一模型依赖，提升灵活性和成本效益。核心价值在于提供即插即用的路由功能，技术亮点包括低延迟转发和简单配置，适用于需要多模型备份或特定任务优化的开发场景。",
+  "tags": [
+    "API Gateway",
+    "Claude Code",
+    "Model Routing",
+    "AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 32,
+  "status": "draft",
+  "created_at": "2026-07-20T07:27:20+00:00",
+  "updated_at": "2026-07-20T07:27:20+00:00"
+}

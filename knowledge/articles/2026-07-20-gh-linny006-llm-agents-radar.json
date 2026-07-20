@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-067",
+  "title": "linny006/llm-agents-radar",
+  "source_url": "https://github.com/linny006/llm-agents-radar",
+  "source_type": "github_trending",
+  "summary": "该项目是一个实时更新的LLM智能体框架索引，每15分钟自动刷新，追踪GitHub上活跃的Agent框架动态。核心价值在于提供最新的框架列表和趋势，帮助开发者快速了解行业生态，适用于技术选型、趋势研究和开源贡献。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Framework",
+    "Index",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 6,
+  "status": "published",
+  "created_at": "2026-07-20T07:27:20+00:00",
+  "updated_at": "2026-07-20T07:27:28+00:00"
+}
