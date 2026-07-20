@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-047",
+  "title": "CHIEF: A Case Study in Retiring a Legacy System",
+  "source_url": "https://dev.to/icustoms12/chief-a-case-study-in-retiring-a-legacy-system-514a",
+  "source_type": "rss",
+  "summary": "CHIEF是英国海关运行近三十年的遗留系统，最终被CDS取代。本文分析了其退役原因，包括维护成本高、技术债务累积、无法满足现代需求等。核心价值在于展示了遗留系统迁移的典型挑战与经验，适用于大型企业系统现代化改造场景。",
+  "tags": [
+    "Legacy System",
+    "Migration",
+    "Case Study",
+    "Software Modernization",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:25:14+00:00",
+  "updated_at": "2026-07-20T08:25:14+00:00"
+}

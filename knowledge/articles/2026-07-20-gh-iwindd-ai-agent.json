@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-182",
+  "title": "iwindd/ai-agent",
+  "source_url": "https://github.com/iwindd/ai-agent",
+  "source_type": "github_trending",
+  "summary": "iwindd/ai-agent是一个开源AI智能体框架，核心价值在于提供模块化、可扩展的智能体构建方案。技术亮点包括支持多模型集成、任务编排与记忆管理，适用于自动化工作流、智能客服和复杂决策场景。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "Automation",
+    "Framework",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:25:14+00:00",
+  "updated_at": "2026-07-20T08:25:14+00:00"
+}

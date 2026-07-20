@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-188",
+  "title": "V1B3hR/AiMedRes",
+  "source_url": "https://github.com/V1B3hR/AiMedRes",
+  "source_type": "github_trending",
+  "summary": "AiMedRes 是一个结合自适应神经网络（AdaptiveNN）与推理安全社交模块（DuetMind）的多智能体系统框架，旨在实现动态学习、生物启发式推理与安全交互，适用于医疗、机器人协作等复杂场景。",
+  "tags": [
+    "Multi-Agent",
+    "AdaptiveNN",
+    "AI Safety",
+    "Bio-inspired",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:25:14+00:00",
+  "updated_at": "2026-07-20T08:25:14+00:00"
+}
