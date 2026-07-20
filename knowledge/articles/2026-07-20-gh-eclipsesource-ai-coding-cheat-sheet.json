@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-089",
+  "title": "eclipsesource/ai-coding-cheat-sheet",
+  "source_url": "https://github.com/eclipsesource/ai-coding-cheat-sheet",
+  "source_type": "github_trending",
+  "summary": "AI编码速查表，提供主流AI编码助手的实用命令和技巧，涵盖代码生成、解释、重构等场景，帮助开发者快速上手并提升效率。技术亮点包括多工具支持（如GitHub Copilot、Tabnine）和结构化分类。适用于日常开发中的AI辅助编程。",
+  "tags": [
+    "AI Coding",
+    "Cheat Sheet",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-20T07:30:51+00:00",
+  "updated_at": "2026-07-20T07:30:51+00:00"
+}

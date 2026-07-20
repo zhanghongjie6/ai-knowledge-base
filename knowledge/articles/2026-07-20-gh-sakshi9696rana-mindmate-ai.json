@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-085",
+  "title": "sakshi9696rana/Mindmate-AI",
+  "source_url": "https://github.com/sakshi9696rana/Mindmate-AI",
+  "source_type": "github_trending",
+  "summary": "Mindmate-AI 是一个基于 Flask 构建的情绪驱动型 AI 学习规划器，能够根据用户当前情绪状态智能推荐学习内容和计划，提升学习效率与体验。其核心价值在于将情绪感知融入学习管理，技术亮点包括轻量级 Flask 后端与情绪分析模块，适用于个性化学习辅助场景。",
+  "tags": [
+    "Flask",
+    "AI",
+    "Mood Analysis",
+    "Study Planner",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:30:51+00:00",
+  "updated_at": "2026-07-20T07:30:51+00:00"
+}

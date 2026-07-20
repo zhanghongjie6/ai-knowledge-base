@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-088",
+  "title": "tgagor/docker-gemini-cli",
+  "source_url": "https://github.com/tgagor/docker-gemini-cli",
+  "source_type": "github_trending",
+  "summary": "将Google Gemini CLI封装为Docker镜像，无需在宿主机安装Node.js及其依赖即可使用Gemini命令行工具。核心价值在于隔离环境、简化部署，适用于需要快速体验或集成Gemini API的开发者与运维场景。",
+  "tags": [
+    "Docker",
+    "Gemini",
+    "CLI",
+    "Containerization",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 19,
+  "status": "draft",
+  "created_at": "2026-07-20T07:30:51+00:00",
+  "updated_at": "2026-07-20T07:30:51+00:00"
+}

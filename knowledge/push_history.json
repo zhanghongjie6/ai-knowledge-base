@@ -192,6 +192,30 @@
       "landing_url": "https://github.com/luwill/Claude-Code-Model-Router",
       "display_title": "luwill/Claude-Code-Model-Router",
       "pushed_at": "2026-07-20T07:29:36+00:00"
+    },
+    "url:https://github.com/xmudeeplit/awesome-self-evolving-agents": {
+      "id": "github-20260720-087",
+      "title": "XMUDeepLIT/Awesome-Self-Evolving-Agents",
+      "source_url": "https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents",
+      "landing_url": "https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents",
+      "display_title": "该项目整理了关于自进化智能体的全面资源列表，涵盖综述、论文、基准测试和开源项目",
+      "pushed_at": "2026-07-20T07:30:59+00:00"
+    },
+    "url:https://github.com/zircote/rlm-rs": {
+      "id": "github-20260720-081",
+      "title": "zircote/rlm-rs",
+      "source_url": "https://github.com/zircote/rlm-rs",
+      "landing_url": "https://deepwiki.com/zircote/rlm-rs",
+      "display_title": "zircote/rlm-rs",
+      "pushed_at": "2026-07-20T07:30:59+00:00"
+    },
+    "url:https://github.com/opyamorpen/agent-platform": {
+      "id": "github-20260720-070",
+      "title": "opyamorpen/agent-platform",
+      "source_url": "https://github.com/opyamorpen/agent-platform",
+      "landing_url": "https://github.com/opyamorpen/agent-platform",
+      "display_title": "一个轻量级AI Agent开发平台，支持快速构建、部署和管理智能代理",
+      "pushed_at": "2026-07-20T07:30:59+00:00"
     }
   },
   "runs": [
@@ -305,6 +329,20 @@
         "CleverBoy07/Automated-Petabyte-Data-Analysis",
         "galihru/facemind",
         "luwill/Claude-Code-Model-Router"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:30:59+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/xmudeeplit/awesome-self-evolving-agents",
+        "url:https://github.com/zircote/rlm-rs",
+        "url:https://github.com/opyamorpen/agent-platform"
+      ],
+      "titles": [
+        "该项目整理了关于自进化智能体的全面资源列表，涵盖综述、论文、基准测试和开源项目",
+        "zircote/rlm-rs",
+        "一个轻量级AI Agent开发平台，支持快速构建、部署和管理智能代理"
       ]
     }
   ]
