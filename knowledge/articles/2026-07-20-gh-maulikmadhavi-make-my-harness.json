@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-132",
+  "title": "maulikmadhavi/make_my_harness",
+  "source_url": "https://github.com/maulikmadhavi/make_my_harness",
+  "source_type": "github_trending",
+  "summary": "该项目提供从零构建自定义测试框架（Harness Agent）的完整指南与代码模板，核心价值在于帮助开发者快速搭建专属自动化测试工具，技术亮点包括模块化设计、易于扩展的架构，适用于持续集成、回归测试等场景。",
+  "tags": [
+    "Testing",
+    "Automation",
+    "Agent",
+    "Framework",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:46:42+00:00",
+  "updated_at": "2026-07-20T07:46:42+00:00"
+}

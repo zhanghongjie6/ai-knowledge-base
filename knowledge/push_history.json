@@ -64,6 +64,30 @@
       "landing_url": "https://github.com/O0000-code/awesome-academic-skills",
       "display_title": "O0000-code/awesome-academic-skills",
       "pushed_at": "2026-07-20T07:44:32+00:00"
+    },
+    "url:https://github.com/maximhq/bifrost": {
+      "id": "github-20260720-138",
+      "title": "maximhq/bifrost",
+      "source_url": "https://github.com/maximhq/bifrost",
+      "landing_url": "https://deepwiki.com/maximhq/bifrost",
+      "display_title": "maximhq/bifrost",
+      "pushed_at": "2026-07-20T07:46:51+00:00"
+    },
+    "url:https://github.com/ccccgitgit/kg-rag-agent": {
+      "id": "github-20260720-131",
+      "title": "CCCCgitgit/KG-RAG-Agent",
+      "source_url": "https://github.com/CCCCgitgit/KG-RAG-Agent",
+      "landing_url": "https://github.com/CCCCgitgit/KG-RAG-Agent",
+      "display_title": "CCCCgitgit/KG-RAG-Agent",
+      "pushed_at": "2026-07-20T07:46:51+00:00"
+    },
+    "url:https://github.com/9t29zhmwdh-coder/swiftagent": {
+      "id": "github-20260720-018",
+      "title": "9t29zhmwdh-coder/SwiftAgent",
+      "source_url": "https://github.com/9t29zhmwdh-coder/SwiftAgent",
+      "landing_url": "https://github.com/9t29zhmwdh-coder/SwiftAgent",
+      "display_title": "9t29zhmwdh-coder/SwiftAgent",
+      "pushed_at": "2026-07-20T07:46:51+00:00"
     }
   },
   "runs": [
@@ -97,6 +121,20 @@
         "Hermes Agent：开源智能体工具",
         "SuperMarioYL/dirtygraph",
         "O0000-code/awesome-academic-skills"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:46:51+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/maximhq/bifrost",
+        "url:https://github.com/ccccgitgit/kg-rag-agent",
+        "url:https://github.com/9t29zhmwdh-coder/swiftagent"
+      ],
+      "titles": [
+        "maximhq/bifrost",
+        "CCCCgitgit/KG-RAG-Agent",
+        "9t29zhmwdh-coder/SwiftAgent"
       ]
     }
   ]
