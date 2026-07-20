@@ -42,9 +42,9 @@ jobs:
         run: python hooks/check_quality.py knowledge/articles/*.json
         continue-on-error: true
 
-      - name: Push Top-3 tech/tool digest to WeChat
+      - name: Push Top-3 AI Coding news to WeChat
         timeout-minutes: 5
-        run: python pipeline/digest_push.py --limit 3 --days 3
+        run: python pipeline/ai_coding_daily.py
         env:
           WECHAT_WEBHOOK_URL: ${{ secrets.WECHAT_WEBHOOK_URL }}
 
