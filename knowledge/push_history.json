@@ -168,6 +168,30 @@
       "landing_url": "https://github.com/linny006/llm-agents-radar",
       "display_title": "linny006/llm-agents-radar",
       "pushed_at": "2026-07-20T07:27:28+00:00"
+    },
+    "url:https://github.com/cleverboy07/automated-petabyte-data-analysis": {
+      "id": "github-20260720-073",
+      "title": "CleverBoy07/Automated-Petabyte-Data-Analysis",
+      "source_url": "https://github.com/CleverBoy07/Automated-Petabyte-Data-Analysis",
+      "landing_url": "https://github.com/CleverBoy07/Automated-Petabyte-Data-Analysis",
+      "display_title": "CleverBoy07/Automated-Petabyte-Data-Analysis",
+      "pushed_at": "2026-07-20T07:29:36+00:00"
+    },
+    "url:https://github.com/galihru/facemind": {
+      "id": "github-20260720-049",
+      "title": "galihru/facemind",
+      "source_url": "https://github.com/galihru/facemind",
+      "landing_url": "https://github.com/galihru/facemind",
+      "display_title": "galihru/facemind",
+      "pushed_at": "2026-07-20T07:29:36+00:00"
+    },
+    "url:https://github.com/luwill/claude-code-model-router": {
+      "id": "github-20260720-068",
+      "title": "luwill/Claude-Code-Model-Router",
+      "source_url": "https://github.com/luwill/Claude-Code-Model-Router",
+      "landing_url": "https://github.com/luwill/Claude-Code-Model-Router",
+      "display_title": "luwill/Claude-Code-Model-Router",
+      "pushed_at": "2026-07-20T07:29:36+00:00"
     }
   },
   "runs": [
@@ -267,6 +291,20 @@
         "该项目实现了一个生产级RAG系统，专门针对SEC 10-K文件进行检索增强生成",
         "Retrace 是一个为 AI 代理设计的确定性记录/重放与因果差异飞行记录器",
         "linny006/llm-agents-radar"
+      ]
+    },
+    {
+      "pushed_at": "2026-07-20T07:29:36+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://github.com/cleverboy07/automated-petabyte-data-analysis",
+        "url:https://github.com/galihru/facemind",
+        "url:https://github.com/luwill/claude-code-model-router"
+      ],
+      "titles": [
+        "CleverBoy07/Automated-Petabyte-Data-Analysis",
+        "galihru/facemind",
+        "luwill/Claude-Code-Model-Router"
       ]
     }
   ]

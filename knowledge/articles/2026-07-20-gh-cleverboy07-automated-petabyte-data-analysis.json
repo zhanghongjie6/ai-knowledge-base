@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-073",
+  "title": "CleverBoy07/Automated-Petabyte-Data-Analysis",
+  "source_url": "https://github.com/CleverBoy07/Automated-Petabyte-Data-Analysis",
+  "source_type": "github_trending",
+  "summary": "该项目构建了一个自动化文档处理管道，结合图增强检索生成（Graph RAG）系统，通过语义搜索与知识图谱遍历相结合来回答问题。核心价值在于能够处理PB级数据，实现高效、可扩展的文档分析与问答，适用于大规模企业知识管理、法律文档审查和科研文献挖掘等场景。",
+  "tags": [
+    "Graph RAG",
+    "Document Processing",
+    "Knowledge Graph",
+    "Scalable",
+    "Q&A",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:29:29+00:00",
+  "updated_at": "2026-07-20T07:29:36+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-077",
+  "title": "mik228-ctrl/gemini-ai-pulse",
+  "source_url": "https://github.com/mik228-ctrl/gemini-ai-pulse",
+  "source_type": "github_trending",
+  "summary": "Gemini AI Pulse 是一个基于 Google Gemini 模型自动生成 AI 新闻摘要的工具，核心价值在于利用大模型实时抓取并总结最新 AI 动态。技术亮点包括自动化新闻采集与 Gemini 驱动的智能摘要生成，适用于开发者快速获取行业资讯。",
+  "tags": [
+    "AI",
+    "News",
+    "Gemini",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:29:29+00:00",
+  "updated_at": "2026-07-20T07:29:29+00:00"
+}

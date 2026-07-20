@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-071",
+  "title": "Kerwin0224/tccli-agent-sop",
+  "source_url": "https://github.com/Kerwin0224/tccli-agent-sop",
+  "source_type": "github_trending",
+  "summary": "该项目展示了如何将腾讯云CLI（tccli）的手册通过GitBook MCP集成到Claude Code中，使AI助手能够直接查询和调用云服务文档。核心价值在于打通文档与工具链，当发现文档或工具缺陷时，可直接在tke-cli-guide仓库提交Issue进行修复，形成闭环改进流程。适用于云服务自动化运维、文档驱动的开发场景。",
+  "tags": [
+    "MCP",
+    "Claude",
+    "CLI",
+    "GitBook",
+    "DevOps",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:29:29+00:00",
+  "updated_at": "2026-07-20T07:29:29+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-072",
+  "title": "tkarim45/agent-eval-harness",
+  "source_url": "https://github.com/tkarim45/agent-eval-harness",
+  "source_type": "github_trending",
+  "summary": "Agent eval harness 是一个用于评估工具调用型 LLM 代理（如 Claude）的基准测试框架，可测量任务成功率、工具调用准确性、步骤效率和成本，并附带轨迹查看器，帮助开发者系统性地优化代理性能。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Evaluation",
+    "Benchmark",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:29:29+00:00",
+  "updated_at": "2026-07-20T07:29:29+00:00"
+}
