@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-006",
+  "title": "Structure of the Circular-Dyadic Convolution Error",
+  "source_url": "https://arxiv.org/abs/2607.15293",
+  "source_type": "rss",
+  "summary": "该论文研究了循环-二元卷积误差的结构，提出利用Hadamard变换和FFT计算的离散傅里叶变换，在O(N log N)时间内高效计算二元卷积和循环卷积，并分析了两种卷积之间的误差特性。核心价值在于揭示了卷积运算的数学结构，为信号处理、快速算法设计等应用提供了理论支撑。",
+  "tags": [
+    "Convolution",
+    "FFT",
+    "Hadamard Transform",
+    "Signal Processing",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:05:36+00:00",
+  "updated_at": "2026-07-20T07:05:36+00:00"
+}

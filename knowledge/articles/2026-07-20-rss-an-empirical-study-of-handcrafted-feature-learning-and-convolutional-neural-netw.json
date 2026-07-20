@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-007",
+  "title": "An Empirical Study of Handcrafted Feature Learning and Convolutional Neural Networks for Facial Expression Recognition",
+  "source_url": "https://arxiv.org/abs/2607.15288",
+  "source_type": "rss",
+  "summary": "该论文对手工特征学习与卷积神经网络在人脸表情识别任务中的表现进行了实证研究，核心价值在于系统比较了传统方法与深度学习的性能差异，技术亮点包括多数据集验证和特征融合策略，应用场景涵盖人机交互、心理健康监测和驾驶员状态分析。",
+  "tags": [
+    "Facial Expression Recognition",
+    "Computer Vision",
+    "Deep Learning",
+    "Feature Learning",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:05:36+00:00",
+  "updated_at": "2026-07-20T07:05:36+00:00"
+}

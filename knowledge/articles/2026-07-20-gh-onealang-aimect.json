@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-003",
+  "title": "onealang/aimect",
+  "source_url": "https://github.com/onealang/aimect",
+  "source_type": "github_trending",
+  "summary": "Aimect是一个基于AI的代码审查工具，通过静态分析和机器学习自动检测代码中的潜在缺陷、安全漏洞和风格问题。核心价值在于提升代码质量与开发效率，技术亮点包括支持多种编程语言、可自定义规则集，并集成到CI/CD流程中。适用于团队协作开发、开源项目维护及代码规范自动化检查。",
+  "tags": [
+    "Code Review",
+    "Static Analysis",
+    "CI/CD",
+    "Machine Learning",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:05:36+00:00",
+  "updated_at": "2026-07-20T07:05:36+00:00"
+}

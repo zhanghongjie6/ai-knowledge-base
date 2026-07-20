@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-001",
+  "title": "Jyotiprakash2033/rag-chatbot",
+  "source_url": "https://github.com/Jyotiprakash2033/rag-chatbot",
+  "source_type": "github_trending",
+  "summary": "一个基于RAG（检索增强生成）的聊天机器人项目，结合了向量数据库和LLM，能够从自定义文档中检索信息并生成准确回答。核心技术包括文档分块、嵌入生成、相似性搜索和对话管理，适用于企业知识库问答、客户支持等场景。",
+  "tags": [
+    "RAG",
+    "Chatbot",
+    "LLM",
+    "Vector Database",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:05:36+00:00",
+  "updated_at": "2026-07-20T07:05:36+00:00"
+}

@@ -1,9 +1,45 @@
 {
   "version": 2,
   "items": {
-
+    "url:https://tldr.tech/ai/2026-07-17": {
+      "id": "rss-20260720-009",
+      "title": "Kimi K3 🌕, Gemini 3.5 delayed ⏳, crushing ARC-AGI 3 🤖",
+      "source_url": "https://tldr.tech/ai/2026-07-17",
+      "landing_url": "https://tldr.tech/ai/2026-07-17",
+      "display_title": "Kimi K3 发布，性能卓越，可能重塑行业格局",
+      "pushed_at": "2026-07-20T07:05:39+00:00"
+    },
+    "url:https://github.com/nexussyn/ai-growth-platform": {
+      "id": "github-20260720-002",
+      "title": "Nexussyn/ai-growth-platform",
+      "source_url": "https://github.com/Nexussyn/ai-growth-platform",
+      "landing_url": "https://github.com/Nexussyn/ai-growth-platform",
+      "display_title": "Nexussyn/ai-growth-platform",
+      "pushed_at": "2026-07-20T07:05:39+00:00"
+    },
+    "url:https://arxiv.org/abs/2607.15280": {
+      "id": "rss-20260720-004",
+      "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+      "source_url": "https://arxiv.org/abs/2607.15280",
+      "landing_url": "https://arxiv.org/abs/2607.15280",
+      "display_title": "GraphDx是一个成本感知的知识增强多智能体框架，专为顺序诊断设计",
+      "pushed_at": "2026-07-20T07:05:39+00:00"
+    }
   },
   "runs": [
-
+    {
+      "pushed_at": "2026-07-20T07:05:39+00:00",
+      "count": 3,
+      "keys": [
+        "url:https://tldr.tech/ai/2026-07-17",
+        "url:https://github.com/nexussyn/ai-growth-platform",
+        "url:https://arxiv.org/abs/2607.15280"
+      ],
+      "titles": [
+        "Kimi K3 发布，性能卓越，可能重塑行业格局",
+        "Nexussyn/ai-growth-platform",
+        "GraphDx是一个成本感知的知识增强多智能体框架，专为顺序诊断设计"
+      ]
+    }
   ]
 }
