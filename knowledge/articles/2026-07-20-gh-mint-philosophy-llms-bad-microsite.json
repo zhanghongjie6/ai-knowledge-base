@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-178",
+  "title": "mint-philosophy/llms-bad-microsite",
+  "source_url": "https://github.com/mint-philosophy/llms-bad-microsite",
+  "source_type": "github_trending",
+  "summary": "该项目为论文《Are LLMs Bad At Moral Reasoning?》的配套微站点，核心价值在于系统评估大语言模型在道德推理任务中的表现。技术亮点包括构建标准化道德推理测试集与对比基准，揭示LLM在复杂伦理情境下的局限性。适用于AI伦理研究、模型安全评估及道德对齐优化场景。",
+  "tags": [
+    "LLM",
+    "Ethics",
+    "Moral Reasoning",
+    "AI Safety",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:04:12+00:00",
+  "updated_at": "2026-07-20T08:04:12+00:00"
+}

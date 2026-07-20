@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-177",
+  "title": "Baidu-AI-Search/Orion-Mission-Mode",
+  "source_url": "https://github.com/Baidu-AI-Search/Orion-Mission-Mode",
+  "source_type": "github_trending",
+  "summary": "百度开源Orion-Mission-Mode，一种基于大语言模型的自主任务规划与执行框架。核心价值在于将复杂任务分解为可执行的子任务序列，支持多步骤推理与工具调用。技术亮点包括动态任务调度、错误恢复机制及与外部API的无缝集成。适用于自动化工作流、智能客服、数据分析等场景，显著提升AI Agent的任务完成效率与可靠性。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Task Planning",
+    "Tool Use",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:04:12+00:00",
+  "updated_at": "2026-07-20T08:04:12+00:00"
+}

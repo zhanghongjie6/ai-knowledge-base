@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-176",
+  "title": "raklinchakma021-pixel/agentra-client",
+  "source_url": "https://github.com/raklinchakma021-pixel/agentra-client",
+  "source_type": "github_trending",
+  "summary": "Agentra-client 是一个开源的多智能体协作框架，支持分布式任务分配与实时通信，适用于自动化工作流和复杂问题求解。其核心价值在于通过轻量级架构实现高效智能体编排，技术亮点包括动态任务路由和容错机制，可用于客服系统、数据分析等场景。",
+  "tags": [
+    "Multi-Agent",
+    "Framework",
+    "Automation",
+    "Distributed",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:04:12+00:00",
+  "updated_at": "2026-07-20T08:04:12+00:00"
+}

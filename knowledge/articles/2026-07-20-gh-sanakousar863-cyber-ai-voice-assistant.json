@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-173",
+  "title": "sanakousar863-cyber/AI-VOICE-ASSISTANT",
+  "source_url": "https://github.com/sanakousar863-cyber/AI-VOICE-ASSISTANT",
+  "source_type": "github_trending",
+  "summary": "一个基于Python的AI语音助手项目，集成了语音识别、自然语言处理和文本转语音功能。核心价值在于提供轻量级、可定制的语音交互解决方案，适用于智能家居控制、个人助理和自动化任务等场景。技术亮点包括支持多种语音引擎和API集成。",
+  "tags": [
+    "Voice Assistant",
+    "Python",
+    "NLP",
+    "Speech Recognition",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:04:12+00:00",
+  "updated_at": "2026-07-20T08:04:12+00:00"
+}
