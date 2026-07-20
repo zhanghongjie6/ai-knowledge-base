@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-122",
+  "title": "nullx2-x/eagleeye-qa-agent",
+  "source_url": "https://github.com/nullx2-x/eagleeye-qa-agent",
+  "source_type": "github_trending",
+  "summary": "EagleEye QA Agent 是一个浏览器原生的AI质量保证代理，能够观察用户操作、生成测试用例、回放测试并生成带有证据的报告。其核心价值在于简化Web应用的自动化测试流程，技术亮点包括浏览器原生集成和全流程自动化，适用于前端开发、QA团队和持续集成场景。",
+  "tags": [
+    "QA",
+    "Agent",
+    "Browser Automation",
+    "Testing",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:44:26+00:00",
+  "updated_at": "2026-07-20T07:44:26+00:00"
+}

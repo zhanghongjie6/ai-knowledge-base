@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-135",
+  "title": "jojhony/StudentDropAI",
+  "source_url": "https://github.com/jojhony/StudentDropAI",
+  "source_type": "github_trending",
+  "summary": "StudentDropAI 是一个基于数据驱动的智能解决方案，通过分析学生行为与学业数据，预测辍学风险并触发及时干预。其核心技术包括机器学习模型与实时监控，适用于教育机构提前识别高危学生、优化资源分配，从而降低辍学率并提升教育成效。",
+  "tags": [
+    "Machine Learning",
+    "Education",
+    "Predictive Analytics",
+    "Student Retention",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:46:42+00:00",
+  "updated_at": "2026-07-20T07:46:42+00:00"
+}

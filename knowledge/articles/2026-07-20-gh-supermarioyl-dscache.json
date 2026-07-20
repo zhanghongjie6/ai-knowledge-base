@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-121",
+  "title": "SuperMarioYL/dscache",
+  "source_url": "https://github.com/SuperMarioYL/dscache",
+  "source_type": "github_trending",
+  "summary": "dscache 是一个轻量级分布式缓存工具，基于 Go 语言开发，提供高性能的键值存储和自动过期功能，适用于微服务架构下的数据缓存场景，可有效降低数据库负载并提升系统响应速度。",
+  "tags": [
+    "Distributed Cache",
+    "Go",
+    "Microservices",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-20T07:44:26+00:00",
+  "updated_at": "2026-07-20T07:44:26+00:00"
+}

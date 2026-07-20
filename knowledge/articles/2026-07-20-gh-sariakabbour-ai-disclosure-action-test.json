@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-134",
+  "title": "SariaKabbour/ai-disclosure-action-test",
+  "source_url": "https://github.com/SariaKabbour/ai-disclosure-action-test",
+  "source_type": "github_trending",
+  "summary": "该项目是一个GitHub Action，用于自动检测和披露AI生成内容的来源。核心价值在于提升内容透明度，适用于需要标注AI辅助创作内容的场景，如文档、博客或代码注释。技术亮点包括自动化集成和可配置的披露规则。",
+  "tags": [
+    "GitHub Action",
+    "AI Disclosure",
+    "Content Transparency",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:46:42+00:00",
+  "updated_at": "2026-07-20T07:46:42+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-128",
+  "title": "hyuga611/skills-lint",
+  "source_url": "https://github.com/hyuga611/skills-lint",
+  "source_type": "github_trending",
+  "summary": "skills-lint 是一个用于在 CI 中检查 Anthropic Agent Skills（SKILL.md）的 lint 工具，核心价值在于确保技能之间的引用完整性以及名称/触发器的唯一性，避免冲突。它语言无关、零依赖，可直接集成到开发流程中，适用于构建复杂 Agent 技能系统的团队。",
+  "tags": [
+    "Agent",
+    "Lint",
+    "CI",
+    "Anthropic",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:44:26+00:00",
+  "updated_at": "2026-07-20T07:44:26+00:00"
+}

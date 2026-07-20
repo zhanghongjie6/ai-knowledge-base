@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-138",
+  "title": "maximhq/bifrost",
+  "source_url": "https://github.com/maximhq/bifrost",
+  "source_type": "github_trending",
+  "summary": "Bifrost 是专为企业级 AI 应用设计的高性能网关，核心价值在于极低延迟（<100 µs）和高吞吐（5k RPS），比 LiteLLM 快 50 倍。支持自适应负载均衡、集群模式、安全护栏及 1000+ 模型，适用于大规模模型推理、API 聚合与流量管理场景。",
+  "tags": [
+    "AI Gateway",
+    "Load Balancer",
+    "Enterprise",
+    "LLM",
+    "High Performance",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 6617,
+  "status": "published",
+  "created_at": "2026-07-20T07:46:42+00:00",
+  "updated_at": "2026-07-20T07:46:51+00:00"
+}

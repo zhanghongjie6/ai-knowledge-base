@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-123",
+  "title": "tanmayjain12/mcp_enterprise_connector_hub",
+  "source_url": "https://github.com/tanmayjain12/mcp_enterprise_connector_hub",
+  "source_type": "github_trending",
+  "summary": "该项目展示了如何通过MCP兼容的连接器，让AI代理安全地访问内部文档、API和运营工具，实现企业级数据与AI的无缝集成。核心价值在于提供标准化的企业连接方案，技术亮点包括安全认证和权限控制，适用于企业内部知识库查询、自动化运维和智能客服等场景。",
+  "tags": [
+    "MCP",
+    "Enterprise",
+    "AI Agent",
+    "API Integration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:44:26+00:00",
+  "updated_at": "2026-07-20T07:44:26+00:00"
+}

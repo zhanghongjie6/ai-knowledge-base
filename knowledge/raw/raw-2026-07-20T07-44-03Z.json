@@ -1,0 +1,100 @@
+[
+  {
+    "title": "SuperMarioYL/dscache",
+    "url": "https://github.com/SuperMarioYL/dscache",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "dscache",
+    "pushed_at": "2026-07-20T07:43:48Z",
+    "created_at_source": "2026-06-19T03:37:50Z"
+  },
+  {
+    "title": "nullx2-x/eagleeye-qa-agent",
+    "url": "https://github.com/nullx2-x/eagleeye-qa-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Browser-native AI QA agent: observe, generate, replay, and report with evidence.",
+    "pushed_at": "2026-07-20T07:43:48Z",
+    "created_at_source": "2026-07-17T23:46:47Z"
+  },
+  {
+    "title": "tanmayjain12/mcp_enterprise_connector_hub",
+    "url": "https://github.com/tanmayjain12/mcp_enterprise_connector_hub",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A repo showing how AI agents securely access internal docs, APIs, and operational tools through MCP-compatible connectors.",
+    "pushed_at": "2026-07-20T07:43:47Z",
+    "created_at_source": "2026-07-20T07:43:44Z"
+  },
+  {
+    "title": "SuperMarioYL/dirtygraph",
+    "url": "https://github.com/SuperMarioYL/dirtygraph",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Bazel-style dirty-marking + incremental re-derivation for agent-maintained docs and codebase knowledge-graphs — re-derive only the dirty subgraph instead of rebuilding everything.",
+    "pushed_at": "2026-07-20T07:43:46Z",
+    "created_at_source": "2026-06-24T02:56:17Z"
+  },
+  {
+    "title": "trporov/aibbrb",
+    "url": "https://github.com/trporov/aibbrb",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:43:48Z",
+    "created_at_source": "2026-07-20T07:43:45Z"
+  },
+  {
+    "title": "AndersH82/SmartBuild-AI",
+    "url": "https://github.com/AndersH82/SmartBuild-AI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Building AI course project",
+    "pushed_at": "2026-07-20T07:43:44Z",
+    "created_at_source": "2026-07-20T07:28:59Z"
+  },
+  {
+    "title": "vishal-bulbule/ai-social-post-examples",
+    "url": "https://github.com/vishal-bulbule/ai-social-post-examples",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:43:44Z",
+    "created_at_source": "2026-07-20T07:43:43Z"
+  },
+  {
+    "title": "hyuga611/skills-lint",
+    "url": "https://github.com/hyuga611/skills-lint",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Lint Anthropic Agent Skills (SKILL.md) in CI: referential integrity + name/trigger collisions between skills. Language-agnostic, zero-dep.",
+    "pushed_at": "2026-07-20T07:43:48Z",
+    "created_at_source": "2026-07-20T06:30:37Z"
+  },
+  {
+    "title": "guptadikshant/agent_core_understanding",
+    "url": "https://github.com/guptadikshant/agent_core_understanding",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:43:43Z",
+    "created_at_source": "2026-07-20T07:43:43Z"
+  },
+  {
+    "title": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "source": "github_trending",
+    "popularity": 217426,
+    "summary": "The agent that grows with you",
+    "pushed_at": "2026-07-20T07:43:43Z",
+    "created_at_source": "2025-07-22T22:22:28Z"
+  },
+  {
+    "title": "Why Multi-Tenant SaaS Architecture Is Essential for Scalable Cloud Applications",
+    "url": "https://dev.to/ethersofts/why-multi-tenant-saas-architecture-is-essential-for-scalable-cloud-applications-dl9",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Cloud software has transformed the way businesses build and deliver digital products. Instead of installing software on individual servers for every customer, companies now deliver applications throug",
+    "feed_name": "DEV.to AI"
+  }
+]

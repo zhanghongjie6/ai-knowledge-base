@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-131",
+  "title": "CCCCgitgit/KG-RAG-Agent",
+  "source_url": "https://github.com/CCCCgitgit/KG-RAG-Agent",
+  "source_type": "github_trending",
+  "summary": "基于LangGraph的知识图谱检索增强生成代理，结合知识图谱与RAG技术，提升复杂查询的准确性与可解释性，适用于企业知识管理、智能问答等场景。",
+  "tags": [
+    "Knowledge Graph",
+    "RAG",
+    "Agent",
+    "LangGraph",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:46:42+00:00",
+  "updated_at": "2026-07-20T07:46:51+00:00"
+}
