@@ -32,6 +32,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 ARTICLES_DIR = BASE_DIR / "knowledge" / "articles"
 REPORT_DIR = BASE_DIR / "ai-coding-news"
 STATE_FILE = BASE_DIR / "ai-coding-news" / "sent_state.json"
+PUSH_HISTORY_FILE = BASE_DIR / "knowledge" / "push_history.json"
 
 AUTHORITATIVE_SOURCES = {
     "openai.com",
@@ -316,13 +317,31 @@ def load_articles() -> list[dict[str, Any]]:
 
 
 def load_sent_state() -> set[str]:
-    if not STATE_FILE.exists():
-        return set()
-    try:
-        data = json.loads(STATE_FILE.read_text(encoding="utf-8"))
-        return set(data.get("sent_ids", []))
-    except (json.JSONDecodeError, OSError):
-        return set()
+    sent_ids: set[str] = set()
+    
+    if STATE_FILE.exists():
+        try:
+            data = json.loads(STATE_FILE.read_text(encoding="utf-8"))
+            sent_ids.update(data.get("sent_ids", []))
+        except (json.JSONDecodeError, OSError):
+            pass
+    
+    if PUSH_HISTORY_FILE.exists():
+        try:
+            data = json.loads(PUSH_HISTORY_FILE.read_text(encoding="utf-8"))
+            items = data.get("items", {})
+            for key, rec in items.items():
+                if isinstance(rec, dict):
+                    url = str(rec.get("source_url") or "").strip().rstrip("/").lower()
+                    art_id = str(rec.get("id") or "").strip()
+                    if url:
+                        sent_ids.add(url)
+                    if art_id:
+                        sent_ids.add(art_id)
+        except (json.JSONDecodeError, OSError):
+            pass
+    
+    return sent_ids
 
 
 def save_sent_state(sent_ids: set[str]) -> None:
