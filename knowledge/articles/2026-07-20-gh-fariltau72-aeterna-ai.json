@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-165",
+  "title": "FARILtau72/Aeterna-Ai",
+  "source_url": "https://github.com/FARILtau72/Aeterna-Ai",
+  "source_type": "github_trending",
+  "summary": "该项目利用梯度提升回归器模型，通过GridSearchCV进行微调，专门用于预测雅加达省的区域垃圾量。核心价值在于提供数据驱动的垃圾管理决策支持，技术亮点包括模型优化和区域针对性，适用于城市环保规划与资源调度。",
+  "tags": [
+    "Gradient Boosting",
+    "Predictive Modeling",
+    "Waste Management",
+    "GridSearchCV",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 4,
+  "status": "draft",
+  "created_at": "2026-07-20T08:01:05+00:00",
+  "updated_at": "2026-07-20T08:01:05+00:00"
+}

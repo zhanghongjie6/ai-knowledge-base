@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-170",
+  "title": "liamChen-lb/my-agent",
+  "source_url": "https://github.com/liamChen-lb/my-agent",
+  "source_type": "github_trending",
+  "summary": "一个基于LangChain和OpenAI的智能代理框架，支持工具调用、记忆管理和多轮对话，适用于自动化任务和客服场景。技术亮点包括模块化设计、可扩展工具集和上下文感知能力。",
+  "tags": [
+    "Agent",
+    "LangChain",
+    "LLM",
+    "Tool Calling",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T08:01:05+00:00",
+  "updated_at": "2026-07-20T08:01:05+00:00"
+}
