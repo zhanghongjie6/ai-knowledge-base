@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-090",
+  "title": "DamselGirder/enhancing-llms",
+  "source_url": "https://github.com/DamselGirder/enhancing-llms",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套增强大型语言模型（LLM）能力的工具和方法，核心价值在于通过提示工程、外部知识集成和微调策略提升模型在复杂任务中的表现。技术亮点包括模块化设计、支持多种LLM后端以及易用的API接口。适用于问答系统、内容生成和代码辅助等场景。",
+  "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "Fine-tuning",
+    "Knowledge Integration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:30:51+00:00",
+  "updated_at": "2026-07-20T07:30:51+00:00"
+}

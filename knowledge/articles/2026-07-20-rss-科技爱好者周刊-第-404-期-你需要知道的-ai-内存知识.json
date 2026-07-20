@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-026",
+  "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/07/weekly-issue-404.html",
+  "source_type": "rss",
+  "summary": "本期周刊封面文章介绍了在家运行AI模型所需的硬件知识，重点对比了独立显卡（如英伟达RTX 50系列）与集成内存方案，强调了显存容量和带宽对模型推理性能的关键影响，适合AI爱好者和开发者选型参考。",
+  "tags": [
+    "AI",
+    "Hardware",
+    "GPU",
+    "Memory",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:18:16+00:00",
+  "updated_at": "2026-07-20T07:18:16+00:00"
+}

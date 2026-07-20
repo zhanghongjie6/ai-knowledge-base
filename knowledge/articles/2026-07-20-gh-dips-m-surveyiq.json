@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-066",
+  "title": "dips-m/SurveyIQ",
+  "source_url": "https://github.com/dips-m/SurveyIQ",
+  "source_type": "github_trending",
+  "summary": "SurveyIQ 是一款基于 AI 的在线调查创建与响应分析工具，核心价值在于利用大语言模型自动生成调查问卷并智能分析开放式回答。技术亮点包括自动问题生成、情感分析和主题聚类，适用于市场调研、用户反馈收集和学术研究等场景。",
+  "tags": [
+    "AI",
+    "Survey",
+    "NLP",
+    "Data Analysis",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:27:20+00:00",
+  "updated_at": "2026-07-20T07:27:20+00:00"
+}

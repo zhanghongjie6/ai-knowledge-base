@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Ajaxparmar/WhatsApp_Lead_Ai_Agent",
+    "url": "https://github.com/Ajaxparmar/WhatsApp_Lead_Ai_Agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:38:43Z",
+    "created_at_source": "2026-07-20T07:38:42Z"
+  },
+  {
+    "title": "arafathussen/arafathussen",
+    "url": "https://github.com/arafathussen/arafathussen",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Full-Stack Developer crafting AI-powered applications, intelligent automation & modern web solutions.Beyond development, I'm also interested in Content Creation",
+    "pushed_at": "2026-07-20T07:38:43Z",
+    "created_at_source": "2021-10-22T03:55:46Z"
+  },
+  {
+    "title": "CityScholarCarve/Arena-Breakout-Aimbot",
+    "url": "https://github.com/CityScholarCarve/Arena-Breakout-Aimbot",
+    "source": "github_trending",
+    "popularity": 28,
+    "summary": "Aimbot for Arena Breakout: Infinite with Silent Aim, Triggerbot, No Recoil, No Spread, FOV Control & more!",
+    "pushed_at": "2026-07-20T07:38:43Z",
+    "created_at_source": "2026-07-19T12:44:44Z"
+  },
+  {
+    "title": "ganeshmshetty/airsync-mac",
+    "url": "https://github.com/ganeshmshetty/airsync-mac",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:38:42Z",
+    "created_at_source": "2026-07-20T07:38:41Z"
+  },
+  {
+    "title": "codetest-st/AI_ML.",
+    "url": "https://github.com/codetest-st/AI_ML.",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "PROGRAM",
+    "pushed_at": "2026-07-20T07:38:40Z",
+    "created_at_source": "2026-07-20T07:38:39Z"
+  },
+  {
+    "title": "fraserhighlandshoppe/BusinessOS",
+    "url": "https://github.com/fraserhighlandshoppe/BusinessOS",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Business Operating System for Humans and AI",
+    "pushed_at": "2026-07-20T07:38:40Z",
+    "created_at_source": "2026-07-20T06:10:27Z"
+  },
+  {
+    "title": "JeongDoWook/vuln-agent",
+    "url": "https://github.com/JeongDoWook/vuln-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "런타임 노출 맥락으로 오탐을 줄이는 자율 취약점 진단 에이전트 (2026 오픈소스 개발자대회)",
+    "pushed_at": "2026-07-20T07:38:38Z",
+    "created_at_source": "2026-07-07T02:42:08Z"
+  },
+  {
+    "title": "ythottman-glitch/ai-hedge-fund",
+    "url": "https://github.com/ythottman-glitch/ai-hedge-fund",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI Hedge Fund backend (deploy to Koyeb)",
+    "pushed_at": "2026-07-20T07:38:36Z",
+    "created_at_source": "2026-07-20T07:37:53Z"
+  },
+  {
+    "title": "jatin-x-pal/Deep-Brief",
+    "url": "https://github.com/jatin-x-pal/Deep-Brief",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Deep Brief is an AI-powered news intelligence platform that collects news from leading AI companies and research sources, processes and curates articles using AI, generates intelligent summaries, and ",
+    "pushed_at": "2026-07-20T07:38:35Z",
+    "created_at_source": "2026-07-20T07:38:34Z"
+  },
+  {
+    "title": "Harishram4106/OutpaceHQ",
+    "url": "https://github.com/Harishram4106/OutpaceHQ",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "OutPace HQ is an event-management and GTM marketing automation backend. It auto-mirrors events to Luma via browser automation, answers event questions over WhatsApp/email through a FAISS + Claude RAG ",
+    "pushed_at": "2026-07-20T07:38:35Z",
+    "created_at_source": "2026-07-20T07:29:45Z"
+  },
+  {
+    "title": "从零到一手撸 Agent 系列 — 第 3 篇：Agent 的\"心跳\" — 主循环与 System Prompt",
+    "url": "https://juejin.cn/post/7664115885457473582",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "用 Go 语言从零手写一个终端 AI 编码助手——能读代码、改 Bug、跑命令、接入外部工具，带你手把手完成一个Agent。",
+    "feed_name": "掘金"
+  }
+]

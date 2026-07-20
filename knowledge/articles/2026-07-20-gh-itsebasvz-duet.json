@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-052",
+  "title": "itsebasvz/duet",
+  "source_url": "https://github.com/itsebasvz/duet",
+  "source_type": "github_trending",
+  "summary": "Duet 是一个双智能体开发系统，由 Claude Code 作为编排器，Hermes 等模型作为 CLI 工作代理，支持实时 Web 可观测性。其核心价值在于通过多代理协作提升开发效率，适用于自动化任务、代码生成和调试场景。技术亮点包括灵活的代理组合和可视化监控。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "DevOps",
+    "Observability",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:25:13+00:00",
+  "updated_at": "2026-07-20T07:25:13+00:00"
+}

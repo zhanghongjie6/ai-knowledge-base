@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-060",
+  "title": "shahalll/zachify_ecommerce",
+  "source_url": "https://github.com/shahalll/zachify_ecommerce",
+  "source_type": "github_trending",
+  "summary": "Zachify Ecommerce 是一个基于 Flask 的全栈 AI 驱动电商网站，集成了智能推荐、搜索优化和个性化购物体验。技术亮点包括使用机器学习模型进行商品推荐、自然语言处理增强搜索功能，以及实时库存管理。适用于中小型电商平台快速搭建，提升用户转化率和运营效率。",
+  "tags": [
+    "Flask",
+    "E-commerce",
+    "AI",
+    "Recommendation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:25:13+00:00",
+  "updated_at": "2026-07-20T07:25:13+00:00"
+}

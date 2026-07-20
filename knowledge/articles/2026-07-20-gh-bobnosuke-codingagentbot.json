@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-004",
+  "title": "bobnosuke/CodingAgentBot",
+  "source_url": "https://github.com/bobnosuke/CodingAgentBot",
+  "source_type": "github_trending",
+  "summary": "CodingAgentBot 是一个在 Discord 上运行的自律型 AI 编码代理机器人，能够自动执行代码生成、调试和项目管理等任务。其核心价值在于将 AI 编码能力无缝集成到 Discord 协作环境中，技术亮点包括多语言支持、上下文感知和任务自动化。适用于开发团队在 Discord 中快速获取代码帮助、自动化重复性编码工作，提升协作效率。",
+  "tags": [
+    "AI Agent",
+    "Discord Bot",
+    "Code Generation",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:05:36+00:00",
+  "updated_at": "2026-07-20T07:05:36+00:00"
+}

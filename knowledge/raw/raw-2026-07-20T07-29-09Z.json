@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Kerwin0224/tccli-agent-sop",
+    "url": "https://github.com/Kerwin0224/tccli-agent-sop",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Claude Code skill: use tccli handbook via GitBook MCP; open issues on tke-cli-guide when docs or tools need fixes",
+    "pushed_at": "2026-07-20T07:28:49Z",
+    "created_at_source": "2026-07-20T06:25:42Z"
+  },
+  {
+    "title": "tkarim45/agent-eval-harness",
+    "url": "https://github.com/tkarim45/agent-eval-harness",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Agent eval harness — measure task success, tool-call accuracy, step efficiency, and cost for tool-using LLM agents (Claude). Benchmark + trajectory viewer.",
+    "pushed_at": "2026-07-20T07:28:49Z",
+    "created_at_source": "2026-06-24T07:31:16Z"
+  },
+  {
+    "title": "CleverBoy07/Automated-Petabyte-Data-Analysis",
+    "url": "https://github.com/CleverBoy07/Automated-Petabyte-Data-Analysis",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Automated document processing pipeline paired with a Graph RAG (Retrieval-Augmented Generation) system that answers questions by combining semantic search with knowledge graph traversal — built to sca",
+    "pushed_at": "2026-07-20T07:28:48Z",
+    "created_at_source": "2026-07-20T07:23:44Z"
+  },
+  {
+    "title": "cherry0604/Ai_Java",
+    "url": "https://github.com/cherry0604/Ai_Java",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:28:48Z",
+    "created_at_source": "2026-07-20T07:28:47Z"
+  },
+  {
+    "title": "chrisdruta/vibe-devcontainer-submodule",
+    "url": "https://github.com/chrisdruta/vibe-devcontainer-submodule",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A small, reusable Dev Container harness for agentic coding on Windows + WSL2 + Docker (and mac?)",
+    "pushed_at": "2026-07-20T07:28:48Z",
+    "created_at_source": "2026-07-12T07:43:14Z"
+  },
+  {
+    "title": "ntuaiclub/ian",
+    "url": "https://github.com/ntuaiclub/ian",
+    "source": "github_trending",
+    "popularity": 27,
+    "summary": "Taiwan's first multi-platform AI Agent built by a student club, integrating multiple messaging platforms to provide 24/7 intelligent support.",
+    "pushed_at": "2026-07-20T07:28:48Z",
+    "created_at_source": "2026-07-02T11:28:53Z"
+  },
+  {
+    "title": "mik228-ctrl/gemini-ai-pulse",
+    "url": "https://github.com/mik228-ctrl/gemini-ai-pulse",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Automated AI news feed powered by Gemini",
+    "pushed_at": "2026-07-20T07:28:47Z",
+    "created_at_source": "2026-07-17T11:00:53Z"
+  },
+  {
+    "title": "DakshhBN/RAG-Chatbot",
+    "url": "https://github.com/DakshhBN/RAG-Chatbot",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:28:46Z",
+    "created_at_source": "2026-07-20T07:25:37Z"
+  },
+  {
+    "title": "Darkroaster/Daily-English-Practice",
+    "url": "https://github.com/Darkroaster/Daily-English-Practice",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Start your AI-driven, personalized English speaking practice with a single message every day.",
+    "pushed_at": "2026-07-20T07:28:45Z",
+    "created_at_source": "2026-07-13T02:28:49Z"
+  },
+  {
+    "title": "RITMak/AI-13.07.2026",
+    "url": "https://github.com/RITMak/AI-13.07.2026",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:28:45Z",
+    "created_at_source": "2026-07-17T11:50:20Z"
+  }
+]

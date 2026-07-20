@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-105",
+  "title": "pandego/awesome-agentic",
+  "source_url": "https://github.com/pandego/awesome-agentic",
+  "source_type": "github_trending",
+  "summary": "这是一个精选的AI智能体资源列表，涵盖编码代理、记忆优先助手和智能体框架。核心价值在于为开发者提供一站式导航，快速找到高质量工具和框架。技术亮点包括对记忆优先架构的关注，适用于自动化编程、智能助手和复杂任务编排等场景。",
+  "tags": [
+    "Agent",
+    "Framework",
+    "Coding Agent",
+    "Memory",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:34:44+00:00",
+  "updated_at": "2026-07-20T07:34:44+00:00"
+}

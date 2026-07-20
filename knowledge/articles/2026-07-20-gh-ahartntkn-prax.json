@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-043",
+  "title": "AHartNtkn/Prax",
+  "source_url": "https://github.com/AHartNtkn/Prax",
+  "source_type": "github_trending",
+  "summary": "Prax 是 Versu 社交模拟叙事引擎的 Haskell 重实现，核心价值在于通过排除逻辑数据库、社会实践、效用驱动自主代理、道义规范和前向链推理，实现深度社会交互模拟。技术亮点包括形式化社会规则与代理决策机制，适用于游戏叙事、虚拟角色行为生成及社会科学研究。",
+  "tags": [
+    "Social Simulation",
+    "Game Engine",
+    "Haskell",
+    "Agent",
+    "Narrative",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:23:23+00:00",
+  "updated_at": "2026-07-20T07:23:27+00:00"
+}

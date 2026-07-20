@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-087",
+  "title": "XMUDeepLIT/Awesome-Self-Evolving-Agents",
+  "source_url": "https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents",
+  "source_type": "github_trending",
+  "summary": "该项目整理了关于自进化智能体的全面资源列表，涵盖综述、论文、基准测试和开源项目。核心价值在于系统梳理了智能体通过自我学习、反思和适应不断进化能力的技术路径，适用于自动化任务、持续学习和复杂环境适应等场景。",
+  "tags": [
+    "Agent",
+    "Self-Evolution",
+    "Survey",
+    "AutoML",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 338,
+  "status": "published",
+  "created_at": "2026-07-20T07:30:51+00:00",
+  "updated_at": "2026-07-20T07:30:59+00:00"
+}

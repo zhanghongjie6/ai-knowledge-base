@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-019",
+  "title": "Druttzen/ai-music-tool",
+  "source_url": "https://github.com/Druttzen/ai-music-tool",
+  "source_type": "github_trending",
+  "summary": "一个基于AI的音乐生成工具，支持文本提示生成旋律、和声与节奏，提供实时预览和导出功能。技术亮点包括多模型集成（如MusicGen）、低延迟生成和可定制参数。适用于音乐创作、游戏配乐和内容制作等场景。",
+  "tags": [
+    "AI Music",
+    "Music Generation",
+    "Open Source",
+    "Creative Tool",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:12:11+00:00",
+  "updated_at": "2026-07-20T07:12:11+00:00"
+}

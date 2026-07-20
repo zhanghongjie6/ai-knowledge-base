@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-091",
+  "title": "jaeseok614/llm-gpu-checker-ko",
+  "source_url": "https://github.com/jaeseok614/llm-gpu-checker-ko",
+  "source_type": "github_trending",
+  "summary": "这是一个韩语网页工具，用于检查LLM与GPU的兼容性并计算VRAM需求。核心价值在于帮助用户快速评估模型在特定GPU上的运行可行性，技术亮点包括实时VRAM估算和兼容性数据库，适用于模型部署前的硬件规划。",
+  "tags": [
+    "LLM",
+    "GPU",
+    "VRAM",
+    "Tool",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-20T07:32:39+00:00",
+  "updated_at": "2026-07-20T07:32:39+00:00"
+}

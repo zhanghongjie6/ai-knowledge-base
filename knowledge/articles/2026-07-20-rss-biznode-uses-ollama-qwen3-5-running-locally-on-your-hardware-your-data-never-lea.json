@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260720-035",
+  "title": "BizNode uses Ollama (Qwen3.5) running locally on your hardware — your data never leaves your machine. True AI privacy",
+  "source_url": "https://dev.to/biznode/biznode-uses-ollama-qwen35-running-locally-on-your-hardware-your-data-never-leaves-your-85",
+  "source_type": "rss",
+  "summary": "BizNode 是一款完全运行在本地硬件上的自主AI业务自动化系统，基于Ollama和Qwen3.5模型，确保数据永不离开设备。核心价值在于实现真正的AI隐私保护，无需云订阅即可完成业务流程自动化。技术亮点包括本地推理、零数据外泄和自主操作，适用于企业内网、敏感数据处理和离线自动化场景。",
+  "tags": [
+    "Local AI",
+    "Privacy",
+    "Automation",
+    "Ollama",
+    "Qwen",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:30:51+00:00",
+  "updated_at": "2026-07-20T07:30:51+00:00"
+}

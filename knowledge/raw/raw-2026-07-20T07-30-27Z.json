@@ -1,0 +1,100 @@
+[
+  {
+    "title": "zircote/rlm-rs",
+    "url": "https://github.com/zircote/rlm-rs",
+    "source": "github_trending",
+    "popularity": 57,
+    "summary": "Rust CLI implementing the Recursive Language Model (RLM) pattern for Claude Code. Process documents 100x larger than context windows through intelligent chunking, SQLite persistence, and recursive sub",
+    "pushed_at": "2026-07-20T07:30:04Z",
+    "created_at_source": "2026-01-19T13:33:21Z"
+  },
+  {
+    "title": "notlate-cn/GraphRun",
+    "url": "https://github.com/notlate-cn/GraphRun",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Lightweight, recoverable Agent Runtime for Web and LLM agents.",
+    "pushed_at": "2026-07-20T07:30:04Z",
+    "created_at_source": "2026-07-20T07:11:50Z"
+  },
+  {
+    "title": "sahit1011/Full-Stack-MiniAI-As-A-Service",
+    "url": "https://github.com/sahit1011/Full-Stack-MiniAI-As-A-Service",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:30:03Z",
+    "created_at_source": "2025-07-08T18:19:48Z"
+  },
+  {
+    "title": "gaoyanzhi-me/purchase_ai",
+    "url": "https://github.com/gaoyanzhi-me/purchase_ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:30:03Z",
+    "created_at_source": "2026-07-20T07:30:02Z"
+  },
+  {
+    "title": "sakshi9696rana/Mindmate-AI",
+    "url": "https://github.com/sakshi9696rana/Mindmate-AI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A Mood based AI study planner built with flask",
+    "pushed_at": "2026-07-20T07:30:02Z",
+    "created_at_source": "2026-07-20T06:54:27Z"
+  },
+  {
+    "title": "snatchnodejack/Creative-Studio-Tool",
+    "url": "https://github.com/snatchnodejack/Creative-Studio-Tool",
+    "source": "github_trending",
+    "popularity": 30,
+    "summary": "Creative studio utility for content creators with AI tools, 4K export, and professional effects.",
+    "pushed_at": "2026-07-20T07:30:01Z",
+    "created_at_source": "2026-07-18T13:23:54Z"
+  },
+  {
+    "title": "XMUDeepLIT/Awesome-Self-Evolving-Agents",
+    "url": "https://github.com/XMUDeepLIT/Awesome-Self-Evolving-Agents",
+    "source": "github_trending",
+    "popularity": 338,
+    "summary": "A Survey of Self-Evolving Agents | A curated list of resources (surveys, papers, benchmarks, and opensource projects) on Self-Evolving Agents.",
+    "pushed_at": "2026-07-20T07:30:01Z",
+    "created_at_source": "2026-02-09T10:57:30Z"
+  },
+  {
+    "title": "tgagor/docker-gemini-cli",
+    "url": "https://github.com/tgagor/docker-gemini-cli",
+    "source": "github_trending",
+    "popularity": 19,
+    "summary": "Gemini CLI wrapped as a Docker image, so you don't need to trash your OS with Node and it's dependencies.",
+    "pushed_at": "2026-07-20T07:30:01Z",
+    "created_at_source": "2025-10-31T08:29:59Z"
+  },
+  {
+    "title": "eclipsesource/ai-coding-cheat-sheet",
+    "url": "https://github.com/eclipsesource/ai-coding-cheat-sheet",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:30:01Z",
+    "created_at_source": "2026-06-26T19:30:32Z"
+  },
+  {
+    "title": "DamselGirder/enhancing-llms",
+    "url": "https://github.com/DamselGirder/enhancing-llms",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:30:01Z",
+    "created_at_source": "2026-07-20T07:29:58Z"
+  },
+  {
+    "title": "BizNode uses Ollama (Qwen3.5) running locally on your hardware — your data never leaves your machine. True AI privacy",
+    "url": "https://dev.to/biznode/biznode-uses-ollama-qwen35-running-locally-on-your-hardware-your-data-never-leaves-your-85",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Hey Devs — Ever wanted to run a full AI business automation system that never touches the cloud? Meet BizNode, the autonomous AI business operator that runs entirely on your hardware, no subscriptions",
+    "feed_name": "DEV.to AI"
+  }
+]

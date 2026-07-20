@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-120",
+  "title": "Harishram4106/OutpaceHQ",
+  "source_url": "https://github.com/Harishram4106/OutpaceHQ",
+  "source_type": "github_trending",
+  "summary": "OutPace HQ 是一个事件管理与GTM营销自动化后端，通过浏览器自动化将事件自动同步到Luma，并利用FAISS与Claude RAG技术通过WhatsApp/邮件回答事件相关问题，核心价值在于简化活动运营与客户互动。",
+  "tags": [
+    "Event-Management",
+    "GTM",
+    "RAG",
+    "Automation",
+    "Claude",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:39:30+00:00",
+  "updated_at": "2026-07-20T07:39:30+00:00"
+}

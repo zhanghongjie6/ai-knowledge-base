@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-107",
+  "title": "SubhamSwain2025/WellMindAI-Health-Project",
+  "source_url": "https://github.com/SubhamSwain2025/WellMindAI-Health-Project",
+  "source_type": "github_trending",
+  "summary": "WellMindAI是一个开源AI健康项目，提供基于机器学习的心理健康评估与建议工具。核心价值在于利用自然语言处理和情感分析技术，从用户输入中识别情绪状态并生成个性化健康报告。技术亮点包括轻量级模型部署和隐私保护设计。适用于个人心理健康自测、心理咨询辅助及企业员工关怀场景。",
+  "tags": [
+    "Mental Health",
+    "NLP",
+    "Sentiment Analysis",
+    "Machine Learning",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:34:44+00:00",
+  "updated_at": "2026-07-20T07:34:44+00:00"
+}

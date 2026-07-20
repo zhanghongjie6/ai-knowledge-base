@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-117",
+  "title": "JeongDoWook/vuln-agent",
+  "source_url": "https://github.com/JeongDoWook/vuln-agent",
+  "source_type": "github_trending",
+  "summary": "vuln-agent 是一个通过运行时暴露上下文减少误报的自主漏洞诊断代理，荣获2026年开源开发者大会奖项。其核心价值在于利用动态执行环境信息提升漏洞检测准确性，适用于安全审计、DevSecOps和自动化渗透测试场景。",
+  "tags": [
+    "Security",
+    "Agent",
+    "Vulnerability Detection",
+    "DevSecOps",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:39:30+00:00",
+  "updated_at": "2026-07-20T07:39:38+00:00"
+}

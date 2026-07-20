@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-082",
+  "title": "notlate-cn/GraphRun",
+  "source_url": "https://github.com/notlate-cn/GraphRun",
+  "source_type": "github_trending",
+  "summary": "GraphRun 是一个轻量级、可恢复的 Agent 运行时，专为 Web 和 LLM 代理设计。其核心价值在于提供高可靠性的任务执行环境，支持断点续跑和状态持久化。技术亮点包括基于图的执行流、轻量化架构和易于集成。适用于需要长时间运行或容错性强的自动化任务场景。",
+  "tags": [
+    "Agent",
+    "Runtime",
+    "LLM",
+    "Web",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:30:51+00:00",
+  "updated_at": "2026-07-20T07:30:51+00:00"
+}

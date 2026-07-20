@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-030",
+  "title": "Mau-Q/zhiyan-patent-drafting-agent",
+  "source_url": "https://github.com/Mau-Q/zhiyan-patent-drafting-agent",
+  "source_type": "github_trending",
+  "summary": "基于Qwen大模型和CNIPA专利数据库的跨平台专利撰写助手，支持Windows和macOS。核心价值在于利用AI自动生成符合中国专利局格式要求的初稿，减少人工撰写时间。技术亮点包括本地化部署、模板化生成和实时检索。适用于专利代理人、发明人快速起草专利申请。",
+  "tags": [
+    "Patent Drafting",
+    "Qwen",
+    "CNIPA",
+    "Agent",
+    "Cross-platform",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:18:15+00:00",
+  "updated_at": "2026-07-20T07:18:15+00:00"
+}

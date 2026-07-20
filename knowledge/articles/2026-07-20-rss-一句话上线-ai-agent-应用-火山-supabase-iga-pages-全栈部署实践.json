@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-001",
+  "title": "一句话上线 AI Agent 应用：火山 Supabase + IGA Pages 全栈部署实践",
+  "source_url": "https://www.infoq.cn/article/ZG1ipDQr8pjjHUQe7gbF?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍了火山引擎Supabase与IGA Pages结合的全栈部署方案，实现一句话快速上线AI Agent应用。核心价值在于降低AI应用开发门槛，通过无服务器架构和预集成组件，开发者可快速构建并部署具备数据库、认证、实时功能的智能代理。技术亮点包括Supabase的实时数据同步与IGA Pages的静态托管，适用于快速原型验证、轻量级AI工具开发等场景。",
+  "tags": [
+    "AI Agent",
+    "Supabase",
+    "Serverless",
+    "Full-Stack Deployment",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:05:36+00:00",
+  "updated_at": "2026-07-20T07:05:36+00:00"
+}

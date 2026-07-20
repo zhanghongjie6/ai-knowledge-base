@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-100",
+  "title": "O0000-code/awesome-academic-skills",
+  "source_url": "https://github.com/O0000-code/awesome-academic-skills",
+  "source_type": "github_trending",
+  "summary": "该项目整理了适用于学术工作的Claude和AI代理技能索引，覆盖从文献检索到同行评审的完整研究生命周期。每个条目标注了许可证和运行环境，帮助研究人员快速找到合适的AI工具提升效率。",
+  "tags": [
+    "Academic",
+    "AI Agent",
+    "Claude",
+    "Research Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 13,
+  "status": "draft",
+  "created_at": "2026-07-20T07:32:39+00:00",
+  "updated_at": "2026-07-20T07:32:39+00:00"
+}

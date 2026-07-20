@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-057",
+  "title": "heitang321/FindJobAgent",
+  "source_url": "https://github.com/heitang321/FindJobAgent",
+  "source_type": "github_trending",
+  "summary": "FindJobAgent 是一个基于 AI Agent 的智能求职助手，通过自然语言交互帮助用户自动搜索、筛选和申请职位。核心价值在于将大语言模型与招聘平台 API 结合，实现简历匹配、岗位推荐和自动投递，显著提升求职效率。技术亮点包括多 Agent 协作、RAG 增强的简历解析和实时职位追踪。适用于求职者快速匹配理想岗位。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "LLM",
+    "Job Search",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:25:13+00:00",
+  "updated_at": "2026-07-20T07:25:22+00:00"
+}

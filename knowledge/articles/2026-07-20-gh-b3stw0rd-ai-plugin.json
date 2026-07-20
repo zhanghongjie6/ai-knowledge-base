@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-064",
+  "title": "b3stw0rd/AI_Plugin",
+  "source_url": "https://github.com/b3stw0rd/AI_Plugin",
+  "source_type": "github_trending",
+  "summary": "b3stw0rd/AI_Plugin 是一个跨插件请求工具，旨在简化AI插件之间的通信与协作。其核心价值在于通过统一接口实现不同插件的无缝集成，技术亮点包括轻量级架构和高效请求路由，适用于多插件协同工作流、自动化任务编排等场景。",
+  "tags": [
+    "Plugin",
+    "Integration",
+    "Automation",
+    "Workflow",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:27:20+00:00",
+  "updated_at": "2026-07-20T07:27:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260720-006",
+  "title": "likewufeng/stamp-ai-service",
+  "source_url": "https://github.com/likewufeng/stamp-ai-service",
+  "source_type": "github_trending",
+  "summary": "该项目提供印章采集、抠图及手写签名提取功能，核心价值在于自动化处理印章和签名图像，适用于文档数字化、合同管理等场景。技术亮点包括基于AI的图像分割与背景去除，使用简便，可快速集成。",
+  "tags": [
+    "Image Processing",
+    "AI",
+    "Document Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:05:36+00:00",
+  "updated_at": "2026-07-20T07:05:36+00:00"
+}

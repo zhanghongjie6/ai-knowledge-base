@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-104",
+  "title": "samay-ai/livekit-plugins-quickdial",
+  "source_url": "https://github.com/samay-ai/livekit-plugins-quickdial",
+  "source_type": "github_trending",
+  "summary": "samay-ai/livekit-plugins-quickdial 是一个为 LiveKit Agents 框架开发的 Python 插件，集成了 Quickdial 的文本转语音（TTS）和语音转文本（STT）功能。核心价值在于为实时语音交互应用（如语音助手、客服系统）提供低延迟、高质量的语音能力，技术亮点包括与 LiveKit 生态的无缝集成和 Quickdial 的优化性能。适用于需要快速部署语音对话功能的场景。",
+  "tags": [
+    "LiveKit",
+    "TTS",
+    "STT",
+    "Voice AI",
+    "Plugin",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:34:44+00:00",
+  "updated_at": "2026-07-20T07:34:44+00:00"
+}

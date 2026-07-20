@@ -1,0 +1,172 @@
+[
+  {
+    "title": "long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
+    "url": "https://github.com/long-safe-accont-4567-uvwxyz-9876/xiaoda-agent",
+    "source": "github_trending",
+    "popularity": 12,
+    "summary": "Nahida AI Agent - A QQ bot powered by MiMo model with knowledge graph, memory system, and tool calling capabilities",
+    "pushed_at": "2026-07-20T07:11:06Z",
+    "created_at_source": "2026-05-31T12:14:56Z"
+  },
+  {
+    "title": "oOREDACTEDOo/regathered-ai-portfolio",
+    "url": "https://github.com/oOREDACTEDOo/regathered-ai-portfolio",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI automation portfolio: agentic workflows, RAG pipelines, and reporting systems",
+    "pushed_at": "2026-07-20T07:11:05Z",
+    "created_at_source": "2026-07-20T06:35:27Z"
+  },
+  {
+    "title": "Davecodingking/viggle-graphics-intel-workbench",
+    "url": "https://github.com/Davecodingking/viggle-graphics-intel-workbench",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Profile-driven AI intelligence workbench for video generation, human animation, graphics, 3D/4D and inference systems",
+    "pushed_at": "2026-07-20T07:11:05Z",
+    "created_at_source": "2026-07-20T06:54:04Z"
+  },
+  {
+    "title": "ysysn315/data-agent",
+    "url": "https://github.com/ysysn315/data-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:11:04Z",
+    "created_at_source": "2026-07-20T07:11:03Z"
+  },
+  {
+    "title": "stanvanlea/llmcqz",
+    "url": "https://github.com/stanvanlea/llmcqz",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:11:03Z",
+    "created_at_source": "2026-07-20T05:36:12Z"
+  },
+  {
+    "title": "iceglober/agentj",
+    "url": "https://github.com/iceglober/agentj",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A coding agent that prefers computing over inferring and keeps context short for accuracy. Headless v1 on the Vercel AI SDK.",
+    "pushed_at": "2026-07-20T07:10:59Z",
+    "created_at_source": "2026-06-26T02:14:36Z"
+  },
+  {
+    "title": "Wcof/Natives",
+    "url": "https://github.com/Wcof/Natives",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "AI Steam Base — a desktop application container for the AI era (Electron + Next.js + SQLite)",
+    "pushed_at": "2026-07-20T07:10:57Z",
+    "created_at_source": "2026-06-14T04:52:00Z"
+  },
+  {
+    "title": "9t29zhmwdh-coder/SwiftAgent",
+    "url": "https://github.com/9t29zhmwdh-coder/SwiftAgent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Lightweight modular Swift agent framework for local LLMs (Ollama, llama.cpp)",
+    "pushed_at": "2026-07-20T07:10:59Z",
+    "created_at_source": "2026-06-12T05:59:00Z"
+  },
+  {
+    "title": "Druttzen/ai-music-tool",
+    "url": "https://github.com/Druttzen/ai-music-tool",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:10:57Z",
+    "created_at_source": "2026-04-28T00:00:40Z"
+  },
+  {
+    "title": "anushrajk/super30ai",
+    "url": "https://github.com/anushrajk/super30ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:10:56Z",
+    "created_at_source": "2025-12-31T08:00:27Z"
+  },
+  {
+    "title": "专访孙元浩：乘坐星环号，把数据库“移民火星”的人",
+    "url": "https://www.infoq.cn/article/xsZUSSR8PRtcjZobwkYA?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "Someone Fine-Tuned OpenBMB’s MiniCPM5-1B on Claude Fable 5 Traces to Ship a 657MB Local Thinking Model",
+    "url": "https://www.marktechpost.com/2026/07/19/someone-fine-tuned-openbmbs-minicpm5-1b-on-claude-fable-5-traces-to-ship-a-657mb-local-thinking-model/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "A community developer fine-tuned OpenBMB's MiniCPM5-1B on Claude Fable 5 traces into a 1B model that runs fully local — a 657MB smallest build, 128K context, and visible reasoning. We verify every spe",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "A scorecard for the AI age",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Introducing Claude for Teachers",
+    "url": "https://www.anthropic.com/news/claude-for-teachers",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "We're introducing Claude for Teachers, providing verified K-12 educators in the US free access to premium Claude capabilities, a library of teaching skills, and a direct connection to evidence-based c",
+    "feed_name": "Anthropic News"
+  },
+  {
+    "title": "Our approach to bioresilience",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Google DeepMind"
+  },
+  {
+    "title": "Introducing Muse Spark 1.1",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "AI at Meta"
+  },
+  {
+    "title": "Transform your sales organization with Amazon Quick: your new agentic AI teammate",
+    "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "In this post, we walk through a few ways that Quick delivers on this promise. We cover the entire sales cycle, from identifying your highest-priority prospect, contacting them, working the deal to clo",
+    "feed_name": "AWS ML Blog"
+  },
+  {
+    "title": "The cost of saying yes has changed",
+    "url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era.\nThe post The cost of saying yes has changed appeared first on T",
+    "feed_name": "GitHub Blog"
+  },
+  {
+    "title": "Data downloaded by Vercel Sandbox is now free",
+    "url": "https://vercel.com/changelog/data-downloaded-by-vercel-sandbox-is-now-free",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Vercel News"
+  },
+  {
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model",
+    "feed_name": "VentureBeat AI"
+  }
+]

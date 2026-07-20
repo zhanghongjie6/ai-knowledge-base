@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-070",
+  "title": "opyamorpen/agent-platform",
+  "source_url": "https://github.com/opyamorpen/agent-platform",
+  "source_type": "github_trending",
+  "summary": "一个轻量级AI Agent开发平台，支持快速构建、部署和管理智能代理。核心价值在于简化Agent创建流程，提供模块化工具集成与可扩展架构。技术亮点包括插件化设计、多模型兼容及可视化监控。适用于自动化任务、客服系统和个性化助手等场景。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "Platform",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:27:20+00:00",
+  "updated_at": "2026-07-20T07:30:59+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-078",
+  "title": "DakshhBN/RAG-Chatbot",
+  "source_url": "https://github.com/DakshhBN/RAG-Chatbot",
+  "source_type": "github_trending",
+  "summary": "一个基于RAG（检索增强生成）的聊天机器人项目，支持从PDF、网页等来源提取知识并实现智能问答。核心价值在于将检索与生成结合，提升回答准确性和上下文相关性。技术亮点包括使用LangChain、FAISS向量数据库和多种LLM后端。适用于企业知识库、文档问答、客服系统等场景。",
+  "tags": [
+    "RAG",
+    "Chatbot",
+    "LangChain",
+    "FAISS",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:29:29+00:00",
+  "updated_at": "2026-07-20T07:29:29+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-029",
+  "title": "亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个",
+  "source_url": "https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "亚马逊云科技分享了某客户如何将Lambda函数扩展至100万个的实践案例，展示了无服务器架构的高弹性和可扩展性。核心价值在于通过优化函数配置、并发管理和资源分配，实现大规模函数的高效运行。技术亮点包括自动扩展策略和成本控制，适用于大规模事件驱动应用、数据处理和微服务场景。",
+  "tags": [
+    "AWS Lambda",
+    "Serverless",
+    "Scalability",
+    "Cloud Computing",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:21:54+00:00",
+  "updated_at": "2026-07-20T07:21:54+00:00"
+}

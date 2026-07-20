@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-011",
+  "title": "专访孙元浩：乘坐星环号，把数据库“移民火星”的人",
+  "source_url": "https://www.infoq.cn/article/xsZUSSR8PRtcjZobwkYA?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "星环科技创始人孙元浩提出数据库“移民火星”理念，通过分布式架构与云原生技术实现数据迁移与治理，核心价值在于打破传统数据库局限，提升数据处理效率与弹性。技术亮点包括跨平台兼容、实时分析及AI融合，适用于金融、制造等大数据场景。",
+  "tags": [
+    "Database",
+    "Cloud Native",
+    "Big Data",
+    "AI",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:12:11+00:00",
+  "updated_at": "2026-07-20T07:23:27+00:00"
+}

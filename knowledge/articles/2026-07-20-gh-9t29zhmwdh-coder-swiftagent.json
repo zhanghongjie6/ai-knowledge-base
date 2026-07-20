@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-018",
+  "title": "9t29zhmwdh-coder/SwiftAgent",
+  "source_url": "https://github.com/9t29zhmwdh-coder/SwiftAgent",
+  "source_type": "github_trending",
+  "summary": "SwiftAgent 是一个轻量级模块化的 Swift 代理框架，专为本地 LLM（如 Ollama、llama.cpp）设计。其核心价值在于提供高效、可扩展的 AI 代理构建能力，技术亮点包括模块化架构和本地模型集成，适用于 iOS/macOS 上的智能助手、自动化任务等场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Swift",
+    "Local AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:12:11+00:00",
+  "updated_at": "2026-07-20T07:12:11+00:00"
+}

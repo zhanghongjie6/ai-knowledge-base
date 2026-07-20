@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-056",
+  "title": "palaksriv/AstralVision-AI",
+  "source_url": "https://github.com/palaksriv/AstralVision-AI",
+  "source_type": "github_trending",
+  "summary": "AstralVision-AI 是一个基于深度学习的计算机视觉项目，专注于天文图像分析，能够自动识别和分类天体（如星系、星云、恒星）。其核心价值在于利用AI技术简化天文数据处理流程，适用于天文研究、教育及爱好者观测辅助。技术亮点包括高效的图像预处理和预训练模型迁移学习，使用场景涵盖天文台数据自动标注、太空望远镜图像分析等。",
+  "tags": [
+    "Computer Vision",
+    "Deep Learning",
+    "Astronomy",
+    "Image Classification",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:25:13+00:00",
+  "updated_at": "2026-07-20T07:25:13+00:00"
+}

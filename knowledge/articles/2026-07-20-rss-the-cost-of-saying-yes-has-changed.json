@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260720-018",
+  "title": "The cost of saying yes has changed",
+  "source_url": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+  "source_type": "rss",
+  "summary": "本文探讨了AI时代代码编写成本下降但维护成本未变的现象，提出了一个决策框架，帮助开发者在AI辅助下判断哪些变更真正廉价。核心价值在于重新定义技术债务与变更管理，适用于软件工程决策与团队协作场景。",
+  "tags": [
+    "AI",
+    "Software Engineering",
+    "Technical Debt",
+    "Decision Framework",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:12:11+00:00",
+  "updated_at": "2026-07-20T07:21:55+00:00"
+}

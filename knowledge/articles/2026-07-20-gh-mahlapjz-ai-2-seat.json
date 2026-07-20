@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-058",
+  "title": "mahlapjz-ai/2-seat",
+  "source_url": "https://github.com/mahlapjz-ai/2-seat",
+  "source_type": "github_trending",
+  "summary": "2-seat 是一个轻量级的多智能体协作框架，支持多个AI模型（如GPT、Claude）在同一对话中协同工作，实现任务分配与结果整合。核心价值在于简化多模型编排流程，适用于复杂推理、代码生成和创意写作等场景。技术亮点包括低耦合架构和灵活的模型切换。",
+  "tags": [
+    "Multi-Agent",
+    "LLM",
+    "Framework",
+    "Collaboration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:25:13+00:00",
+  "updated_at": "2026-07-20T07:25:13+00:00"
+}

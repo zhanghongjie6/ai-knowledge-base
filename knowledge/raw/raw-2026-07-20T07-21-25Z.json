@@ -1,0 +1,124 @@
+[
+  {
+    "title": "LipatovCore/emergent-lab",
+    "url": "https://github.com/LipatovCore/emergent-lab",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A growing laboratory of agent-based simulations, experiments, and research notes.",
+    "pushed_at": "2026-07-20T07:21:01Z",
+    "created_at_source": "2026-07-20T07:21:00Z"
+  },
+  {
+    "title": "Harshguliag416/wine-quality-predictor",
+    "url": "https://github.com/Harshguliag416/wine-quality-predictor",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "VineAI — AI-powered wine quality predictor (Flask + scikit-learn + Chart.js)",
+    "pushed_at": "2026-07-20T07:21:00Z",
+    "created_at_source": "2026-07-20T07:20:59Z"
+  },
+  {
+    "title": "o2M8Dt3169/aigatn",
+    "url": "https://github.com/o2M8Dt3169/aigatn",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:21:00Z",
+    "created_at_source": "2026-07-20T06:51:21Z"
+  },
+  {
+    "title": "MdNaqui4/Air_Canvas",
+    "url": "https://github.com/MdNaqui4/Air_Canvas",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:20:54Z",
+    "created_at_source": "2026-07-20T07:20:54Z"
+  },
+  {
+    "title": "xyy0963-dot/ai-english-quest",
+    "url": "https://github.com/xyy0963-dot/ai-english-quest",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:20:54Z",
+    "created_at_source": "2026-07-20T07:20:19Z"
+  },
+  {
+    "title": "Akashbhattacharyyatothenew/C1-AI-Assessment",
+    "url": "https://github.com/Akashbhattacharyyatothenew/C1-AI-Assessment",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Ticket management Application",
+    "pushed_at": "2026-07-20T07:20:54Z",
+    "created_at_source": "2026-07-20T06:55:14Z"
+  },
+  {
+    "title": "ugyok4yueu28/aijxim",
+    "url": "https://github.com/ugyok4yueu28/aijxim",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:20:53Z",
+    "created_at_source": "2026-07-19T13:39:24Z"
+  },
+  {
+    "title": "shineshadow/Global-News-Intelligence-Platform",
+    "url": "https://github.com/shineshadow/Global-News-Intelligence-Platform",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Global News Intelligence Platform is a multilingual, AI-powered system that monitors global news sources, transcribes and translates audio/video, tracks keywords and emerging events, analyzes content,",
+    "pushed_at": "2026-07-20T07:20:53Z",
+    "created_at_source": "2026-07-19T03:30:25Z"
+  },
+  {
+    "title": "sohkrish6-creator/ai-ad-backend",
+    "url": "https://github.com/sohkrish6-creator/ai-ad-backend",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:20:52Z",
+    "created_at_source": "2026-06-17T17:51:06Z"
+  },
+  {
+    "title": "ASSERT-KTH/agent-commits",
+    "url": "https://github.com/ASSERT-KTH/agent-commits",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "longitudinal study of agentic commits",
+    "pushed_at": "2026-07-20T07:20:52Z",
+    "created_at_source": "2026-03-03T21:15:00Z"
+  },
+  {
+    "title": "亚马逊云科技概要介绍了某客户如何将 Lambda 函数扩展至 100 万个",
+    "url": "https://www.infoq.cn/article/bkhkOrQYPuIN672g20hi?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "Top 10 AI Development Companies in Malaysia",
+    "url": "https://dev.to/kundanparmarseo/top-10-ai-development-companies-in-malaysia-1cfp",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Microsoft has committed $2.2 billion to cloud and AI infrastructure in Malaysia, with three new data centers landing by mid-2026. YTL Power is building an AI supercomputer with NVIDIA. The government'",
+    "feed_name": "DEV.to AI"
+  },
+  {
+    "title": "LayerProof Mylar",
+    "url": "https://www.producthunt.com/products/layerproof-social-content-generation",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Create launch-ready motion videos for your products\n          \n          \n            Discussion\n            |\n            Link",
+    "feed_name": "Product Hunt"
+  },
+  {
+    "title": "TinyRobot v0.5.0 新版本强在哪？",
+    "url": "https://juejin.cn/post/7664412459718033446",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "最近我们正式发布 TinyRobot v0.5.0 版本，这次更新不只是多了几个组件，而是让\"搭一个 AI 聊天应用\"这件事变得更简单了。",
+    "feed_name": "掘金"
+  }
+]

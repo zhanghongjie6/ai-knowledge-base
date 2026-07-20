@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-095",
+  "title": "Orchardxyz/simple-amit",
+  "source_url": "https://github.com/Orchardxyz/simple-amit",
+  "source_type": "github_trending",
+  "summary": "simple-amit 是一个轻量级 Git 扩展，利用 AI 自动生成简洁的提交信息。核心价值在于提升开发效率，减少手动编写提交信息的负担。技术亮点包括与 Git 工作流无缝集成、支持多种 AI 模型后端。适用于个人开发者和团队日常代码提交场景。",
+  "tags": [
+    "Git",
+    "AI",
+    "Developer Tools",
+    "Productivity",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:32:39+00:00",
+  "updated_at": "2026-07-20T07:32:39+00:00"
+}

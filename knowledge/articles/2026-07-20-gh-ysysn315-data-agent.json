@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-014",
+  "title": "ysysn315/data-agent",
+  "source_url": "https://github.com/ysysn315/data-agent",
+  "source_type": "github_trending",
+  "summary": "data-agent 是一个基于大语言模型的数据分析代理工具，能够通过自然语言交互自动完成数据查询、清洗、可视化和报告生成。其核心技术亮点包括多步骤推理、动态代码生成与执行，以及支持多种数据源（如 CSV、SQL 数据库）。适用于快速数据探索、业务报表自动化及非技术人员的自助分析场景。",
+  "tags": [
+    "LLM",
+    "Data Analysis",
+    "Agent",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "published",
+  "created_at": "2026-07-20T07:12:11+00:00",
+  "updated_at": "2026-07-20T07:32:47+00:00"
+}

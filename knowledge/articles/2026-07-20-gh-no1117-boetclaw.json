@@ -1,0 +1,20 @@
+{
+  "id": "github-20260720-062",
+  "title": "NO1117/boetclaw",
+  "source_url": "https://github.com/NO1117/boetclaw",
+  "source_type": "github_trending",
+  "summary": "boetclaw 是一个本地优先的 DeepAgents 钻井代理工作空间，基于 FastAPI、LangGraph 和 React 构建。其核心价值在于提供高效、可扩展的智能代理协作平台，技术亮点包括本地优先架构、图驱动的代理工作流和实时交互界面，适用于自动化钻井任务、多代理协同和工业场景的智能决策支持。",
+  "tags": [
+    "Agent",
+    "LangGraph",
+    "FastAPI",
+    "React",
+    "Local-first",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:27:20+00:00",
+  "updated_at": "2026-07-20T07:27:20+00:00"
+}

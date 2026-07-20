@@ -1,0 +1,100 @@
+[
+  {
+    "title": "arnpal961/retrace",
+    "url": "https://github.com/arnpal961/retrace",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Deterministic record/replay + causal-diff flight recorder for AI agents",
+    "pushed_at": "2026-07-20T07:26:27Z",
+    "created_at_source": "2026-07-17T08:39:36Z"
+  },
+  {
+    "title": "NO1117/boetclaw",
+    "url": "https://github.com/NO1117/boetclaw",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Local-first DeepAgents drilling agent workspace built with FastAPI, LangGraph and React.",
+    "pushed_at": "2026-07-20T07:26:27Z",
+    "created_at_source": "2026-07-20T07:26:03Z"
+  },
+  {
+    "title": "tkarim45/sec-rag-analyst",
+    "url": "https://github.com/tkarim45/sec-rag-analyst",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Production RAG over SEC 10-K filings: hybrid BM25+dense retrieval, cross-encoder reranking, cited answers via Claude, measured eval. FastAPI + Streamlit.",
+    "pushed_at": "2026-07-20T07:26:27Z",
+    "created_at_source": "2026-06-23T08:46:30Z"
+  },
+  {
+    "title": "b3stw0rd/AI_Plugin",
+    "url": "https://github.com/b3stw0rd/AI_Plugin",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Cross-Plugin Request",
+    "pushed_at": "2026-07-20T07:26:25Z",
+    "created_at_source": "2026-07-20T06:56:40Z"
+  },
+  {
+    "title": "wjdxor0405/research_agent_fastapi_final",
+    "url": "https://github.com/wjdxor0405/research_agent_fastapi_final",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:26:25Z",
+    "created_at_source": "2026-07-20T07:26:24Z"
+  },
+  {
+    "title": "dips-m/SurveyIQ",
+    "url": "https://github.com/dips-m/SurveyIQ",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI-Powered survey creation and response analysis web based application",
+    "pushed_at": "2026-07-20T07:26:24Z",
+    "created_at_source": "2026-07-20T07:26:24Z"
+  },
+  {
+    "title": "linny006/llm-agents-radar",
+    "url": "https://github.com/linny006/llm-agents-radar",
+    "source": "github_trending",
+    "popularity": 6,
+    "summary": "Live-updating index of LLM agent frameworks shipping on GitHub, refreshed every 15 minutes",
+    "pushed_at": "2026-07-20T07:26:24Z",
+    "created_at_source": "2026-05-23T10:50:40Z"
+  },
+  {
+    "title": "luwill/Claude-Code-Model-Router",
+    "url": "https://github.com/luwill/Claude-Code-Model-Router",
+    "source": "github_trending",
+    "popularity": 32,
+    "summary": "A lightweight API gateway that lets you switch to third-party AI models when using Claude Code.",
+    "pushed_at": "2026-07-20T07:26:24Z",
+    "created_at_source": "2025-12-04T07:52:08Z"
+  },
+  {
+    "title": "jobright-ai/2026-Education-New-Grad",
+    "url": "https://github.com/jobright-ai/2026-Education-New-Grad",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Collection of 2026 New Grad Jobs in Education and Training!",
+    "pushed_at": "2026-07-20T07:26:24Z",
+    "created_at_source": "2024-08-26T06:23:19Z"
+  },
+  {
+    "title": "opyamorpen/agent-platform",
+    "url": "https://github.com/opyamorpen/agent-platform",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-20T07:26:24Z",
+    "created_at_source": "2026-07-09T03:31:13Z"
+  },
+  {
+    "title": "How AI Tools Can Help Professionals Manage Finances in 2026",
+    "url": "https://dev.to/themez_world_dc53aea53896/how-ai-tools-can-help-professionals-manage-finances-in-2026-1iba",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The Rise of AI Tools in Financial Management\n\n\nIn 2026, the productivity landscape is evolving rapidly, with specialized AI tools emerging as indispensable assets for professionals and knowledge worke",
+    "feed_name": "DEV.to AI"
+  }
+]

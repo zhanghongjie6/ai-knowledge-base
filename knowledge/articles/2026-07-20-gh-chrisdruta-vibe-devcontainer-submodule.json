@@ -1,0 +1,19 @@
+{
+  "id": "github-20260720-075",
+  "title": "chrisdruta/vibe-devcontainer-submodule",
+  "source_url": "https://github.com/chrisdruta/vibe-devcontainer-submodule",
+  "source_type": "github_trending",
+  "summary": "一个轻量级、可复用的开发容器框架，专为在Windows + WSL2 + Docker（及Mac）环境下进行智能体编程而设计。核心价值在于简化AI辅助编码的本地环境配置，技术亮点包括预配置的Dev Container和子模块化集成，适用于需要快速启动AI编程工作流的开发者。",
+  "tags": [
+    "DevContainer",
+    "AgenticCoding",
+    "WSL2",
+    "Docker",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-20T07:29:29+00:00",
+  "updated_at": "2026-07-20T07:29:29+00:00"
+}
