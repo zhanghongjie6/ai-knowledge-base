@@ -444,6 +444,12 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="详细日志",
     )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=3,
+        help="每次推送文章数量限制（默认3条）",
+    )
     return parser.parse_args()
 
 
@@ -475,6 +481,9 @@ def main() -> int:
         articles.append(article)
     
     logger.info(f"筛选后：{len(articles)} 篇符合条件（近7天 + AI Coding相关 + 中文教程 + 非源码更新 + 未推送）")
+    
+    articles = articles[:args.limit]
+    logger.info(f"按限制取前 {len(articles)} 篇推送")
     
     if not articles:
         logger.warning("没有符合条件的新文章")

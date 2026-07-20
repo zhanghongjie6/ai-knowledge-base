@@ -1,29 +1,22 @@
 # AI Coding 资讯日报 - 2026年07月20日
 
-> 本期共收录 3 篇高质量文章，覆盖范围：近7天发布
+> 本期共收录 2 篇高质量文章，覆盖范围：近7天发布
 
 ## 🇨🇳 国内资讯
 
-### 1. [15天学会AI应用开发（十五）使用LangChain封装AI执行链]
+### 1. [TinyRobot v0.5.0 新版本强在哪？]
 - **来源**：juejin.cn
 - **日期**：2026-07-20
 - **影响力**：高质量技术社区
-- **摘要**：​上一篇文章末尾给出了LangChain的简单调用例子，当然LangChain还支持更丰富的功能设置，接下来就介绍如何使用LangChain封装AI执行链，以实现更复杂的功能调用。 一、构造大模型实例
-- **链接**：[阅读原文](https://juejin.cn/post/7663685196480086066)
+- **摘要**：TinyRobot v0.5.0 版本发布，核心价值在于简化AI聊天应用的搭建流程。技术亮点包括新增组件和优化集成，使用户能快速构建功能完整的聊天应用。适用于开发者快速原型设计和部署。
+- **链接**：[阅读原文](https://juejin.cn/post/7664412459718033446)
 
 ### 2. [一句话上线 AI Agent 应用：火山 Supabase + IGA Pages 全栈部署实践]
 - **来源**：www.infoq.cn
 - **日期**：2026-07-20
 - **影响力**：权威来源
-- **摘要**：点击查看原文>
+- **摘要**：本文介绍了火山引擎Supabase与IGA Pages结合的全栈部署方案，实现一句话快速上线AI Agent应用。核心价值在于降低AI应用开发门槛，通过无服务器架构和预集成组件，开发者可快速构建并部署具备数据库、认证、实时功能的智能代理。技术亮点包括Supabase的实时数据同步与IGA Pages的静态托管，适用于快速原型验证、轻量级AI工具开发等场景。
 - **链接**：[阅读原文](https://www.infoq.cn/article/ZG1ipDQr8pjjHUQe7gbF?utm_source=rss&utm_medium=article)
-
-### 3. [业务研发中的 Loop Engineering：基于事前-事中-事后架构的实践｜AICon深圳]
-- **来源**：www.infoq.cn
-- **日期**：2026-07-20
-- **影响力**：权威来源
-- **摘要**：点击查看原文>
-- **链接**：[阅读原文](https://www.infoq.cn/article/kiNAVcGoJjaVXvJGZpyK?utm_source=rss&utm_medium=article)
 
 ---
 
