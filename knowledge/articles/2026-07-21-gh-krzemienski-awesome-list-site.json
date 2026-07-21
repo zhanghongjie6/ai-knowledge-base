@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-010",
+  "title": "krzemienski/awesome-list-site",
+  "source_url": "https://github.com/krzemienski/awesome-list-site",
+  "source_type": "github_trending",
+  "summary": "该项目可将任何GitHub上的awesome清单转换为功能丰富的交互式Web仪表盘，集成AI增强功能、高级搜索和现代化UI组件。核心价值在于降低信息聚合与可视化门槛，适用于开发者快速搭建知识库、资源导航或学习路径展示。技术亮点包括自动解析清单结构、支持自定义主题与响应式设计，使用场景涵盖个人知识管理、团队技术文档展示及开源项目推广。",
+  "tags": [
+    "Awesome List",
+    "Dashboard",
+    "UI",
+    "Knowledge Management",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

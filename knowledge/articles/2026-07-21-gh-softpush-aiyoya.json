@@ -1,0 +1,18 @@
+{
+  "id": "github-20260721-004",
+  "title": "softpush/aiyoya",
+  "source_url": "https://github.com/softpush/aiyoya",
+  "source_type": "github_trending",
+  "summary": "Aiyoya 是一个开源的 AI 代理框架，专注于简化多步骤任务编排和工具调用。其核心价值在于通过模块化设计降低 AI 应用开发门槛，支持快速集成 LLM 与外部 API，适用于自动化工作流、智能客服等场景。技术亮点包括轻量级架构和灵活的插件系统。",
+  "tags": [
+    "AI Agent",
+    "Framework",
+    "Workflow Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

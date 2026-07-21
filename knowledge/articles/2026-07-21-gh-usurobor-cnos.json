@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-008",
+  "title": "usurobor/cnos",
+  "source_url": "https://github.com/usurobor/cnos",
+  "source_type": "github_trending",
+  "summary": "Coherence Network OS (CNOS) 是一个基于Git的原生协议/运行时，旨在通过减少不协调性的路径，支持人类与AI协作的工作流程。其核心价值在于将工作成果以“收据”形式记录，实现可追溯、可验证的协作，适用于分布式团队、AI辅助开发及知识管理场景。",
+  "tags": [
+    "Git",
+    "Protocol",
+    "AI Collaboration",
+    "Workflow",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 9,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

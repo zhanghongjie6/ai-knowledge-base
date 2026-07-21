@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-003",
+  "title": "brighthive/agentic-project-mgmt",
+  "source_url": "https://github.com/brighthive/agentic-project-mgmt",
+  "source_type": "github_trending",
+  "summary": "一个面向BrightHive的项目管理工具，集成了冲刺跟踪、Jira自动化和机密管理功能。核心价值在于通过自动化减少手动操作，提升团队协作效率。技术亮点包括与Jira深度集成和安全的机密处理。适用于软件开发团队的敏捷项目管理场景。",
+  "tags": [
+    "Project Management",
+    "Jira",
+    "Automation",
+    "Secrets Management",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

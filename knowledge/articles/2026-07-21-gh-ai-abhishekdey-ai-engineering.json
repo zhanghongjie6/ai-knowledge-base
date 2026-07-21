@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-009",
+  "title": "ai-abhishekdey/AI-Engineering",
+  "source_url": "https://github.com/ai-abhishekdey/AI-Engineering",
+  "source_type": "github_trending",
+  "summary": "这是一个专注于AI工程实践的GitHub仓库，涵盖LLM、Agent、RAG等前沿技术的实现与最佳实践。核心价值在于提供可复用的代码示例和工程化方案，帮助开发者快速构建生产级AI应用。技术亮点包括模块化设计、多模型集成以及性能优化技巧。适用于AI应用开发、原型验证及技术学习场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "RAG",
+    "AI Engineering",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

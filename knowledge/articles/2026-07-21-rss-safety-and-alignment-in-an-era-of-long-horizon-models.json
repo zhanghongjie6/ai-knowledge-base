@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-007",
+  "title": "Safety and alignment in an era of long-horizon models",
+  "source_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+  "source_type": "rss",
+  "summary": "OpenAI分享了部署长时间运行AI模型的经验教训，揭示了新安全风险、观察到的失败案例，并通过迭代部署改进了防护措施。核心价值在于为长周期自主AI系统提供安全对齐实践指南，技术亮点包括实时监控、干预机制和渐进式部署策略，适用于自动化研究、复杂任务执行等场景。",
+  "tags": [
+    "AI Safety",
+    "Alignment",
+    "Long-Horizon Models",
+    "Deployment",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

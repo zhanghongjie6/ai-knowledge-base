@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-009",
+  "title": "Custom OS installation now available on AWS DeepRacer devices",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
+  "source_type": "rss",
+  "summary": "AWS DeepRacer 设备现支持自定义操作系统安装，开发者可升级或安装最新OS，突破原厂固件限制。核心价值在于提升设备灵活性与可定制性，技术亮点包括简化安装流程与兼容性优化，适用于自动驾驶模型训练、边缘计算实验及教育场景。",
+  "tags": [
+    "AWS",
+    "DeepRacer",
+    "Custom OS",
+    "Edge Computing",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

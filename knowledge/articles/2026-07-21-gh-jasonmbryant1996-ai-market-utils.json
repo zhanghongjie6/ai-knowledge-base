@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-006",
+  "title": "jasonmbryant1996-ai/market-utils",
+  "source_url": "https://github.com/jasonmbryant1996-ai/market-utils",
+  "source_type": "github_trending",
+  "summary": "Market-utils 是一个开源工具库，专注于金融市场数据处理与分析，提供高效的数据获取、清洗和可视化功能。其核心技术包括实时行情接口封装、技术指标计算和回测框架集成，适用于量化交易策略开发、投资研究和市场监控等场景。",
+  "tags": [
+    "Quantitative Finance",
+    "Market Data",
+    "Backtesting",
+    "Technical Indicators",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

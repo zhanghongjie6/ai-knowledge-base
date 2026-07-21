@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-005",
+  "title": "luisalvarado2016csj-commits/MeatScan-AI-Final",
+  "source_url": "https://github.com/luisalvarado2016csj-commits/MeatScan-AI-Final",
+  "source_type": "github_trending",
+  "summary": "MeatScan-AI-Final 是一个基于AI的肉类品质检测工具，利用计算机视觉和机器学习技术对肉类图像进行分析，评估新鲜度、脂肪分布等指标。核心价值在于为食品行业提供快速、非侵入式的品质检测方案，适用于屠宰场、超市和质检实验室。技术亮点包括轻量级模型部署和实时分析能力。",
+  "tags": [
+    "Computer Vision",
+    "Food Quality",
+    "Machine Learning",
+    "Real-time Analysis",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-004",
+  "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+  "source_url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+  "source_type": "rss",
+  "summary": "谷歌正在开发“Frozen v2”服务器芯片，将Gemini架构直接集成到硬件中。据内部消息，其能效可能比当前TPU提升6到10倍，核心价值在于通过专用硅片设计大幅降低AI推理能耗，技术亮点是架构与硬件的深度耦合，适用于大规模Gemini模型部署和云端AI服务。",
+  "tags": [
+    "TPU",
+    "Gemini",
+    "AI Chip",
+    "Efficiency",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

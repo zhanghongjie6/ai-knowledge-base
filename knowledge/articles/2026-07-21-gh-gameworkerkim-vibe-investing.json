@@ -1,0 +1,20 @@
+{
+  "id": "github-20260721-007",
+  "title": "gameworkerkim/vibe-investing",
+  "source_url": "https://github.com/gameworkerkim/vibe-investing",
+  "source_type": "github_trending",
+  "summary": "Vibe Investing 是一个基于 LLM 的量化交易工具，支持纳斯达克、标普500和加密货币的多智能体回测与数据驱动市场分析。核心价值在于利用 AI 代理进行情绪驱动投资，提供 mNAV 套利、BTC-纳斯达克耦合分析及 Alpha Arena 等特色功能，适用于美股和加密市场的策略开发与回测。",
+  "tags": [
+    "LLM",
+    "Quantitative Trading",
+    "Multi-Agent",
+    "Backtesting",
+    "Crypto",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 308,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-002",
+  "title": "AI-Guiders/cdp-core",
+  "source_url": "https://github.com/AI-Guiders/cdp-core",
+  "source_type": "github_trending",
+  "summary": "AIGuiders.Cdp.Core 是一个基于 MIT 许可的 CDP 阶段×对象工具目录，由 cdp-mcp 和 Cascade IDE 共享。其核心价值在于提供标准化的 CDP 工具分类与集成框架，技术亮点包括阶段与对象双维度映射，适用于 AI 开发工具链的编排与复用。",
+  "tags": [
+    "CDP",
+    "Tool Catalog",
+    "Open Source",
+    "AI Development",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}

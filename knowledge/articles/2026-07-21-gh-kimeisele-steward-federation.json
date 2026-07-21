@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-001",
+  "title": "kimeisele/steward-federation",
+  "source_url": "https://github.com/kimeisele/steward-federation",
+  "source_type": "github_trending",
+  "summary": "Steward Federation 是一个联邦式状态共享枢纽，专为 steward 智能体网格设计，提供跨节点的一致状态同步与通信能力。其核心价值在于通过去中心化架构实现智能体间高效协作，适用于多智能体协调、分布式任务调度等场景。技术亮点包括轻量级传输协议与可插拔状态管理。",
+  "tags": [
+    "Agent",
+    "Federation",
+    "Distributed Systems",
+    "State Management",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-07-21T01:12:01+00:00",
+  "updated_at": "2026-07-21T01:12:01+00:00"
+}
