@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-011",
+  "title": "业务研发中的 Loop Engineering：基于事前-事中-事后架构的实践｜AICon深圳",
+  "source_url": "https://www.infoq.cn/article/kiNAVcGoJjaVXvJGZpyK?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍了业务研发中的Loop Engineering概念，提出基于事前-事中-事后架构的实践方法，通过将AI能力嵌入业务流程循环，实现智能决策与自动化闭环。核心价值在于提升业务效率与响应速度，技术亮点包括实时数据反馈与模型迭代，适用于金融风控、推荐系统等场景。",
+  "tags": [
+    "Loop Engineering",
+    "AI Architecture",
+    "Business Automation",
+    "Real-time Decision",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T02:03:01+00:00",
+  "updated_at": "2026-07-21T02:03:01+00:00"
+}

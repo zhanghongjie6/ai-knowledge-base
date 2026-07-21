@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-012",
+  "title": "kumabear917/bearier-mcp",
+  "source_url": "https://github.com/kumabear917/bearier-mcp",
+  "source_type": "github_trending",
+  "summary": "Bearier MCP 是一个面向所有人的多智能体桌面工具包，通过本地 MCP 桥接服务器实现桌面 Codex 与 WorkBuddy 的异步协作。其核心价值在于简化多智能体系统的本地部署与交互，技术亮点包括轻量级桥接架构和异步通信机制，适用于个人开发者、团队协作及自动化工作流场景。",
+  "tags": [
+    "Multi-Agent",
+    "MCP",
+    "Desktop",
+    "Collaboration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T02:03:01+00:00",
+  "updated_at": "2026-07-21T02:03:01+00:00"
+}

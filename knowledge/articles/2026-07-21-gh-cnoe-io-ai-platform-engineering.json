@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-011",
+  "title": "cnoe-io/ai-platform-engineering",
+  "source_url": "https://github.com/cnoe-io/ai-platform-engineering",
+  "source_type": "github_trending",
+  "summary": "CAIPE 是一个社区驱动的 AI 平台工程框架，旨在简化 AI 应用的开发、部署和运维。其核心价值在于提供标准化工具和最佳实践，降低 AI 平台构建门槛。技术亮点包括模块化架构、与主流云原生生态集成，以及支持 MLOps 全流程。适用于企业快速搭建 AI 基础设施、加速模型迭代与生产落地。",
+  "tags": [
+    "AI Platform",
+    "MLOps",
+    "Cloud Native",
+    "DevOps",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 387,
+  "status": "draft",
+  "created_at": "2026-07-21T02:03:01+00:00",
+  "updated_at": "2026-07-21T02:03:01+00:00"
+}

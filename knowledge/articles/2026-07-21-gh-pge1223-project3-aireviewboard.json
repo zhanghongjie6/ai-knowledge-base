@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-020",
+  "title": "pge1223/Project3_AIReviewBoard",
+  "source_url": "https://github.com/pge1223/Project3_AIReviewBoard",
+  "source_type": "github_trending",
+  "summary": "一个基于AI的代码审查面板工具，集成多种大语言模型（如GPT、Claude）自动分析代码质量、安全漏洞和最佳实践。支持GitHub PR集成，提供可视化审查报告，帮助团队提升代码审查效率。适用于开发团队日常代码质量控制。",
+  "tags": [
+    "AI",
+    "Code Review",
+    "LLM",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-21T02:03:01+00:00",
+  "updated_at": "2026-07-21T02:03:01+00:00"
+}

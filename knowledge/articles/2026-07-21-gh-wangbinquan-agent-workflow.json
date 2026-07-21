@@ -1,0 +1,19 @@
+{
+  "id": "github-20260721-017",
+  "title": "wangbinquan/agent-workflow",
+  "source_url": "https://github.com/wangbinquan/agent-workflow",
+  "source_type": "github_trending",
+  "summary": "Agent-Workflow 是一个轻量级的多智能体协作框架，支持任务分解、角色分配和动态流程编排。其核心价值在于简化复杂工作流的构建，技术亮点包括基于大模型的智能调度和可扩展的插件系统。适用于自动化办公、客服系统和研究协作等场景。",
+  "tags": [
+    "Agent",
+    "Workflow",
+    "LLM",
+    "Multi-Agent",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 13,
+  "status": "draft",
+  "created_at": "2026-07-21T02:03:01+00:00",
+  "updated_at": "2026-07-21T02:03:01+00:00"
+}
