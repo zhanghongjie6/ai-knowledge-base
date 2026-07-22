@@ -1,0 +1,19 @@
+{
+  "id": "github-20260722-005",
+  "title": "danelas/peekscout-instagram-agent",
+  "source_url": "https://github.com/danelas/peekscout-instagram-agent",
+  "source_type": "github_trending",
+  "summary": "一个基于AI的Instagram内容分析代理，能够自动抓取、分析和总结Instagram帖子与评论，帮助用户快速了解热门趋势和用户反馈。核心技术包括自然语言处理和社交媒体数据挖掘，适用于市场调研、竞品分析和内容策划场景。",
+  "tags": [
+    "AI Agent",
+    "Social Media Analysis",
+    "NLP",
+    "Instagram",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-22T02:01:14+00:00",
+  "updated_at": "2026-07-22T02:01:14+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-009",
+  "title": "Poolside Releases Laguna S 2.1, an Open-Weight Agentic Coding Model Punching Above Its Weight Class on SWE-Bench Multilingual",
+  "source_url": "https://www.marktechpost.com/2026/07/21/poolside-releases-laguna-s-2-1/",
+  "source_type": "rss",
+  "summary": "Poolside发布Laguna S 2.1，一款118B参数的开放权重MoE编码模型，每token仅激活8B参数，支持1M上下文窗口。在SWE-Bench多语言评测中，其性能媲美或超越数倍于其规模的模型，核心价值在于高效推理与低成本部署，适用于代码生成、调试及多语言软件开发场景。",
+  "tags": [
+    "Coding Model",
+    "MoE",
+    "Open-Weight",
+    "SWE-Bench",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-22T02:01:14+00:00",
+  "updated_at": "2026-07-22T02:01:14+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260722-006",
+  "title": "Reinforcement Learning-Guided NSGA-II Enhanced with Gray Relational Coefficient for Multi-Objective Optimization: Application to NASDAQ Portfolio Optimization",
+  "source_url": "https://arxiv.org/abs/2607.16194",
+  "source_type": "rss",
+  "summary": "该研究提出一种结合强化学习与灰色关联系数的改进NSGA-II算法，用于多目标优化问题，并应用于纳斯达克投资组合优化。核心价值在于通过强化学习引导搜索方向，利用灰色关联系数增强解的质量评估，有效平衡收益与风险。技术亮点包括自适应策略调整和高效帕累托前沿逼近。用例涵盖金融投资组合管理、资产配置优化等场景。",
+  "tags": [
+    "Reinforcement Learning",
+    "Multi-Objective Optimization",
+    "Portfolio Optimization",
+    "NSGA-II",
+    "Financial Engineering",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-22T02:01:14+00:00",
+  "updated_at": "2026-07-22T02:01:14+00:00"
+}

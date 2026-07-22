@@ -1,0 +1,19 @@
+{
+  "id": "github-20260722-002",
+  "title": "JintPongchababnapa/Agentic-Rag",
+  "source_url": "https://github.com/JintPongchababnapa/Agentic-Rag",
+  "source_type": "github_trending",
+  "summary": "Agentic-Rag 是一个结合了智能代理（Agent）与检索增强生成（RAG）的开源项目，旨在通过自主决策和动态检索提升大语言模型回答的准确性与上下文相关性。其核心价值在于让模型能主动规划检索步骤、调用工具并整合多源信息，适用于复杂问答、知识密集型任务和自动化工作流等场景。",
+  "tags": [
+    "Agent",
+    "RAG",
+    "LLM",
+    "Knowledge Retrieval",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-22T02:01:14+00:00",
+  "updated_at": "2026-07-22T02:01:14+00:00"
+}

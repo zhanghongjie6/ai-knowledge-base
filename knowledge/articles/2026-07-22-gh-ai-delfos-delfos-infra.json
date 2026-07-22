@@ -1,0 +1,19 @@
+{
+  "id": "github-20260722-007",
+  "title": "ai-delfos/delfos-infra",
+  "source_url": "https://github.com/ai-delfos/delfos-infra",
+  "source_type": "github_trending",
+  "summary": "Delfos-Infra 是一个开源基础设施平台，旨在简化AI应用的部署与管理。其核心价值在于提供模块化、可扩展的架构，支持快速集成机器学习模型、数据管道和监控工具。技术亮点包括基于Kubernetes的自动化编排、内置安全策略和实时性能追踪。适用于企业级AI系统、边缘计算和科研实验环境。",
+  "tags": [
+    "AI Infrastructure",
+    "Kubernetes",
+    "MLOps",
+    "DevOps",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-22T02:01:14+00:00",
+  "updated_at": "2026-07-22T02:01:14+00:00"
+}

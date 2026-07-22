@@ -1,0 +1,19 @@
+{
+  "id": "github-20260722-006",
+  "title": "penhandev/AutoAiVPN",
+  "source_url": "https://github.com/penhandev/AutoAiVPN",
+  "source_type": "github_trending",
+  "summary": "AutoAiVPN 是一个自动化获取和更新免费 V2Ray 配置的工具，核心价值在于为用户提供便捷的免费 VPN 节点列表。技术亮点包括自动抓取和验证配置，适用于需要临时或低成本翻墙的用户。",
+  "tags": [
+    "VPN",
+    "V2Ray",
+    "Proxy",
+    "Automation",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 57,
+  "status": "draft",
+  "created_at": "2026-07-22T02:01:14+00:00",
+  "updated_at": "2026-07-22T02:01:14+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-004",
+  "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+  "source_url": "https://arxiv.org/abs/2607.16195",
+  "source_type": "rss",
+  "summary": "该研究识别了RLHF中成对偏好标签的结构性混淆问题，即标注者状态偏差（如疲劳、情绪等）对偏好数据质量的影响。提出了一个审计框架来检测和量化这种偏差，有助于提升RLHF训练数据的可靠性，适用于大模型对齐和偏好学习场景。",
+  "tags": [
+    "RLHF",
+    "Preference Data",
+    "Bias Audit",
+    "LLM Alignment",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-22T02:01:14+00:00",
+  "updated_at": "2026-07-22T02:01:14+00:00"
+}

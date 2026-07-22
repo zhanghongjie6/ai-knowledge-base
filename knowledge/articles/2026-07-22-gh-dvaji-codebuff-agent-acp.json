@@ -1,0 +1,19 @@
+{
+  "id": "github-20260722-010",
+  "title": "dvaJi/codebuff-agent-acp",
+  "source_url": "https://github.com/dvaJi/codebuff-agent-acp",
+  "source_type": "github_trending",
+  "summary": "该项目允许用户从任何 ACP（Agent Communication Protocol）客户端调用 Codebuff/Freebuff 工具，实现跨平台代码生成与编辑。核心价值在于打通不同 AI 代理之间的通信壁垒，提升开发效率。技术亮点包括标准化的 ACP 接口适配和灵活的客户端集成。适用于自动化代码审查、智能补全和多代理协作场景。",
+  "tags": [
+    "ACP",
+    "Codebuff",
+    "Agent",
+    "Code Generation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-22T02:01:14+00:00",
+  "updated_at": "2026-07-22T02:01:14+00:00"
+}

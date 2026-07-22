@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-001",
+  "title": "跟上 AI 的节奏：为演进式架构构建上下文存储库",
+  "source_url": "https://www.infoq.cn/article/XEta3vMDDHVIeS6qQe2P?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文探讨了在AI快速演进的背景下，如何构建上下文存储库以支持演进式架构。核心价值在于提供一种灵活、可扩展的数据管理方式，使系统能够动态适应AI模型和业务逻辑的变化。技术亮点包括上下文感知、版本控制和实时更新机制。适用于需要持续集成AI能力的微服务、智能应用和自动化决策系统。",
+  "tags": [
+    "AI",
+    "Evolutionary Architecture",
+    "Context Repository",
+    "Microservices",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-22T02:01:14+00:00",
+  "updated_at": "2026-07-22T02:01:14+00:00"
+}
