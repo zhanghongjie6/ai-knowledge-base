@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260723-005",
+  "title": "Decoding EEG Signals to Explore Next-Word Predictability in the Human Brain",
+  "source_url": "https://arxiv.org/abs/2607.18321",
+  "source_type": "rss",
+  "summary": "该研究通过解码脑电图（EEG）信号，探索人脑在阅读过程中对下一个单词的预测能力，提供了神经层面的实证证据。核心价值在于揭示语言处理的认知机制，技术亮点包括EEG信号解码与语言模型结合，潜在应用场景为脑机接口、语言障碍诊断及认知科学研究。",
+  "tags": [
+    "EEG",
+    "Neuroscience",
+    "Language Processing",
+    "Brain-Computer Interface",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-23T02:08:31+00:00",
+  "updated_at": "2026-07-23T02:08:31+00:00"
+}

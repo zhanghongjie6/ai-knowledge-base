@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260723-010",
+  "title": "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
+  "source_url": "https://tldr.tech/ai/2026-07-22",
+  "source_type": "rss",
+  "summary": "Gemini 3.6 Flash 发布，带来更快推理与多模态能力提升；OpenAI 出现安全漏洞，引发行业关注；Devin 推出 Outposts 功能，支持远程分布式开发协作。核心价值在于提升 AI 效率与安全性，适用于实时应用、安全审计及远程团队协作。",
+  "tags": [
+    "LLM",
+    "Security",
+    "Agent",
+    "Multimodal",
+    "DevOps",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-23T02:08:31+00:00",
+  "updated_at": "2026-07-23T02:08:31+00:00"
+}

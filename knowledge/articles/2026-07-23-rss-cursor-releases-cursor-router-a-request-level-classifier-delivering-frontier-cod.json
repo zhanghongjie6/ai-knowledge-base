@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260723-009",
+  "title": "Cursor Releases Cursor Router: A Request-Level Classifier Delivering Frontier Coding Quality at 30–50% Lower Cost",
+  "source_url": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
+  "source_type": "rss",
+  "summary": "Cursor Router 是 Cursor 推出的请求级分类器，通过分析查询、上下文、任务复杂度和领域，将代码生成请求路由到最合适的模型。核心价值在于在保持前沿编码质量的同时，将成本降低 30-50%。适用于团队和企业计划，可显著优化 AI 编码资源利用。",
+  "tags": [
+    "AI Coding",
+    "Model Routing",
+    "Cost Optimization",
+    "Code Generation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-23T02:08:31+00:00",
+  "updated_at": "2026-07-23T02:08:31+00:00"
+}

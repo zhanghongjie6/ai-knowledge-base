@@ -1,0 +1,19 @@
+{
+  "id": "github-20260723-002",
+  "title": "lin215-del/Multi-agent-assistant",
+  "source_url": "https://github.com/lin215-del/Multi-agent-assistant",
+  "source_type": "github_trending",
+  "summary": "一个基于多智能体协作的AI助手框架，支持任务分解、角色分配和动态协调。核心价值在于通过多个专用智能体协同工作，提升复杂任务的完成效率与质量。技术亮点包括模块化设计、可扩展的智能体注册机制以及灵活的通信协议。适用于自动化工作流、智能客服、代码生成等场景。",
+  "tags": [
+    "Multi-Agent",
+    "AI Assistant",
+    "Task Decomposition",
+    "Collaboration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-23T02:08:31+00:00",
+  "updated_at": "2026-07-23T02:08:31+00:00"
+}

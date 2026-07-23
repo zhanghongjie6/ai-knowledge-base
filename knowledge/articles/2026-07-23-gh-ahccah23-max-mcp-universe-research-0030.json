@@ -1,0 +1,19 @@
+{
+  "id": "github-20260723-003",
+  "title": "ahccah23-max/MCP-Universe-Research-0030",
+  "source_url": "https://github.com/ahccah23-max/MCP-Universe-Research-0030",
+  "source_type": "github_trending",
+  "summary": "MCP-Universe-Research-0030 是一个针对大型语言模型（LLM）使用新型MCP（模型上下文协议）技术的综合评估框架。其核心价值在于系统性地测试和验证LLM在MCP环境下的表现，涵盖工具调用、上下文理解等关键能力。技术亮点包括模块化评估设计、标准化测试用例和自动化评分机制。适用于AI模型性能评测、MCP协议兼容性验证及智能体开发调试等场景。",
+  "tags": [
+    "LLM",
+    "MCP",
+    "Evaluation",
+    "Framework",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-23T02:08:31+00:00",
+  "updated_at": "2026-07-23T02:08:31+00:00"
+}

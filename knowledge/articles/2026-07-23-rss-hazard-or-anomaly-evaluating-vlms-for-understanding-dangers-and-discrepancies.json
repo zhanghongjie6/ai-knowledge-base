@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260723-007",
+  "title": "Hazard or Anomaly? Evaluating VLMs for Understanding Dangers and Discrepancies",
+  "source_url": "https://arxiv.org/abs/2607.18325",
+  "source_type": "rss",
+  "summary": "该论文评估了视觉语言模型（VLM）在理解危险和异常场景中的能力，聚焦于安全关键系统中的人机交互。核心价值在于揭示VLM在灾难响应和决策支持中的潜力与局限，技术亮点包括对多模态危险检测的基准测试，用例涵盖紧急情况下的自动风险评估。",
+  "tags": [
+    "VLM",
+    "Safety-Critical Systems",
+    "Human-Robot Interaction",
+    "Anomaly Detection",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-23T02:08:31+00:00",
+  "updated_at": "2026-07-23T02:08:31+00:00"
+}

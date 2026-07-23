@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260723-006",
+  "title": "FALCON-Discover: Discovering Concentrated False-Confidence Regions for Calibration",
+  "source_url": "https://arxiv.org/abs/2607.18278",
+  "source_type": "rss",
+  "summary": "FALCON-Discover 提出了一种新方法，用于发现模型预测中局部高置信度但错误的区域，从而改进校准评估。其核心价值在于识别传统聚合校准指标忽略的“危险”失败模式，技术亮点包括基于置信度区域的集中错误发现算法，适用于高风险AI应用如医疗诊断和自动驾驶。",
+  "tags": [
+    "Calibration",
+    "AI Safety",
+    "Uncertainty Estimation",
+    "Model Evaluation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-23T02:08:31+00:00",
+  "updated_at": "2026-07-23T02:08:31+00:00"
+}

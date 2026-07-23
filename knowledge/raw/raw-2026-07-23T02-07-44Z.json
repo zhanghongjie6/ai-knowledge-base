@@ -1,0 +1,172 @@
+[
+  {
+    "title": "hsu06-design/AI_project",
+    "url": "https://github.com/hsu06-design/AI_project",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-23T02:07:33Z",
+    "created_at_source": "2026-07-23T02:07:31Z"
+  },
+  {
+    "title": "lin215-del/Multi-agent-assistant",
+    "url": "https://github.com/lin215-del/Multi-agent-assistant",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-23T02:07:32Z",
+    "created_at_source": "2026-07-23T01:59:25Z"
+  },
+  {
+    "title": "ahccah23-max/MCP-Universe-Research-0030",
+    "url": "https://github.com/ahccah23-max/MCP-Universe-Research-0030",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A comprehensive evaluation framework for LLMs to use the novel MCP technique.",
+    "pushed_at": "2026-07-23T02:07:31Z",
+    "created_at_source": "2026-07-23T02:07:29Z"
+  },
+  {
+    "title": "GhalaAwd/Modern-Data-Engineering-for-AI-Systems-Project",
+    "url": "https://github.com/GhalaAwd/Modern-Data-Engineering-for-AI-Systems-Project",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-23T02:07:30Z",
+    "created_at_source": "2026-07-23T00:53:13Z"
+  },
+  {
+    "title": "mtityox/DianiDatalink-Aurora-Diary-Planning-App",
+    "url": "https://github.com/mtityox/DianiDatalink-Aurora-Diary-Planning-App",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A production-ready offline diary and productivity app built with modern Flutter,Riverpod 2.x, and Drift SQLite, featuring AI-ready integration hooks, a highly scalable domain-driven architecture and a",
+    "pushed_at": "2026-07-23T02:07:30Z",
+    "created_at_source": "2026-07-23T01:41:10Z"
+  },
+  {
+    "title": "tasia-ai/igrid-viewer",
+    "url": "https://github.com/tasia-ai/igrid-viewer",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Web-based 3D viewer for I-Grid OpenSim grid",
+    "pushed_at": "2026-07-23T02:07:30Z",
+    "created_at_source": "2026-07-21T10:36:41Z"
+  },
+  {
+    "title": "loorksy/AiChart",
+    "url": "https://github.com/loorksy/AiChart",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "",
+    "pushed_at": "2026-07-23T02:07:30Z",
+    "created_at_source": "2026-06-08T00:14:20Z"
+  },
+  {
+    "title": "MisonL/gpt-image-playground-customer",
+    "url": "https://github.com/MisonL/gpt-image-playground-customer",
+    "source": "github_trending",
+    "popularity": 13,
+    "summary": "面向中文内容运营者的本地 AI 图片创作工作台，支持 gpt-image-2、OpenAI 兼容接口、图生图、遮罩编辑、批量生成、费用追踪和 Agent API",
+    "pushed_at": "2026-07-23T02:07:29Z",
+    "created_at_source": "2026-05-09T08:46:08Z"
+  },
+  {
+    "title": "LiALXE/AI",
+    "url": "https://github.com/LiALXE/AI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-07-23T02:07:29Z",
+    "created_at_source": "2026-07-23T01:58:00Z"
+  },
+  {
+    "title": "baabakk/adw-init-sudoku-20260720-2023-0723-0207",
+    "url": "https://github.com/baabakk/adw-init-sudoku-20260720-2023-0723-0207",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Agentic Dev Workflow scaffold for init-sudoku-20260720-2023 (0723-0207)",
+    "pushed_at": "2026-07-23T02:07:29Z",
+    "created_at_source": "2026-07-23T02:07:25Z"
+  },
+  {
+    "title": "谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制",
+    "url": "https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：三星发布多款折叠屏新品、索尼发布 FX5 电影摄影机等",
+    "url": "https://sspai.com/post/112647",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI 发布面向企业用户的 OpenAI Presence，耐克宣布重构大中华区市场生态等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "36氪首发 | 前华尔街投资人下场造“手”，以“自研视触觉+软硬闭环”破解行业数据难题",
+    "url": "https://36kr.com/p/3907536767833473?f=rss",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "图源/企业\n  \n   本文约2100字，建议阅读5分钟\n  \n  作者丨欧雪\n  编辑丨袁斯来\n  硬氪获悉，机器人灵巧操作方案提供商拾玥科技（LumiBot）近日完成数千万元天使轮融资。本轮由常州智融长优股权投资合伙企业（有限合伙）领投，另外两家国有投资平台旗下基金跟投。资金将主要用于团队扩张、产品迭代与小批量产线建设，以及灵巧操作数据采集与模型研发。\n  拾玥科技成立于2025年初，专注于为",
+    "feed_name": "36氪"
+  },
+  {
+    "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
+    "url": "https://arxiv.org/abs/2607.18239",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2607.18239v1 Announce Type: new \nAbstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Decoding EEG Signals to Explore Next-Word Predictability in the Human Brain",
+    "url": "https://arxiv.org/abs/2607.18321",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2607.18321v1 Announce Type: new \nAbstract: Humans invented reading and have passed down this complex skill across generations through language. This study provides empirical evidence of the neur",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "FALCON-Discover: Discovering Concentrated False-Confidence Regions for Calibration",
+    "url": "https://arxiv.org/abs/2607.18278",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2607.18278v1 Announce Type: new \nAbstract: Calibration is usually evaluated in aggregate, but the most dangerous failures are often local: predictions that remain highly confident despite being ",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Hazard or Anomaly? Evaluating VLMs for Understanding Dangers and Discrepancies",
+    "url": "https://arxiv.org/abs/2607.18325",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2607.18325v1 Announce Type: new \nAbstract: Modern safety-critical systems increasingly rely on human-robot interaction to reduce disaster risk and support decision-making during emergencies. Vis",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+    "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 works from piracy databases, not for AI t",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Cursor Releases Cursor Router: A Request-Level Classifier Delivering Frontier Coding Quality at 30–50% Lower Cost",
+    "url": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Cursor has made Cursor Router generally available for Teams and Enterprise plans. The system classifies each request on query, context, task complexity and domain, then routes it to the most suitable ",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Gemini 3.6 Flash ✨, OpenAI security escape 🚨, Devin Outposts 🛰️",
+    "url": "https://tldr.tech/ai/2026-07-22",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  }
+]

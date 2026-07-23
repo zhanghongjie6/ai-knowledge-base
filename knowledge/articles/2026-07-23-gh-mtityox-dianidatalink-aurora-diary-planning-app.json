@@ -1,0 +1,19 @@
+{
+  "id": "github-20260723-005",
+  "title": "mtityox/DianiDatalink-Aurora-Diary-Planning-App",
+  "source_url": "https://github.com/mtityox/DianiDatalink-Aurora-Diary-Planning-App",
+  "source_type": "github_trending",
+  "summary": "一个基于Flutter、Riverpod 2.x和Drift SQLite构建的生产级离线日记与生产力应用，具备AI集成钩子、高度可扩展的领域驱动架构，适用于个人笔记、任务规划和数据管理场景。",
+  "tags": [
+    "Flutter",
+    "Offline",
+    "Productivity",
+    "Domain-Driven Design",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-23T02:08:31+00:00",
+  "updated_at": "2026-07-23T02:08:31+00:00"
+}

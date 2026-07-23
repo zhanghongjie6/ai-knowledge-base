@@ -1,0 +1,19 @@
+{
+  "id": "github-20260723-010",
+  "title": "baabakk/adw-init-sudoku-20260720-2023-0723-0207",
+  "source_url": "https://github.com/baabakk/adw-init-sudoku-20260720-2023-0723-0207",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于Agentic Dev Workflow的数独游戏初始化脚手架，提供了20260720-2023版本（0723-0207）的开发框架。核心价值在于通过自动化工作流简化数独应用的开发流程，适用于快速搭建数独游戏原型或学习Agent驱动的开发模式。技术亮点包括工作流编排和脚手架设计。",
+  "tags": [
+    "Agent",
+    "Workflow",
+    "Scaffold",
+    "Sudoku",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-23T02:08:31+00:00",
+  "updated_at": "2026-07-23T02:08:31+00:00"
+}

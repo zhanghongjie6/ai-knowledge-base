@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260723-001",
+  "title": "谷歌联合多家企业发布 Agentic Resource Discovery 规范，为 AI Agent 建立统一资源发现机制",
+  "source_url": "https://www.infoq.cn/article/9sEaQuLww0wAu016qH5R?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "谷歌联合多家企业发布Agentic Resource Discovery规范，为AI Agent建立统一资源发现机制，解决Agent间资源互操作性问题。该规范定义了标准化的资源发现协议，使Agent能够自动发现、理解并调用其他Agent或服务提供的资源，涵盖API、数据源、工具等。核心价值在于打破Agent孤岛，促进跨系统协作，适用于智能助手、自动化工作流、企业服务集成等场景。技术亮点包括基于开放标准的轻量级协议、动态资源注册与查询、安全认证机制。",
+  "tags": [
+    "AI Agent",
+    "Resource Discovery",
+    "Interoperability",
+    "Protocol",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-23T02:08:31+00:00",
+  "updated_at": "2026-07-23T02:08:31+00:00"
+}
