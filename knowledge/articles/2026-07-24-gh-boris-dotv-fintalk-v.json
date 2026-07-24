@@ -1,0 +1,19 @@
+{
+  "id": "github-20260724-003",
+  "title": "boris-dotv/fintalk.v",
+  "source_url": "https://github.com/boris-dotv/fintalk.v",
+  "source_type": "github_trending",
+  "summary": "FinTalk-AI是一个基于OSWorld环境的多智能体协作框架，专为金融任务设计。核心价值在于通过编排多个AI代理协同处理复杂金融操作，如数据分析、报告生成和交易模拟。技术亮点包括模块化架构、任务分解与分配机制，以及环境交互能力。适用于金融自动化、风险评估和智能客服等场景。",
+  "tags": [
+    "Multi-Agent",
+    "Finance",
+    "Orchestration",
+    "OSWorld",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 39,
+  "status": "draft",
+  "created_at": "2026-07-24T02:04:26+00:00",
+  "updated_at": "2026-07-24T02:04:26+00:00"
+}

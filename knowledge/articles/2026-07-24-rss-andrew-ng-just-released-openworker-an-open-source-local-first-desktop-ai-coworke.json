@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260724-009",
+  "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+  "source_url": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+  "source_type": "rss",
+  "summary": "OpenWorker 是吴恩达发布的 MIT 开源桌面 AI 代理，核心价值在于直接交付完成的工作成果而非聊天回复。它通过 Tauri 外壳运行本地 Python 代理服务器，支持 30 多种工具，实现任务自动化。适用于文档处理、代码生成等场景，提升工作效率。",
+  "tags": [
+    "AI Agent",
+    "Open Source",
+    "Desktop",
+    "Local-First",
+    "Automation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-24T02:04:26+00:00",
+  "updated_at": "2026-07-24T02:04:26+00:00"
+}

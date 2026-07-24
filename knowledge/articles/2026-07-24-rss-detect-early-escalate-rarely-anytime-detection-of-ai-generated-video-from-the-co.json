@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-007",
+  "title": "Detect Early, Escalate Rarely: Anytime Detection of AI-Generated Video from the Compressed Bitstream",
+  "source_url": "https://arxiv.org/abs/2607.19476",
+  "source_type": "rss",
+  "summary": "该技术提出一种从压缩视频比特流中实时检测AI生成视频的方法，无需完全解码到像素层，即可在任意时刻进行检测。核心价值在于大幅降低计算开销，支持流式检测，适用于视频审核、深度伪造防范等场景。技术亮点包括利用比特流特征和轻量级模型实现高效检测。",
+  "tags": [
+    "AI-generated video detection",
+    "compressed bitstream",
+    "real-time detection",
+    "deepfake prevention",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-24T02:04:26+00:00",
+  "updated_at": "2026-07-24T02:04:26+00:00"
+}

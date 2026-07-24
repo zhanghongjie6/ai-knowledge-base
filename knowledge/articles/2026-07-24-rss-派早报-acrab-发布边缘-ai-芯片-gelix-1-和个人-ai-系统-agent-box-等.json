@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-002",
+  "title": "派早报：Acrab 发布边缘 AI 芯片 GELIX 1 和个人 AI 系统 Agent Box 等",
+  "source_url": "https://sspai.com/post/112677",
+  "source_type": "rss",
+  "summary": "Acrab发布边缘AI芯片GELIX 1和个人AI系统Agent Box，核心价值在于将AI计算能力从云端下沉至边缘设备，实现低延迟、高隐私的本地化AI处理。技术亮点包括高效能低功耗芯片设计，支持实时语音、视觉等AI任务。用例涵盖智能家居、个人助理、工业边缘计算等场景。",
+  "tags": [
+    "Edge AI",
+    "AI Chip",
+    "Personal AI",
+    "Edge Computing",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-24T02:04:26+00:00",
+  "updated_at": "2026-07-24T02:04:26+00:00"
+}

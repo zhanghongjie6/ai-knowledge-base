@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260724-006",
+  "title": "Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions",
+  "source_url": "https://arxiv.org/abs/2607.19378",
+  "source_type": "rss",
+  "summary": "该研究提出了一种基于输入依赖长卷积的原生多维次二次算子，解决了注意力机制在多维数据上的计算瓶颈。核心价值在于实现了全局感受野与次二次复杂度的统一，技术亮点包括输入自适应卷积核和高效的多维分解算法。适用于图像、视频、点云等非序列数据的建模，可替代传统注意力机制，提升长程依赖建模效率。",
+  "tags": [
+    "Long Convolution",
+    "Subquadratic",
+    "Multi-Dimensional",
+    "Attention Alternative",
+    "Efficient Deep Learning",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-24T02:04:26+00:00",
+  "updated_at": "2026-07-24T02:04:26+00:00"
+}

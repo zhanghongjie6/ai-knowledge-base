@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-005",
+  "title": "Stateful Guardrails for Multi-Turn LLM Systems: A Conversational Risk Accumulation Framework",
+  "source_url": "https://arxiv.org/abs/2607.19361",
+  "source_type": "rss",
+  "summary": "该论文提出了一种面向多轮对话LLM系统的状态化护栏框架，解决传统单轮安全评估无法捕捉跨轮次风险累积的问题。核心技术包括对话状态追踪与风险累积模型，适用于客服、教育等需要持续监控对话安全的场景。",
+  "tags": [
+    "LLM",
+    "Safety",
+    "Multi-Turn",
+    "Guardrails",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-24T02:04:26+00:00",
+  "updated_at": "2026-07-24T02:04:26+00:00"
+}

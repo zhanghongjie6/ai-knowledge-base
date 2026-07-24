@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-001",
+  "title": "你的数据是否已为 AI-Ready？用这套框架找到答案 ｜技术实践",
+  "source_url": "https://www.infoq.cn/article/8iTgfYJ5w2xpc7ElM1NE?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍了一套评估数据是否适合AI应用的框架，涵盖数据质量、完整性、一致性等关键维度，帮助企业在AI项目中快速识别数据问题并优化数据准备流程。核心价值在于提供可操作的评估标准，技术亮点包括自动化检测工具和最佳实践，适用于数据治理、模型训练和AI应用落地场景。",
+  "tags": [
+    "Data Quality",
+    "AI Readiness",
+    "Data Governance",
+    "Best Practices",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-24T02:04:26+00:00",
+  "updated_at": "2026-07-24T02:04:26+00:00"
+}
