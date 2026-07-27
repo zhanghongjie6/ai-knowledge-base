@@ -1,0 +1,20 @@
+{
+  "id": "github-20260727-004",
+  "title": "IvonYuaN/ai-quant-stock-picker",
+  "source_url": "https://github.com/IvonYuaN/ai-quant-stock-picker",
+  "source_type": "github_trending",
+  "summary": "本地优先的A股量化选股工作台，支持多数据源路由、可解释信号生成、项目经理主链审核、纸质账本、可视化仪表盘、ServerChan通知及服务器定时任务自动化，兼顾透明度与效率。",
+  "tags": [
+    "Quantitative Trading",
+    "A-Share",
+    "Local-First",
+    "Automation",
+    "Dashboard",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}

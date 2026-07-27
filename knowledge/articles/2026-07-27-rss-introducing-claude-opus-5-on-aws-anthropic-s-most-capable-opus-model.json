@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-010",
+  "title": "Introducing Claude Opus 5 on AWS: Anthropic’s most capable Opus model",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+  "source_type": "rss",
+  "summary": "Claude Opus 5是Anthropic在AWS Bedrock上发布的最强Opus模型，核心价值在于显著提升推理、编码和复杂任务处理能力。技术亮点包括增强的代理系统集成、生产级推理优化和更低的错误率。适用于企业级AI应用开发、自动化工作流和智能决策场景。",
+  "tags": [
+    "LLM",
+    "AWS",
+    "Agent",
+    "Production Inference",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}

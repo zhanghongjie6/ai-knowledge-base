@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-001",
+  "title": "Snowflake CoCo 中的 Loop Engineering ｜ 技术实践",
+  "source_url": "https://www.infoq.cn/article/APthBQXkUJjM3BkaXZCy?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Snowflake CoCo引入循环工程（Loop Engineering）概念，通过迭代式提示优化和自动化反馈循环，提升大语言模型在复杂任务中的准确性与可靠性。核心技术包括动态上下文管理、错误自纠正机制，适用于数据分析、代码生成等场景，显著降低人工调参成本。",
+  "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "Automation",
+    "Snowflake",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}

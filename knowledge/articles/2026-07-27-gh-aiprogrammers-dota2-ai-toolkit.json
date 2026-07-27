@@ -1,0 +1,20 @@
+{
+  "id": "github-20260727-001",
+  "title": "aiprogrammers/Dota2-AI-Toolkit",
+  "source_url": "https://github.com/aiprogrammers/Dota2-AI-Toolkit",
+  "source_type": "github_trending",
+  "summary": "Dota2-AI-Toolkit 是一个开源工具包，旨在帮助开发者训练和部署 Dota 2 游戏 AI。它提供了强化学习环境、英雄技能接口和比赛回放分析功能，核心价值在于降低 MOBA 游戏 AI 开发门槛，适用于游戏 AI 研究、自动化测试和电竞数据分析。",
+  "tags": [
+    "Reinforcement Learning",
+    "Game AI",
+    "Dota 2",
+    "MOBA",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 9,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}

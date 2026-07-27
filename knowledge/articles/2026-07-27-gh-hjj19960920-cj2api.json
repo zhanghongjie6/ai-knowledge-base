@@ -1,0 +1,19 @@
+{
+  "id": "github-20260727-009",
+  "title": "hjj19960920/cj2api",
+  "source_url": "https://github.com/hjj19960920/cj2api",
+  "source_type": "github_trending",
+  "summary": "cj2api 将 ChatJimmy API 封装为 OpenAI 兼容接口，支持在 Cloudflare、Vercel 和 Netlify 等无服务器平台上快速部署。核心价值在于降低接入门槛，技术亮点包括轻量级封装和跨平台兼容，适用于需要低成本集成 AI 对话功能的场景。",
+  "tags": [
+    "API",
+    "OpenAI",
+    "Serverless",
+    "Deployment",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}

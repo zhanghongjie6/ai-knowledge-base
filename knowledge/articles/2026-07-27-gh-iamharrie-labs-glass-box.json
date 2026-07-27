@@ -1,0 +1,20 @@
+{
+  "id": "github-20260727-006",
+  "title": "IamHarrie-Labs/glass-box",
+  "source_url": "https://github.com/IamHarrie-Labs/glass-box",
+  "source_type": "github_trending",
+  "summary": "Glass-box 是一款用于评估 LLM 交易代理决策透明度的引擎，通过计算代理声称的决策依据与实际盈亏驱动因素之间的差异，量化其“自我欺骗指数”。核心价值在于揭示 AI 交易系统的逻辑偏差，提升可解释性。适用于金融 AI 审计、量化策略验证及代理行为分析场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Trading",
+    "Explainability",
+    "Audit",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}

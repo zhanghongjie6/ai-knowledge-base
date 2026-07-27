@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260727-004",
+  "title": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work",
+  "source_url": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
+  "source_type": "rss",
+  "summary": "Cursor的智能体集群实验表明，通过前沿模型（如GPT-4）负责规划任务，而更便宜的模型（如小型开源模型）执行具体编码，可以在不牺牲质量的情况下大幅降低成本。该实验让系统仅凭文档将SQLite重写为Rust，新配置在所有指标上均优于旧系统，展示了分层架构在代码生成中的高效性。",
+  "tags": [
+    "AI Coding",
+    "Agent Swarm",
+    "Cost Optimization",
+    "LLM Architecture",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}

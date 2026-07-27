@@ -1,0 +1,19 @@
+{
+  "id": "github-20260727-007",
+  "title": "Razzsuyash/openstack-ai",
+  "source_url": "https://github.com/Razzsuyash/openstack-ai",
+  "source_type": "github_trending",
+  "summary": "该项目将OpenStack云平台与AI能力结合，提供自动化资源管理和智能运维功能。核心价值在于利用机器学习优化虚拟机调度、预测负载并自动扩展资源，适用于数据中心和云服务场景。技术亮点包括集成TensorFlow/PyTorch进行预测分析，以及基于OpenStack API的无缝部署。",
+  "tags": [
+    "OpenStack",
+    "AI",
+    "Cloud Computing",
+    "Resource Management",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}

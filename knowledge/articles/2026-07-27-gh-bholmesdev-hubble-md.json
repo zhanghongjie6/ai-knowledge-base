@@ -1,0 +1,19 @@
+{
+  "id": "github-20260727-002",
+  "title": "bholmesdev/hubble.md",
+  "source_url": "https://github.com/bholmesdev/hubble.md",
+  "source_type": "github_trending",
+  "summary": "Hubble.md 是一款专为人类与AI代理协作设计的记事本工具，核心价值在于提供简洁高效的笔记界面，同时支持代理直接读写内容。技术亮点包括基于Markdown的轻量级存储、实时同步以及API接口，便于集成到自动化工作流中。适用于个人知识管理、团队协作以及AI辅助任务记录等场景。",
+  "tags": [
+    "Note-taking",
+    "AI Agent",
+    "Markdown",
+    "Collaboration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 733,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260727-005",
+  "title": "HunterDevops/cs2-aim-toolkit",
+  "source_url": "https://github.com/HunterDevops/cs2-aim-toolkit",
+  "source_type": "github_trending",
+  "summary": "基于计算机视觉的CS2游戏辅助瞄准工具，通过屏幕像素分析实现自动瞄准功能。技术亮点包括实时目标检测、平滑追踪算法和可配置灵敏度。适用于FPS游戏练习场景，但存在被反作弊系统检测的风险。",
+  "tags": [
+    "Computer Vision",
+    "Game Cheat",
+    "FPS",
+    "AutoAim",
+    "github"
+  ],
+  "score": 4,
+  "popularity": 27,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}

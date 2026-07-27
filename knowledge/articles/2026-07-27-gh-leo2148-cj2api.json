@@ -1,0 +1,19 @@
+{
+  "id": "github-20260727-010",
+  "title": "Leo2148/cj2api",
+  "source_url": "https://github.com/Leo2148/cj2api",
+  "source_type": "github_trending",
+  "summary": "将ChatJimmy转换为兼容OpenAI的API，通过Cloudflare Worker免费部署，支持标准聊天补全和流式输出，提供低成本AI接口方案。",
+  "tags": [
+    "API",
+    "Cloudflare Worker",
+    "OpenAI Compatible",
+    "Streaming",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-07-27T02:15:33+00:00",
+  "updated_at": "2026-07-27T02:15:33+00:00"
+}
