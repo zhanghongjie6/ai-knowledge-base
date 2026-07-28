@@ -1,0 +1,19 @@
+{
+  "id": "github-20260728-009",
+  "title": "trimdav/aipbqs",
+  "source_url": "https://github.com/trimdav/aipbqs",
+  "source_type": "github_trending",
+  "summary": "AIPBQS是一个基于AI的Python代码质量检查工具，通过静态分析和机器学习自动检测代码中的潜在错误、性能瓶颈和风格问题。核心价值在于提升开发效率与代码可靠性，适用于CI/CD流水线和日常开发。",
+  "tags": [
+    "Python",
+    "Code Quality",
+    "Static Analysis",
+    "Machine Learning",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-28T01:56:16+00:00",
+  "updated_at": "2026-07-28T01:56:16+00:00"
+}

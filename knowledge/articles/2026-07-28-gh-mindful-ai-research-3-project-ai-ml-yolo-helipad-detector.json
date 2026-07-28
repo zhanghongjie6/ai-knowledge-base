@@ -1,0 +1,20 @@
+{
+  "id": "github-20260728-008",
+  "title": "Mindful-AI-Research/3-project-ai-ml-yolo-helipad_detector",
+  "source_url": "https://github.com/Mindful-AI-Research/3-project-ai-ml-yolo-helipad_detector",
+  "source_type": "github_trending",
+  "summary": "该项目是一个端到端的YOLO目标检测项目，专注于识别圣保罗屋顶直升机停机坪。涵盖地理空间数据自动化、Roboflow标注、模型训练与评估，展示了从数据采集到部署的完整AI/ML工作流，适用于城市空中交通管理。",
+  "tags": [
+    "YOLO",
+    "Object Detection",
+    "Geospatial",
+    "Roboflow",
+    "Urban Air Mobility",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-28T01:56:16+00:00",
+  "updated_at": "2026-07-28T01:56:16+00:00"
+}

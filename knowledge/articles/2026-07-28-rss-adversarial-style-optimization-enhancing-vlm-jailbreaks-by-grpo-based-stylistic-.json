@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260728-004",
+  "title": "Adversarial Style Optimization: Enhancing VLM Jailbreaks by GRPO-based Stylistic Triggers Optimization",
+  "source_url": "https://arxiv.org/abs/2607.21619",
+  "source_type": "rss",
+  "summary": "该研究提出了一种基于GRPO（群体相对策略优化）的对抗性风格优化方法，通过优化风格化触发器来增强对多模态大语言模型（MLLMs）的越狱攻击。核心价值在于揭示了风格化提示在绕过安全对齐方面的潜力，技术亮点包括利用强化学习自动搜索高效攻击风格，用例包括评估和提升MLLMs的鲁棒性。",
+  "tags": [
+    "MLLM",
+    "Jailbreak",
+    "GRPO",
+    "Adversarial Attack",
+    "Safety Alignment",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-28T01:56:16+00:00",
+  "updated_at": "2026-07-28T01:56:16+00:00"
+}

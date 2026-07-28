@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260728-006",
+  "title": "Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On",
+  "source_url": "https://arxiv.org/abs/2607.21694",
+  "source_type": "rss",
+  "summary": "Oxygen-TryOn 是一个专为任意物品虚拟试穿设计的统一基础模型，核心价值在于无需改造通用图像编辑器即可实现高质量试穿效果。技术亮点包括对服装、配饰等各类物品的精准适配与自然融合，应用场景涵盖电商、时尚设计及个性化推荐。",
+  "tags": [
+    "Virtual Try-On",
+    "Foundation Model",
+    "Fashion AI",
+    "Image Generation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-28T01:56:16+00:00",
+  "updated_at": "2026-07-28T01:56:16+00:00"
+}

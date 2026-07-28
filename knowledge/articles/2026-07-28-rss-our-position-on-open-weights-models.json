@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260728-010",
+  "title": "Our position on open-weights models",
+  "source_url": "https://www.anthropic.com/news/position-open-weights-models",
+  "source_type": "rss",
+  "summary": "Anthropic CEO Dario Amodei发表关于开放权重模型的立场，强调安全与责任的重要性，指出开放权重模型可能带来滥用风险，同时承认其促进创新和研究的价值。文章呼吁在开放性与安全性之间取得平衡，建议采取分级监管和风险评估机制，尤其关注中国模型的快速发展对全球AI治理的影响。",
+  "tags": [
+    "Open-weights",
+    "AI Safety",
+    "Regulation",
+    "Anthropic",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-28T01:56:16+00:00",
+  "updated_at": "2026-07-28T01:56:16+00:00"
+}

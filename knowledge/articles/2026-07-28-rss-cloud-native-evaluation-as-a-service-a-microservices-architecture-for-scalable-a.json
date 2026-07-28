@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260728-005",
+  "title": "Cloud-Native Evaluation-as-a-Service: A Microservices Architecture for Scalable AI Monitoring with Conformal Guarantees",
+  "source_url": "https://arxiv.org/abs/2607.21623",
+  "source_type": "rss",
+  "summary": "EaaS提出了一种云原生评估即服务架构，将AI评估方法实现为六个无状态Kubernetes微服务，支持可扩展的AI监控并具有共形保证。核心价值在于将评估流程标准化、容器化，便于集成与部署。技术亮点包括微服务解耦、共形预测提供统计保证，适用于持续监控、模型验证与合规场景。",
+  "tags": [
+    "Cloud-Native",
+    "AI Monitoring",
+    "Conformal Prediction",
+    "Microservices",
+    "Evaluation-as-a-Service",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-28T01:56:16+00:00",
+  "updated_at": "2026-07-28T01:56:16+00:00"
+}

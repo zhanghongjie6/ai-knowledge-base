@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260728-001",
+  "title": "多区域架构中的权衡：延迟与成本",
+  "source_url": "https://www.infoq.cn/article/i84fFL01baIXa1P6Kqcl?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文探讨了多区域架构中延迟与成本之间的权衡，分析了不同部署策略（如主动-主动、主动-被动）对性能和费用的影响，并提供了实际案例和优化建议，适用于全球分布式系统的设计与运维。",
+  "tags": [
+    "Cloud Architecture",
+    "Latency",
+    "Cost Optimization",
+    "Multi-Region",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-28T01:56:16+00:00",
+  "updated_at": "2026-07-28T01:56:16+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260728-001",
+  "title": "kiki-munan/daypulse",
+  "source_url": "https://github.com/kiki-munan/daypulse",
+  "source_type": "github_trending",
+  "summary": "DayPulse 是一个由AI驱动的每日资讯生成工具，核心价值在于自动化收集并整合每日新闻，生成简洁的资讯摘要。技术亮点包括利用大语言模型进行内容提取与总结，支持自定义信息来源。适用于个人快速获取每日要点、团队内部信息简报等场景。",
+  "tags": [
+    "AI",
+    "News",
+    "Summarization",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-28T01:56:16+00:00",
+  "updated_at": "2026-07-28T01:56:16+00:00"
+}
