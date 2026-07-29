@@ -1,0 +1,19 @@
+{
+  "id": "github-20260729-007",
+  "title": "snow884/agentic-short-video-generation",
+  "source_url": "https://github.com/snow884/agentic-short-video-generation",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于智能体（Agent）的短视频生成框架，核心价值在于通过多智能体协作自动完成从脚本创作、素材生成到视频合成的全流程。技术亮点包括集成大语言模型进行创意策划、使用扩散模型生成视觉内容，并支持自定义工作流。适用于社交媒体内容创作、营销视频快速制作等场景。",
+  "tags": [
+    "Agent",
+    "Video Generation",
+    "LLM",
+    "Diffusion Model",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260729-007",
+  "title": "DINOv3-MIL: Per-Kidney Multi-Label Tumour and Cyst Detection from Foundation-Model Patch Tokens on KiTS23",
+  "source_url": "https://arxiv.org/abs/2607.22687",
+  "source_type": "rss",
+  "summary": "DINOv3-MIL提出了一种基于基础视觉模型的多实例学习方法，用于肾脏肿瘤和囊肿的多标签检测。该方法利用DINOv3的补丁令牌，无需领域预训练即可处理体积医学图像，在KiTS23数据集上实现了高效、准确的分类，适用于肾脏病变的自动化诊断。",
+  "tags": [
+    "Foundation Model",
+    "Medical Imaging",
+    "Multi-Instance Learning",
+    "Tumor Detection",
+    "DINOv3",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}

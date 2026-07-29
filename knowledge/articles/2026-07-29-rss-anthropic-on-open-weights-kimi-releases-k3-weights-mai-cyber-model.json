@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-010",
+  "title": "Anthropic on open weights 🔓, Kimi releases K3 weights 🤖, MAI Cyber model 🔐",
+  "source_url": "https://tldr.tech/ai/2026-07-28",
+  "source_type": "rss",
+  "summary": "Anthropic 讨论开放权重策略，Kimi 发布 K3 模型权重，MAI Cyber 模型聚焦网络安全。核心价值在于推动 AI 开源生态与安全应用，技术亮点包括开放权重促进透明度、K3 模型性能提升、MAI Cyber 增强防御能力。适用场景包括研究、开发与安全领域。",
+  "tags": [
+    "Open Weights",
+    "LLM",
+    "Cybersecurity",
+    "Model Release",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}

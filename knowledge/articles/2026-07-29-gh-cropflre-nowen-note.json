@@ -1,0 +1,20 @@
+{
+  "id": "github-20260729-004",
+  "title": "cropflre/nowen-note",
+  "source_url": "https://github.com/cropflre/nowen-note",
+  "source_type": "github_trending",
+  "summary": "Nowen Note 是一款开源自托管的笔记与私有知识库工具，支持 Markdown 和富文本编辑，集成 AI 写作、思维导图、任务管理、全文搜索及多级笔记本功能，可通过 Docker 一键部署，适合个人或团队构建安全可控的知识管理平台。",
+  "tags": [
+    "Note-taking",
+    "Self-hosted",
+    "Knowledge Base",
+    "AI Writing",
+    "Docker",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 384,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}

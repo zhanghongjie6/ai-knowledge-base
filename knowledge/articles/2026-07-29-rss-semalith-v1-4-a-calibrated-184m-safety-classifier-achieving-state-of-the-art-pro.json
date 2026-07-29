@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-006",
+  "title": "Semalith v1.4: A Calibrated 184M Safety Classifier Achieving State-of-the-Art Prompt-Injection Detection at 44x Fewer Parameters than Llama-Guard-3-8B",
+  "source_url": "https://arxiv.org/abs/2607.22545",
+  "source_type": "rss",
+  "summary": "Semalith v1.4 是一款仅184M参数的轻量级安全分类器，在提示注入检测上达到SOTA性能，参数量仅为Llama-Guard-3-8B的1/44。核心价值在于高效部署于金融和智能体场景，兼顾安全性与低资源消耗。",
+  "tags": [
+    "Safety Classifier",
+    "Prompt Injection",
+    "LLM",
+    "Efficiency",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}

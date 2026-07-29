@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260729-008",
+  "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+  "source_url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/",
+  "source_type": "rss",
+  "summary": "Anthropic的Claude Mythos Preview模型在关键密码算法中发现漏洞，包括对后量子签名方案HAWK的更优攻击，该方案此前已由人类专家审查超过两年。这一发现展示了AI在密码分析领域的潜力，可能影响互联网安全基础。",
+  "tags": [
+    "AI",
+    "Cryptography",
+    "Post-Quantum",
+    "Security",
+    "LLM",
+    "rss"
+  ],
+  "score": 9,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}

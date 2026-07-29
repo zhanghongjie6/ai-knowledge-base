@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260729-009",
+  "title": "Building Non-Interactive Agentic Coding Workflows with Moonshot AI’s Kimi CLI, JSONL Streaming, Testing, and Session Memory",
+  "source_url": "https://www.marktechpost.com/2026/07/28/building-non-interactive-agentic-coding-workflows-with-moonshot-ais-kimi-cli-jsonl-streaming-testing-and-session-memory/",
+  "source_type": "rss",
+  "summary": "本教程展示了如何将Kimi CLI配置为完全非交互式AI编码代理，通过uv安装隔离的Python 3.13环境、配置Moonshot API认证，并利用JSONL流式处理、测试和会话记忆功能构建自动化编码工作流，核心价值在于实现无需人工干预的持续编码与测试循环。",
+  "tags": [
+    "AI Coding Agent",
+    "CLI",
+    "Workflow Automation",
+    "JSONL Streaming",
+    "Session Memory",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}

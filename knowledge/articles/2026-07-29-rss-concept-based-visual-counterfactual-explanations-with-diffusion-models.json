@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-004",
+  "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
+  "source_url": "https://arxiv.org/abs/2607.22544",
+  "source_type": "rss",
+  "summary": "本文提出基于概念的视觉反事实解释方法，利用扩散模型生成最小图像修改以翻转模型预测。核心价值在于提供可解释AI工具，技术亮点包括概念级干预与扩散模型结合，适用于医疗影像、自动驾驶等高风险场景的模型调试与信任建立。",
+  "tags": [
+    "Diffusion Models",
+    "Explainable AI",
+    "Counterfactual Explanations",
+    "Computer Vision",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}

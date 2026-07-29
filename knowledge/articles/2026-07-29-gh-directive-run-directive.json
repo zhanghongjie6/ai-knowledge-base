@@ -1,0 +1,19 @@
+{
+  "id": "github-20260729-005",
+  "title": "directive-run/directive",
+  "source_url": "https://github.com/directive-run/directive",
+  "source_type": "github_trending",
+  "summary": "directive-run/directive 是一个基于约束驱动的 TypeScript 运行时，允许开发者声明式地定义需求，由运行时自动解析和满足。其核心价值在于简化依赖管理和执行逻辑，提升代码可维护性和灵活性。技术亮点包括类型安全的约束声明、动态解析机制和轻量级集成。适用于需要复杂依赖注入、条件执行或动态工作流的场景，如微服务编排、自动化测试和配置驱动应用。",
+  "tags": [
+    "TypeScript",
+    "Runtime",
+    "Constraint-Driven",
+    "Dependency Injection",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20260729-006",
+  "title": "deverman/FocusRelayMCP",
+  "source_url": "https://github.com/deverman/FocusRelayMCP",
+  "source_type": "github_trending",
+  "summary": "FocusRelayMCP 是一个基于 Swift 构建的高性能 macOS MCP 服务器和 CLI，专为 OmniFocus 设计。它通过 Omni Automation API 让 AI 助手安全地读取、更新、完成任务和项目，实现任务管理的智能化与自动化。核心价值在于将 OmniFocus 的强大任务管理能力与 AI 无缝集成，适用于个人效率提升和自动化工作流。",
+  "tags": [
+    "MCP",
+    "OmniFocus",
+    "macOS",
+    "Task Management",
+    "AI Integration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 40,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}

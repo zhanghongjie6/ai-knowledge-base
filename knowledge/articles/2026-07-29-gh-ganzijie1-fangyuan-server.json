@@ -1,0 +1,20 @@
+{
+  "id": "github-20260729-010",
+  "title": "ganzijie1/fangyuan-server",
+  "source_url": "https://github.com/ganzijie1/fangyuan-server",
+  "source_type": "github_trending",
+  "summary": "方圆易仓后端服务，基于Express和SQLite构建，集成AI Bridge实现智能仓储管理。核心价值在于轻量级、易部署，适用于中小型仓库的库存追踪、订单处理和AI辅助决策。技术亮点包括简洁的API设计和SQLite本地存储，无需复杂数据库配置。",
+  "tags": [
+    "Express",
+    "SQLite",
+    "AI",
+    "Warehouse",
+    "Backend",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-29T01:59:43+00:00",
+  "updated_at": "2026-07-29T01:59:43+00:00"
+}
