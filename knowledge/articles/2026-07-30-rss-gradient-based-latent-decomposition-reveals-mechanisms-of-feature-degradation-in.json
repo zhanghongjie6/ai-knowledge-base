@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-006",
+  "title": "Gradient-Based Latent Decomposition Reveals Mechanisms of Feature Degradation in Weakly Supervised Mammography",
+  "source_url": "https://arxiv.org/abs/2607.24835",
+  "source_type": "rss",
+  "summary": "该研究提出基于梯度的潜在分解方法，揭示了弱监督乳腺摄影中特征退化的机制。核心价值在于解释粗粒度病变特征保留而细粒度特征丢失的不对称性，技术亮点包括梯度分解与潜在空间分析。应用场景包括医学影像诊断优化、弱监督模型可解释性提升。",
+  "tags": [
+    "Weakly Supervised Learning",
+    "Medical Imaging",
+    "Interpretability",
+    "Gradient Decomposition",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-30T01:50:51+00:00",
+  "updated_at": "2026-07-30T01:50:51+00:00"
+}

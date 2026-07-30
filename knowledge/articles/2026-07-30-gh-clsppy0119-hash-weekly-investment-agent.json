@@ -1,0 +1,19 @@
+{
+  "id": "github-20260730-008",
+  "title": "clsppy0119-hash/weekly-investment-agent",
+  "source_url": "https://github.com/clsppy0119-hash/weekly-investment-agent",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于AI的投资分析代理，能够自动抓取每周财经新闻、分析市场趋势并生成投资建议报告。核心价值在于利用大语言模型和自动化流程，为个人投资者提供及时、数据驱动的决策支持。技术亮点包括新闻聚合、情感分析和投资组合建议。适用于个人理财和投资研究场景。",
+  "tags": [
+    "Investment",
+    "Agent",
+    "LLM",
+    "Finance",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-30T01:50:51+00:00",
+  "updated_at": "2026-07-30T01:50:51+00:00"
+}

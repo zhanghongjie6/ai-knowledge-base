@@ -1,0 +1,19 @@
+{
+  "id": "github-20260730-010",
+  "title": "griffinwork40/agent-afk",
+  "source_url": "https://github.com/griffinwork40/agent-afk",
+  "source_type": "github_trending",
+  "summary": "Agent-AFK 是一个终端工具，允许用户启动长时间运行的任务后离开，任务完成或需要干预时通过通知（如 ping）提醒用户。其核心价值在于自动化监控和可追溯性，每一步操作都生成可读的追踪记录，便于在交付前审查。技术亮点包括终端集成、异步通知和透明日志，适用于开发、运维和数据处理等场景。",
+  "tags": [
+    "CLI",
+    "Automation",
+    "Monitoring",
+    "DevOps",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 45,
+  "status": "draft",
+  "created_at": "2026-07-30T01:50:51+00:00",
+  "updated_at": "2026-07-30T01:50:51+00:00"
+}

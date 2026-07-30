@@ -1,0 +1,19 @@
+{
+  "id": "github-20260730-009",
+  "title": "eduwing-robotics/ros2-ai-amr-repo4",
+  "source_url": "https://github.com/eduwing-robotics/ros2-ai-amr-repo4",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于ROS2的AI自主移动机器人（AMR）仓库，集成了人工智能算法与机器人操作系统，提供导航、感知与控制模块。核心价值在于降低AMR开发门槛，支持快速原型验证，适用于物流、仓储及服务机器人等场景。技术亮点包括模块化设计、AI融合及实时性能优化。",
+  "tags": [
+    "ROS2",
+    "AMR",
+    "AI",
+    "Robotics",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-30T01:50:51+00:00",
+  "updated_at": "2026-07-30T01:50:51+00:00"
+}

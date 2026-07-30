@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-001",
+  "title": "GitLab 19.2 借助 AI 代理处理安全待办事项",
+  "source_url": "https://www.infoq.cn/article/BSPHIPBaSTkEZT9eqgzL?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "GitLab 19.2 版本引入AI代理功能，自动处理安全待办事项，提升DevOps安全效率。核心价值在于通过AI自动化漏洞分类、优先级排序和修复建议，减少人工干预。技术亮点包括集成AI代理到CI/CD流水线，支持自定义策略。适用于企业安全运维和DevSecOps场景。",
+  "tags": [
+    "DevOps",
+    "AI Agent",
+    "Security",
+    "Automation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-30T01:50:51+00:00",
+  "updated_at": "2026-07-30T01:50:51+00:00"
+}

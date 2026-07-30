@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-009",
+  "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+  "source_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+  "source_type": "rss",
+  "summary": "OpenAI 发现通过启用两个 API 设置（保留推理和启用压缩），GPT-5.6 在 ARC-AGI-3 基准测试上的得分提高了三倍，同时提升了效率。核心价值在于无需复杂微调即可显著增强模型推理能力，适用于需要高级抽象和问题解决的场景。",
+  "tags": [
+    "LLM",
+    "Reasoning",
+    "Benchmark",
+    "API",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-30T01:50:51+00:00",
+  "updated_at": "2026-07-30T01:50:51+00:00"
+}

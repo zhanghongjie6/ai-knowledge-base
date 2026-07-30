@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-007",
+  "title": "Google's Lyria 3.5 music model now lets users edit individual track sections without starting over",
+  "source_url": "https://the-decoder.com/googles-lyria-3-5-music-model-now-lets-users-edit-individual-track-sections-without-starting-over/",
+  "source_type": "rss",
+  "summary": "Google发布Lyria 3.5音乐生成模型，集成于Google Flow Music。核心价值在于支持用户对已生成音乐的单个段落进行选择性编辑，无需重新生成整首曲目。技术亮点包括30秒至3分钟的音轨生成能力，以及创新的段落级编辑功能。用例涵盖音乐创作、视频配乐和快速原型制作。",
+  "tags": [
+    "Music Generation",
+    "AI Editing",
+    "Google",
+    "Creative Tools",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-30T01:50:51+00:00",
+  "updated_at": "2026-07-30T01:50:51+00:00"
+}

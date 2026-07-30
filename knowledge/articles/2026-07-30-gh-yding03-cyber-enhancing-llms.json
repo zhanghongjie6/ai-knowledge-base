@@ -1,0 +1,19 @@
+{
+  "id": "github-20260730-006",
+  "title": "yding03-cyber/enhancing-llms",
+  "source_url": "https://github.com/yding03-cyber/enhancing-llms",
+  "source_type": "github_trending",
+  "summary": "该项目通过优化提示工程和微调策略，显著提升LLM在复杂推理、代码生成和对话任务中的表现。核心价值在于提供轻量级增强方案，无需大规模重新训练即可适配多种场景，适用于智能客服、编程辅助和知识问答等应用。",
+  "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "Fine-tuning",
+    "Code Generation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-30T01:50:51+00:00",
+  "updated_at": "2026-07-30T01:50:51+00:00"
+}

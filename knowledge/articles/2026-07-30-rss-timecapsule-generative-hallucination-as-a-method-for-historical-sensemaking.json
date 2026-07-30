@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-005",
+  "title": "TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking",
+  "source_url": "https://arxiv.org/abs/2607.24750",
+  "source_type": "rss",
+  "summary": "TimeCapsule提出利用大语言模型的生成幻觉作为历史意义构建的方法，核心价值在于将LLM的“不可靠性”转化为理解历史语境的工具。技术亮点包括利用模型对当代概念的过度暴露来模拟历史视角，应用场景涵盖历史研究、教育及文化分析。",
+  "tags": [
+    "LLM",
+    "Hallucination",
+    "Historical Analysis",
+    "AI Application",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-30T01:50:51+00:00",
+  "updated_at": "2026-07-30T01:50:51+00:00"
+}
