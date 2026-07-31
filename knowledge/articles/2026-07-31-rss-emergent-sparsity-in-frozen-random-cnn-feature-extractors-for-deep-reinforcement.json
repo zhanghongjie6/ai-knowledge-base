@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260731-005",
+  "title": "Emergent Sparsity in Frozen Random CNN Feature Extractors for Deep Reinforcement Learning",
+  "source_url": "https://arxiv.org/abs/2607.26059",
+  "source_type": "rss",
+  "summary": "该研究揭示了一个引人注目的现象：使用冻结的随机初始化CNN特征提取器进行深度强化学习时，智能体会自发产生稀疏性。这一发现挑战了传统上对特征提取器进行训练的必要性，表明随机特征提取器在强化学习中可能具有高效性，并可能简化训练流程，降低计算成本，为强化学习提供新的轻量化方案。",
+  "tags": [
+    "Deep Reinforcement Learning",
+    "Sparsity",
+    "CNN",
+    "Feature Extraction",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-31T02:08:51+00:00",
+  "updated_at": "2026-07-31T02:08:51+00:00"
+}

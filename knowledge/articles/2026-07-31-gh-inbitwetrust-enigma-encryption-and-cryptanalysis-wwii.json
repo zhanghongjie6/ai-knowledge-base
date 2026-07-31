@@ -1,0 +1,19 @@
+{
+  "id": "github-20260731-005",
+  "title": "inbitwetrust/Enigma-Encryption-and-Cryptanalysis-WWII",
+  "source_url": "https://github.com/inbitwetrust/Enigma-Encryption-and-Cryptanalysis-WWII",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向历史重建的恩尼格玛密码分析与加密框架，集成了高保真M3/M4模拟器与现代多线程图灵炸弹模拟器。核心价值在于通过当代计算技术复现二战时期的密码破译过程，适用于密码学教育、历史研究及算法演示。技术亮点包括精确的转子机制模拟和高效的并行破解算法。",
+  "tags": [
+    "Cryptography",
+    "Enigma",
+    "Simulation",
+    "Historical Computing",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-31T02:08:51+00:00",
+  "updated_at": "2026-07-31T02:08:51+00:00"
+}

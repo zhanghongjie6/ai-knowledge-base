@@ -1,0 +1,19 @@
+{
+  "id": "github-20260731-004",
+  "title": "joniasus/fr24-aircraft-db-",
+  "source_url": "https://github.com/joniasus/fr24-aircraft-db-",
+  "source_type": "github_trending",
+  "summary": "fr24-aircraft-db是一个基于Flightradar24数据的飞机数据库项目，提供飞机注册信息、机型、航空公司等结构化数据。核心价值在于将实时航班追踪数据转化为可查询的静态数据库，便于开发者构建航空相关应用或进行数据分析。技术亮点包括数据抓取、清洗和API接口，使用场景涵盖航班查询、机场运营分析和航空研究。",
+  "tags": [
+    "Aviation",
+    "Database",
+    "Flightradar24",
+    "Data",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-31T02:08:51+00:00",
+  "updated_at": "2026-07-31T02:08:51+00:00"
+}

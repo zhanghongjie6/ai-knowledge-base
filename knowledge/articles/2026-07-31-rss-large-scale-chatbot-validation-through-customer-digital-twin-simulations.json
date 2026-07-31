@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260731-004",
+  "title": "Large-Scale ChatBot Validation Through Customer Digital Twin Simulations",
+  "source_url": "https://arxiv.org/abs/2607.26060",
+  "source_type": "rss",
+  "summary": "本文提出通过客户数字孪生模拟来大规模验证基于LLM的聊天机器人，特别针对银行等受监管领域。核心价值在于提供一种可扩展且成本高效的验证方法，弥补传统人工评估的不足。技术亮点包括利用数字孪生生成多样化客户场景，自动化测试聊天机器人的响应质量与合规性。应用场景涵盖金融客服系统的上线前验证、持续监控及风险控制。",
+  "tags": [
+    "LLM",
+    "Chatbot",
+    "Digital Twin",
+    "Validation",
+    "Regulated Industry",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-31T02:08:51+00:00",
+  "updated_at": "2026-07-31T02:08:51+00:00"
+}

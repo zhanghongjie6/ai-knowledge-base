@@ -1,0 +1,18 @@
+{
+  "id": "github-20260731-002",
+  "title": "DaewooKim/daily-ai-news-brief",
+  "source_url": "https://github.com/DaewooKim/daily-ai-news-brief",
+  "source_type": "github_trending",
+  "summary": "该项目提供每日AI新闻摘要，自动聚合最新AI动态，帮助开发者快速掌握行业趋势。其核心价值在于节省信息筛选时间，通过简洁的简报形式传递关键内容，适合AI从业者、研究者及爱好者日常关注。技术亮点包括自动化采集与摘要生成，使用场景广泛，如技术决策参考、学习资源获取等。",
+  "tags": [
+    "AI News",
+    "Daily Digest",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-07-31T02:08:51+00:00",
+  "updated_at": "2026-07-31T02:08:51+00:00"
+}

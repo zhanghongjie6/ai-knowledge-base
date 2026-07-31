@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260731-008",
+  "title": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration",
+  "source_url": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
+  "source_type": "rss",
+  "summary": "Google DeepMind发布Gemini Robotics 2，作为新一代机器人的智能层，包含三个模型：视觉-语言-动作模型实现全身人形控制，灵巧操作模型提升精细手部技能，多机器人协作模型支持团队任务。该技术整合多模态感知与决策，推动机器人从单一任务向通用、协作场景演进，适用于工业制造、物流仓储及家庭服务等复杂环境。",
+  "tags": [
+    "Robotics",
+    "VLA",
+    "Multi-Agent",
+    "Gemini",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-31T02:08:51+00:00",
+  "updated_at": "2026-07-31T02:08:51+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260731-006",
+  "title": "Knowledge-guided Disentanglement with Atomic Actions for Action Recognition",
+  "source_url": "https://arxiv.org/abs/2607.26097",
+  "source_type": "rss",
+  "summary": "本文提出一种基于知识引导的解耦方法，利用原子动作建模复杂场景中的并发细粒度动作，提升动作识别对内部分子结构的建模能力。核心价值在于通过知识先验与解耦学习，解决多动作交织时的识别难题，适用于视频理解、人机交互等场景。",
+  "tags": [
+    "Action Recognition",
+    "Disentanglement",
+    "Knowledge-guided",
+    "Video Understanding",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-31T02:08:51+00:00",
+  "updated_at": "2026-07-31T02:08:51+00:00"
+}

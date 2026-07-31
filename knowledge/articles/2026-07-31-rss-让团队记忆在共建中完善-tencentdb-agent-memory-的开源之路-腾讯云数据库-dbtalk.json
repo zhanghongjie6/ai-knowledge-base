@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260731-001",
+  "title": "让团队记忆在共建中完善： TencentDB Agent Memory 的开源之路 | 腾讯云数据库 DBTalk",
+  "source_url": "https://www.infoq.cn/video/ylsc5EZdSya6DbkWwgdU?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "腾讯云数据库DBTalk分享TencentDB Agent Memory的开源实践，该方案旨在解决大模型应用中团队记忆共享与共建的问题，通过将记忆持久化、结构化并支持多人协作，提升Agent的上下文理解与个性化服务能力，适用于客服、知识管理等场景。",
+  "tags": [
+    "Agent",
+    "Memory",
+    "Database",
+    "Open Source",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-07-31T02:08:51+00:00",
+  "updated_at": "2026-07-31T02:08:51+00:00"
+}

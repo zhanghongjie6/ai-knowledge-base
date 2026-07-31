@@ -1,0 +1,20 @@
+{
+  "id": "github-20260731-001",
+  "title": "sugarsmax/govee_air_quality",
+  "source_url": "https://github.com/sugarsmax/govee_air_quality",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套用于读取Govee空气质量监测设备数据的工具，支持通过蓝牙或Wi-Fi获取实时读数，并集成到Home Assistant等智能家居平台。核心价值在于简化了设备数据采集流程，便于用户监控室内空气质量并自动化控制。技术亮点包括多协议支持和易用的API接口。适用于家庭环境监测、智能家居自动化及健康生活场景。",
+  "tags": [
+    "IoT",
+    "Air Quality",
+    "Home Assistant",
+    "Bluetooth",
+    "Wi-Fi",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-07-31T02:08:51+00:00",
+  "updated_at": "2026-07-31T02:08:51+00:00"
+}
