@@ -1,0 +1,19 @@
+{
+  "id": "github-20260801-002",
+  "title": "spc-jp/aio-vision",
+  "source_url": "https://github.com/spc-jp/aio-vision",
+  "source_type": "github_trending",
+  "summary": "AIOビジョンは、WebページのAI可読性と参照スコアを診断するツールです。LLMや検索エンジンのクローラーがページをどのように解釈・評価するかを分析し、AI時代におけるコンテンツ最適化を支援します。SEO対策やAI検索対策に有効で、Webサイトの可視性向上に貢献します。",
+  "tags": [
+    "AI SEO",
+    "LLM",
+    "Web Analytics",
+    "Content Optimization",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260801-009",
+  "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
+  "source_url": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+  "source_type": "rss",
+  "summary": "DeepSeek发布V4-Flash-0731，官方API进入公开测试版，显著提升智能体（Agentic）能力与代码生成性能。该版本作为V4-Flash的正式迭代，强化了工具调用、多步推理和代码理解，适用于自动化编程、智能体工作流及复杂任务处理，为开发者提供更高效、可靠的AI基础设施。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Coding",
+    "API",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}

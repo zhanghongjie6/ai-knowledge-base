@@ -1,0 +1,20 @@
+{
+  "id": "github-20260801-010",
+  "title": "missock237-spec/Gen3ia",
+  "source_url": "https://github.com/missock237-spec/Gen3ia",
+  "source_type": "github_trending",
+  "summary": "Gen3ia 是一个基于 Next.js、Prisma 和 PostgreSQL 构建的 SaaS 级 Agent 操作系统，提供 58 个 API 端点、WhatsApp 管道、AI 路由器和 React 循环。它旨在帮助企业快速部署和管理 AI 代理，实现自动化客户交互和业务流程，适合需要集成多渠道通信和智能决策的团队。",
+  "tags": [
+    "Agent",
+    "SaaS",
+    "Next.js",
+    "API",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}

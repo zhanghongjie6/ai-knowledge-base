@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260801-006",
+  "title": "Recursive transformers for semiconductor thermo-mechanical reliability",
+  "source_url": "https://arxiv.org/abs/2607.27251",
+  "source_type": "rss",
+  "summary": "本文提出递归Transformer模型，用于半导体热机械可靠性预测，替代昂贵的首性原理仿真。通过递归结构捕捉多尺度时序依赖，提升预测精度与效率，适用于芯片封装设计、热应力分析及寿命评估等工程场景，加速设计迭代。",
+  "tags": [
+    "Transformer",
+    "Semiconductor",
+    "Reliability",
+    "Surrogate Model",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}

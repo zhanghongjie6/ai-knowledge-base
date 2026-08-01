@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260801-001",
+  "title": "Quick BI 数据分析智能体的可靠工程实践｜AICon深圳",
+  "source_url": "https://www.infoq.cn/article/VJ3s26QZUG1C5ANF2O4Q?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍了阿里云Quick BI数据分析智能体的可靠工程实践，聚焦于如何构建稳定、可信的AI数据分析系统。核心价值在于将大模型与BI工具深度结合，通过多轮对话、SQL生成与校验、结果可视化等能力，提升数据分析效率。技术亮点包括意图识别、上下文管理、错误纠正与安全控制机制。适用于企业报表分析、业务决策支持等场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "BI",
+    "Data Analysis",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}

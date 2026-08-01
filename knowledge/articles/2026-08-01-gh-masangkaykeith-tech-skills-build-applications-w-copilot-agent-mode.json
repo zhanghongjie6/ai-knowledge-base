@@ -1,0 +1,19 @@
+{
+  "id": "github-20260801-001",
+  "title": "masangkaykeith-tech/skills-build-applications-w-copilot-agent-mode",
+  "source_url": "https://github.com/masangkaykeith-tech/skills-build-applications-w-copilot-agent-mode",
+  "source_type": "github_trending",
+  "summary": "该仓库是GitHub Copilot agent mode的实战练习项目，通过构建应用程序来掌握Copilot的智能代理功能。核心价值在于提供动手实践场景，帮助开发者熟悉agent mode的自动化编码、调试和优化流程。技术亮点包括交互式任务分解、代码生成与重构、测试辅助等。适用于希望提升AI辅助开发效率的团队和个人，尤其适合探索Copilot高级用法的开发者。",
+  "tags": [
+    "GitHub Copilot",
+    "AI Coding",
+    "Developer Tools",
+    "Hands-on Exercise",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}

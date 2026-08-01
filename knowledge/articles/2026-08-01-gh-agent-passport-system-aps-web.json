@@ -1,0 +1,19 @@
+{
+  "id": "github-20260801-009",
+  "title": "agent-passport-system/aps-web",
+  "source_url": "https://github.com/agent-passport-system/aps-web",
+  "source_type": "github_trending",
+  "summary": "Agent Passport System（APS）的官方网站，定义并推广智能体身份认证与互信协议。核心价值在于为AI代理提供标准化“护照”，实现跨平台身份验证与安全协作。技术亮点包括去中心化身份、可验证凭证及隐私保护机制。适用于多智能体系统、自动化交易及企业级AI服务集成场景。",
+  "tags": [
+    "Agent",
+    "Identity",
+    "Protocol",
+    "Web3",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}

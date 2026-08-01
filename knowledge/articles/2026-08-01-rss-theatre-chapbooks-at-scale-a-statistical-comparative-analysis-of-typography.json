@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260801-007",
+  "title": "Theatre Chapbooks At Scale: A Statistical Comparative Analysis of Typography",
+  "source_url": "https://arxiv.org/abs/2607.27266",
+  "source_type": "rss",
+  "summary": "该研究提出一种统计方法，量化历史印刷书籍中字体的相似性，用于大规模分析戏剧小册子的排版特征。通过比较字体风格，加速文献分类与溯源，为数字人文和印刷史研究提供新工具。核心价值在于将传统定性排版分析转化为可计算的定量比较，适用于历史文献的批量整理与年代推断。",
+  "tags": [
+    "Digital Humanities",
+    "Typography",
+    "Statistical Analysis",
+    "Historical Books",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}

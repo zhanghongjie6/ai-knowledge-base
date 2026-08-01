@@ -1,0 +1,19 @@
+{
+  "id": "github-20260801-004",
+  "title": "hizheiraja/aicphf",
+  "source_url": "https://github.com/hizheiraja/aicphf",
+  "source_type": "github_trending",
+  "summary": "aicphf是一个开源项目，提供AI驱动的代码性能分析与优化框架。它通过静态分析和动态 profiling 识别性能瓶颈，并自动生成优化建议或补丁。适用于大型代码库的性能调优、CI/CD集成以及开发者日常优化工作流，能显著提升代码执行效率。",
+  "tags": [
+    "Code Optimization",
+    "Profiling",
+    "AI-Assisted Development",
+    "CI/CD",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}

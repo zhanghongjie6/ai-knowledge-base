@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260801-005",
+  "title": "Prompt Chaining in Practice: A Case Study in Automated Scholarly Report Generation",
+  "source_url": "https://arxiv.org/abs/2607.27210",
+  "source_type": "rss",
+  "summary": "本文通过自动化学术报告生成的案例，系统评估了提示链（Prompt Chaining）相比单次提示的优势。研究发现，将复杂任务分解为多个子步骤并逐步执行，能显著提升生成内容的准确性、结构完整性和信息综合质量。该实践为学术信息自动化处理提供了可复用的方法论，适用于文献综述、研究报告等场景。",
+  "tags": [
+    "Prompt Chaining",
+    "LLM",
+    "Automated Writing",
+    "Scholarly Reports",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}

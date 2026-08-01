@@ -1,0 +1,19 @@
+{
+  "id": "github-20260801-008",
+  "title": "juzcn/slife",
+  "source_url": "https://github.com/juzcn/slife",
+  "source_type": "github_trending",
+  "summary": "slife 是一个基于大语言模型（LLM）的“硅基生命”项目，旨在通过自然语言交互模拟生命体的自主行为与进化。其核心价值在于探索LLM在模拟生命、自主决策和持续学习方面的潜力，可应用于虚拟生命体、游戏NPC、智能体仿真等场景。技术亮点包括利用LLM进行动态目标设定、环境感知和记忆管理，实现类生命体的自适应行为。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Simulation",
+    "Life",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-01T02:10:40+00:00",
+  "updated_at": "2026-08-01T02:10:40+00:00"
+}
