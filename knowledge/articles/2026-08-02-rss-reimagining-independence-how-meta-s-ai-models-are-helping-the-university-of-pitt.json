@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260802-009",
+  "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+  "source_url": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/",
+  "source_type": "rss",
+  "summary": "Meta与匹兹堡大学合作，利用SAM和DINOv2等AI模型提升辅助机器人的自主性与适应性，帮助残障人士完成日常任务。核心技术包括视觉分割、特征提取和零样本泛化，使机器人能理解复杂环境并灵活操作。应用场景涵盖家庭护理、康复训练和智能假肢，展示了AI在无障碍技术中的潜力。",
+  "tags": [
+    "Robotics",
+    "Computer Vision",
+    "Assistive Technology",
+    "Meta AI",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}

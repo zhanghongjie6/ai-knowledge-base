@@ -1,0 +1,19 @@
+{
+  "id": "github-20260802-002",
+  "title": "johnpaulcremin/ai-orchestrator",
+  "source_url": "https://github.com/johnpaulcremin/ai-orchestrator",
+  "source_type": "github_trending",
+  "summary": "ai-orchestrator 是一个用于编排多个AI代理和工具的开源框架，提供统一接口来管理复杂工作流。其核心价值在于简化AI系统的集成与调度，支持动态任务分配和错误恢复。技术亮点包括模块化设计、可扩展的插件系统以及基于事件驱动的执行引擎。适用于自动化流程、智能客服和多模型协同等场景。",
+  "tags": [
+    "AI Orchestration",
+    "Agent",
+    "Workflow",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260802-008",
+  "title": "acetinkaya/turkiye-daily-open-data",
+  "source_url": "https://github.com/acetinkaya/turkiye-daily-open-data",
+  "source_type": "github_trending",
+  "summary": "该项目提供土耳其每日自动更新的开放数据集，涵盖经济、金融、天气等多领域，专为AI、机器学习、预测和时间序列研究设计。数据源可靠，更新及时，便于研究者直接获取高质量数据，用于构建预测模型、趋势分析和政策研究，尤其适合关注新兴市场数据的研究者。",
+  "tags": [
+    "Open Data",
+    "Time Series",
+    "Forecasting",
+    "Turkey",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 4,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}

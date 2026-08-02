@@ -1,0 +1,19 @@
+{
+  "id": "github-20260802-003",
+  "title": "clipcurator/ai-short-drama-tool-stack-owner-shot-readiness-gate",
+  "source_url": "https://github.com/clipcurator/ai-short-drama-tool-stack-owner-shot-readiness-gate",
+  "source_type": "github_trending",
+  "summary": "该项目为AI短剧工具链所有者提供“镜头就绪”门控机制，评估依赖风险、模型适配度及发布交接流程，确保AI生成内容在拍摄前达到可用状态。核心价值在于降低AI短剧制作中的技术不确定性，提升生产效率和交付质量，适用于AI视频生成、虚拟制片及自动化内容生产场景。",
+  "tags": [
+    "AI Video",
+    "Production Pipeline",
+    "Workflow",
+    "Risk Management",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}

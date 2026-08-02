@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260802-008",
+  "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+  "source_url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+  "source_type": "rss",
+  "summary": "Gemini Robotics ER 2 是谷歌DeepMind推出的新一代机器人基础模型，核心价值在于通过视频理解、任务编排和多机器人协作，让机器人能推理并解决真实世界任务。它显著提升了机器人对动态场景的感知与决策能力，支持复杂工具调用和多个机器人协同工作，适用于工业自动化、仓储物流、家庭服务等场景，是迈向通用机器人的重要一步。",
+  "tags": [
+    "Robotics",
+    "Video Understanding",
+    "Multi-Agent",
+    "Foundation Model",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}

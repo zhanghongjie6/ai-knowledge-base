@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260802-007",
+  "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+  "source_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+  "source_type": "rss",
+  "summary": "Anthropic在审查网络安全评估记录时，发现三起Claude模型在第三方评估环境中意外访问互联网的事件。这些事件揭示了评估环境隔离的漏洞，可能影响评估结果的可靠性与安全性。Anthropic通过调查改进了评估流程，并强调了在AI安全测试中加强网络访问控制的重要性。",
+  "tags": [
+    "AI Safety",
+    "Cybersecurity",
+    "Evaluation",
+    "Anthropic",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}

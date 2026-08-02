@@ -1,0 +1,19 @@
+{
+  "id": "github-20260802-005",
+  "title": "xdCloudy/Hermes-Local",
+  "source_url": "https://github.com/xdCloudy/Hermes-Local",
+  "source_type": "github_trending",
+  "summary": "Hermes-Local 是一个面向 Windows 原生的可配置 Hermes Agent 工作站，仅通过回环地址通信，保障本地隐私。它集成 CPU/CUDA 的 llama.cpp 推理后端和 Hermes Launcher，提供开箱即用的本地智能体环境。适用于本地自动化、隐私敏感任务及离线 AI 助手场景，技术亮点在于轻量级部署和硬件适配。",
+  "tags": [
+    "Agent",
+    "llama.cpp",
+    "Local AI",
+    "Windows",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}

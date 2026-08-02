@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260802-006",
+  "title": "Ten advances in mathematics and theoretical computer science",
+  "source_url": "https://openai.com/index/ten-advances-in-mathematics",
+  "source_type": "rss",
+  "summary": "OpenAI发布了数学与理论计算机科学领域的十项突破性进展，涵盖几何、密码学与复杂性理论等长期未解问题。这些成果展示了AI在推动基础科学前沿中的潜力，并为算法优化、安全加密及数学证明自动化提供了新工具，具有重要的学术与应用价值。",
+  "tags": [
+    "Mathematics",
+    "Theoretical CS",
+    "Cryptography",
+    "AI Research",
+    "rss"
+  ],
+  "score": 9,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}

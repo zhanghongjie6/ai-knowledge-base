@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260802-005",
+  "title": "AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs",
+  "source_url": "https://www.marktechpost.com/2026/08/01/amd-instella-moe-16b-a3b-fully-open-mixture-of-experts-llm/",
+  "source_type": "rss",
+  "summary": "AMD发布Instella-MoE-16B-A3B，一款完全开源的混合专家大语言模型，总参数16B，每token仅激活2.8B参数，在Instinct MI300X/MI325X GPU上从零训练。该模型兼顾高效推理与高性能，支持商业使用，为开源社区提供AMD GPU生态下的强有力替代方案，适用于资源受限场景下的文本生成、代码理解等任务。",
+  "tags": [
+    "LLM",
+    "MoE",
+    "Open Source",
+    "AMD GPU",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}

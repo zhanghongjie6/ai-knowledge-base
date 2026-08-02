@@ -1,0 +1,19 @@
+{
+  "id": "github-20260802-006",
+  "title": "hackerjackL/SciForge-OSS",
+  "source_url": "https://github.com/hackerjackL/SciForge-OSS",
+  "source_type": "github_trending",
+  "summary": "SciForge-OSS 是一个纯 Skill 驱动的通用科学智能框架，无 .py 脚本、无 bash 代码块、无 IDE 专属语法，任何能读 Markdown 的 AI agent（如 Claude Code、Cursor、Trae）均可直接消费。包含 125 个科学问题，覆盖多学科研究场景，旨在让 AI 成为科学家的全能助手，降低科研工具门槛，提升研究效率。",
+  "tags": [
+    "AI-for-Science",
+    "Skill-based",
+    "Markdown",
+    "Agent",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}

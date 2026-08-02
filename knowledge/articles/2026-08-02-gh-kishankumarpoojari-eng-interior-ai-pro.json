@@ -1,0 +1,19 @@
+{
+  "id": "github-20260802-001",
+  "title": "kishankumarpoojari-eng/interior-ai-pro",
+  "source_url": "https://github.com/kishankumarpoojari-eng/interior-ai-pro",
+  "source_type": "github_trending",
+  "summary": "Interior AI Pro 是一个基于 AI 的室内设计工具，利用生成模型快速将用户上传的房间照片转换为多种风格（如现代、北欧、工业风等）的虚拟装修效果。核心价值在于降低设计门槛，让非专业人士也能直观预览改造方案，适用于家居翻新、房产展示和室内设计前期构思。技术亮点包括图像分割、风格迁移和实时渲染。",
+  "tags": [
+    "AI Design",
+    "Image Generation",
+    "Interior Design",
+    "Style Transfer",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-02T02:07:16+00:00",
+  "updated_at": "2026-08-02T02:07:16+00:00"
+}
