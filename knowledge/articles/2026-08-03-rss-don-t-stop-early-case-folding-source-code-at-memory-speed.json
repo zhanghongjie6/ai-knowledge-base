@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260803-006",
+  "title": "Don’t stop early: Case-folding source code at memory speed",
+  "source_url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+  "source_type": "rss",
+  "summary": "GitHub 通过无分支循环和字节空间算术，在单核上实现超过 45 GiB/s 的源码大小写折叠速度，用于代码搜索。该技术优化了内存带宽利用，避免了分支预测失败，显著提升了大规模代码检索性能，适用于代码托管平台、搜索引擎及任何需要高速文本处理的场景。",
+  "tags": [
+    "Performance Optimization",
+    "Text Processing",
+    "Code Search",
+    "SIMD",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-03T02:09:24+00:00",
+  "updated_at": "2026-08-03T02:09:24+00:00"
+}

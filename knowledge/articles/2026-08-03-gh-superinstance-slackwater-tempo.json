@@ -1,0 +1,19 @@
+{
+  "id": "github-20260803-001",
+  "title": "SuperInstance/slackwater-tempo",
+  "source_url": "https://github.com/SuperInstance/slackwater-tempo",
+  "source_type": "github_trending",
+  "summary": "Slackwater-tempo 是 Slackwater 空间-时间 AI 代理框架的模块化组件，专注于提供高效的时间序列数据处理与推理能力。其核心价值在于将复杂的时间感知逻辑从主框架中解耦，使开发者能够灵活集成到现有系统中。技术亮点包括模块化设计、轻量级实现以及与空间数据的协同处理。适用于需要时间感知的智能代理场景，如实时监控、预测分析和自动化决策。",
+  "tags": [
+    "Agent",
+    "Time-Series",
+    "Spatial-Temporal",
+    "Modular",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-03T02:09:24+00:00",
+  "updated_at": "2026-08-03T02:09:24+00:00"
+}

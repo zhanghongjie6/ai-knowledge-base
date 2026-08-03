@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260803-007",
+  "title": "AI Gateway now supports team and project spend budgets",
+  "source_url": "https://vercel.com/changelog/ai-gateway-spend-budgets-and-alerts",
+  "source_type": "rss",
+  "summary": "Vercel AI Gateway 新增团队和项目级支出预算与告警功能，帮助开发者精细化管理 AI API 调用成本。支持设置预算上限、实时监控支出，并在接近或超出预算时触发告警，避免意外超支。该功能直接集成于 Vercel 平台，适用于生产环境中的 AI 应用成本控制，提升运维效率。",
+  "tags": [
+    "AI Gateway",
+    "Cost Management",
+    "Budget",
+    "Alerts",
+    "Vercel",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-03T02:09:24+00:00",
+  "updated_at": "2026-08-03T02:09:24+00:00"
+}

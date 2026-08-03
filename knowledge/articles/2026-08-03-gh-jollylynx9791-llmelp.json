@@ -1,0 +1,18 @@
+{
+  "id": "github-20260803-004",
+  "title": "jollylynx9791/llmelp",
+  "source_url": "https://github.com/jollylynx9791/llmelp",
+  "source_type": "github_trending",
+  "summary": "llmelp是一个轻量级工具，旨在简化LLM的本地部署与调用流程。它提供统一的API接口，支持多种主流模型，并内置提示词管理功能。适用于快速原型开发、教学演示及个人项目集成，降低使用LLM的技术门槛。",
+  "tags": [
+    "LLM",
+    "API",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-03T02:09:24+00:00",
+  "updated_at": "2026-08-03T02:09:24+00:00"
+}

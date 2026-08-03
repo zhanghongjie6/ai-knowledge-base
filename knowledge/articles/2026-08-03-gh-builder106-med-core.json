@@ -1,0 +1,20 @@
+{
+  "id": "github-20260803-003",
+  "title": "Builder106/med-core",
+  "source_url": "https://github.com/Builder106/med-core",
+  "source_type": "github_trending",
+  "summary": "med-core 是一个面向非洲医疗机构的集中式数字健康记录平台，采用 PWA + Express + SQLite 架构，支持 FHIR 兼容、离线优先和 AI 辅助功能。其核心价值在于为资源受限地区提供低成本、可离线使用的电子健康记录解决方案，提升医疗数据管理效率，并支持后续数据分析与智能决策。",
+  "tags": [
+    "HealthTech",
+    "PWA",
+    "FHIR",
+    "Offline-first",
+    "AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-03T02:09:24+00:00",
+  "updated_at": "2026-08-03T02:09:24+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260803-007",
+  "title": "L-b-u/ai-travel-planner",
+  "source_url": "https://github.com/L-b-u/ai-travel-planner",
+  "source_type": "github_trending",
+  "summary": "AI Travel Planner 是一款基于多智能体协作架构的智能旅游规划助手，用户通过自然语言描述出行需求，系统自动完成酒店推荐、路线规划、天气查询和知识库问答，并输出结构化 Markdown 报告，同时自动进行多维度质量评估。其核心价值在于将复杂旅游规划流程自动化，提升效率与体验。",
+  "tags": [
+    "Multi-Agent",
+    "Travel Planning",
+    "LLM",
+    "Automation",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-03T02:09:24+00:00",
+  "updated_at": "2026-08-03T02:09:24+00:00"
+}

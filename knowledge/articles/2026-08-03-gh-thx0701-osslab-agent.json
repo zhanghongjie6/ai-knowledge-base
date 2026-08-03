@@ -1,0 +1,19 @@
+{
+  "id": "github-20260803-010",
+  "title": "thx0701/osslab-agent",
+  "source_url": "https://github.com/thx0701/osslab-agent",
+  "source_type": "github_trending",
+  "summary": "osslab-agent 是一个面向团队协作的 AI 智能体基础设施，旨在通过多智能体协同、任务编排和上下文共享，提升团队工作效率。其核心价值在于将 AI 能力无缝集成到团队工作流中，支持自动化任务分配、知识管理和实时协作。技术亮点包括模块化架构、可扩展的插件系统以及灵活的工作流引擎。适用于软件开发、项目管理、客户支持等场景，帮助团队实现智能化转型。",
+  "tags": [
+    "AI Agent",
+    "Team Collaboration",
+    "Workflow Automation",
+    "Infrastructure",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 6,
+  "status": "draft",
+  "created_at": "2026-08-03T02:09:24+00:00",
+  "updated_at": "2026-08-03T02:09:24+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260803-002",
+  "title": "JasonChen9/dit-paper-landscape",
+  "source_url": "https://github.com/JasonChen9/dit-paper-landscape",
+  "source_type": "github_trending",
+  "summary": "这是一个精心整理的DiT（Diffusion Transformer）论文全景图，覆盖架构设计、视频生成、系统优化、强化学习、智能体及全模态生成等核心方向。它帮助研究者快速定位DiT领域的关键进展，梳理技术脉络，适合作为入门指南或前沿追踪工具，尤其对生成模型和视频生成方向的研究者极具参考价值。",
+  "tags": [
+    "Diffusion Transformer",
+    "Paper Collection",
+    "Generative Models",
+    "Video Generation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-03T02:09:24+00:00",
+  "updated_at": "2026-08-03T02:09:24+00:00"
+}
