@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-010",
+  "title": "LWiAI Podcast #253 - Opus 5, Gemini 3.6, Kimi K3, Hugging Face Hack",
+  "source_url": "https://lastweekin.ai/p/lwiai-podcast-253-opus-5-gemini-36",
+  "source_type": "rss",
+  "summary": "本期播客聚焦Anthropic发布的Opus 5模型，宣称具备类似Fable 5的叙事与推理能力，同时Google推出三款新Gemini模型，涵盖多模态与效率优化。节目还讨论了Hugging Face的创意黑客活动，展示了社区驱动的AI创新。核心价值在于追踪前沿模型进展，为开发者提供选型参考，适用于内容生成、多模态应用及模型评估场景。",
+  "tags": [
+    "LLM",
+    "Multimodal",
+    "Model Release",
+    "Podcast",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

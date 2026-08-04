@@ -1,0 +1,19 @@
+{
+  "id": "github-20260804-006",
+  "title": "stephenschoettler/hermes-lcm",
+  "source_url": "https://github.com/stephenschoettler/hermes-lcm",
+  "source_type": "github_trending",
+  "summary": "Hermes LCM 是 Hermes Agent 的无损上下文管理插件，采用基于 DAG 的上下文引擎，确保消息永不丢失。它通过结构化图模型管理对话历史，支持复杂分支与回溯，适用于长对话、多智能体协作及需要精确上下文追踪的场景，显著提升 Agent 的可靠性与可解释性。",
+  "tags": [
+    "Agent",
+    "Context Management",
+    "DAG",
+    "LLM",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 951,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

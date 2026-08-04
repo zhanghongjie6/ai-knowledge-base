@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-001",
+  "title": "微软发布 .NET 11 Preview 6，带来语言和框架更新",
+  "source_url": "https://www.infoq.cn/article/kfoq3gzKdqawG7Q3uVYd?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": ".NET 11 Preview 6 是微软发布的最新框架预览版，包含多项语言和框架更新，旨在提升开发效率与性能。该版本引入新的C#语言特性，优化运行时与库，增强云原生和跨平台支持。适用于构建高性能Web应用、微服务及桌面应用，为开发者提供更现代、高效的开发体验。",
+  "tags": [
+    ".NET",
+    "C#",
+    "Framework",
+    "Cloud Native",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

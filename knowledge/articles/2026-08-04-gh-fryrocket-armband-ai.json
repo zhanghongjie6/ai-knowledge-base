@@ -1,0 +1,20 @@
+{
+  "id": "github-20260804-003",
+  "title": "Fryrocket/armband-ai",
+  "source_url": "https://github.com/Fryrocket/armband-ai",
+  "source_type": "github_trending",
+  "summary": "armband-ai 是一个面向 940nm PPG 臂带设备的 AI 校准与实时监控流水线，基于树莓派 5 和 Hailo AI 加速器。它集成了 MQTT 数据记录、模型训练/推理以及实时图表展示，为可穿戴健康监测提供端到端解决方案。核心价值在于简化 PPG 信号处理与模型部署流程，适用于健康研究、运动监测和远程医疗等场景。",
+  "tags": [
+    "PPG",
+    "Edge AI",
+    "Raspberry Pi",
+    "Hailo",
+    "MQTT",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

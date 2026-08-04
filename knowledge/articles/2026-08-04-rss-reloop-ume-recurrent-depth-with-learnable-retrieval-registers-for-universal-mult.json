@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-007",
+  "title": "ReLoop-UME: Recurrent Depth with Learnable Retrieval Registers for Universal Multimodal Embedding",
+  "source_url": "https://arxiv.org/abs/2607.28751",
+  "source_type": "rss",
+  "summary": "ReLoop-UME 提出一种新型通用多模态嵌入方法，通过可学习检索寄存器和循环深度机制，将异构多模态输入映射到统一嵌入空间。其核心创新在于利用循环处理增强跨模态语义对齐，并引入检索寄存器提升嵌入的泛化能力，适用于跨模态检索、多模态问答等场景。",
+  "tags": [
+    "Multimodal Embedding",
+    "Retrieval",
+    "Deep Learning",
+    "Cross-Modal",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

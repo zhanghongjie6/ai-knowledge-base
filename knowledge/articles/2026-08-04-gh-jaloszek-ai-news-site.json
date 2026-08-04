@@ -1,0 +1,19 @@
+{
+  "id": "github-20260804-007",
+  "title": "jaloszek/ai-news-site",
+  "source_url": "https://github.com/jaloszek/ai-news-site",
+  "source_type": "github_trending",
+  "summary": "一个开源的AI新闻聚合网站模板，自动抓取并展示最新AI动态。核心价值在于快速搭建个人或团队的AI资讯门户，支持自定义数据源和界面。技术亮点包括轻量级架构、易于部署，以及基于GitHub Actions的自动更新机制。适用于技术爱好者、研究者和媒体从业者追踪行业趋势。",
+  "tags": [
+    "AI News",
+    "Aggregator",
+    "Open Source",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

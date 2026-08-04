@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-005",
+  "title": "Can LLMs Really Understand Item Difficulty Levels? Implications for Automated Item Generation Using LLMs",
+  "source_url": "https://arxiv.org/abs/2607.28634",
+  "source_type": "rss",
+  "summary": "本研究探讨大语言模型（LLMs）是否真正理解试题难度等级，并评估其在自动生成试题（AIG）中的应用潜力。通过对比LLM对题目难度的预测与人类专家评估，发现LLM在难度判断上存在系统性偏差，但结合提示工程或校准方法可提升一致性。该研究为教育测评中利用LLM自动出题提供了实证依据，并指出需谨慎使用AI生成试题的难度标签。",
+  "tags": [
+    "LLM",
+    "Education",
+    "Assessment",
+    "Item Generation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

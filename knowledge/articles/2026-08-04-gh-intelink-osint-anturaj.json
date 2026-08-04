@@ -1,0 +1,19 @@
+{
+  "id": "github-20260804-009",
+  "title": "intelink/osint-anturaj",
+  "source_url": "https://github.com/intelink/osint-anturaj",
+  "source_type": "github_trending",
+  "summary": "osint-anturaj是一个开源情报工具，从Facebook导出的XLSX数据中构建好友关系网络图，使用D3.js进行可视化，并集成AI分析功能。核心价值在于将社交关系数据转化为可交互的图谱，辅助调查人员快速识别关键节点和社群结构。适用于社交网络分析、安全调查和情报收集场景。目前仅提供代码，需自行配置运行。",
+  "tags": [
+    "OSINT",
+    "Social Network Analysis",
+    "D3.js",
+    "AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

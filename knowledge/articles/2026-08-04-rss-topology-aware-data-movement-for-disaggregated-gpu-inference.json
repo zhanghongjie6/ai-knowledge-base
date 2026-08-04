@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-006",
+  "title": "Topology-Aware Data Movement for Disaggregated GPU Inference",
+  "source_url": "https://arxiv.org/abs/2607.28633",
+  "source_type": "rss",
+  "summary": "该论文针对分离式GPU推理中预填充与解码分离带来的数据中心网络数据移动问题，提出拓扑感知的数据移动方案。核心价值在于优化跨GPU数据传输路径，降低延迟和带宽消耗，提升大规模LLM推理效率。技术亮点包括利用网络拓扑信息智能调度数据流，适用于超大规模AI集群。",
+  "tags": [
+    "LLM",
+    "GPU Inference",
+    "Data Movement",
+    "Datacenter Networking",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260804-004",
+  "title": "yokozi-jp/spring-modulith-ai-harness",
+  "source_url": "https://github.com/yokozi-jp/spring-modulith-ai-harness",
+  "source_type": "github_trending",
+  "summary": "Spring Modulith AI Harness 是一个将 Spring Modulith 与 AI 能力结合的实验性项目，旨在通过模块化架构简化 AI 功能的集成与测试。它提供了一套工具，帮助开发者以模块化方式构建 AI 驱动的应用，支持快速原型验证和模块间解耦。适用于需要将 LLM 集成到企业级 Spring 应用中的场景，尤其关注可维护性和可测试性。",
+  "tags": [
+    "Spring",
+    "Modulith",
+    "AI",
+    "LLM",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

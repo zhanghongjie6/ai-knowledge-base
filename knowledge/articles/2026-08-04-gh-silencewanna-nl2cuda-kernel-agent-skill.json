@@ -1,0 +1,20 @@
+{
+  "id": "github-20260804-001",
+  "title": "SilenceWanna/nl2cuda-kernel-agent-skill",
+  "source_url": "https://github.com/SilenceWanna/nl2cuda-kernel-agent-skill",
+  "source_type": "github_trending",
+  "summary": "该项目将自然语言转换为CUDA内核代码，通过Agent技能实现自动化GPU编程。核心价值在于降低CUDA开发门槛，加速高性能计算应用开发。技术亮点包括基于LLM的代码生成、自动优化和错误修正。适用于科学计算、深度学习算子定制及GPU加速场景，尤其适合非专业CUDA开发者快速实现高性能内核。",
+  "tags": [
+    "CUDA",
+    "LLM",
+    "Agent",
+    "GPU",
+    "Code Generation",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}

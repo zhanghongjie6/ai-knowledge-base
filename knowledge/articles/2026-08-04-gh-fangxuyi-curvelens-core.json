@@ -1,0 +1,20 @@
+{
+  "id": "github-20260804-008",
+  "title": "fangxuyi/curvelens-core",
+  "source_url": "https://github.com/fangxuyi/curvelens-core",
+  "source_type": "github_trending",
+  "summary": "Curvelens-core 是一个基于 Agent 编排的多商品期货与期权分析框架，强调确定性数据质量控制与证据支持的每日报告生成。它通过自动化流程整合市场数据、执行分析并输出可追溯的洞察，适用于量化研究、风险管理和交易决策支持场景。其核心价值在于提升分析效率与可靠性，降低人工干预成本。",
+  "tags": [
+    "Agent",
+    "Futures",
+    "Options",
+    "Data Quality",
+    "Analytics",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-04T01:58:01+00:00",
+  "updated_at": "2026-08-04T01:58:01+00:00"
+}
