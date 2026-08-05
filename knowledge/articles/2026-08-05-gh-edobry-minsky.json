@@ -1,0 +1,19 @@
+{
+  "id": "github-20260805-004",
+  "title": "edobry/minsky",
+  "source_url": "https://github.com/edobry/minsky",
+  "source_type": "github_trending",
+  "summary": "Minsky 是一款受组织控制论启发的编码代理工作流工具，旨在通过结构化流程管理提升AI编码代理的协作效率。其核心价值在于将控制论原则应用于代理编排，实现更稳健的任务分解与执行。适用于复杂软件开发、多代理协作场景，可帮助团队优化自动化编码流水线。",
+  "tags": [
+    "Coding Agent",
+    "Workflow",
+    "Cybernetics",
+    "Multi-Agent",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 6,
+  "status": "draft",
+  "created_at": "2026-08-05T01:55:14+00:00",
+  "updated_at": "2026-08-05T01:55:14+00:00"
+}

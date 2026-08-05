@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260805-005",
+  "title": "Uncertainty-Aware Simulation-Based Inference for Operations Research with Large Language Models",
+  "source_url": "https://arxiv.org/abs/2608.00019",
+  "source_type": "rss",
+  "summary": "该研究提出一种面向运筹学任务的不确定性感知仿真推断方法，结合大语言模型与仿真建模，提升决策正确性。核心价值在于通过量化模型不确定性，增强LLM在复杂优化问题中的可靠性，适用于供应链、调度、资源分配等场景。技术亮点包括仿真推断框架与不确定性校准，可显著提高OR任务求解质量。",
+  "tags": [
+    "LLM",
+    "Operations Research",
+    "Simulation",
+    "Uncertainty",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-05T01:55:14+00:00",
+  "updated_at": "2026-08-05T01:55:14+00:00"
+}

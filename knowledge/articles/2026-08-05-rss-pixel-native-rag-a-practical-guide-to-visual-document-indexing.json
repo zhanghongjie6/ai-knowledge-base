@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260805-008",
+  "title": "Pixel-Native RAG: A Practical Guide to Visual Document Indexing",
+  "source_url": "https://www.marktechpost.com/2026/08/04/pixel-native-rag-a-practical-guide-to-visual-document-indexing/",
+  "source_type": "rss",
+  "summary": "PixelRAG 提出像素级RAG方案，将网页和PDF直接渲染为图像，通过分块处理实现视觉文档索引，避免传统文本解析的格式丢失问题。核心价值在于保留文档原始布局与视觉语义，适用于复杂表格、扫描件等场景，提升检索准确性与多模态理解能力。",
+  "tags": [
+    "RAG",
+    "Multimodal",
+    "Document Indexing",
+    "Vision-Language Model",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-05T01:55:14+00:00",
+  "updated_at": "2026-08-05T01:55:14+00:00"
+}

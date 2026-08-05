@@ -1,0 +1,19 @@
+{
+  "id": "github-20260805-002",
+  "title": "agent-tracer/agent-tracer-stack",
+  "source_url": "https://github.com/agent-tracer/agent-tracer-stack",
+  "source_type": "github_trending",
+  "summary": "Agent Tracer Stack 是一个用于追踪、可视化和调试 AI Agent 执行过程的开发工具链。它提供端到端的调用链记录、步骤回放和性能分析，帮助开发者理解 Agent 的决策逻辑、定位错误并优化提示词与工具调用。适用于复杂多步骤 Agent 应用的开发与运维阶段，提升可观测性和调试效率。",
+  "tags": [
+    "Agent",
+    "Observability",
+    "Debugging",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-05T01:55:14+00:00",
+  "updated_at": "2026-08-05T01:55:14+00:00"
+}

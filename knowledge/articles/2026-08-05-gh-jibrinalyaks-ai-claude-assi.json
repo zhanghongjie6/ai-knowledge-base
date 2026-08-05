@@ -1,0 +1,19 @@
+{
+  "id": "github-20260805-007",
+  "title": "jibrinalyaks-ai/CLAUDE-ASSI",
+  "source_url": "https://github.com/jibrinalyaks-ai/CLAUDE-ASSI",
+  "source_type": "github_trending",
+  "summary": "CLAUDE-ASSI是一个基于Claude模型的Web辅助工具，旨在通过自然语言交互简化网页操作与自动化任务。其核心价值在于将Claude的对话能力与浏览器控制结合，支持用户通过指令完成网页导航、表单填写、数据提取等操作，适用于自动化测试、网页数据采集及日常浏览效率提升场景。技术亮点包括轻量级架构、易于集成的API接口，以及对主流浏览器的兼容性。",
+  "tags": [
+    "Claude",
+    "Web Automation",
+    "Browser Control",
+    "NLP",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-05T01:55:14+00:00",
+  "updated_at": "2026-08-05T01:55:14+00:00"
+}
