@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260806-010",
+  "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
+  "source_type": "rss",
+  "summary": "LendingTree基于Amazon Bedrock构建了生产级多智能体抵押贷款助手，通过LangGraph、Model Context Protocol和Amazon Nova模型协调三个智能体，实现贷款流程自动化。该方案展示了多智能体协作在金融领域的实际应用，提升了客户服务效率和准确性，为类似复杂业务流程提供了可参考的架构范例。",
+  "tags": [
+    "Multi-Agent",
+    "Amazon Bedrock",
+    "LangGraph",
+    "MCP",
+    "FinTech",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

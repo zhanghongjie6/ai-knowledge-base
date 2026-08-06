@@ -1,0 +1,19 @@
+{
+  "id": "github-20260806-006",
+  "title": "shrimp-211/AIbot",
+  "source_url": "https://github.com/shrimp-211/AIbot",
+  "source_type": "github_trending",
+  "summary": "AIbot是一个基于OneBot协议的AI机器人后端，提供标准化的消息接口，便于接入QQ等平台。核心价值在于简化机器人开发流程，支持快速部署和扩展，适用于个人或社区搭建智能对话服务。技术亮点包括协议兼容性和模块化设计。",
+  "tags": [
+    "Chatbot",
+    "OneBot",
+    "Backend",
+    "AI",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

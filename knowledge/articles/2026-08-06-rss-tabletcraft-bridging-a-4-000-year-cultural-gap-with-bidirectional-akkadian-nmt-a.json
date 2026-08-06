@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-004",
+  "title": "TabletCraft: Bridging a 4,000-Year Cultural Gap with Bidirectional Akkadian NMT and Cuneiform Rendering",
+  "source_url": "https://arxiv.org/abs/2608.02609",
+  "source_type": "rss",
+  "summary": "TabletCraft 通过双向阿卡德语神经机器翻译和楔形文字渲染技术，弥合了现代人与4000年前古老文字之间的鸿沟。其核心价值在于让全球博物馆中保存的50万块楔形文字泥板变得可读、可写，为历史研究、文化教育和数字人文提供了创新工具。技术亮点包括高精度NMT模型和独特的楔形文字可视化渲染，应用场景涵盖考古学、语言学教学和文化遗产数字化。",
+  "tags": [
+    "NMT",
+    "Cuneiform",
+    "Digital Humanities",
+    "Cultural Heritage",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

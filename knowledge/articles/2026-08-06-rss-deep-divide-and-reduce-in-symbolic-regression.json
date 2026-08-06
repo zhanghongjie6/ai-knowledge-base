@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-005",
+  "title": "Deep Divide-and-Reduce in Symbolic Regression",
+  "source_url": "https://arxiv.org/abs/2608.02628",
+  "source_type": "rss",
+  "summary": "本文提出深度分治约简方法用于符号回归，通过递归分解复杂表达式并约简，提升发现数学规律的能力。该方法能处理高维数据，生成更简洁可解释的模型，适用于科学发现、工程建模等领域。",
+  "tags": [
+    "Symbolic Regression",
+    "Divide-and-Conquer",
+    "Interpretable ML",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

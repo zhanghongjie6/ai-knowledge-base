@@ -1,0 +1,19 @@
+{
+  "id": "github-20260806-010",
+  "title": "GeoJordan/ai-legal-evidence-processing-platform",
+  "source_url": "https://github.com/GeoJordan/ai-legal-evidence-processing-platform",
+  "source_type": "github_trending",
+  "summary": "基于AI的Python平台，用于法律证据处理、分类、时间线生成和证据准备。核心价值在于自动化法律文书工作，提升案件处理效率。技术亮点包括智能分类与时间线构建，适用于律师事务所、法务部门及法律科技公司。",
+  "tags": [
+    "LegalTech",
+    "AI",
+    "Python",
+    "DocumentProcessing",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

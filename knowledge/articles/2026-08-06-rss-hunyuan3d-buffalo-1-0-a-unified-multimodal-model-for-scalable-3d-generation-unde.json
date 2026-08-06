@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-006",
+  "title": "Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing",
+  "source_url": "https://arxiv.org/abs/2608.02711",
+  "source_type": "rss",
+  "summary": "Hunyuan3D-Buffalo 1.0 是一个统一的多模态模型，集成了3D生成、理解与编辑能力，支持可扩展的3D内容创作。其核心价值在于通过单一模型实现多种3D任务，简化工作流并提升效率。技术亮点包括多模态融合架构和统一的表示学习，适用于游戏开发、影视制作、AR/VR等领域，可快速生成和修改3D资产。",
+  "tags": [
+    "3D Generation",
+    "Multimodal Model",
+    "3D Editing",
+    "3D Understanding",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "NarihitoM/MultimateAi",
+    "url": "https://github.com/NarihitoM/MultimateAi",
+    "source": "github_trending",
+    "popularity": 9,
+    "summary": "Agentic Software Application with many services and ai models providers.",
+    "pushed_at": "2026-08-06T01:56:33Z",
+    "created_at_source": "2026-04-09T01:52:41Z"
+  },
+  {
+    "title": "aromgu/dart-rag",
+    "url": "https://github.com/aromgu/dart-rag",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "RAG over Korean DART financial disclosures (KOSPI 100)",
+    "pushed_at": "2026-08-06T01:56:32Z",
+    "created_at_source": "2026-08-06T01:56:31Z"
+  },
+  {
+    "title": "LeBonhommePharma/FlexAIDdS",
+    "url": "https://github.com/LeBonhommePharma/FlexAIDdS",
+    "source": "github_trending",
+    "popularity": 9,
+    "summary": "Modernized Flexible Artificial Intelligence Docking (FlexAID) fully flexible, in C++26 with python bindings. Updated NRGsuite, the PyMOL plugin GUI. Fast, Flexible and Free... and it ain't GROMACS 😹😻✨",
+    "pushed_at": "2026-08-06T01:56:31Z",
+    "created_at_source": "2025-08-25T06:12:44Z"
+  },
+  {
+    "title": "inseries-latten115/ai-comic-manga-generator",
+    "url": "https://github.com/inseries-latten115/ai-comic-manga-generator",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Create digital comics and manga using this local AI tool for Windows. Generate panels and graphic novels without subscriptions or usage limits.",
+    "pushed_at": "2026-08-06T01:56:30Z",
+    "created_at_source": "2026-06-02T16:55:56Z"
+  },
+  {
+    "title": "bennylimpid196/stellar-llm-classifier",
+    "url": "https://github.com/bennylimpid196/stellar-llm-classifier",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Classify stars using Gaia DR3 data by combining deterministic astrophysical rules with a fine-tuned language model for accurate spectral typing and descriptions.",
+    "pushed_at": "2026-08-06T01:56:30Z",
+    "created_at_source": "2026-06-03T22:44:00Z"
+  },
+  {
+    "title": "shrimp-211/AIbot",
+    "url": "https://github.com/shrimp-211/AIbot",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "一个基于onebot协议的ai机器人后端",
+    "pushed_at": "2026-08-06T01:56:30Z",
+    "created_at_source": "2026-07-01T14:39:44Z"
+  },
+  {
+    "title": "catitw/agentmux",
+    "url": "https://github.com/catitw/agentmux",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-06T01:56:29Z",
+    "created_at_source": "2026-08-05T05:04:37Z"
+  },
+  {
+    "title": "inquirex/inquirex-llm",
+    "url": "https://github.com/inquirex/inquirex-llm",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "LLM verbs that can be added to the inquirex DSL",
+    "pushed_at": "2026-08-06T01:56:29Z",
+    "created_at_source": "2026-04-14T05:07:08Z"
+  },
+  {
+    "title": "kevintsengtw/dotnet-testing-agent-vscode-extensions",
+    "url": "https://github.com/kevintsengtw/dotnet-testing-agent-vscode-extensions",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "dotnet-testing-agent 工具包",
+    "pushed_at": "2026-08-06T01:56:29Z",
+    "created_at_source": "2026-05-13T01:05:11Z"
+  },
+  {
+    "title": "GeoJordan/ai-legal-evidence-processing-platform",
+    "url": "https://github.com/GeoJordan/ai-legal-evidence-processing-platform",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI-powered Python platform for legal evidence processing, classification, timeline generation, and exhibit preparation.",
+    "pushed_at": "2026-08-06T01:56:29Z",
+    "created_at_source": "2026-08-05T16:55:41Z"
+  },
+  {
+    "title": "AWS 推出免费沙箱环境，可直接体验 Workshop",
+    "url": "https://www.infoq.cn/article/HtbD9e2YFkS3omFYgIyY?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：华为发布尊界 MPV 及多款新品等",
+    "url": "https://sspai.com/post/113110",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+    "url": "https://arxiv.org/abs/2608.02604",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.02604v1 Announce Type: new \nAbstract: LLM-based agents are increasingly being deployed for data-related tasks, including data sense-making, exploration, and retrieval. However, their perfor",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "TabletCraft: Bridging a 4,000-Year Cultural Gap with Bidirectional Akkadian NMT and Cuneiform Rendering",
+    "url": "https://arxiv.org/abs/2608.02609",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.02609v1 Announce Type: new \nAbstract: Half a million cuneiform clay tablets survive in museums worldwide, yet modern users can neither read nor write in the world's oldest writing system, l",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Deep Divide-and-Reduce in Symbolic Regression",
+    "url": "https://arxiv.org/abs/2608.02628",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.02628v1 Announce Type: new \nAbstract: Symbolic regression (SR) is the task of discovering underlying patterns from data and representing them using mathematical expressions. Current machine",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing",
+    "url": "https://arxiv.org/abs/2608.02711",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.02711v1 Announce Type: new \nAbstract: Recent advances in image generation have demonstrated the potential of unified multimodal models that integrate understanding, generation, and editing.",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+    "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI start",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Google LLM router ➡️, Cloudflare Wallets 💳, Anthropic and Volta 🤝",
+    "url": "https://tldr.tech/ai/2026-08-05",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+    "url": "https://www.anthropic.com/news/tino-cuellar",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Mariano-Florentino (Tino) Cuéllar will join Anthropic as its first Chief Global Affairs Officer, leading the company’s work on policy, strategic international engagement, and government relationships ",
+    "feed_name": "Anthropic News"
+  },
+  {
+    "title": "How LendingTree built a multi-agent mortgage assistant on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-lendingtree-built-a-multi-agent-mortgage-assistant-on-amazon-bedrock/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Learn how LendingTree built a production multi-agent mortgage assistant on Amazon Bedrock. Three coordinated agents use LangGraph, the Model Context Protocol, and Amazon Nova models with built-in guar",
+    "feed_name": "AWS ML Blog"
+  }
+]

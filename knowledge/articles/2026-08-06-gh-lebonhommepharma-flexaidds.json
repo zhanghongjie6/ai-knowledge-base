@@ -1,0 +1,20 @@
+{
+  "id": "github-20260806-003",
+  "title": "LeBonhommePharma/FlexAIDdS",
+  "source_url": "https://github.com/LeBonhommePharma/FlexAIDdS",
+  "source_type": "github_trending",
+  "summary": "FlexAIDdS 是 FlexAID 分子对接工具的现代化重写版，采用 C++26 编写并提供 Python 绑定，支持全柔性对接。更新了 PyMOL 插件 NRGsuite，强调快速、灵活且免费，适用于药物发现和分子模拟领域，尤其适合需要处理受体和配体柔性的场景。",
+  "tags": [
+    "Molecular Docking",
+    "Drug Discovery",
+    "C++",
+    "Python",
+    "PyMOL",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 9,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260806-001",
+  "title": "NarihitoM/MultimateAi",
+  "source_url": "https://github.com/NarihitoM/MultimateAi",
+  "source_type": "github_trending",
+  "summary": "MultimateAi 是一个代理式软件应用，集成了多种服务和AI模型提供商，旨在构建统一的智能体平台。其核心价值在于通过单一应用接入多个AI后端，简化开发与使用流程，适用于自动化任务、智能决策和多模型协同等场景。技术亮点包括灵活的模型切换和可扩展的架构设计。",
+  "tags": [
+    "Agent",
+    "Multi-Provider",
+    "Integration",
+    "AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 9,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

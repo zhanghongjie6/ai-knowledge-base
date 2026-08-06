@@ -1,0 +1,19 @@
+{
+  "id": "github-20260806-005",
+  "title": "bennylimpid196/stellar-llm-classifier",
+  "source_url": "https://github.com/bennylimpid196/stellar-llm-classifier",
+  "source_type": "github_trending",
+  "summary": "stellar-llm-classifier 结合盖亚DR3星表数据与微调语言模型，通过确定性天体物理规则与LLM协同，实现恒星光谱分类与描述生成。核心价值在于将专家知识与大模型能力融合，提升分类准确性与可解释性，适用于天文研究、科普教育及数据标注场景。",
+  "tags": [
+    "Astronomy",
+    "LLM",
+    "Classification",
+    "Gaia DR3",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

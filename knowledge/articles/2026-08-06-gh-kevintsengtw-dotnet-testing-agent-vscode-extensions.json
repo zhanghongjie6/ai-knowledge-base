@@ -1,0 +1,19 @@
+{
+  "id": "github-20260806-009",
+  "title": "kevintsengtw/dotnet-testing-agent-vscode-extensions",
+  "source_url": "https://github.com/kevintsengtw/dotnet-testing-agent-vscode-extensions",
+  "source_type": "github_trending",
+  "summary": "dotnet-testing-agent 的 VSCode 扩展工具包，旨在提升 .NET 开发者的测试效率。通过集成 AI 代理，实现自动化测试生成、执行和结果分析，简化测试流程。适用于 .NET 项目中的单元测试、集成测试等场景，帮助开发者快速定位问题并提高代码质量。",
+  "tags": [
+    ".NET",
+    "Testing",
+    "VSCode",
+    "AI Agent",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

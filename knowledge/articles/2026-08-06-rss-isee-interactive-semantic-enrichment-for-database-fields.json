@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-003",
+  "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+  "source_url": "https://arxiv.org/abs/2608.02604",
+  "source_type": "rss",
+  "summary": "ISEE提出了一种交互式语义增强方法，利用LLM代理自动为数据库字段生成语义描述和上下文标签，提升数据理解、探索与检索效率。其核心价值在于减少人工标注成本，通过人机协作迭代优化字段语义，适用于数据治理、数据目录构建及智能查询等场景。技术亮点包括动态语义推断和交互式反馈机制。",
+  "tags": [
+    "LLM",
+    "Data Management",
+    "Semantic Enrichment",
+    "Human-in-the-loop",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

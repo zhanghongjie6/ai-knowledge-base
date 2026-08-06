@@ -1,0 +1,19 @@
+{
+  "id": "github-20260806-007",
+  "title": "catitw/agentmux",
+  "source_url": "https://github.com/catitw/agentmux",
+  "source_type": "github_trending",
+  "summary": "AgentMux 是一个轻量级多智能体路由与编排框架，通过统一接口管理多个AI代理，支持动态路由、负载均衡和故障转移。其核心价值在于简化复杂智能体系统的集成与调度，提升资源利用率和响应可靠性。适用于客服、自动化工作流等场景，可快速接入现有项目。",
+  "tags": [
+    "Multi-Agent",
+    "Routing",
+    "Orchestration",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260806-002",
+  "title": "aromgu/dart-rag",
+  "source_url": "https://github.com/aromgu/dart-rag",
+  "source_type": "github_trending",
+  "summary": "dart-rag 是一个针对韩国 DART 金融披露文件（KOSPI 100）的检索增强生成（RAG）系统。它通过将金融公告结构化并索引，使 LLM 能够基于最新披露信息进行问答，支持财务分析、投资研究和合规审查等场景。技术亮点包括对韩语金融文本的解析、向量检索与生成管线的集成。",
+  "tags": [
+    "RAG",
+    "Finance",
+    "Korean",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-06T01:57:37+00:00",
+  "updated_at": "2026-08-06T01:57:37+00:00"
+}
