@@ -1,0 +1,19 @@
+{
+  "id": "github-20260807-005",
+  "title": "klapertart/ai-agent-development-workflow",
+  "source_url": "https://github.com/klapertart/ai-agent-development-workflow",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套完整的AI智能体开发工作流模板，涵盖从需求分析、架构设计到编码测试的端到端流程。核心价值在于将工程化实践与LLM能力结合，帮助开发者快速搭建可维护的Agent应用。包含提示词管理、工具集成、评估与调试等模块，适用于客服、自动化办公等场景。",
+  "tags": [
+    "Agent",
+    "Workflow",
+    "LLM",
+    "Development",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

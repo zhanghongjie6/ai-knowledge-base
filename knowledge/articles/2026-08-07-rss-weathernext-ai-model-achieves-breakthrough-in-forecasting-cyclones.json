@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-010",
+  "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+  "source_url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+  "source_type": "rss",
+  "summary": "WeatherNext是DeepMind推出的AI天气预报模型，在气旋预测上实现突破，显著提升极端天气预警的准确性和时效性。该模型融合物理规律与深度学习，能快速生成高分辨率预报，适用于防灾减灾、航运和能源调度等场景，有望革新传统数值天气预报。",
+  "tags": [
+    "AI",
+    "Weather Forecasting",
+    "Climate",
+    "Deep Learning",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

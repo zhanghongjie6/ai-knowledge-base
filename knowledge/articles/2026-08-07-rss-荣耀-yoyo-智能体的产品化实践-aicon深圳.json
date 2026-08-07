@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-001",
+  "title": "荣耀 YOYO 智能体的产品化实践｜AICon深圳",
+  "source_url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文分享了荣耀YOYO智能体在产品化过程中的实践经验，涵盖从技术架构到用户场景的落地挑战。核心价值在于将大模型能力与手机系统深度整合，实现跨应用操作和个性化服务。技术亮点包括端云协同、意图理解、多模态交互等。使用场景覆盖日常助手、智能提醒、自动化任务执行等，为AI Agent在终端设备上的产品化提供了可参考的路径。",
+  "tags": [
+    "AI Agent",
+    "Smartphone",
+    "Productization",
+    "LLM",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

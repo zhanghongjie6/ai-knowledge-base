@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-005",
+  "title": "C$^2$MOE: Consistency and Complementarity-guided Mixture of Experts for Incomplete Multimodal Emotion Learning",
+  "source_url": "https://arxiv.org/abs/2608.04013",
+  "source_type": "rss",
+  "summary": "C$^2$MOE提出了一种基于一致性和互补性引导的混合专家模型，用于处理不完整多模态情感识别。该模型通过专家网络分别捕捉模态间的一致性与互补信息，并动态融合缺失模态下的特征，显著提升了对话情感识别的鲁棒性和准确性，适用于真实场景中数据缺失的情感分析任务。",
+  "tags": [
+    "Multimodal",
+    "Emotion Recognition",
+    "Mixture of Experts",
+    "Incomplete Data",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

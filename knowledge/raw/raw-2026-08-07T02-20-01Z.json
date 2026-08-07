@@ -1,0 +1,172 @@
+[
+  {
+    "title": "thararaoganji/remediation-agent",
+    "url": "https://github.com/thararaoganji/remediation-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Remediation Agent",
+    "pushed_at": "2026-08-07T02:19:48Z",
+    "created_at_source": "2026-08-04T01:29:18Z"
+  },
+  {
+    "title": "alviensukes1983/ragiye",
+    "url": "https://github.com/alviensukes1983/ragiye",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-07T02:19:49Z",
+    "created_at_source": "2026-08-07T02:19:46Z"
+  },
+  {
+    "title": "sligo-droid/hermes-agent",
+    "url": "https://github.com/sligo-droid/hermes-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-07T02:19:47Z",
+    "created_at_source": "2026-05-15T17:00:36Z"
+  },
+  {
+    "title": "longtt46/my-aiprompt",
+    "url": "https://github.com/longtt46/my-aiprompt",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-07T02:19:47Z",
+    "created_at_source": "2026-08-07T02:19:46Z"
+  },
+  {
+    "title": "klapertart/ai-agent-development-workflow",
+    "url": "https://github.com/klapertart/ai-agent-development-workflow",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-07T02:19:47Z",
+    "created_at_source": "2026-04-25T12:58:37Z"
+  },
+  {
+    "title": "ojbkxc/AIGX",
+    "url": "https://github.com/ojbkxc/AIGX",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "提供 OpenAI 兼容 API，支持多账号管理、用量统计、模型映射",
+    "pushed_at": "2026-08-07T02:19:46Z",
+    "created_at_source": "2026-08-02T14:43:35Z"
+  },
+  {
+    "title": "c840264221/dog-knowledge-rag",
+    "url": "https://github.com/c840264221/dog-knowledge-rag",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "🐶 Dog knowledge base with RAG + LangChain + Chroma",
+    "pushed_at": "2026-08-07T02:19:46Z",
+    "created_at_source": "2026-04-29T07:29:32Z"
+  },
+  {
+    "title": "MOntoYA-15/mantenimiento_aires",
+    "url": "https://github.com/MOntoYA-15/mantenimiento_aires",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-07T02:19:45Z",
+    "created_at_source": "2026-08-01T03:23:46Z"
+  },
+  {
+    "title": "nherx/free-llm-api-resources",
+    "url": "https://github.com/nherx/free-llm-api-resources",
+    "source": "github_trending",
+    "popularity": 9,
+    "summary": "🤖 Discover free API access and credits for various legitimate large language model services in one curated resource list.",
+    "pushed_at": "2026-08-07T02:19:44Z",
+    "created_at_source": "2026-02-25T00:27:28Z"
+  },
+  {
+    "title": "dongerscheng/ainffj",
+    "url": "https://github.com/dongerscheng/ainffj",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-07T02:19:44Z",
+    "created_at_source": "2026-08-06T15:16:45Z"
+  },
+  {
+    "title": "荣耀 YOYO 智能体的产品化实践｜AICon深圳",
+    "url": "https://www.infoq.cn/article/2vgS2FNle83YQZrLvxSF?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：Bose 发布新款 QuietComfort 头戴式耳机等",
+    "url": "https://sspai.com/post/113162",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+    "url": "https://arxiv.org/abs/2608.04012",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.04012v1 Announce Type: new \nAbstract: Artificial intelligence systems are increasingly expected to operate over repeated cycles of interaction, adaptation, and update rather than through is",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Transfer Learning for Named Entity Recognition of Classical Latin through LLM Prompting",
+    "url": "https://arxiv.org/abs/2608.04015",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.04015v1 Announce Type: new \nAbstract: With the increase in digitized resources of Classical Latin texts and modern breakthroughs of Large Language Models (LLMs), I contribute to ancient lan",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "C$^2$MOE: Consistency and Complementarity-guided Mixture of Experts for Incomplete Multimodal Emotion Learning",
+    "url": "https://arxiv.org/abs/2608.04013",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.04013v1 Announce Type: new \nAbstract: Recent advances in Multimodal Emotion Recognition in Conversations (MERC) highlight its reliance on complete multimodal inputs. However, real-world dat",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Advancing Utility Pole and Sign Detection Through Deep Learning",
+    "url": "https://arxiv.org/abs/2608.04061",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.04061v1 Announce Type: new \nAbstract: Utility poles are an essential part of the infrastructure used to support power distribution systems and other critical public services. Their regular ",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+    "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 ",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Google DeepMind reshuffle 🧠, Meta Muse Code 💻, Anthropic chip team 🧩",
+    "url": "https://tldr.tech/ai/2026-08-06",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Google DeepMind"
+  }
+]

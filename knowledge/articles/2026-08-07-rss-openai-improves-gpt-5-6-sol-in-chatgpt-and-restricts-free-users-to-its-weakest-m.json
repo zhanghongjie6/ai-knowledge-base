@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-007",
+  "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+  "source_url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+  "source_type": "rss",
+  "summary": "OpenAI 更新了 GPT-5.6 Sol，提供更聚焦的回答和推理滑块，允许用户调整模型思考深度。同时，免费用户被限制使用最弱的模型，仅能无限次文本聊天。该更新旨在优化用户体验，但引发了关于模型公平性和资源分配的讨论。核心价值在于通过可调节推理深度提升响应质量，适用于需要不同复杂度推理的场景。",
+  "tags": [
+    "OpenAI",
+    "GPT-5.6",
+    "ChatGPT",
+    "Model Update",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

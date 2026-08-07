@@ -1,0 +1,19 @@
+{
+  "id": "github-20260807-008",
+  "title": "MOntoYA-15/mantenimiento_aires",
+  "source_url": "https://github.com/MOntoYA-15/mantenimiento_aires",
+  "source_type": "github_trending",
+  "summary": "这是一个针对空调维护管理的开源项目，提供设备台账、维护计划、工单跟踪和提醒功能。核心价值在于简化中小型企业的空调维护流程，通过数字化管理减少漏保和故障停机。技术亮点包括轻量级架构、易部署和可定制化，适合物业、酒店和维修服务商使用。",
+  "tags": [
+    "Maintenance",
+    "IoT",
+    "Scheduling",
+    "Workflow",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

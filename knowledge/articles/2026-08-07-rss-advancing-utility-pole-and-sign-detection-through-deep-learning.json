@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260807-006",
+  "title": "Advancing Utility Pole and Sign Detection Through Deep Learning",
+  "source_url": "https://arxiv.org/abs/2608.04061",
+  "source_type": "rss",
+  "summary": "该研究利用深度学习技术实现电线杆和交通标志的自动检测，旨在提升基础设施维护效率。核心价值在于通过计算机视觉替代人工巡检，降低安全风险并提高检测精度。技术亮点包括针对小目标和复杂背景的优化模型，适用于城市和乡村场景。应用场景涵盖电力设施巡检、道路安全管理和智慧城市基础设施监测。",
+  "tags": [
+    "Deep Learning",
+    "Object Detection",
+    "Infrastructure",
+    "Computer Vision",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

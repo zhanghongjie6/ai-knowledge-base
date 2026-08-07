@@ -1,0 +1,19 @@
+{
+  "id": "github-20260807-009",
+  "title": "nherx/free-llm-api-resources",
+  "source_url": "https://github.com/nherx/free-llm-api-resources",
+  "source_type": "github_trending",
+  "summary": "该项目汇总了多个合法的大语言模型服务的免费API访问和免费额度资源，帮助开发者快速获取可用的LLM接口，降低开发成本。涵盖多种主流模型，提供详细的获取方式和使用限制，适合个人开发者、研究者及初创团队快速集成AI能力，进行原型验证或小规模应用开发。",
+  "tags": [
+    "LLM",
+    "API",
+    "Free Resources",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 9,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

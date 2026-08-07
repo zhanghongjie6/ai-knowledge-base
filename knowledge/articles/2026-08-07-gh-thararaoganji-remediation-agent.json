@@ -1,0 +1,19 @@
+{
+  "id": "github-20260807-001",
+  "title": "thararaoganji/remediation-agent",
+  "source_url": "https://github.com/thararaoganji/remediation-agent",
+  "source_type": "github_trending",
+  "summary": "Remediation Agent 是一个专注于自动化安全漏洞修复的智能代理项目，旨在通过分析漏洞信息、生成补丁并验证修复结果，减少人工干预。其核心价值在于提升安全运维效率，适用于DevSecOps流程中的漏洞闭环管理。技术亮点包括与常见漏洞扫描工具集成、自动生成修复建议及验证机制。",
+  "tags": [
+    "Security",
+    "Automation",
+    "DevSecOps",
+    "Agent",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

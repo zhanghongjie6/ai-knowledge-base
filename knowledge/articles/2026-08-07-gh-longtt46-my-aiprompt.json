@@ -1,0 +1,18 @@
+{
+  "id": "github-20260807-004",
+  "title": "longtt46/my-aiprompt",
+  "source_url": "https://github.com/longtt46/my-aiprompt",
+  "source_type": "github_trending",
+  "summary": "my-aiprompt 是一个用于管理和优化 AI 提示词（Prompt）的开源工具，支持多模型适配、模板化保存与快速调用。核心价值在于提升提示词复用效率，降低重复编写成本，适用于日常开发、内容生成和自动化工作流。技术亮点包括简洁的 CLI 界面、灵活的变量替换和跨平台支持。",
+  "tags": [
+    "Prompt Engineering",
+    "CLI",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260807-006",
+  "title": "ojbkxc/AIGX",
+  "source_url": "https://github.com/ojbkxc/AIGX",
+  "source_type": "github_trending",
+  "summary": "AIGX 是一个提供 OpenAI 兼容 API 的服务层工具，核心价值在于多账号管理、用量统计和模型映射。它允许用户通过统一的接口管理多个上游 API 账号，实现负载均衡和成本控制，并支持将不同模型映射到自定义名称，便于集成和切换。适用于需要聚合多个 AI 服务、优化调用成本或统一 API 入口的开发场景。",
+  "tags": [
+    "API Gateway",
+    "OpenAI",
+    "Multi-Account",
+    "Model Mapping",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}

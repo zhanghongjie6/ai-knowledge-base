@@ -1,0 +1,19 @@
+{
+  "id": "github-20260807-010",
+  "title": "dongerscheng/ainffj",
+  "source_url": "https://github.com/dongerscheng/ainffj",
+  "source_type": "github_trending",
+  "summary": "ainffj是一个开源项目，提供AI驱动的自然语言接口框架，简化与外部系统的交互。核心价值在于通过统一抽象层，让开发者用自然语言描述任务，自动生成并执行代码，支持多模型接入。技术亮点包括动态工具调用、上下文记忆和可扩展插件体系。适用于自动化工作流、智能客服和快速原型开发。",
+  "tags": [
+    "AI",
+    "NLU",
+    "Automation",
+    "Framework",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-07T02:20:47+00:00",
+  "updated_at": "2026-08-07T02:20:47+00:00"
+}
