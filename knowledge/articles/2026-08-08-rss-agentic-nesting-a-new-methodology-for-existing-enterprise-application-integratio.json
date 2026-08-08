@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260808-003",
+  "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
+  "source_url": "https://arxiv.org/abs/2608.05159",
+  "source_type": "rss",
+  "summary": "该论文提出一种名为“代理嵌套”的新方法论，用于整合企业现有异构业务系统与信息应用，解决数据孤岛问题。其核心价值在于通过嵌套式智能代理架构，在不重构现有系统的前提下实现跨系统服务编排与数据互通，技术亮点包括分层代理协作、统一接口抽象及动态任务路由。适用于企业遗留系统现代化、业务流程自动化及多系统集成场景。",
+  "tags": [
+    "Agent",
+    "Enterprise Integration",
+    "Data Silo",
+    "System Architecture",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

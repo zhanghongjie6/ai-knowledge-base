@@ -1,0 +1,19 @@
+{
+  "id": "github-20260808-007",
+  "title": "Isaelito/ppowo-dotfiles",
+  "source_url": "https://github.com/Isaelito/ppowo-dotfiles",
+  "source_type": "github_trending",
+  "summary": "个人Pi配置代理2026，提供AI符号链接引导与主题同步功能。核心价值在于自动化管理点文件，通过符号链接快速部署配置，并同步主题设置。适用于开发者快速搭建一致性的开发环境，减少手动配置时间。技术亮点包括AI辅助引导和跨设备同步。",
+  "tags": [
+    "dotfiles",
+    "config-management",
+    "AI",
+    "theme-sync",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

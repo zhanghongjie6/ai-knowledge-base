@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260808-007",
+  "title": "OpenAI flags its new Astra model as potentially reaching the highest cybersecurity risk level for the first time",
+  "source_url": "https://the-decoder.com/openai-flags-its-new-astra-model-as-potentially-reaching-the-highest-cybersecurity-risk-level-for-the-first-time/",
+  "source_type": "rss",
+  "summary": "OpenAI内部测试显示，其新模型Astra的网络安全能力极强，首次可能触及公司安全框架中的最高风险等级。该模型在自主漏洞利用、攻击代码生成等方面表现突出，迫使OpenAI重新评估其安全策略。此事件凸显了AI在攻防两端的双重用途，对网络安全行业和AI治理具有重要警示意义。",
+  "tags": [
+    "AI Safety",
+    "Cybersecurity",
+    "OpenAI",
+    "Risk Assessment",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

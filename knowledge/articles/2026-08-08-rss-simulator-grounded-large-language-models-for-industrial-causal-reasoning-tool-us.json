@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260808-004",
+  "title": "Simulator-Grounded Large Language Models for Industrial Causal Reasoning: Tool-Use, Structured Injection, and Plant-Portable Retrieval for Wastewater Treatment Decision Support",
+  "source_url": "https://arxiv.org/abs/2608.05151",
+  "source_type": "rss",
+  "summary": "该研究提出一种基于模拟器接地的大语言模型框架，用于工业因果推理，特别是在污水处理决策支持中。通过工具调用、结构化注入和可移植检索，将模型输出与工厂实际变量动态关联，提供可操作的因果解释。核心价值在于提升LLM在工业场景中的可靠性和实用性，适用于实时运维、故障诊断和优化控制。",
+  "tags": [
+    "LLM",
+    "Causal Reasoning",
+    "Industrial AI",
+    "Simulation",
+    "Decision Support",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

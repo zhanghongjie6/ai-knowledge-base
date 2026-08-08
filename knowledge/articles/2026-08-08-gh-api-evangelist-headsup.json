@@ -1,0 +1,19 @@
+{
+  "id": "github-20260808-010",
+  "title": "api-evangelist/headsup",
+  "source_url": "https://github.com/api-evangelist/headsup",
+  "source_type": "github_trending",
+  "summary": "HeadsUp 是一个面向产品驱动增长（PLG）的 AI 转化引擎，帮助市场团队识别应重点接触的产品合格用户及最佳时机。它通过分析产品使用数据，自动筛选高意向用户，并触发个性化互动，从而提升转化效率。适用于 SaaS 产品的用户激活、留存和付费转化场景。",
+  "tags": [
+    "PLG",
+    "AI",
+    "Product Analytics",
+    "Conversion",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

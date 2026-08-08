@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260808-005",
+  "title": "MS-MLB: An Open Machine Learning Benchmark for Blood-Based MS Classification",
+  "source_url": "https://arxiv.org/abs/2608.05196",
+  "source_type": "rss",
+  "summary": "MS-MLB 是首个针对基于血液的质谱数据多发性硬化症分类的开源机器学习基准，提供标准化数据集、评估协议和基线模型，填补了该领域缺乏统一基准的空白，有助于推动MS诊断模型的研发与比较。",
+  "tags": [
+    "Machine Learning",
+    "Biomarker",
+    "Multiple Sclerosis",
+    "Benchmark",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

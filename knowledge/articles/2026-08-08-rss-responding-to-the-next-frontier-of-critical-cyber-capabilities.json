@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260808-010",
+  "title": "Responding to the next frontier of critical cyber capabilities",
+  "source_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+  "source_type": "rss",
+  "summary": "OpenAI发布了其前沿模型Astra的初步网络安全评估，并介绍了为强化安全防护与控制所采取的措施。该评估聚焦于模型在攻防场景中的能力，旨在平衡AI创新与安全风险，为关键基础设施保护提供参考。",
+  "tags": [
+    "AI Safety",
+    "Cybersecurity",
+    "OpenAI",
+    "Model Evaluation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

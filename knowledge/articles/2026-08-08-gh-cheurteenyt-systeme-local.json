@@ -1,0 +1,19 @@
+{
+  "id": "github-20260808-005",
+  "title": "Cheurteenyt/systeme-local",
+  "source_url": "https://github.com/Cheurteenyt/systeme-local",
+  "source_type": "github_trending",
+  "summary": "该项目提供安全的本地执行基础设施，使远程AI代理能够在受控环境中运行代码和命令。通过隔离和权限管理，确保代理操作不损害主机系统。适用于自动化任务、安全测试和隐私敏感场景，兼顾灵活性与安全性。",
+  "tags": [
+    "AI Agent",
+    "Security",
+    "Sandbox",
+    "Infrastructure",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

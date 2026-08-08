@@ -1,0 +1,19 @@
+{
+  "id": "github-20260808-004",
+  "title": "sase-org/sase--agents",
+  "source_url": "https://github.com/sase-org/sase--agents",
+  "source_type": "github_trending",
+  "summary": "SASE组织为sase-org/sase项目提供的代理（agents）侧车仓库，用于扩展SASE平台的功能。该仓库可能包含用于网络访问、安全策略执行或自动化运维的代理组件，支持与主项目集成，适用于企业安全访问服务边缘场景。",
+  "tags": [
+    "SASE",
+    "Security",
+    "Agent",
+    "Networking",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

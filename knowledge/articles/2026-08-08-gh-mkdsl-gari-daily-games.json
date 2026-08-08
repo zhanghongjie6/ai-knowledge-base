@@ -1,0 +1,19 @@
+{
+  "id": "github-20260808-009",
+  "title": "mkdsl/gari-daily-games",
+  "source_url": "https://github.com/mkdsl/gari-daily-games",
+  "source_type": "github_trending",
+  "summary": "该项目由AI团队在Gari的编排下每日生成HTML5小游戏，展示了AI辅助游戏开发的自动化流程。核心价值在于利用多智能体协作快速产出可玩的网页游戏，适合休闲娱乐、创意原型验证及AI生成内容的教学演示。技术亮点包括自动化流水线和多样化的游戏类型。",
+  "tags": [
+    "AI-Generated",
+    "HTML5",
+    "Games",
+    "Multi-Agent",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

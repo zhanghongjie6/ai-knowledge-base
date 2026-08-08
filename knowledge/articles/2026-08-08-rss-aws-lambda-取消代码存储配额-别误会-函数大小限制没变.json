@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260808-001",
+  "title": "AWS Lambda 取消代码存储配额，别误会：函数大小限制没变",
+  "source_url": "https://www.infoq.cn/article/OG03ezJaBkdOd1G3rc1b?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "AWS Lambda取消了代码存储配额限制，但单个函数包大小限制（50MB压缩包/250MB未压缩）保持不变。这一调整简化了账户级存储管理，消除了原先75GB的存储上限，对大量使用Lambda的企业更友好，但开发者仍需注意函数包大小限制。",
+  "tags": [
+    "AWS",
+    "Serverless",
+    "Lambda",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}

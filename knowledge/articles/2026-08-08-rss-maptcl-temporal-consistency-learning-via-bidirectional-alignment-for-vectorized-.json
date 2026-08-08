@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260808-006",
+  "title": "MapTCL: Temporal Consistency Learning via Bidirectional Alignment for Vectorized HD Map Construction",
+  "source_url": "https://arxiv.org/abs/2608.05209",
+  "source_type": "rss",
+  "summary": "MapTCL提出一种基于双向对齐的时间一致性学习方法，用于在线高精地图构建。该方法通过跨帧特征对齐与时序约束，有效缓解动态物体和遮挡带来的地图构建不稳定性，提升地图元素的连续性和准确性。适用于自动驾驶、智能交通等需要实时高精地图的场景。",
+  "tags": [
+    "HD Map",
+    "Temporal Consistency",
+    "Autonomous Driving",
+    "Online Mapping",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-08T01:06:52+00:00",
+  "updated_at": "2026-08-08T01:06:52+00:00"
+}
