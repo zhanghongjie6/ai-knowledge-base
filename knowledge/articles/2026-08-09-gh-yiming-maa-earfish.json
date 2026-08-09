@@ -1,0 +1,19 @@
+{
+  "id": "github-20260809-001",
+  "title": "yiming-maa/earfish",
+  "source_url": "https://github.com/yiming-maa/earfish",
+  "source_type": "github_trending",
+  "summary": "Earfish 是一款为 YouTube 视频提供即时 AI 字幕的工具，点击播放即可显示高质量字幕，并非机器翻译，而是基于 AI 的精准转录。其核心价值在于极低延迟和易用性，适用于外语学习、内容创作和无障碍访问等场景。技术亮点包括实时处理、高准确率和无缝集成，显著提升观看体验。",
+  "tags": [
+    "AI Subtitles",
+    "YouTube",
+    "Real-time",
+    "Transcription",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}

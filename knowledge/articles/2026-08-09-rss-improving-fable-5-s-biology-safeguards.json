@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260809-004",
+  "title": "Improving Fable 5's biology safeguards",
+  "source_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+  "source_type": "rss",
+  "summary": "Anthropic 更新了 Claude Fable 5 的生物安全防护机制，大幅减少误报（false positives），使用户遭遇系统回退（fallbacks）的频率显著降低。该改进旨在平衡安全性与可用性，减少对正常生物相关查询的过度拦截，同时保持对高风险内容的有效防护。适用于生物医学研究、教育及一般用户查询场景，提升交互流畅度。",
+  "tags": [
+    "AI Safety",
+    "Claude",
+    "Biosecurity",
+    "Model Update",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}

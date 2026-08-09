@@ -1,0 +1,19 @@
+{
+  "id": "github-20260809-003",
+  "title": "JRWang2026/immigration-tracker",
+  "source_url": "https://github.com/JRWang2026/immigration-tracker",
+  "source_type": "github_trending",
+  "summary": "该项目是一个个人知识库网站，集成了本地代理，用于追踪新西兰绿名单ICT职位、德国博士机会及全球移民政策。核心价值在于将分散的移民信息聚合到统一平台，提供实时监控和个性化筛选，适合有移民意向的技术人员使用。技术亮点包括本地代理和自动化信息抓取，使用场景明确。",
+  "tags": [
+    "Immigration",
+    "Job Tracking",
+    "Knowledge Base",
+    "Agent",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}

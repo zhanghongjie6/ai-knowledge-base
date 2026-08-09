@@ -1,0 +1,19 @@
+{
+  "id": "github-20260809-008",
+  "title": "t-fuji777/kyotei-ai",
+  "source_url": "https://github.com/t-fuji777/kyotei-ai",
+  "source_type": "github_trending",
+  "summary": "kyotei-ai 是一个基于大语言模型的赛艇（竞艇）预测工具，通过分析历史比赛数据、选手表现和天气条件，生成预测结果。项目提供命令行界面和API，支持自定义模型和特征工程，适合体育数据分析爱好者和竞猜场景。",
+  "tags": [
+    "LLM",
+    "Sports Analytics",
+    "Prediction",
+    "CLI",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}

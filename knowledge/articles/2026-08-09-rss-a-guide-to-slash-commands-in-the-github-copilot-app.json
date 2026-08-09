@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260809-006",
+  "title": "A guide to slash commands in the GitHub Copilot app",
+  "source_url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+  "source_type": "rss",
+  "summary": "本文介绍了GitHub Copilot应用中的斜杠命令，帮助开发者超越简单聊天，实现规划、协作、自动化和自定义开发工作流。涵盖常用命令如/plan、/fix、/explain等，提升编码效率与团队协作。适合日常开发中快速调用AI能力，优化开发流程。",
+  "tags": [
+    "GitHub Copilot",
+    "Slash Commands",
+    "Developer Tools",
+    "AI Coding",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}

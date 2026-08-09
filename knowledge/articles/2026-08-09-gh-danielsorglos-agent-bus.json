@@ -1,0 +1,19 @@
+{
+  "id": "github-20260809-007",
+  "title": "danielsorglos/agent-bus",
+  "source_url": "https://github.com/danielsorglos/agent-bus",
+  "source_type": "github_trending",
+  "summary": "agent-bus 是一个轻量级的事件总线，专为多智能体系统设计，支持智能体间解耦通信、异步消息传递和动态路由。其核心价值在于简化复杂AI工作流的编排，提升系统可扩展性和可维护性。适用于需要协调多个LLM或工具的场景，如自动化流水线、多步骤任务分解等。",
+  "tags": [
+    "Agent",
+    "Event Bus",
+    "Multi-Agent",
+    "Orchestration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}

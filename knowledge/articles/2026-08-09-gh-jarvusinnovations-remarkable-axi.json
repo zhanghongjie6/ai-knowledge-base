@@ -1,0 +1,19 @@
+{
+  "id": "github-20260809-010",
+  "title": "JarvusInnovations/remarkable-axi",
+  "source_url": "https://github.com/JarvusInnovations/remarkable-axi",
+  "source_type": "github_trending",
+  "summary": "remarkable-axi 是一个面向 reMarkable 平板电脑的代理友好型 CLI 工具，支持将文章和文档发送至设备，并管理其云文件。其核心价值在于为 AI 代理提供便捷的文档投递与云端管理接口，技术亮点包括简洁的命令行设计和自动化集成能力，适用于个人知识管理、自动化工作流及 AI 辅助阅读场景。",
+  "tags": [
+    "CLI",
+    "reMarkable",
+    "Document Management",
+    "Agent",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}

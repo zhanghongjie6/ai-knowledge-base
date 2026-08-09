@@ -1,0 +1,19 @@
+{
+  "id": "github-20260809-006",
+  "title": "csdznwrk/ai-blocklist",
+  "source_url": "https://github.com/csdznwrk/ai-blocklist",
+  "source_type": "github_trending",
+  "summary": "该项目提供自动更新的 Little Snitch 阻止列表，用于屏蔽 AI 平台端点、遥测和训练数据采集器。核心价值在于保护用户隐私，防止数据被 AI 公司收集。技术亮点是自动更新机制和针对 AI 服务的精细规则。适用于 macOS 用户，尤其是关注 AI 数据隐私的开发者或研究人员。",
+  "tags": [
+    "Privacy",
+    "Security",
+    "Blocklist",
+    "AI",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}

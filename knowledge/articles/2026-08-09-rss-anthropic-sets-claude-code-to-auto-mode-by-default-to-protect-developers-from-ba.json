@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260809-003",
+  "title": "Anthropic sets Claude Code to Auto Mode by default to protect developers from bad approvals",
+  "source_url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/",
+  "source_type": "rss",
+  "summary": "Anthropic宣布自8月14日起，将Claude Code的Auto Mode设为Pro、Max和Team计划的默认模式，旨在通过自动分类器拦截危险命令，保护开发者免受不良审批的影响。测试显示该分类器能捕获89%的危险命令，提升了编码工具的安全性和自动化水平。此更新适用于AI编程助手场景，减少人工审批负担，同时增强代码执行安全性。",
+  "tags": [
+    "AI Coding",
+    "Claude Code",
+    "Safety",
+    "Automation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260809-005",
+  "title": "How Cohere Health digitizes clinical policies using Amazon Bedrock AgentCore",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
+  "source_type": "rss",
+  "summary": "Cohere Health 利用 Amazon Bedrock AgentCore 构建多租户代理架构，将临床政策数字化。通过 AgentCore Runtime 的 MicroVM 隔离保障安全，AgentCore Gateway 统一工具访问，实现政策解析、查询和自动化决策，提升医疗效率与合规性。",
+  "tags": [
+    "Agent",
+    "AWS",
+    "Healthcare",
+    "Multi-tenant",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}

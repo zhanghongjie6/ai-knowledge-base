@@ -1,0 +1,19 @@
+{
+  "id": "github-20260809-004",
+  "title": "rpriyaprakasm-bit/ai-adoption-tracker",
+  "source_url": "https://github.com/rpriyaprakasm-bit/ai-adoption-tracker",
+  "source_type": "github_trending",
+  "summary": "这是一个轻量级的AI采用追踪工具，通过Excel或SharePoint列表输入数据，自动生成可共享的仪表盘，帮助团队监控AI和Copilot的许可使用情况、活跃用户数、尝试过的场景及遇到的阻碍。核心价值在于以极低门槛实现AI落地效果的量化管理，适合企业IT或团队管理者快速掌握AI应用现状并推动采纳。",
+  "tags": [
+    "AI Adoption",
+    "Copilot",
+    "Dashboard",
+    "Productivity",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-09T01:11:19+00:00",
+  "updated_at": "2026-08-09T01:11:19+00:00"
+}
