@@ -1,0 +1,20 @@
+{
+  "id": "github-20260810-010",
+  "title": "marcusquinn/aidevops",
+  "source_url": "https://github.com/marcusquinn/aidevops",
+  "source_type": "github_trending",
+  "summary": "aidevops 是一个面向开发者的 AI 代理自动化工具集，专注于将 Vibe-Coding 的便捷性与 DevOps 的严谨性结合。它基于 OpenCode 和 Git，提供高 token 效率的自动化流程，涵盖 CLI、API 及多种服务，旨在加速应用开发、业务部署和个人项目迭代，同时强调安全性和速度。其核心价值在于降低 AI 驱动开发流程的运维复杂度，适合需要快速迭代且注重安全性的开发团队。",
+  "tags": [
+    "AI Agent",
+    "DevOps",
+    "Automation",
+    "CLI",
+    "Git",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 370,
+  "status": "draft",
+  "created_at": "2026-08-10T01:13:28+00:00",
+  "updated_at": "2026-08-10T01:13:28+00:00"
+}

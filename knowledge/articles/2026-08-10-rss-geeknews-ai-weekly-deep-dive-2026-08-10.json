@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-006",
+  "title": "GeekNews AI Weekly Deep Dive - 2026-08-10",
+  "source_url": "https://dev.to/ageofclick/geeknews-ai-weekly-deep-dive-2026-08-10-334k",
+  "source_type": "rss",
+  "summary": "本文探讨了vibecoding标签被滥用的现象，指出将任何使用LLM的工作都贴上该标签，可能导致有价值的人工内容被负面过滤。文章以Lobste.rs上的zsh bug追踪为例，说明LLM仅出现在附录中，正文为人工调查，却仍被标记。核心价值在于提醒社区反思AI标签的边界，避免技术污名化影响内容生态。",
+  "tags": [
+    "AI",
+    "VibeCoding",
+    "ContentModeration",
+    "Community",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-10T01:13:28+00:00",
+  "updated_at": "2026-08-10T01:13:28+00:00"
+}

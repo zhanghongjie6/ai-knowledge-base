@@ -1,0 +1,20 @@
+{
+  "id": "github-20260810-007",
+  "title": "n-3-0-l-d-3-v/ai-agent-workflow-builder",
+  "source_url": "https://github.com/n-3-0-l-d-3-v/ai-agent-workflow-builder",
+  "source_type": "github_trending",
+  "summary": "这是一个轻量级的AI代理工作流构建器，类似迷你版n8n，用于串联AI代理任务。技术栈包括Nhost、Hasura、Postgres和Next.js，提供可视化的工作流编排能力。核心价值在于简化AI代理的流程设计，支持快速搭建和部署，适用于自动化任务处理、数据管道和智能客服等场景。",
+  "tags": [
+    "AI Agent",
+    "Workflow",
+    "Low-code",
+    "Next.js",
+    "Hasura",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-10T01:13:28+00:00",
+  "updated_at": "2026-08-10T01:13:28+00:00"
+}

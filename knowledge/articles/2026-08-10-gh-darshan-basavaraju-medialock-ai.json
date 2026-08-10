@@ -1,0 +1,19 @@
+{
+  "id": "github-20260810-001",
+  "title": "Darshan-Basavaraju/medialock-ai",
+  "source_url": "https://github.com/Darshan-Basavaraju/medialock-ai",
+  "source_type": "github_trending",
+  "summary": "medialock-ai是一个开源的媒体内容安全工具，专注于检测和防止深度伪造（deepfake）图像与视频。它利用先进的AI模型分析媒体文件的真实性，提供API接口和命令行工具，适用于新闻验证、社交媒体内容审核及法律取证等场景。核心价值在于为个人和企业提供易用的深度伪造检测能力，增强数字内容信任度。",
+  "tags": [
+    "Deepfake Detection",
+    "AI Security",
+    "Media Forensics",
+    "Computer Vision",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-10T01:13:28+00:00",
+  "updated_at": "2026-08-10T01:13:28+00:00"
+}

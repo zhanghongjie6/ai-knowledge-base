@@ -1,0 +1,19 @@
+{
+  "id": "github-20260810-003",
+  "title": "dcssoftware/bafoeg-manager",
+  "source_url": "https://github.com/dcssoftware/bafoeg-manager",
+  "source_type": "github_trending",
+  "summary": "BAföG-Manager 是一款基于本地 AI 助手（如 Ministral 14B）的 BAföG 申请管理工具，旨在提高处理效率。它涵盖申请、还款等功能，并集成了被称为“BAföG Bot”的本地智能助手，支持离线运行，保护数据隐私。适用于德国学生资助申请流程的数字化和自动化，可显著减少人工审核工作量。",
+  "tags": [
+    "AI Assistant",
+    "Document Management",
+    "Government Services",
+    "Local LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 12,
+  "status": "draft",
+  "created_at": "2026-08-10T01:13:28+00:00",
+  "updated_at": "2026-08-10T01:13:28+00:00"
+}

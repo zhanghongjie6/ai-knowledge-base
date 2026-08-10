@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260810-007",
+  "title": "DuckDisk",
+  "source_url": "https://www.producthunt.com/products/duckdisk",
+  "source_type": "rss",
+  "summary": "DuckDisk 是一款面向 Mac 的存储分析工具，采用表格式界面，支持本地磁盘、云存储和 SSH 远程文件系统的容量可视化与清理。其核心价值在于将分散的存储信息统一呈现，帮助用户快速定位大文件、重复文件或异常占用，提升存储管理效率。适用于个人用户整理磁盘空间，也适合开发者或运维人员通过 SSH 分析远程服务器存储。",
+  "tags": [
+    "Storage Analysis",
+    "Mac",
+    "Cloud",
+    "SSH",
+    "Productivity",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-10T01:13:28+00:00",
+  "updated_at": "2026-08-10T01:13:28+00:00"
+}
