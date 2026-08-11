@@ -1,0 +1,19 @@
+{
+  "id": "github-20260811-002",
+  "title": "luna8418/skills-expand-your-team-with-copilot",
+  "source_url": "https://github.com/luna8418/skills-expand-your-team-with-copilot",
+  "source_type": "github_trending",
+  "summary": "该仓库是一个GitHub Copilot云代理的实践练习，旨在帮助团队通过Copilot扩展协作能力。核心价值在于提供可操作的技能训练，让开发者学习如何配置和使用Copilot代理完成自动化任务，提升开发效率。技术亮点包括云端代理集成和团队协作场景模拟，适用于DevOps流程优化和代码审查自动化。",
+  "tags": [
+    "GitHub Copilot",
+    "DevOps",
+    "Automation",
+    "Team Collaboration",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

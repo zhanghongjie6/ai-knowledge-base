@@ -1,0 +1,19 @@
+{
+  "id": "github-20260811-010",
+  "title": "nemesistip-cloud/vit",
+  "source_url": "https://github.com/nemesistip-cloud/vit",
+  "source_type": "github_trending",
+  "summary": "VIT Chain 节点项目，基于 FastAPI 内核实现区块链节点，集成 Proof-of-Storage 共识引擎、验证者质押、创世区块及 Tachyon 存储。链 ID 为 7764。该项目提供完整的节点实现，适合作为存储证明链的参考或直接部署，但当前处于早期阶段，生态和文档有限。",
+  "tags": [
+    "Blockchain",
+    "Proof-of-Storage",
+    "FastAPI",
+    "Staking",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 4,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

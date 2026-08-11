@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-004",
+  "title": "TEXAS: Task-Expert-Aware Supervision for Downstream Mixture-of-Experts LLM Adaptation",
+  "source_url": "https://arxiv.org/abs/2608.06396",
+  "source_type": "rss",
+  "summary": "TEXAS提出了一种针对下游任务的自适应MoE监督方法，通过利用路由模式识别任务相关专家，实现更高效的模型适配。该方法能提升下游任务性能，同时降低计算成本，适用于大规模语言模型的领域微调和多任务学习场景。",
+  "tags": [
+    "MoE",
+    "LLM",
+    "Adaptation",
+    "Supervision",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

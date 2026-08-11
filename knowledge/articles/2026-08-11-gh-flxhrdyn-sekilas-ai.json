@@ -1,0 +1,19 @@
+{
+  "id": "github-20260811-005",
+  "title": "flxhrdyn/Sekilas.ai",
+  "source_url": "https://github.com/flxhrdyn/Sekilas.ai",
+  "source_type": "github_trending",
+  "summary": "Sekilas.ai 是一个正在开发中的智能体RAG系统，能够自动抓取RSS订阅源，并利用AI生成每日洞察摘要。其核心价值在于将信息聚合与智能分析结合，帮助用户高效获取关键资讯。技术亮点包括自动化爬取、RAG增强生成以及智能体工作流。适用于新闻监控、行业动态跟踪和个人知识管理场景。",
+  "tags": [
+    "RAG",
+    "Agent",
+    "RSS",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

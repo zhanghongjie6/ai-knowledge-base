@@ -1,0 +1,19 @@
+{
+  "id": "github-20260811-001",
+  "title": "wafflebase/agent-pipeline",
+  "source_url": "https://github.com/wafflebase/agent-pipeline",
+  "source_type": "github_trending",
+  "summary": "agent-pipeline 是一个可复用的 GitHub Actions 工作流，实现从 issue 到 PR 的自主闭环：自动生成草稿 PR，运行 CI 并修复失败，通过多视角审查面板把关，最终由人类批准合并。它显著减少开发者重复劳动，适用于自动化 bug 修复、功能迭代和代码审查辅助场景。",
+  "tags": [
+    "GitHub Actions",
+    "Automation",
+    "CI/CD",
+    "Code Review",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

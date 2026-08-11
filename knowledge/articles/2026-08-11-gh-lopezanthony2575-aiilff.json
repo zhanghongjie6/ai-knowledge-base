@@ -1,0 +1,18 @@
+{
+  "id": "github-20260811-006",
+  "title": "lopezanthony2575/aiilff",
+  "source_url": "https://github.com/lopezanthony2575/aiilff",
+  "source_type": "github_trending",
+  "summary": "aiilff 是一个 GitHub 上的开源项目，旨在提供一种轻量级、高效的 AI 推理框架，支持多种模型格式，并优化了 CPU/GPU 上的推理性能。它适用于边缘设备和资源受限环境，简化了 AI 模型的部署与集成。",
+  "tags": [
+    "Inference",
+    "Edge AI",
+    "Optimization",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

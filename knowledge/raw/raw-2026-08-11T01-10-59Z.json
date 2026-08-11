@@ -1,0 +1,172 @@
+[
+  {
+    "title": "wafflebase/agent-pipeline",
+    "url": "https://github.com/wafflebase/agent-pipeline",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Reusable autonomous issue-to-PR pipeline for GitHub Actions: draft PR, CI-fix loop, gating multi-lens review panel. Humans still approve and merge.",
+    "pushed_at": "2026-08-11T01:10:45Z",
+    "created_at_source": "2026-08-11T01:08:46Z"
+  },
+  {
+    "title": "luna8418/skills-expand-your-team-with-copilot",
+    "url": "https://github.com/luna8418/skills-expand-your-team-with-copilot",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Exercise: Expand your team with GitHub Copilot cloud agent",
+    "pushed_at": "2026-08-11T01:10:48Z",
+    "created_at_source": "2026-08-11T01:10:44Z"
+  },
+  {
+    "title": "digital-humanism/humanist-core",
+    "url": "https://github.com/digital-humanism/humanist-core",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "SDK for implementing Digital Humanism protocols into LLM frameworks",
+    "pushed_at": "2026-08-11T01:10:45Z",
+    "created_at_source": "2026-08-09T03:06:58Z"
+  },
+  {
+    "title": "sam-tritto/ai-confidence-scores",
+    "url": "https://github.com/sam-tritto/ai-confidence-scores",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-11T01:10:43Z",
+    "created_at_source": "2026-08-09T13:24:01Z"
+  },
+  {
+    "title": "flxhrdyn/Sekilas.ai",
+    "url": "https://github.com/flxhrdyn/Sekilas.ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "WIP Agentic-RAG system that automates scraping RSS feeds to generate AI-powered daily insights.",
+    "pushed_at": "2026-08-11T01:10:42Z",
+    "created_at_source": "2026-04-14T09:03:45Z"
+  },
+  {
+    "title": "lopezanthony2575/aiilff",
+    "url": "https://github.com/lopezanthony2575/aiilff",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-11T01:10:42Z",
+    "created_at_source": "2026-08-10T14:58:28Z"
+  },
+  {
+    "title": "royalskynet/coding-hermes",
+    "url": "https://github.com/royalskynet/coding-hermes",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Hermes agent - coding agent fork",
+    "pushed_at": "2026-08-11T01:10:41Z",
+    "created_at_source": "2026-08-11T00:47:27Z"
+  },
+  {
+    "title": "pat-browne/nervepack",
+    "url": "https://github.com/pat-browne/nervepack",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "A modpack for AI cognition. Skills, memory, tools, and workflows in one harness.",
+    "pushed_at": "2026-08-11T01:10:41Z",
+    "created_at_source": "2026-06-19T17:10:04Z"
+  },
+  {
+    "title": "dev-centr/agent-rules",
+    "url": "https://github.com/dev-centr/agent-rules",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Forkable modular agent rules with 1-step assembly for local AI coding assistants.",
+    "pushed_at": "2026-08-11T01:10:41Z",
+    "created_at_source": "2026-03-23T05:46:14Z"
+  },
+  {
+    "title": "nemesistip-cloud/vit",
+    "url": "https://github.com/nemesistip-cloud/vit",
+    "source": "github_trending",
+    "popularity": 4,
+    "summary": "VIT Chain node — FastAPI kernel, Proof-of-Storage consensus engine, validator staking, genesis, Tachyon storage integration. Chain ID 7764.",
+    "pushed_at": "2026-08-11T01:10:40Z",
+    "created_at_source": "2026-04-22T00:11:02Z"
+  },
+  {
+    "title": "开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流",
+    "url": "https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
+    "url": "https://sspai.com/post/113301",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "少数派的近期动态新一季少数派会员启航，更新权益，更多惊喜，还有实体纪念卡。点击了解能让AI助手通过自然语言指令直接与您的Quote/0摘录墨水屏交互的DotSkill已上线。点击了解Quote/0摘录 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+    "url": "https://arxiv.org/abs/2608.06394",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.06394v1 Announce Type: new \nAbstract: Multi-label node classification is an important yet challenging task in graph learning, where nodes exhibit multiple semantics simultaneously. Existing",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "TEXAS: Task-Expert-Aware Supervision for Downstream Mixture-of-Experts LLM Adaptation",
+    "url": "https://arxiv.org/abs/2608.06396",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.06396v1 Announce Type: new \nAbstract: Mixture-of-Experts (MoE) language models route each token through a small subset of experts, making routing patterns useful for identifying task-releva",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Latent Fact-Checking: Detecting Misinformation through Activation Engineering",
+    "url": "https://arxiv.org/abs/2608.06417",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.06417v1 Announce Type: new \nAbstract: The proliferation of misinformation online has driven demand for scalable detection systems. While most existing approaches rely on surface-level lingu",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys",
+    "url": "https://arxiv.org/abs/2608.06404",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.06404v1 Announce Type: new \nAbstract: Accurate 3D crop monitoring underpins data-driven precision agriculture by enabling field-scale analysis of plant structure, growth dynamics, and manag",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
+    "url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The FineBooks project from Hugging Face and EleutherAI tested 14 open-source OCR models on more than 2,000 historical book pages. The top model, dots.mocr, hits 97.6 percent character accuracy at unde",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "OpenAI Astra pause 🚨, Claude Code cross-session 🤖, how Cursor Router works 🔀",
+    "url": "https://tldr.tech/ai/2026-08-10",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows",
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The Amazon SageMaker AI Spaces add-on for Amazon EKS runs managed JupyterLab and Code Editor environments on the cluster your ML team already operates. This post shows how to install and configure the",
+    "feed_name": "AWS ML Blog"
+  }
+]

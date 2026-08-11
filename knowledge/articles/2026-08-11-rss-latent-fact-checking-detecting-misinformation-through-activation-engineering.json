@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-005",
+  "title": "Latent Fact-Checking: Detecting Misinformation through Activation Engineering",
+  "source_url": "https://arxiv.org/abs/2608.06417",
+  "source_type": "rss",
+  "summary": "本文提出一种基于激活工程的潜在事实核查方法，通过分析语言模型内部激活状态而非表面文本，检测错误信息。该方法无需外部知识库或额外训练，可实时识别模型生成内容中的事实错误，适用于社交媒体监测、新闻验证等场景，为可扩展的自动化事实核查提供了新思路。",
+  "tags": [
+    "Fact-Checking",
+    "Activation Engineering",
+    "Misinformation",
+    "LLM",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

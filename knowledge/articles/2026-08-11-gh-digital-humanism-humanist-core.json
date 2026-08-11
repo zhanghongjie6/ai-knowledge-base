@@ -1,0 +1,19 @@
+{
+  "id": "github-20260811-003",
+  "title": "digital-humanism/humanist-core",
+  "source_url": "https://github.com/digital-humanism/humanist-core",
+  "source_type": "github_trending",
+  "summary": "humanist-core 是一个开源SDK，旨在将数字人文主义协议集成到LLM框架中，确保AI系统遵循伦理准则、透明度和人类价值观。它提供标准化接口，便于开发者在其AI应用中嵌入人文关怀，适用于伦理审查、内容审核和负责任AI开发等场景。",
+  "tags": [
+    "LLM",
+    "Ethics",
+    "SDK",
+    "Responsible AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

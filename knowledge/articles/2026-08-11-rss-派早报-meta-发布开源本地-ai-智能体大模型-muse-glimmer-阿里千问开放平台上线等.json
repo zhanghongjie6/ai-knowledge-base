@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-002",
+  "title": "派早报：Meta 发布开源本地 AI 智能体大模型 Muse Glimmer、阿里千问开放平台上线等",
+  "source_url": "https://sspai.com/post/113301",
+  "source_type": "rss",
+  "summary": "Meta发布开源本地AI智能体大模型Muse Glimmer，支持自然语言指令与Quote/0摘录墨水屏交互，阿里千问开放平台同步上线。该模型强调本地化部署与智能体能力，适用于离线环境下的个性化交互场景，如智能摘录、设备控制等，为AI助手与硬件融合提供新思路。",
+  "tags": [
+    "AI Agent",
+    "Open Source",
+    "Local AI",
+    "Smart Device",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

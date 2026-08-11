@@ -1,0 +1,19 @@
+{
+  "id": "github-20260811-009",
+  "title": "dev-centr/agent-rules",
+  "source_url": "https://github.com/dev-centr/agent-rules",
+  "source_type": "github_trending",
+  "summary": "agent-rules 提供可复用的模块化 AI 编码助手规则集，支持一键组装，便于本地开发环境快速集成。核心价值在于标准化和简化 agent 行为配置，提升代码生成一致性与项目适配效率。适用于个人开发者及团队统一 AI 辅助编码规范，降低规则维护成本。",
+  "tags": [
+    "AI Coding",
+    "Developer Tools",
+    "Agent",
+    "Configuration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

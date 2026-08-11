@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-007",
+  "title": "Old OCR text cripples language model training, and FineBooks wants to fix that at scale",
+  "source_url": "https://the-decoder.com/old-ocr-text-cripples-language-model-training-and-finebooks-wants-to-fix-that-at-scale/",
+  "source_type": "rss",
+  "summary": "FineBooks项目由Hugging Face和EleutherAI发起，针对历史书籍OCR文本质量差导致语言模型训练受损的问题，测试了14个开源OCR模型在2000多页历史书籍上的表现。最佳模型dots.mocr达到97.6%的字符准确率，显著提升历史文本数字化质量，为大规模语料清洗和模型训练提供可靠方案。",
+  "tags": [
+    "OCR",
+    "Data Quality",
+    "LLM",
+    "Historical Documents",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-001",
+  "title": "开源LangAlpha正式发布：金融领域的Claude Code，用自然语言驱动投研工作流",
+  "source_url": "https://www.infoq.cn/article/q1f3Na2a1MhhGqSETlUm?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "开源项目LangAlpha定位为金融领域的Claude Code，通过自然语言驱动投研工作流，覆盖数据获取、分析、报告生成等环节。其核心价值在于降低金融分析门槛，提升投研效率，支持自定义工作流与多源数据接入，适用于量化研究、基本面分析及投资决策辅助等场景。",
+  "tags": [
+    "LLM",
+    "FinTech",
+    "Workflow",
+    "Open Source",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

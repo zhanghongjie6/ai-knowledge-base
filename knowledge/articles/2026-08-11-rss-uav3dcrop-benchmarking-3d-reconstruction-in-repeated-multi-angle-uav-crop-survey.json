@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260811-006",
+  "title": "UAV3DCrop: Benchmarking 3D Reconstruction in Repeated Multi-Angle UAV Crop Surveys",
+  "source_url": "https://arxiv.org/abs/2608.06404",
+  "source_type": "rss",
+  "summary": "UAV3DCrop是一个面向重复多角度无人机作物调查的3D重建基准，提供标准化数据集和评估协议，支持田间尺度的植物结构、生长动态和管理分析。其核心价值在于推动精准农业中的数据驱动决策，技术亮点包括多时相、多视角数据采集与重建流程，适用于作物表型分析、生长监测和农业资源优化。",
+  "tags": [
+    "3D Reconstruction",
+    "UAV",
+    "Precision Agriculture",
+    "Benchmark",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

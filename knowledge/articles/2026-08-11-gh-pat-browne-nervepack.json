@@ -1,0 +1,19 @@
+{
+  "id": "github-20260811-008",
+  "title": "pat-browne/nervepack",
+  "source_url": "https://github.com/pat-browne/nervepack",
+  "source_type": "github_trending",
+  "summary": "Nervepack 是一个面向 AI 认知的模块化工具包，将技能、记忆、工具和工作流整合到统一框架中。它旨在增强 AI 代理的上下文感知与任务执行能力，适用于复杂推理、多步骤操作和个性化交互场景。通过灵活组合组件，开发者可快速构建具备持久记忆和自适应行为的智能体，提升 AI 系统的实用性与效率。",
+  "tags": [
+    "AI Agent",
+    "Memory",
+    "Workflow",
+    "Modular",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

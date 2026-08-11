@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260811-010",
+  "title": "Run interactive IDEs on Amazon EKS with SageMaker AI to power up your AI workflows",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/run-interactive-ides-on-amazon-eks-with-sagemaker-ai-to-power-up-your-ai-workflows/",
+  "source_type": "rss",
+  "summary": "该方案通过Amazon SageMaker AI Spaces插件，在Amazon EKS集群上直接运行托管的JupyterLab和Code Editor交互式IDE，无需单独管理基础设施。它支持快速安装配置，与现有Kubernetes工作流集成，为ML团队提供统一的开发环境，提升AI工作流的开发效率和协作体验。",
+  "tags": [
+    "EKS",
+    "SageMaker",
+    "IDE",
+    "Kubernetes",
+    "MLOps",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

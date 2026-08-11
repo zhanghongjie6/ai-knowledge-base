@@ -1,0 +1,18 @@
+{
+  "id": "github-20260811-007",
+  "title": "royalskynet/coding-hermes",
+  "source_url": "https://github.com/royalskynet/coding-hermes",
+  "source_type": "github_trending",
+  "summary": "coding-hermes 是 Hermes 编码代理的一个分支，专注于提升代码生成与自动编程能力。它继承了 Hermes 的核心架构，并针对编码场景进行了优化，支持多语言代码生成、自动重构和智能补全。适用于快速原型开发、代码审查辅助及教学场景，能显著提高开发效率。",
+  "tags": [
+    "Coding Agent",
+    "Code Generation",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}

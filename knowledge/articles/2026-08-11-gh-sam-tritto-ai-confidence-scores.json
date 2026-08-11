@@ -1,0 +1,19 @@
+{
+  "id": "github-20260811-004",
+  "title": "sam-tritto/ai-confidence-scores",
+  "source_url": "https://github.com/sam-tritto/ai-confidence-scores",
+  "source_type": "github_trending",
+  "summary": "ai-confidence-scores 是一个为 AI 模型输出提供置信度评分的开源工具，帮助开发者量化模型预测的可靠性。它通过分析模型内部概率或 logits，生成可解释的置信度指标，适用于需要高可靠性的场景，如医疗诊断、金融风控和自动驾驶。该工具轻量易集成，支持主流深度学习框架，能有效减少误判风险。",
+  "tags": [
+    "AI",
+    "Confidence",
+    "Model Reliability",
+    "MLOps",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-11T01:11:52+00:00",
+  "updated_at": "2026-08-11T01:11:52+00:00"
+}
