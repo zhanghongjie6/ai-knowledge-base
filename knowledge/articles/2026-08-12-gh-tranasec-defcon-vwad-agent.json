@@ -1,0 +1,19 @@
+{
+  "id": "github-20260812-001",
+  "title": "tranasec/defcon-vwad-agent",
+  "source_url": "https://github.com/tranasec/defcon-vwad-agent",
+  "source_type": "github_trending",
+  "summary": "基于DEF CON大会漏洞数据库构建的智能体，利用LLM自动分析漏洞情报并生成可操作的修复建议。核心价值在于将安全公告转化为结构化知识，支持自然语言查询和威胁建模，适用于安全团队快速响应新披露的漏洞。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Security",
+    "Vulnerability",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-12T01:19:56+00:00",
+  "updated_at": "2026-08-12T01:19:56+00:00"
+}

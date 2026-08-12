@@ -1,0 +1,19 @@
+{
+  "id": "github-20260812-007",
+  "title": "kohei3110/foundry-appinsights-llm-ops-demo",
+  "source_url": "https://github.com/kohei3110/foundry-appinsights-llm-ops-demo",
+  "source_type": "github_trending",
+  "summary": "该演示项目展示了如何将Azure Foundry与Application Insights集成，实现LLM应用的端到端可观测性。通过OpenTelemetry收集LLM调用、提示词、令牌使用量等遥测数据，并利用App Insights进行监控、分析和告警。适用于生产环境中的LLM运维，帮助开发者快速定位问题并优化成本。",
+  "tags": [
+    "LLM",
+    "Observability",
+    "Azure",
+    "OpenTelemetry",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-12T01:19:56+00:00",
+  "updated_at": "2026-08-12T01:19:56+00:00"
+}

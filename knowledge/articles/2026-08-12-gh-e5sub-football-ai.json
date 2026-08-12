@@ -1,0 +1,18 @@
+{
+  "id": "github-20260812-008",
+  "title": "e5sub/football-ai",
+  "source_url": "https://github.com/e5sub/football-ai",
+  "source_type": "github_trending",
+  "summary": "football-ai 是一个基于人工智能的足球比赛预测与分析工具，利用历史数据和机器学习模型评估球队实力与比赛结果。核心价值在于为球迷和竞猜爱好者提供数据驱动的参考，技术亮点包括特征工程和模型集成，适用于赛前预测、战术分析和投注辅助场景。",
+  "tags": [
+    "Sports Analytics",
+    "Machine Learning",
+    "Prediction",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-12T01:19:56+00:00",
+  "updated_at": "2026-08-12T01:19:56+00:00"
+}

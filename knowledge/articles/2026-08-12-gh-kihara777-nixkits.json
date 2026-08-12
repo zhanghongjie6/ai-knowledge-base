@@ -1,0 +1,19 @@
+{
+  "id": "github-20260812-006",
+  "title": "Kihara777/NixKits",
+  "source_url": "https://github.com/Kihara777/NixKits",
+  "source_type": "github_trending",
+  "summary": "NixKits 是一个面向 NixOS 用户的技能合集，整合了软件包、补丁、NixOS 模块以及 AI 编码助手的技能。它旨在通过统一的配置和自动化，简化 NixOS 系统的定制与管理，提升开发效率。适用于希望深度定制系统、集成 AI 辅助开发流程的 NixOS 用户。",
+  "tags": [
+    "NixOS",
+    "AI",
+    "Developer Tools",
+    "Configuration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 23,
+  "status": "draft",
+  "created_at": "2026-08-12T01:19:56+00:00",
+  "updated_at": "2026-08-12T01:19:56+00:00"
+}

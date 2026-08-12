@@ -1,0 +1,19 @@
+{
+  "id": "github-20260812-003",
+  "title": "hamidrezaas2019-a11y/ai-telegram-bot",
+  "source_url": "https://github.com/hamidrezaas2019-a11y/ai-telegram-bot",
+  "source_type": "github_trending",
+  "summary": "一个基于Telegram的AI聊天机器人，集成多种AI模型（如GPT、Claude等），支持自然语言对话、图像生成和文件处理。提供简单部署方式，适合个人或团队快速搭建智能助手，用于客服、教育或娱乐场景。技术亮点包括多模型切换、上下文记忆和插件扩展。",
+  "tags": [
+    "Telegram",
+    "Chatbot",
+    "AI",
+    "Multi-model",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-12T01:19:56+00:00",
+  "updated_at": "2026-08-12T01:19:56+00:00"
+}

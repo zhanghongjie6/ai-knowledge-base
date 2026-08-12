@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260812-004",
+  "title": "Unified Hallucination Fuzzing for Multimodal Large Language Models",
+  "source_url": "https://arxiv.org/abs/2608.07525",
+  "source_type": "rss",
+  "summary": "该研究提出了一种统一的幻觉模糊测试方法，用于系统性地检测多模态大语言模型（MLLMs）中的幻觉问题。通过自动化生成对抗性输入，覆盖多种模态和任务，有效暴露模型在视觉-语言理解中的错误生成，提升模型可靠性，适用于高风险应用场景如医疗影像分析和自动驾驶。",
+  "tags": [
+    "Multimodal LLM",
+    "Hallucination",
+    "Fuzzing",
+    "Evaluation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-12T01:19:56+00:00",
+  "updated_at": "2026-08-12T01:19:56+00:00"
+}

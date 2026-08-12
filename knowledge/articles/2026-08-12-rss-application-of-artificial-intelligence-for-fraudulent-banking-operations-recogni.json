@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260812-005",
+  "title": "Application of Artificial Intelligence for Fraudulent Banking Operations Recognition",
+  "source_url": "https://arxiv.org/abs/2608.07471",
+  "source_type": "rss",
+  "summary": "该研究探讨了人工智能在银行欺诈识别中的应用，特别是针对疫情后日益增长的欺诈行为。通过机器学习模型分析交易模式，实现欺诈操作的自动检测，提升银行风控效率，降低误报率，适用于实时交易监控和反欺诈系统。",
+  "tags": [
+    "AI",
+    "Fraud Detection",
+    "Banking",
+    "Machine Learning",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-12T01:19:56+00:00",
+  "updated_at": "2026-08-12T01:19:56+00:00"
+}

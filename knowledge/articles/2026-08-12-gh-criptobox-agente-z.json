@@ -1,0 +1,19 @@
+{
+  "id": "github-20260812-004",
+  "title": "Criptobox/agente-z",
+  "source_url": "https://github.com/Criptobox/agente-z",
+  "source_type": "github_trending",
+  "summary": "agente-z 是一个基于 Python 的轻量级 AI 代理框架，专注于简化多步骤任务自动化。它提供模块化工具调用、内存管理和可插拔 LLM 后端，支持快速构建自定义工作流。适用于数据处理、API 集成和日常任务自动化场景，降低开发门槛。",
+  "tags": [
+    "Agent",
+    "Python",
+    "Automation",
+    "LLM",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-12T01:19:56+00:00",
+  "updated_at": "2026-08-12T01:19:56+00:00"
+}

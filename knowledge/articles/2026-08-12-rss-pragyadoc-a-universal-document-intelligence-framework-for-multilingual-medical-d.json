@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260812-006",
+  "title": "PragyaDoc: A Universal Document Intelligence Framework for Multilingual Medical Document Understanding in Low-Resource Settings",
+  "source_url": "https://arxiv.org/abs/2608.07478",
+  "source_type": "rss",
+  "summary": "PragyaDoc是一个面向多语言医疗文档理解的通用文档智能框架，专为低资源环境设计。它解决了印度22种官方语言导致的医疗信息可访问性障碍，通过统一框架支持多语言文档解析、信息抽取和语义理解，适用于临床决策支持、公共卫生监测和患者教育等场景，显著提升非英语医疗数据的可用性。",
+  "tags": [
+    "Document Intelligence",
+    "Multilingual",
+    "Medical NLP",
+    "Low-Resource",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-12T01:19:56+00:00",
+  "updated_at": "2026-08-12T01:19:56+00:00"
+}

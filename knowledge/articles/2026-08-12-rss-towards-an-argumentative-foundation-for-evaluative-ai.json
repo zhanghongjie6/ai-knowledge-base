@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260812-003",
+  "title": "Towards an Argumentative Foundation for Evaluative AI",
+  "source_url": "https://arxiv.org/abs/2608.07473",
+  "source_type": "rss",
+  "summary": "本文提出了一种基于论证理论的评估型AI（EAI）基础框架，旨在通过呈现多角度论证而非单一推荐来支持人类决策。该框架强调论证的构建、评估与权衡，提升决策透明度和可解释性，适用于医疗、金融等高风险决策场景。",
+  "tags": [
+    "AI",
+    "Decision Support",
+    "Argumentation",
+    "Explainability",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-12T01:19:56+00:00",
+  "updated_at": "2026-08-12T01:19:56+00:00"
+}
