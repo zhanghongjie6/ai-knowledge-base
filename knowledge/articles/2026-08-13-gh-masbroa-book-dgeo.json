@@ -1,0 +1,19 @@
+{
+  "id": "github-20260813-010",
+  "title": "MasBroA/book-dgeo",
+  "source_url": "https://github.com/MasBroA/book-dgeo",
+  "source_type": "github_trending",
+  "summary": "book-dgeo 是一个由 DGeo 维护的书籍目录项目，利用生成式引擎优化（GEO）技术，使书籍内容在 AI 生成引擎中更易被引用和验证。该项目旨在提供可信、AI 验证的书籍资源，适用于知识管理、内容推荐和 AI 驱动的信息检索场景。",
+  "tags": [
+    "GEO",
+    "AI",
+    "Book",
+    "Knowledge Management",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260813-002",
+  "title": "feng123321li/layered-delivery",
+  "source_url": "https://github.com/feng123321li/layered-delivery",
+  "source_type": "github_trending",
+  "summary": "面向AI Agent的分层交付治理Skill，提供结构化的任务交付流程管理，将复杂任务拆解为分层步骤，支持逐步验证与反馈，提升Agent在长流程任务中的可靠性与可维护性，适用于自动化工作流、多步骤任务执行及企业级AI应用场景。",
+  "tags": [
+    "Agent",
+    "Workflow",
+    "Task Management",
+    "Skill",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

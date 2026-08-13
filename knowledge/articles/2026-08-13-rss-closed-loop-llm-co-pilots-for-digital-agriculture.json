@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260813-003",
+  "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+  "source_url": "https://arxiv.org/abs/2608.09949",
+  "source_type": "rss",
+  "summary": "该研究评估了大型语言模型在复杂生物系统中的应用，从数据分析演进到自主AI引导的闭环协同。核心价值在于将LLM作为数字农业的协作者，实现从数据采集、分析到决策执行的自动化闭环，提升农业生产效率与智能化水平。技术亮点包括多模态数据融合、实时决策支持及自适应学习。用例涵盖作物管理、病虫害预测和资源优化。",
+  "tags": [
+    "LLM",
+    "Digital Agriculture",
+    "Closed-Loop",
+    "AI Co-Pilot",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260813-005",
+  "title": "ghzyzttxwd/ai-stock-lab",
+  "source_url": "https://github.com/ghzyzttxwd/ai-stock-lab",
+  "source_type": "github_trending",
+  "summary": "AI股票实验室是一个开源项目，利用大语言模型和金融数据分析技术，提供股票趋势预测、智能选股和投资策略建议。核心价值在于将AI能力与量化交易结合，降低个人投资者的分析门槛，支持实时数据接入和可视化回测，适用于个人投资研究、金融教学和策略验证场景。",
+  "tags": [
+    "LLM",
+    "Quantitative Trading",
+    "FinTech",
+    "Data Analysis",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

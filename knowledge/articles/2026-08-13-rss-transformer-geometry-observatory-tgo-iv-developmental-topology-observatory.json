@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260813-005",
+  "title": "Transformer Geometry Observatory TGO-IV: Developmental Topology Observatory",
+  "source_url": "https://arxiv.org/abs/2608.09997",
+  "source_type": "rss",
+  "summary": "TGO-IV是一个用于观察Transformer内部几何结构发展的工具，通过拓扑数据分析追踪模型训练过程中表征空间的变化。它提供了可视化与量化指标，帮助研究者理解注意力机制和层间信息流动，适用于模型可解释性、调试和架构比较。",
+  "tags": [
+    "Transformer",
+    "Interpretability",
+    "Topology",
+    "Visualization",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260813-001",
+  "title": "从亚百毫秒级启动到生产级部署，腾讯云为何重构 Agent 沙箱？",
+  "source_url": "https://www.infoq.cn/article/KwZX2bLcaHRjuLG95vHI?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "腾讯云重构Agent沙箱，实现亚百毫秒级启动并支持生产级部署，解决传统沙箱冷启动慢、资源隔离弱、运维复杂等痛点。通过轻量化虚拟化与镜像分层技术，提升多租户安全性与弹性伸缩能力，适用于AI Agent高频调用、函数计算及微服务等场景，降低云原生应用落地门槛。",
+  "tags": [
+    "Agent",
+    "Sandbox",
+    "Cloud Native",
+    "Virtualization",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

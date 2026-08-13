@@ -1,0 +1,172 @@
+[
+  {
+    "title": "jiuxian1337/AitoClient",
+    "url": "https://github.com/jiuxian1337/AitoClient",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "",
+    "pushed_at": "2026-08-13T01:20:20Z",
+    "created_at_source": "2026-08-11T22:05:11Z"
+  },
+  {
+    "title": "feng123321li/layered-delivery",
+    "url": "https://github.com/feng123321li/layered-delivery",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "面向 AI Agent 的分层交付治理 Skill",
+    "pushed_at": "2026-08-13T01:20:20Z",
+    "created_at_source": "2026-07-13T00:41:24Z"
+  },
+  {
+    "title": "IkrameBoubaker/Forecasting-Air-Temperature-Extremes",
+    "url": "https://github.com/IkrameBoubaker/Forecasting-Air-Temperature-Extremes",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-13T01:20:18Z",
+    "created_at_source": "2026-06-27T00:11:28Z"
+  },
+  {
+    "title": "han10000/daily-design-digest",
+    "url": "https://github.com/han10000/daily-design-digest",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "每日 AI × Design 精选文章 + Skill 推荐",
+    "pushed_at": "2026-08-13T01:20:17Z",
+    "created_at_source": "2026-03-31T05:03:48Z"
+  },
+  {
+    "title": "ghzyzttxwd/ai-stock-lab",
+    "url": "https://github.com/ghzyzttxwd/ai-stock-lab",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-13T01:20:17Z",
+    "created_at_source": "2026-08-13T01:13:14Z"
+  },
+  {
+    "title": "ae-demo/todo-list-add",
+    "url": "https://github.com/ae-demo/todo-list-add",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "WSO2 Labs Agentic Engineer project todo-list-add",
+    "pushed_at": "2026-08-13T01:20:16Z",
+    "created_at_source": "2026-08-13T01:20:09Z"
+  },
+  {
+    "title": "thatssolade/ai-risk-and-liability-brief",
+    "url": "https://github.com/thatssolade/ai-risk-and-liability-brief",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Multi-source research synthesis analyzing the legal, regulatory, and systemic risk landscapes of generative AI. Maps enterprise liability frameworks and mitigation strategies using grounded document e",
+    "pushed_at": "2026-08-13T01:20:16Z",
+    "created_at_source": "2026-08-13T00:17:18Z"
+  },
+  {
+    "title": "rishabhyadavtech/Vajrex.AI",
+    "url": "https://github.com/rishabhyadavtech/Vajrex.AI",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "VAJREX AI is a cybersecurity platform that detects threats, prevents attacks, and helps users stay in control of their digital security.",
+    "pushed_at": "2026-08-13T01:20:16Z",
+    "created_at_source": "2026-04-26T04:36:44Z"
+  },
+  {
+    "title": "vaishvik1711/job-application-automation",
+    "url": "https://github.com/vaishvik1711/job-application-automation",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI Job Application Automation System - Frontend + Backend API",
+    "pushed_at": "2026-08-13T01:20:16Z",
+    "created_at_source": "2026-08-11T19:59:59Z"
+  },
+  {
+    "title": "MasBroA/book-dgeo",
+    "url": "https://github.com/MasBroA/book-dgeo",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Direktory Buku yang dikelola oleh DGeo dengan memanfaatkan Teknologi AI (~Generative Engine) melalui mekanisme GEO (Generative Engine Optimization) sehingga menjadi konten yang terpercaya, AI Verified",
+    "pushed_at": "2026-08-13T01:20:16Z",
+    "created_at_source": "2026-04-23T09:03:34Z"
+  },
+  {
+    "title": "从亚百毫秒级启动到生产级部署，腾讯云为何重构 Agent 沙箱？",
+    "url": "https://www.infoq.cn/article/KwZX2bLcaHRjuLG95vHI?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
+    "url": "https://sspai.com/post/113385",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+    "url": "https://arxiv.org/abs/2608.09949",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.09949v1 Announce Type: new \nAbstract: This study evaluates the application of Large Language Models (LLMs) in complex biological systems, evolving from data analysis to autonomous, AI-guide",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "LLM Agents Factory: Retrieval of Domain-Specific LLM Agents",
+    "url": "https://arxiv.org/abs/2608.09934",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.09934v1 Announce Type: new \nAbstract: Large language model (LLM) agents improve task performance by decomposing problems into role-specialized behaviors. However, their practical deployment",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Transformer Geometry Observatory TGO-IV: Developmental Topology Observatory",
+    "url": "https://arxiv.org/abs/2608.09997",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.09997v1 Announce Type: new \nAbstract: Transformers have had a profound impact on the world of language processing and computer vision. As efforts to answer the million-dollar question of ``",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "LEGO: Leveled Language Gaussian Splatting",
+    "url": "https://arxiv.org/abs/2608.10057",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.10057v1 Announce Type: new \nAbstract: We introduce LEGO for advanced open-vocabulary scene understanding. Beyond basic concept recognition, its core innovation lies in capturing the intrins",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
+    "url": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about ",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation",
+    "url": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Build a custom LLM post-training pipeline using AllenAI’s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinfo",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Cursor’s GitHub rival 👨‍💻, OpenAI COO leaves 👋, Gemini 1B milestone 📈",
+    "url": "https://tldr.tech/ai/2026-08-12",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "feed_name": "OpenAI"
+  }
+]

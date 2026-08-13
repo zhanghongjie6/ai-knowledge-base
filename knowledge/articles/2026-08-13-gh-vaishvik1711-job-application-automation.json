@@ -1,0 +1,19 @@
+{
+  "id": "github-20260813-009",
+  "title": "vaishvik1711/job-application-automation",
+  "source_url": "https://github.com/vaishvik1711/job-application-automation",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI驱动的求职申请自动化系统，包含前端和后端API。它能够自动搜索职位、填写申请表、定制简历和求职信，并跟踪申请状态。核心价值在于大幅减少求职者的重复性工作，提升申请效率。技术亮点包括智能职位匹配、自动化表单填写和申请进度管理。适用于求职者、招聘平台和人力资源工具集成。",
+  "tags": [
+    "Automation",
+    "Job Search",
+    "AI",
+    "API",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260813-003",
+  "title": "IkrameBoubaker/Forecasting-Air-Temperature-Extremes",
+  "source_url": "https://github.com/IkrameBoubaker/Forecasting-Air-Temperature-Extremes",
+  "source_type": "github_trending",
+  "summary": "该项目提供基于机器学习的空气温度极值预测方案，结合气象数据与时间序列模型，实现短期高温/低温事件预警。核心价值在于提升极端天气应对能力，适用于农业防灾、能源调度及公共健康领域。技术亮点包括特征工程、模型集成与可解释性分析。",
+  "tags": [
+    "Time Series",
+    "Weather Forecasting",
+    "Machine Learning",
+    "Extreme Events",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260813-006",
+  "title": "LEGO: Leveled Language Gaussian Splatting",
+  "source_url": "https://arxiv.org/abs/2608.10057",
+  "source_type": "rss",
+  "summary": "LEGO 是一种用于开放词汇场景理解的新方法，核心创新在于捕获场景中概念的固有层级结构，而不仅仅是基础识别。它通过将语言特征与高斯溅射相结合，实现细粒度的语义分割和查询，适用于机器人导航、AR/VR 和自动驾驶等需要复杂场景理解的场景。",
+  "tags": [
+    "3D Scene Understanding",
+    "Gaussian Splatting",
+    "Open-Vocabulary",
+    "Semantic Segmentation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

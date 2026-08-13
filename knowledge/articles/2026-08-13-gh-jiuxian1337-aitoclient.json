@@ -1,0 +1,18 @@
+{
+  "id": "github-20260813-001",
+  "title": "jiuxian1337/AitoClient",
+  "source_url": "https://github.com/jiuxian1337/AitoClient",
+  "source_type": "github_trending",
+  "summary": "AitoClient是一个轻量级AI客户端工具，支持多模型API统一调用，提供简洁的接口封装和流式响应处理，适用于快速集成LLM到现有项目，降低开发成本，提升开发效率。",
+  "tags": [
+    "LLM",
+    "API",
+    "Client",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260813-004",
+  "title": "LLM Agents Factory: Retrieval of Domain-Specific LLM Agents",
+  "source_url": "https://arxiv.org/abs/2608.09934",
+  "source_type": "rss",
+  "summary": "本文提出LLM Agents Factory框架，用于检索和组装领域特定的LLM智能体。核心价值在于通过角色分解和动态检索，将通用大模型快速适配到垂直领域任务，提升任务执行效率与准确性。技术亮点包括智能体检索机制和模块化组装，适用于客服、金融、医疗等场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Retrieval",
+    "Domain-Specific",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}

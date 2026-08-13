@@ -1,0 +1,19 @@
+{
+  "id": "github-20260813-006",
+  "title": "ae-demo/todo-list-add",
+  "source_url": "https://github.com/ae-demo/todo-list-add",
+  "source_type": "github_trending",
+  "summary": "WSO2 Labs的Agentic Engineer示例项目，展示如何构建一个简单的待办事项列表添加功能。核心价值在于演示Agentic AI在任务自动化中的应用，通过自然语言或API交互实现待办事项的添加与管理。技术亮点包括与WSO2平台集成、支持多模态交互。适用于开发者学习Agentic工程实践，或作为企业级AI助手的功能参考。",
+  "tags": [
+    "Agent",
+    "Task Automation",
+    "WSO2",
+    "Demo",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-13T01:21:31+00:00",
+  "updated_at": "2026-08-13T01:21:31+00:00"
+}
