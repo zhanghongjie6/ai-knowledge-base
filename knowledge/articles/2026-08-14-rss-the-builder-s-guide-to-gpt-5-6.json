@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260814-009",
+  "title": "The builder’s guide to GPT‑5.6",
+  "source_url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+  "source_type": "rss",
+  "summary": "GPT-5.6 为开发者提供更智能的模型选择与新的 Responses API 能力，帮助初创企业构建更快、更经济的 AI 代理。核心价值在于优化成本与性能，通过精准模型调用提升效率，适用于客服、自动化工作流、数据分析等场景。",
+  "tags": [
+    "GPT-5.6",
+    "AI Agent",
+    "API",
+    "Cost Optimization",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:31+00:00",
+  "updated_at": "2026-08-14T01:20:31+00:00"
+}

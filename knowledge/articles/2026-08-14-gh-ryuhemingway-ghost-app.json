@@ -1,0 +1,19 @@
+{
+  "id": "github-20260814-002",
+  "title": "ryuhemingway/Ghost-App",
+  "source_url": "https://github.com/ryuhemingway/Ghost-App",
+  "source_type": "github_trending",
+  "summary": "Ghost-App 是一款本地优先的 macOS AI 工作区应用，深度集成菜单栏和刘海屏，支持通过 ⌥Space 快捷键全局唤起。它聚合了 8 家 AI 服务提供商，让用户在不同模型间无缝切换，同时确保数据本地存储，兼顾隐私与效率。适用于快速问答、文本处理、代码辅助等日常场景，是 macOS 用户的轻量级 AI 助手。",
+  "tags": [
+    "macOS",
+    "AI Assistant",
+    "Local-first",
+    "Productivity",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 15,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:30+00:00",
+  "updated_at": "2026-08-14T01:20:30+00:00"
+}

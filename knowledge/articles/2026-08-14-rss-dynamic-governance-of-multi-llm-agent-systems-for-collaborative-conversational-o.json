@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260814-003",
+  "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+  "source_url": "https://arxiv.org/abs/2608.11207",
+  "source_type": "rss",
+  "summary": "该论文提出一种动态治理机制，用于协调多LLM智能体在协作对话中的行为。当多个具有结构性对立目标的智能体进行多轮交互时，缺乏共享目标函数会导致非良性竞争。该机制通过动态调整治理策略，确保协作对话结果可控且高效。核心价值在于解决多智能体系统中的目标冲突问题，适用于复杂对话、谈判、协同决策等场景。",
+  "tags": [
+    "Multi-Agent",
+    "LLM",
+    "Governance",
+    "Conversation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:31+00:00",
+  "updated_at": "2026-08-14T01:20:31+00:00"
+}

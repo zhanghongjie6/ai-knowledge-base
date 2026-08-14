@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260814-004",
+  "title": "Backtrader-Bench: Benchmarking LLM Agents on Algorithmic Trading with Self-Generated MCQs",
+  "source_url": "https://arxiv.org/abs/2608.11232",
+  "source_type": "rss",
+  "summary": "Backtrader-Bench是一个用于评估LLM编码智能体在算法交易中表现的基准测试框架。其核心价值在于通过自生成的MCQ（多项选择题）来动态评估智能体能力，有效避免静态基准带来的数据污染问题，并克服数值回测输出难以直接比较的挑战。该框架适用于量化交易策略开发、智能体代码生成与调试等场景，为金融AI研究提供了更可靠的评估工具。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Benchmark",
+    "Algorithmic Trading",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:31+00:00",
+  "updated_at": "2026-08-14T01:20:31+00:00"
+}

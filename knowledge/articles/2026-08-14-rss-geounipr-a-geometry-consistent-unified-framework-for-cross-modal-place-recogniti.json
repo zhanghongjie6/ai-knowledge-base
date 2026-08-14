@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260814-006",
+  "title": "GeoUniPR: A Geometry-Consistent Unified Framework for Cross-Modal Place Recognition",
+  "source_url": "https://arxiv.org/abs/2608.11263",
+  "source_type": "rss",
+  "summary": "GeoUniPR 是一个几何一致的统一框架，用于跨模态地点识别（CMPR），旨在解决视觉与LiDAR等异构传感器之间的位置匹配问题。该框架通过几何一致性约束，融合多模态特征，提升在不同环境下的识别鲁棒性和精度。适用于自动驾驶、机器人导航和增强现实等需要跨模态定位的场景。",
+  "tags": [
+    "Cross-Modal",
+    "Place Recognition",
+    "LiDAR",
+    "Vision",
+    "Geometry",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:31+00:00",
+  "updated_at": "2026-08-14T01:20:31+00:00"
+}

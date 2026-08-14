@@ -1,0 +1,172 @@
+[
+  {
+    "title": "bench-induction-ai/llm-adaptive-learning",
+    "url": "https://github.com/bench-induction-ai/llm-adaptive-learning",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-14T01:19:14Z",
+    "created_at_source": "2026-08-14T01:19:11Z"
+  },
+  {
+    "title": "ryuhemingway/Ghost-App",
+    "url": "https://github.com/ryuhemingway/Ghost-App",
+    "source": "github_trending",
+    "popularity": 15,
+    "summary": "Local-first macOS AI workspace. Menu bar, notch-native, 8 providers, ⌥Space anywhere.",
+    "pushed_at": "2026-08-14T01:19:13Z",
+    "created_at_source": "2026-06-26T09:18:18Z"
+  },
+  {
+    "title": "ZHX4/AI-",
+    "url": "https://github.com/ZHX4/AI-",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-14T01:19:13Z",
+    "created_at_source": "2026-08-10T15:18:39Z"
+  },
+  {
+    "title": "sais03687/marketplace",
+    "url": "https://github.com/sais03687/marketplace",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Businesses hire AI agents like contractors. Each one works in its own sandbox, checks in before it acts, and shows its work before sending anything.",
+    "pushed_at": "2026-08-14T01:19:13Z",
+    "created_at_source": "2026-03-29T16:29:45Z"
+  },
+  {
+    "title": "EricJSwenson/carolina-storm-intelligence-public",
+    "url": "https://github.com/EricJSwenson/carolina-storm-intelligence-public",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI weather-intelligence platform over 175 years of NOAA hurricane data, with an LLM evaluation system that grades RAG answers against verified HURDAT2 ground truth. Python · DuckDB · scikit-learn · St",
+    "pushed_at": "2026-08-14T01:19:13Z",
+    "created_at_source": "2026-07-09T20:13:10Z"
+  },
+  {
+    "title": "weitzu-com/foxue.ai",
+    "url": "https://github.com/weitzu-com/foxue.ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "面向全球的中文佛学交流 AI 可信原型：从问题回到原典",
+    "pushed_at": "2026-08-14T01:19:13Z",
+    "created_at_source": "2026-08-10T16:30:31Z"
+  },
+  {
+    "title": "SandRiseStudio/musterd",
+    "url": "https://github.com/SandRiseStudio/musterd",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Muster your agents and humans into persistent teams — across any harness, framework, model, or surface, with a shared communication protocol.",
+    "pushed_at": "2026-08-14T01:19:13Z",
+    "created_at_source": "2026-06-11T23:37:27Z"
+  },
+  {
+    "title": "Ub207/vault-sync",
+    "url": "https://github.com/Ub207/vault-sync",
+    "source": "github_trending",
+    "popularity": 7,
+    "summary": "AI Employee - Platinum Tier | A Digital FTE that manages business operations 24/7 | Email, Social Media, Invoicing, WhatsApp - all automated with human-in-the-loop approval",
+    "pushed_at": "2026-08-14T01:19:13Z",
+    "created_at_source": "2026-03-26T14:45:45Z"
+  },
+  {
+    "title": "Doikevin/tds-ai-navi",
+    "url": "https://github.com/Doikevin/tds-ai-navi",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-14T01:19:13Z",
+    "created_at_source": "2026-07-01T11:02:54Z"
+  },
+  {
+    "title": "armanisadeghi/ai-matrx",
+    "url": "https://github.com/armanisadeghi/ai-matrx",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "",
+    "pushed_at": "2026-08-14T01:19:12Z",
+    "created_at_source": "2024-08-24T17:56:50Z"
+  },
+  {
+    "title": "从“开放模型”到“开放生态”，AI 开源进入下半场",
+    "url": "https://www.infoq.cn/article/oEMzispbWkEP8TtKdUtf?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
+    "url": "https://sspai.com/post/113225",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+    "url": "https://arxiv.org/abs/2608.11207",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.11207v1 Announce Type: new \nAbstract: When two LLM agents with structurally opposed objectives interact across multiple turns, the absence of a shared goal function produces not competition",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Backtrader-Bench: Benchmarking LLM Agents on Algorithmic Trading with Self-Generated MCQs",
+    "url": "https://arxiv.org/abs/2608.11232",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.11232v1 Announce Type: new \nAbstract: Evaluating LLM coding agents in algorithmic trading is difficult because static benchmarks risk data contamination and numerical backtest outputs requi",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "FarSky: Task-Aware Latent-Space Coupling for Generative Intra-Hour Solar Forecasting",
+    "url": "https://arxiv.org/abs/2608.11254",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.11254v1 Announce Type: new \nAbstract: Accurate solar irradiance forecasting is essential for the reliable integration of photovoltaic power into modern electricity grids. All-sky imagers (A",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "GeoUniPR: A Geometry-Consistent Unified Framework for Cross-Modal Place Recognition",
+    "url": "https://arxiv.org/abs/2608.11263",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.11263v1 Announce Type: new \nAbstract: Cross-modal place recognition (CMPR) aims to identify the same location across heterogeneous sensing modalities, such as vision and LiDAR. Existing met",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
+    "url": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Claude Chrome Cowork 🌐, Grok 4.6 🚀, DeepSeek v4-Pro-0813 🧠",
+    "url": "https://tldr.tech/ai/2026-08-13",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "The builder’s guide to GPT‑5.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Introducing Gemini 3.7 Flash",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Google DeepMind"
+  }
+]

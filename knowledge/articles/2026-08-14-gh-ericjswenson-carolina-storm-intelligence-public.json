@@ -1,0 +1,19 @@
+{
+  "id": "github-20260814-005",
+  "title": "EricJSwenson/carolina-storm-intelligence-public",
+  "source_url": "https://github.com/EricJSwenson/carolina-storm-intelligence-public",
+  "source_type": "github_trending",
+  "summary": "基于175年NOAA飓风数据的AI天气情报平台，内置LLM评估系统，将RAG回答与HURDAT2验证真值对比评分。技术栈包括Python、DuckDB和scikit-learn，适用于气象研究、灾害预警及RAG系统评测。",
+  "tags": [
+    "RAG",
+    "LLM",
+    "Weather",
+    "Data Analysis",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:30+00:00",
+  "updated_at": "2026-08-14T01:20:30+00:00"
+}

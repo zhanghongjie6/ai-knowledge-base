@@ -1,0 +1,19 @@
+{
+  "id": "github-20260814-007",
+  "title": "SandRiseStudio/musterd",
+  "source_url": "https://github.com/SandRiseStudio/musterd",
+  "source_type": "github_trending",
+  "summary": "Musterd 是一个开源项目，旨在将AI代理与人类组织为持久化团队，支持跨任何框架、模型或交互界面，通过统一通信协议实现协作。其核心价值在于打破工具壁垒，提供标准化的团队协作层，适用于复杂多智能体系统、人机协同工作流等场景，提升协作效率与可扩展性。",
+  "tags": [
+    "Agent",
+    "Collaboration",
+    "Protocol",
+    "Multi-Agent",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:30+00:00",
+  "updated_at": "2026-08-14T01:20:30+00:00"
+}

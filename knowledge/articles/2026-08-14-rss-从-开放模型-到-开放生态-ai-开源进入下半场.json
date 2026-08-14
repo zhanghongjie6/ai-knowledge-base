@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260814-001",
+  "title": "从“开放模型”到“开放生态”，AI 开源进入下半场",
+  "source_url": "https://www.infoq.cn/article/oEMzispbWkEP8TtKdUtf?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文探讨AI开源从开放模型向开放生态的转变，强调仅开放模型权重已不足以支撑产业落地，需配套数据、工具链、平台及社区协作。核心价值在于推动AI技术民主化与商业化，降低企业应用门槛。技术亮点包括模型微调、推理优化、多云部署等生态组件。适用场景涵盖企业级AI应用开发、行业定制化模型及学术研究，预示AI开源进入以生态竞争为主的新阶段。",
+  "tags": [
+    "Open Source",
+    "AI Ecosystem",
+    "Model Deployment",
+    "Community",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:30+00:00",
+  "updated_at": "2026-08-14T01:20:30+00:00"
+}

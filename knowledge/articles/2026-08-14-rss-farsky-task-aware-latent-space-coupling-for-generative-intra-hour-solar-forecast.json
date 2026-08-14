@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260814-005",
+  "title": "FarSky: Task-Aware Latent-Space Coupling for Generative Intra-Hour Solar Forecasting",
+  "source_url": "https://arxiv.org/abs/2608.11254",
+  "source_type": "rss",
+  "summary": "FarSky提出了一种任务感知的潜空间耦合方法，用于生成式日内太阳辐照度预测。它结合全天空成像仪数据与潜空间建模，提升光伏功率并网可靠性。核心技术包括任务感知耦合机制和生成式预测，适用于电力调度、可再生能源管理及智能电网优化。",
+  "tags": [
+    "Solar Forecasting",
+    "Generative Model",
+    "Latent Space",
+    "Renewable Energy",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:31+00:00",
+  "updated_at": "2026-08-14T01:20:31+00:00"
+}

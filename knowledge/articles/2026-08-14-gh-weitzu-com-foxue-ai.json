@@ -1,0 +1,19 @@
+{
+  "id": "github-20260814-006",
+  "title": "weitzu-com/foxue.ai",
+  "source_url": "https://github.com/weitzu-com/foxue.ai",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向全球中文佛学交流的AI可信原型，核心价值在于将用户问题直接关联到佛学原典，提供可追溯、有依据的答案。技术亮点包括基于RAG的原文检索与引用机制，以及多语言支持。适用于佛学研究者、爱好者及文化传播场景，帮助用户从问题回归经典，提升知识获取的准确性与权威性。",
+  "tags": [
+    "RAG",
+    "AI",
+    "Buddhism",
+    "Knowledge Base",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:30+00:00",
+  "updated_at": "2026-08-14T01:20:30+00:00"
+}

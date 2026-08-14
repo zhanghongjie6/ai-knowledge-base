@@ -1,0 +1,19 @@
+{
+  "id": "github-20260814-004",
+  "title": "sais03687/marketplace",
+  "source_url": "https://github.com/sais03687/marketplace",
+  "source_type": "github_trending",
+  "summary": "该项目将AI代理视为按需雇佣的承包商，每个代理在独立沙箱中运行，行动前需检查，输出前展示工作过程。核心价值在于提供安全可控的AI协作框架，适用于企业自动化流程、多代理协作及需要审计追踪的场景。技术亮点包括沙箱隔离、审批机制和透明化操作。",
+  "tags": [
+    "AI Agent",
+    "Sandbox",
+    "Enterprise",
+    "Workflow",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-14T01:20:30+00:00",
+  "updated_at": "2026-08-14T01:20:30+00:00"
+}
