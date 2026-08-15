@@ -1,0 +1,19 @@
+{
+  "id": "github-20260815-007",
+  "title": "thaniparthishreya/aeroevidence-aviation-rag",
+  "source_url": "https://github.com/thaniparthishreya/aeroevidence-aviation-rag",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向美国国家运输安全委员会（NTSB）航空安全报告的引用优先RAG研究助手。它通过检索增强生成技术，帮助用户快速查询官方报告，并确保每个回答都附带可追溯的引用来源，提升信息可信度。适用于航空安全分析、事故调查辅助和法规研究等场景。",
+  "tags": [
+    "RAG",
+    "Aviation",
+    "NTSB",
+    "Research Assistant",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}

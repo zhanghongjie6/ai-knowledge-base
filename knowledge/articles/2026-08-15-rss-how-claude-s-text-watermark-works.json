@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-010",
+  "title": "How Claude’s text watermark works",
+  "source_url": "https://www.anthropic.com/news/claude-text-watermark",
+  "source_type": "rss",
+  "summary": "Anthropic宣布未来Claude模型将内置文本水印技术，用于判断文本是否由Claude生成。该技术通过微妙模式嵌入生成内容，不影响文本质量，旨在提升AI内容可追溯性，防止滥用，并与其他主要AI公司合作推进标准化。适用于内容审核、版权保护和AI安全领域。",
+  "tags": [
+    "AI Safety",
+    "Watermarking",
+    "Content Provenance",
+    "LLM",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}

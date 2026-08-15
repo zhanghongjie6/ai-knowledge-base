@@ -1,0 +1,19 @@
+{
+  "id": "github-20260815-009",
+  "title": "Adeniyikayodee/quantity-guard",
+  "source_url": "https://github.com/Adeniyikayodee/quantity-guard",
+  "source_type": "github_trending",
+  "summary": "quantity-guard 是一个为AI代理工具边界提供类型化物理量的库，强制在调用时验证单位、垂直基准、时区和记录质量。它确保代理生成的数值参数准确无误，减少因单位混淆或数据错误导致的失败，适用于需要精确数值输入的自动化任务和数据处理场景。",
+  "tags": [
+    "AI Agent",
+    "Type Safety",
+    "Validation",
+    "Physical Quantities",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}

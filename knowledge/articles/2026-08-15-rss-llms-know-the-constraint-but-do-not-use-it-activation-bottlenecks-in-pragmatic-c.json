@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-004",
+  "title": "LLMs Know the Constraint But Do Not Use It: Activation Bottlenecks in Pragmatic Constraint Reasoning",
+  "source_url": "https://arxiv.org/abs/2608.12321",
+  "source_type": "rss",
+  "summary": "该研究揭示了大语言模型在表面线索与隐含可行性约束冲突时的推理缺陷，指出模型虽“知道”约束却未实际使用，存在激活瓶颈。通过分析聚合准确率掩盖的失败模式，提出改进方向，适用于需要严格约束满足的推理任务，如规划、代码生成和决策支持。",
+  "tags": [
+    "LLM",
+    "Reasoning",
+    "Constraints",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}

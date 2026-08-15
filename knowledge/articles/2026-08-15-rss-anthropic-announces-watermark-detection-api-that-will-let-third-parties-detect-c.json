@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-007",
+  "title": "Anthropic announces watermark detection API that will let third parties detect Claude's AI texts",
+  "source_url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
+  "source_type": "rss",
+  "summary": "Anthropic即将推出水印检测API，允许第三方验证文本是否由Claude生成。该技术基于Google的SynthID方法，通过调整生成过程中的随机性嵌入不可见水印。此功能有助于提升AI内容透明度，防止滥用，适用于内容审核、学术诚信和版权保护等场景。",
+  "tags": [
+    "AI Safety",
+    "Watermarking",
+    "API",
+    "Content Authenticity",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}

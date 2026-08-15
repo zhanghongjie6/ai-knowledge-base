@@ -1,0 +1,20 @@
+{
+  "id": "github-20260815-003",
+  "title": "Oscar-Mateos-Projects/AI-NASDAQ-Alert-Agent",
+  "source_url": "https://github.com/Oscar-Mateos-Projects/AI-NASDAQ-Alert-Agent",
+  "source_type": "github_trending",
+  "summary": "AI-NASDAQ-Alert-Agent是一个基于AI的纳斯达克股票监控与预警工具，核心价值在于通过自然语言交互和自动化分析，帮助投资者实时追踪市场动态并接收定制化警报。技术亮点包括集成大语言模型进行新闻情绪分析、技术指标计算和异常波动检测，支持多股票监控和自定义预警规则。适用于个人投资者、量化交易爱好者及金融科技开发者，可快速部署用于日常盯盘和风险提示。",
+  "tags": [
+    "AI Agent",
+    "Stock Alert",
+    "NASDAQ",
+    "LLM",
+    "FinTech",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}

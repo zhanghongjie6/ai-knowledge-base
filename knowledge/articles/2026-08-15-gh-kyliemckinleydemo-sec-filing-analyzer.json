@@ -1,0 +1,19 @@
+{
+  "id": "github-20260815-004",
+  "title": "kyliemckinleydemo/sec-filing-analyzer",
+  "source_url": "https://github.com/kyliemckinleydemo/sec-filing-analyzer",
+  "source_type": "github_trending",
+  "summary": "基于Claude AI的SEC文件分析工具，自动提取风险因素、进行情感分析并预测股价走势。核心价值在于将复杂的金融监管文件转化为可操作的洞察，适用于投资者、分析师和金融科技开发者。技术亮点包括自然语言处理、情感分析和预测建模，可显著提升尽职调查效率。",
+  "tags": [
+    "AI",
+    "Finance",
+    "NLP",
+    "Sentiment Analysis",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-005",
+  "title": "LoKiFormer: Locality-aware Attention with Decoupled Knowledge Memory for Efficient Large Language Model Pretraining",
+  "source_url": "https://arxiv.org/abs/2608.12419",
+  "source_type": "rss",
+  "summary": "LoKiFormer提出了一种结合局部感知注意力与解耦知识记忆的高效LLM预训练架构，通过降低注意力计算复杂度和优化知识存储方式，显著提升训练效率与模型性能。该设计适用于大规模语言模型预训练，尤其适合长序列处理和知识密集型任务，为下一代高效Transformer架构提供了新思路。",
+  "tags": [
+    "LLM",
+    "Attention",
+    "Pretraining",
+    "Memory",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}

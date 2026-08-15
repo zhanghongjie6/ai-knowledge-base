@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-006",
+  "title": "MV2: Multi-View Multi-Vehicle Driving Dataset for Novel View Synthesis",
+  "source_url": "https://arxiv.org/abs/2608.12442",
+  "source_type": "rss",
+  "summary": "MV2是一个面向多视角多车辆驾驶场景的新型视图合成数据集，旨在解决真实驾驶环境中因视角稀疏导致的渲染难题。该数据集提供多车协同采集的丰富视角，支持可微渲染与NVS研究，适用于自动驾驶仿真、场景重建及虚拟测试等应用，推动驾驶场景逼真渲染技术发展。",
+  "tags": [
+    "Autonomous Driving",
+    "Novel View Synthesis",
+    "Dataset",
+    "Neural Rendering",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}

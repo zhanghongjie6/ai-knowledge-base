@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-008",
+  "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
+  "source_url": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+  "source_type": "rss",
+  "summary": "Z.ai 发布 GLM-5.3，在不重新训练基础模型（沿用 743B GLM-5.2）的情况下，通过扩展后训练（增加长时任务环境、环境交互等）显著提升复杂编码和长时任务能力。该方案展示了纯后训练调优的潜力，可快速迭代模型能力，适用于代码生成、复杂推理和长期规划等场景。",
+  "tags": [
+    "LLM",
+    "Post-training",
+    "Coding",
+    "Long-horizon",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}

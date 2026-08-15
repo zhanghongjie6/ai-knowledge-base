@@ -1,0 +1,19 @@
+{
+  "id": "github-20260815-010",
+  "title": "tangle-network/agent-runtime",
+  "source_url": "https://github.com/tangle-network/agent-runtime",
+  "source_type": "github_trending",
+  "summary": "agent-runtime 是一个用于运行和持续改进 AI 代理的引擎。它支持代理循环执行、自动分析运行轨迹，并将学习成果反馈给代理，实现自我优化。核心价值在于提升代理的自主性和长期性能，适用于复杂任务自动化、智能体训练和自适应系统等场景。",
+  "tags": [
+    "AI Agent",
+    "Runtime",
+    "Self-Improvement",
+    "Automation",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-08-15T00:52:34+00:00",
+  "updated_at": "2026-08-15T00:52:34+00:00"
+}
