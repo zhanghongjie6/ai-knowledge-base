@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-001",
+  "title": "MCP 走向无状态，开发者追问：这不就又变回 API 了吗？",
+  "source_url": "https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文探讨MCP（模型上下文协议）向无状态化演进的趋势，引发开发者对其本质回归传统API的质疑。核心价值在于厘清MCP与API的边界，分析无状态化对工具调用、会话管理和生态的影响，帮助开发者理解协议演进方向及适用场景。",
+  "tags": [
+    "MCP",
+    "API",
+    "Protocol",
+    "AI Infrastructure",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260816-009",
+  "title": "xiehao-nz/web-games",
+  "source_url": "https://github.com/xiehao-nz/web-games",
+  "source_type": "github_trending",
+  "summary": "该仓库托管了由AI生成的静态网页小游戏集合，展示了AI辅助开发在游戏领域的应用。核心价值在于提供可直接运行的HTML/CSS/JS游戏示例，便于学习和二次开发。技术亮点包括纯前端实现、无需后端、易于部署。适用于游戏开发学习、AI生成代码验证及休闲娱乐场景。",
+  "tags": [
+    "AI-Generated",
+    "Web Games",
+    "Static Site",
+    "JavaScript",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

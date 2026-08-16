@@ -1,0 +1,19 @@
+{
+  "id": "github-20260816-008",
+  "title": "kornilov777-create/monitoring-ai-news",
+  "source_url": "https://github.com/kornilov777-create/monitoring-ai-news",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI新闻监控工具，能够自动抓取并汇总最新的人工智能相关新闻。它通过聚合多个来源，帮助用户快速掌握行业动态，适用于研究、投资和日常信息获取。技术亮点包括自动化采集、去重和分类，使用简单，部署方便。",
+  "tags": [
+    "AI",
+    "News",
+    "Monitoring",
+    "Aggregator",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-007",
+  "title": "Encrypted Client Hello (ECH) is now supported on Vercel CDN",
+  "source_url": "https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn",
+  "source_type": "rss",
+  "summary": "Vercel CDN现已支持加密客户端问候（ECH），这是TLS 1.3的扩展，可加密SNI字段，防止网络窃听者窥探用户访问的域名，从而增强隐私和安全性。该功能对使用Vercel部署的网站和API立即可用，无需额外配置，有助于抵御中间人攻击和网络审查。",
+  "tags": [
+    "CDN",
+    "TLS",
+    "Privacy",
+    "Security",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

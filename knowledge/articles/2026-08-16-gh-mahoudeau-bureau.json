@@ -1,0 +1,19 @@
+{
+  "id": "github-20260816-002",
+  "title": "mahoudeau/bureau",
+  "source_url": "https://github.com/mahoudeau/bureau",
+  "source_type": "github_trending",
+  "summary": "Bureau 是一个自托管的 AI 代理工作平台，将任务队列、Markdown+Git 知识库和 16 位风格办公室界面结合。代理从持久队列接收任务简报，将学习成果存入版本化知识库，并在虚拟办公室中协作。适用于团队自动化工作流、知识管理和多代理协作场景，强调透明度和可追溯性。",
+  "tags": [
+    "AI Agent",
+    "Task Queue",
+    "Knowledge Management",
+    "Self-hosted",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

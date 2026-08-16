@@ -1,0 +1,20 @@
+{
+  "id": "github-20260816-007",
+  "title": "asaotomo/FofaMap",
+  "source_url": "https://github.com/asaotomo/FofaMap",
+  "source_type": "github_trending",
+  "summary": "FofaMap 是一个证据驱动的 FOFA 资产测绘智能体，支持自然语言侦察、AI 反思、CLI/MCP/Skill/REST API 多种交互方式，并集成人工审批的 Nuclei 扫描。核心价值在于将 FOFA 查询与 AI 推理结合，自动化资产发现与漏洞验证流程，适用于安全研究、渗透测试和资产管理场景。",
+  "tags": [
+    "Security",
+    "Asset Discovery",
+    "AI Agent",
+    "MCP",
+    "Nuclei",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 698,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

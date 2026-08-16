@@ -1,0 +1,19 @@
+{
+  "id": "github-20260816-001",
+  "title": "ccnets-team/causal-gpt-rl",
+  "source_url": "https://github.com/ccnets-team/causal-gpt-rl",
+  "source_type": "github_trending",
+  "summary": "Causal GPT-RL 是一个推理运行时，用于执行因果 GPT-RL 策略包，将仅解码器的自回归 Transformer 用作强化学习智能体。其核心价值在于将 GPT 架构与 RL 策略结合，支持高效推理，适用于需要序列决策和上下文理解的复杂控制任务。技术亮点包括因果注意力机制和自回归生成，可直接部署预训练策略。",
+  "tags": [
+    "Reinforcement Learning",
+    "Transformer",
+    "Inference",
+    "Autoregressive",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

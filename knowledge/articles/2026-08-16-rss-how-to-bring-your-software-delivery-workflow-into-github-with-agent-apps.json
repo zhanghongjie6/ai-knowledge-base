@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-006",
+  "title": "How to bring your software delivery workflow into GitHub with agent apps",
+  "source_url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+  "source_type": "rss",
+  "summary": "本文介绍如何利用四个GitHub代理应用，在GitHub平台内完成软件交付全流程，包括功能范围界定、安全加固、逐步推出和最终发布，无需切换工具。这些代理应用覆盖SDLC关键环节，提升开发效率与协作流畅度，适用于希望统一工作流、减少上下文切换的团队。",
+  "tags": [
+    "GitHub",
+    "Agent",
+    "SDLC",
+    "DevOps",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

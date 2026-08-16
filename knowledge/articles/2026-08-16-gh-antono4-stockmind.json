@@ -1,0 +1,19 @@
+{
+  "id": "github-20260816-005",
+  "title": "antono4/StockMind",
+  "source_url": "https://github.com/antono4/StockMind",
+  "source_type": "github_trending",
+  "summary": "StockMind 是一个基于 AI 的股票预测工具，利用机器学习模型分析历史价格和新闻情绪，生成买卖建议。其核心价值在于将复杂金融数据转化为可操作的信号，适合个人投资者进行辅助决策。技术亮点包括多因子融合和实时数据更新，但需注意市场风险。",
+  "tags": [
+    "AI",
+    "Stock Prediction",
+    "Machine Learning",
+    "FinTech",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

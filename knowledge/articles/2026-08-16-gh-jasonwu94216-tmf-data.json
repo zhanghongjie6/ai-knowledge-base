@@ -1,0 +1,19 @@
+{
+  "id": "github-20260816-004",
+  "title": "JasonWu94216/tmf-data",
+  "source_url": "https://github.com/JasonWu94216/tmf-data",
+  "source_type": "github_trending",
+  "summary": "TMF AI仪表盘的加密数据源，提供安全的数据传输与访问控制。核心价值在于保障AI应用数据隐私与完整性，适用于需要加密数据交换的AI系统集成场景。技术亮点包括加密协议与数据管道设计，但项目尚处早期，生态与文档有限。",
+  "tags": [
+    "Data Security",
+    "Encryption",
+    "AI Dashboard",
+    "Data Pipeline",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260816-010",
+  "title": "zhao1bo-source/ai-org-site",
+  "source_url": "https://github.com/zhao1bo-source/ai-org-site",
+  "source_type": "github_trending",
+  "summary": "ai-org-site 是一个开源项目，旨在帮助用户快速搭建AI组织或团队的官方网站。它提供了现代化的UI组件和模板，支持展示团队信息、项目案例、博客文章等。技术亮点包括基于React和Tailwind CSS的响应式设计，易于定制和部署。适用于AI初创公司、研究团队或个人开发者展示其AI相关工作。",
+  "tags": [
+    "Web Development",
+    "React",
+    "Tailwind CSS",
+    "Open Source",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

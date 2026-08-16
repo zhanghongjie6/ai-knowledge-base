@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-005",
+  "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+  "source_type": "rss",
+  "summary": "本文介绍如何在Amazon Nova Forge中为多轮强化学习设计自定义复合奖励函数。通过组合规则型与模型型奖励，可精确控制模型行为，提升对话质量与任务完成度。适用于客服、教育等需多轮交互的场景，帮助开发者高效定制模型优化目标。",
+  "tags": [
+    "Reinforcement Learning",
+    "Reward Function",
+    "Multi-turn",
+    "Amazon Nova",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

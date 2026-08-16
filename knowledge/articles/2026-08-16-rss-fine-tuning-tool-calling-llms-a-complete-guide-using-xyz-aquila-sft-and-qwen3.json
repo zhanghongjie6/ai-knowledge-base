@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-004",
+  "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+  "source_url": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+  "source_type": "rss",
+  "summary": "本文介绍了一个端到端的工具调用大模型微调流程，涵盖轨迹解析、结构化工具调用提取、Qwen兼容的ChatML格式渲染以及高效训练。核心价值在于提供了一套完整可复现的微调方案，帮助开发者快速构建具备工具调用能力的模型。技术亮点包括对工具调用数据的精细处理和训练效率优化。适用场景包括智能助手、自动化任务执行等需要模型与外部工具交互的应用。",
+  "tags": [
+    "Fine-Tuning",
+    "Tool-Calling",
+    "LLM",
+    "Qwen",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}

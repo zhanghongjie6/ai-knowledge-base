@@ -1,0 +1,172 @@
+[
+  {
+    "title": "ccnets-team/causal-gpt-rl",
+    "url": "https://github.com/ccnets-team/causal-gpt-rl",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Inference runtime for Causal GPT-RL policy bundles: decoder-only autoregressive transformers as RL agents.",
+    "pushed_at": "2026-08-16T00:53:52Z",
+    "created_at_source": "2026-05-11T06:02:24Z"
+  },
+  {
+    "title": "mahoudeau/bureau",
+    "url": "https://github.com/mahoudeau/bureau",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "The self-hosted bureau for AI agents: they get briefed on missions from a durable task queue, file what they learn into a markdown+git brain, and show up for work in a 16-bit office.",
+    "pushed_at": "2026-08-16T00:53:50Z",
+    "created_at_source": "2026-08-11T21:26:51Z"
+  },
+  {
+    "title": "jaqydxp/aivwwv",
+    "url": "https://github.com/jaqydxp/aivwwv",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-16T00:53:48Z",
+    "created_at_source": "2026-08-15T12:41:15Z"
+  },
+  {
+    "title": "JasonWu94216/tmf-data",
+    "url": "https://github.com/JasonWu94216/tmf-data",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "TMF AI dashboard encrypted data feed",
+    "pushed_at": "2026-08-16T00:53:48Z",
+    "created_at_source": "2026-08-03T03:10:22Z"
+  },
+  {
+    "title": "antono4/StockMind",
+    "url": "https://github.com/antono4/StockMind",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI-Powered Stock Prediction Tool",
+    "pushed_at": "2026-08-16T00:53:48Z",
+    "created_at_source": "2026-06-12T08:23:20Z"
+  },
+  {
+    "title": "elprofenica505-ai/el-profe-nica-505",
+    "url": "https://github.com/elprofenica505-ai/el-profe-nica-505",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Plataforma de planes de clases para docentes de Nicaragua.",
+    "pushed_at": "2026-08-16T00:53:47Z",
+    "created_at_source": "2026-08-15T21:04:20Z"
+  },
+  {
+    "title": "asaotomo/FofaMap",
+    "url": "https://github.com/asaotomo/FofaMap",
+    "source": "github_trending",
+    "popularity": 698,
+    "summary": "证据驱动的 FOFA 资产测绘智能体：自然语言侦察、AI 反思、CLI / MCP / Skill / REST API，以及经人工审批的 Nuclei 扫描。",
+    "pushed_at": "2026-08-16T00:53:47Z",
+    "created_at_source": "2021-12-29T08:18:53Z"
+  },
+  {
+    "title": "kornilov777-create/monitoring-ai-news",
+    "url": "https://github.com/kornilov777-create/monitoring-ai-news",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Мониторинг новостей AI",
+    "pushed_at": "2026-08-16T00:53:46Z",
+    "created_at_source": "2026-02-06T17:39:47Z"
+  },
+  {
+    "title": "xiehao-nz/web-games",
+    "url": "https://github.com/xiehao-nz/web-games",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A repo hosting static web games created with AI",
+    "pushed_at": "2026-08-16T00:53:46Z",
+    "created_at_source": "2026-08-15T09:55:23Z"
+  },
+  {
+    "title": "zhao1bo-source/ai-org-site",
+    "url": "https://github.com/zhao1bo-source/ai-org-site",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-16T00:53:46Z",
+    "created_at_source": "2026-07-09T07:27:59Z"
+  },
+  {
+    "title": "MCP 走向无状态，开发者追问：这不就又变回 API 了吗？",
+    "url": "https://www.infoq.cn/article/412hbBva0NF0AYP0CjzD?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "有毒职场正在炼成：OKR 变成 KPI，敏捷开发变成切碎的瀑布",
+    "url": "https://sspai.com/post/111974",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+    "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is com",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
+    "url": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extraction, Qwen-compatible ChatML rendering, and efficie",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge",
+    "url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "In multi-turn reinforcement learning, your custom reward function decides what the model actually learns. This post shows how to design a composite multi-turn reward for Amazon Nova Forge, execute mod",
+    "feed_name": "AWS ML Blog"
+  },
+  {
+    "title": "How to bring your software delivery workflow into GitHub with agent apps",
+    "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. \nThe post How to bring your software delivery workflow into GitHub w",
+    "feed_name": "GitHub Blog"
+  },
+  {
+    "title": "Encrypted Client Hello (ECH) is now supported on Vercel CDN",
+    "url": "https://vercel.com/changelog/encrypted-client-hello-now-supported-on-vercel-cdn",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Vercel News"
+  },
+  {
+    "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+    "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro",
+    "feed_name": "MIT Tech Review"
+  },
+  {
+    "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+    "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On on",
+    "feed_name": "The Verge AI"
+  },
+  {
+    "title": "How to Clone Your Creative Brain: Training Philadelphia AI to Write, Think, and Sound Exactly Like You",
+    "url": "https://dev.to/kolade_philipogunlana_14/how-to-clone-your-creative-brain-training-philadelphia-ai-to-write-think-and-sound-exactly-like-433b",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Let us be brutally honest for a minute.\n\nYou have probably tried to use AI to write a blog post, an Instagram caption, or an email to a client. You typed in a quick prompt, hit enter, and eagerly wait",
+    "feed_name": "DEV.to AI"
+  }
+]

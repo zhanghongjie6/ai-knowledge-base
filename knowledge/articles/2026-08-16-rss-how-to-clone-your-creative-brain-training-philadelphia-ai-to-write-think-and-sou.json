@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-010",
+  "title": "How to Clone Your Creative Brain: Training Philadelphia AI to Write, Think, and Sound Exactly Like You",
+  "source_url": "https://dev.to/kolade_philipogunlana_14/how-to-clone-your-creative-brain-training-philadelphia-ai-to-write-think-and-sound-exactly-like-433b",
+  "source_type": "rss",
+  "summary": "本文介绍如何通过微调AI模型（如Philadelphia AI）来克隆个人的写作风格、思维方式和声音，使其生成内容更贴近用户本人。核心价值在于个性化内容创作，适用于博客、社交媒体文案、客户邮件等场景。技术亮点包括数据准备、模型训练和风格对齐，帮助用户实现AI输出的高度拟人化。",
+  "tags": [
+    "AI Writing",
+    "Fine-tuning",
+    "Personalization",
+    "Content Creation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-16T00:54:55+00:00",
+  "updated_at": "2026-08-16T00:54:55+00:00"
+}
