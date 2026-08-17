@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-009",
+  "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+  "source_url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+  "source_type": "rss",
+  "summary": "本文由美团图灵Agent评测团队撰写，系统介绍Agent评测的核心理念与实践方法。内容从评测基础概念入手，逐步深入至评测体系构建，并分享了团队深入业务一线总结的实战经验，涵盖评测指标设计、数据构建、场景覆盖等关键环节，为Agent研发与落地提供可参考的评测方法论。",
+  "tags": [
+    "Agent",
+    "Evaluation",
+    "LLM",
+    "Testing",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

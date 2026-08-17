@@ -1,0 +1,19 @@
+{
+  "id": "github-20260817-006",
+  "title": "mattdanielmurphy/ai-os",
+  "source_url": "https://github.com/mattdanielmurphy/ai-os",
+  "source_type": "github_trending",
+  "summary": "ai-os 是一个将操作系统概念与AI代理结合的开源项目，旨在构建一个由大语言模型驱动的智能操作系统层。它提供工具调用、任务编排和上下文管理能力，支持自动化工作流和个性化助手场景，适合开发者快速搭建AI原生应用。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "OS",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

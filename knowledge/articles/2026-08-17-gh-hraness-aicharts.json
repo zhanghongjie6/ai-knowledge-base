@@ -1,0 +1,19 @@
+{
+  "id": "github-20260817-008",
+  "title": "hraness/aicharts",
+  "source_url": "https://github.com/hraness/aicharts",
+  "source_type": "github_trending",
+  "summary": "aicharts 是一个开源 AI 基准测试图表项目，用于直观比较不同模型和智能体在性能、成本、速度和 token 消耗等方面的表现。它提供标准化数据可视化，帮助开发者快速评估和选择最适合的 AI 方案，适用于技术选型、性能调优和成本优化等场景。",
+  "tags": [
+    "AI Benchmark",
+    "Model Comparison",
+    "Data Visualization",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

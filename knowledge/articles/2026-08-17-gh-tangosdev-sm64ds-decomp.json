@@ -1,0 +1,19 @@
+{
+  "id": "github-20260817-007",
+  "title": "tangosdev/sm64ds-decomp",
+  "source_url": "https://github.com/tangosdev/sm64ds-decomp",
+  "source_type": "github_trending",
+  "summary": "该项目是对《超级马里奥64 DS》的从零开始、逐字节匹配的反编译工程，将其代码还原为C语言。项目提供实时进度图谱和匹配工具，帮助开发者追踪还原进度。核心价值在于为研究任天堂DS游戏开发技术、进行游戏修改和移植提供基础，是逆向工程领域的宝贵资源。",
+  "tags": [
+    "Decompilation",
+    "Reverse Engineering",
+    "Nintendo DS",
+    "C",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 131,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

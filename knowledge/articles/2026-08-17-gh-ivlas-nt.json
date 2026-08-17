@@ -1,0 +1,19 @@
+{
+  "id": "github-20260817-003",
+  "title": "ivlas/nt",
+  "source_url": "https://github.com/ivlas/nt",
+  "source_type": "github_trending",
+  "summary": "ivlas/nt 是一个用 Rust 编写的实验性智能笔记与记忆组织工具，采用代理式（agentic）设计，旨在自动整理、关联和检索个人知识库。其核心价值在于利用本地化、高性能的 Rust 实现，提供快速且私密的笔记管理体验，适用于个人知识管理、研究笔记整理和日常信息归档场景。",
+  "tags": [
+    "Rust",
+    "Agent",
+    "Note-taking",
+    "Knowledge Management",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

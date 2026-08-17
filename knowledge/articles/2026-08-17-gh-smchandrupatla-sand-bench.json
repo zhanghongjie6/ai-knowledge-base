@@ -1,0 +1,19 @@
+{
+  "id": "github-20260817-005",
+  "title": "smchandrupatla/sand-bench",
+  "source_url": "https://github.com/smchandrupatla/sand-bench",
+  "source_type": "github_trending",
+  "summary": "AISENA推出的专用基准测试平台，用于评估AI代理性能、系统能力和跨领域端到端工作流。提供标准化测试场景，帮助开发者量化代理在真实任务中的表现，优化系统设计。适用于代理开发、系统评测和场景模拟，是AI工程化的重要工具。",
+  "tags": [
+    "AI Agent",
+    "Benchmark",
+    "Evaluation",
+    "Workflow",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

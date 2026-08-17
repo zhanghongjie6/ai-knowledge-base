@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-001",
+  "title": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+  "source_url": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文探讨AI Coding在金融科技软件开发生命周期（SDLC）中的落地实践，强调从单纯代码生成扩展到研发闭环。核心价值在于将AI融入需求分析、设计、编码、测试、部署等全流程，提升开发效率与质量。技术亮点包括结合金融行业规范进行代码审查、自动化测试生成及持续集成。适用场景为金融系统开发、合规性检查及敏捷迭代。",
+  "tags": [
+    "AI Coding",
+    "SDLC",
+    "FinTech",
+    "DevOps",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

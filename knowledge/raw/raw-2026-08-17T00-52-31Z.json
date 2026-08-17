@@ -1,0 +1,172 @@
+[
+  {
+    "title": "davidliuk/graph-of-skills",
+    "url": "https://github.com/davidliuk/graph-of-skills",
+    "source": "github_trending",
+    "popularity": 201,
+    "summary": "Dependency-Aware Structural Retrieval for Massive Agent Skills",
+    "pushed_at": "2026-08-17T00:52:13Z",
+    "created_at_source": "2026-04-03T01:20:46Z"
+  },
+  {
+    "title": "Lancer255/AIA-Draft-Room",
+    "url": "https://github.com/Lancer255/AIA-Draft-Room",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-17T00:52:12Z",
+    "created_at_source": "2026-08-02T03:29:16Z"
+  },
+  {
+    "title": "ivlas/nt",
+    "url": "https://github.com/ivlas/nt",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Experimental agentic note/memory organizer in Rust",
+    "pushed_at": "2026-08-17T00:52:15Z",
+    "created_at_source": "2026-05-21T16:27:29Z"
+  },
+  {
+    "title": "yilin-zhang/the-c-suite",
+    "url": "https://github.com/yilin-zhang/the-c-suite",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Skills and plugins for your AI agents, and you, a C-Suite level engineer.",
+    "pushed_at": "2026-08-17T00:52:11Z",
+    "created_at_source": "2026-04-03T05:58:32Z"
+  },
+  {
+    "title": "smchandrupatla/sand-bench",
+    "url": "https://github.com/smchandrupatla/sand-bench",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AISENA's dedicated benchmark and testing platform for evaluating AI agent performance, system capabilities, and end-to-end workflows across different domains and scenarios.",
+    "pushed_at": "2026-08-17T00:52:11Z",
+    "created_at_source": "2026-08-17T00:52:10Z"
+  },
+  {
+    "title": "mattdanielmurphy/ai-os",
+    "url": "https://github.com/mattdanielmurphy/ai-os",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-17T00:52:11Z",
+    "created_at_source": "2026-07-12T00:00:36Z"
+  },
+  {
+    "title": "tangosdev/sm64ds-decomp",
+    "url": "https://github.com/tangosdev/sm64ds-decomp",
+    "source": "github_trending",
+    "popularity": 131,
+    "summary": "From-scratch, byte-matching decompilation of Super Mario 64 DS (sm64ds decomp) into C, with a live progress atlas and matching tools.",
+    "pushed_at": "2026-08-17T00:52:10Z",
+    "created_at_source": "2026-06-14T00:45:48Z"
+  },
+  {
+    "title": "hraness/aicharts",
+    "url": "https://github.com/hraness/aicharts",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Open-source AI benchmark charts for comparing models and agents across performance, cost, speed, and token use.",
+    "pushed_at": "2026-08-17T00:52:08Z",
+    "created_at_source": "2026-08-13T04:20:51Z"
+  },
+  {
+    "title": "GeorgeQLe/gblockparty-chromux",
+    "url": "https://github.com/GeorgeQLe/gblockparty-chromux",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "OSS desktop front-end for local and GBlockParty-managed agent/browser workspaces.",
+    "pushed_at": "2026-08-17T00:52:08Z",
+    "created_at_source": "2026-07-06T23:58:14Z"
+  },
+  {
+    "title": "YoongProgram/log-archive-organizer",
+    "url": "https://github.com/YoongProgram/log-archive-organizer",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "OpenSession 2026: AI Chat Log Organizer – Smart Search & Archive Tool",
+    "pushed_at": "2026-08-17T00:52:08Z",
+    "created_at_source": "2026-05-23T17:07:43Z"
+  },
+  {
+    "title": "从代码生成到研发闭环：AI Coding 在金融科技 SDLC 中的落地实践｜AICon深圳",
+    "url": "https://www.infoq.cn/article/LflwIiIVHRZlakxDgexC?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：😭（放声大哭）成为最流行 emoji",
+    "url": "https://sspai.com/post/113524",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "😭（放声大哭）成为最流行 emoji美国要求合作方在中美 AI 竞赛中「选边站」ChatGPT 上线使用历史记录功能美国政府敦促苹果不要购买中国内存芯片uBlock Origin 放弃维护 Facebook 广告规则索尼加速向娱乐业务转型看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
+    "url": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas.\nThe article Top",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "OpenAI reportedly disbanded its preparedness team",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to miti",
+    "feed_name": "The Verge AI"
+  },
+  {
+    "title": "Free Landing Page - Landing Chatbot",
+    "url": "https://dev.to/razix_devilnemesisloki/free-landing-page-landing-chatbot-1fha",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Landing Page\n\n\nEnterprise AI chatbot platform. Professional, ROI-focused.\n\n\n  \n  \n  Download + Deploy\n\n\nSave the HTML file, open in any browser, or deploy free on Netlify/Vercel.\n\n\n  \n  \n  About\n\n\nBui",
+    "feed_name": "DEV.to AI"
+  },
+  {
+    "title": "Vidaya",
+    "url": "https://www.producthunt.com/products/vidaya",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Healthspan score from your wearables, labs, and DNA. \n          \n          \n            Discussion\n            |\n            Link",
+    "feed_name": "Product Hunt"
+  },
+  {
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "feed_name": "TechCrunch AI"
+  },
+  {
+    "title": "科技爱好者周刊（第 408 期）：你需要知道的 AI 缓存知识",
+    "url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-408.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "这里记录每周值得分享的科技内容，周五发布。\n\n        本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n浙江台州的椒江滨江公共空间生态绿廊，象征涟漪从水面蔓延，涌上岸边，堆积成丘。（via）\n\n你需要知道的 AI 缓存知识\n\n大模型的价格，主要是 Token 的输入价格和输出价格，这个很容易理解。",
+    "feed_name": "阮一峰博客"
+  },
+  {
+    "title": "Agent评测漫谈 —— 由浅入深讲解Agent评测",
+    "url": "https://tech.meituan.com/2026/08/07/Agent-Evaluation.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "本篇博客是一篇科普文章，由浅入深的介绍Agent评测。其中前两章系统介绍了评测是什么，以及如何建立评测体系；其中第二章是美团图灵Agent评测团队深入美团各业务团队BP总结出的实践经验，是我们在两年实践过程中逐步打磨出来的认知。",
+    "feed_name": "美团技术团队"
+  },
+  {
+    "title": "NVIDIA Nemotron 3.5 Lightning",
+    "url": "https://ollama.com/blog/nemotron-3-5-lightning",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "NVIDIA Nemotron 3.5 Lightning is now available on Ollama. It's a 30 billion parameter (3B active) open model built for agents that stay running, gathering context, calling tools, and working through m",
+    "feed_name": "Ollama Blog"
+  }
+]

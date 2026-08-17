@@ -1,0 +1,19 @@
+{
+  "id": "github-20260817-001",
+  "title": "davidliuk/graph-of-skills",
+  "source_url": "https://github.com/davidliuk/graph-of-skills",
+  "source_type": "github_trending",
+  "summary": "graph-of-skills 提出了一种面向海量智能体技能的结构化检索方法，通过构建技能依赖图来提升检索效率与准确性。其核心价值在于解决传统扁平化检索在技能数量庞大时面临的语义模糊与上下文缺失问题，适用于复杂任务规划、自动化工作流构建及多智能体协作等场景。技术亮点包括依赖感知的图索引与检索机制，能够显著增强技能调用的相关性与可解释性。",
+  "tags": [
+    "Agent",
+    "Graph",
+    "Retrieval",
+    "Skill Management",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 201,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

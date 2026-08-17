@@ -1,0 +1,19 @@
+{
+  "id": "github-20260817-004",
+  "title": "yilin-zhang/the-c-suite",
+  "source_url": "https://github.com/yilin-zhang/the-c-suite",
+  "source_type": "github_trending",
+  "summary": "该项目为AI代理提供C级工程师级别的技能与插件，旨在提升代理在复杂工程任务中的表现。核心价值在于将资深工程师的经验转化为可复用的工具集，覆盖架构设计、代码审查、性能优化等场景，帮助开发者快速构建更智能、更可靠的AI代理。",
+  "tags": [
+    "AI Agent",
+    "Engineering",
+    "Plugins",
+    "Best Practices",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

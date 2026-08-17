@@ -1,0 +1,19 @@
+{
+  "id": "github-20260817-002",
+  "title": "Lancer255/AIA-Draft-Room",
+  "source_url": "https://github.com/Lancer255/AIA-Draft-Room",
+  "source_type": "github_trending",
+  "summary": "AIA-Draft-Room 是一个基于 AI 的草稿协作工具，旨在提升团队文档创作效率。它集成了大语言模型，提供智能续写、改写、摘要和翻译功能，支持多人实时协作与版本管理。适用于技术文档、论文、报告等场景，帮助用户快速生成高质量草稿。",
+  "tags": [
+    "LLM",
+    "Collaboration",
+    "Writing Assistant",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

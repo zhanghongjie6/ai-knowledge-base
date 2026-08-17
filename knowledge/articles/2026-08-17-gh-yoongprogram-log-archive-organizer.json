@@ -1,0 +1,19 @@
+{
+  "id": "github-20260817-010",
+  "title": "YoongProgram/log-archive-organizer",
+  "source_url": "https://github.com/YoongProgram/log-archive-organizer",
+  "source_type": "github_trending",
+  "summary": "log-archive-organizer 是一款面向 AI 聊天日志的智能归档与搜索工具，支持自动整理、全文检索和快速定位历史对话。其核心价值在于解决聊天记录碎片化问题，提升信息回溯效率，适用于个人知识管理、客服记录分析及团队协作场景。技术亮点包括轻量级架构、灵活的导入导出和本地优先的隐私保护。",
+  "tags": [
+    "AI Chat Logs",
+    "Search",
+    "Archive",
+    "Productivity",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}

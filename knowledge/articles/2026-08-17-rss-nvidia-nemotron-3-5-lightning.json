@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-010",
+  "title": "NVIDIA Nemotron 3.5 Lightning",
+  "source_url": "https://ollama.com/blog/nemotron-3-5-lightning",
+  "source_type": "rss",
+  "summary": "NVIDIA Nemotron 3.5 Lightning 是一款30B参数（3B激活）的开放模型，专为持续运行的智能体设计，支持上下文积累、工具调用和多步推理。现已登陆Ollama平台，便于本地部署。其核心价值在于高效处理长时任务，降低推理成本，适用于自动化工作流、复杂对话和实时决策场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Tool Calling",
+    "Open Model",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-17T00:53:30+00:00",
+  "updated_at": "2026-08-17T00:53:30+00:00"
+}
