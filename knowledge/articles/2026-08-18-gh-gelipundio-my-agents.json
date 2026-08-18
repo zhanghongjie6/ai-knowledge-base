@@ -1,0 +1,19 @@
+{
+  "id": "github-20260818-008",
+  "title": "gelipundio/my-agents",
+  "source_url": "https://github.com/gelipundio/my-agents",
+  "source_type": "github_trending",
+  "summary": "my-agents 是一个轻量级多智能体框架，专注于简化 AI 代理的创建与编排。它提供直观的 API 和模块化设计，支持任务分解、工具调用与协作，适合快速构建原型或中小型自动化工作流。核心价值在于降低多智能体系统的入门门槛，无需复杂配置即可运行。技术亮点包括简洁的抽象层和灵活的扩展点。典型用例包括客服机器人、研究助手和自动化流程编排。",
+  "tags": [
+    "Multi-Agent",
+    "Framework",
+    "Automation",
+    "Python",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

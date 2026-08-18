@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-003",
+  "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+  "source_url": "https://arxiv.org/abs/2608.13564",
+  "source_type": "rss",
+  "summary": "本文提出一种无需奖励信号即可自动生成评判标准（rubrics）的方法，用于减少语言模型智能体评估中的过度评分问题。核心价值在于提升自动评估的可靠性和公平性，技术亮点包括无奖励训练、标准归纳与校准机制，适用于智能体任务评估、模型对比和RLHF反馈场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Evaluation",
+    "Reward-Free",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

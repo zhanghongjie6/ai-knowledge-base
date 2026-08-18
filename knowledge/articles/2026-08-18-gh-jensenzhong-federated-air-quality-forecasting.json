@@ -1,0 +1,19 @@
+{
+  "id": "github-20260818-009",
+  "title": "jensenzhong/federated-air-quality-forecasting",
+  "source_url": "https://github.com/jensenzhong/federated-air-quality-forecasting",
+  "source_type": "github_trending",
+  "summary": "该项目提出一种基于联邦学习框架的空气污染预测方法，通过分布式训练多个本地模型（如LSTM）而不共享原始数据，在保护隐私的同时提升预测精度。适用于多城市或跨区域空气质量监测场景，解决了数据孤岛问题，并展示了联邦学习在环境科学领域的实用价值。",
+  "tags": [
+    "Federated Learning",
+    "Air Quality",
+    "LSTM",
+    "Time Series",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260818-001",
+  "title": "Han-1413141/dsh-cost-meter",
+  "source_url": "https://github.com/Han-1413141/dsh-cost-meter",
+  "source_type": "github_trending",
+  "summary": "这是一个针对DeepSeek Harness会话和OpenCode Go配额的开发工具插件，提供实时成本统计、每日费用、预算限制显示及历史记录功能，并支持Codex风格的热力图可视化。核心价值在于帮助开发者监控AI编程工具的使用成本，优化资源分配，适用于个人开发者及团队的成本管理场景。",
+  "tags": [
+    "Cost Monitoring",
+    "Developer Tools",
+    "DeepSeek",
+    "OpenCode",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 71,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

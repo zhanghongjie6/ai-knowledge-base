@@ -1,0 +1,19 @@
+{
+  "id": "github-20260818-002",
+  "title": "Knuckles-Team/sql-mcp",
+  "source_url": "https://github.com/Knuckles-Team/sql-mcp",
+  "source_type": "github_trending",
+  "summary": "sql-mcp 是一个通用的 SQL MCP 连接器与代理，基于 SQLAlchemy 支持 Postgres、MySQL/MariaDB、MSSQL、Oracle 和 SQLite。它让 AI 代理能够通过 MCP 协议安全地查询和操作多种数据库，简化了数据库接入流程，适用于数据分析、自动化运维和智能问答等场景。",
+  "tags": [
+    "MCP",
+    "SQL",
+    "Database",
+    "AI Agent",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

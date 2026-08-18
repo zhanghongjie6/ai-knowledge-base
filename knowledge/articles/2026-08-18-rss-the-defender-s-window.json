@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-010",
+  "title": "The Defender’s Window",
+  "source_url": "https://openai.com/index/the-defenders-window",
+  "source_type": "rss",
+  "summary": "OpenAI 发布《The Defender's Window》，探讨AI如何重塑网络安全攻防格局。文章强调防御者需利用AI自动化威胁检测、响应和漏洞修复，同时指出攻击者也在利用AI提升攻击效率。OpenAI分享了自身强化防御的实践，并为安全团队提供了可立即采用的策略，包括AI辅助日志分析、实时威胁情报整合和自适应安全架构。核心价值在于帮助安全团队在AI时代抢占先机，缩小攻防差距。",
+  "tags": [
+    "AI Security",
+    "Cybersecurity",
+    "Threat Detection",
+    "SOC",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

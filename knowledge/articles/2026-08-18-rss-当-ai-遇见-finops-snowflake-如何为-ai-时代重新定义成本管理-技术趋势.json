@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-001",
+  "title": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+  "source_url": "https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文探讨AI时代下FinOps的演进，以Snowflake为例展示如何将AI与云成本管理结合，实现智能资源优化、预测性成本分析和自动化治理。核心价值在于帮助企业应对AI工作负载带来的成本不确定性，通过数据驱动决策降低云支出，适用于多云环境下的成本管控与AI基础设施优化。",
+  "tags": [
+    "FinOps",
+    "Cloud Cost Management",
+    "AI Infrastructure",
+    "Snowflake",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

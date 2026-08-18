@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-008",
+  "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption",
+  "source_url": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/",
+  "source_type": "rss",
+  "summary": "MiniMax-Music3 是开源的文本生成音乐模型，支持从带段落标签的歌词和结构化描述中一次性生成最长五分钟的完整歌曲。其核心价值在于降低音乐创作门槛，实现端到端歌曲生成，适用于音乐制作、内容创作和个性化音乐生成等场景。技术亮点包括长序列生成能力和对歌词结构的理解。",
+  "tags": [
+    "Text-to-Music",
+    "Open-Weights",
+    "Generative AI",
+    "Music Generation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

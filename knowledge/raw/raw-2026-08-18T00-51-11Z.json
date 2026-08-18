@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Han-1413141/dsh-cost-meter",
+    "url": "https://github.com/Han-1413141/dsh-cost-meter",
+    "source": "github_trending",
+    "popularity": 71,
+    "summary": "DeepSeek Harness Session Cost Statistics & OpenCode Go Quota Display, DS Official Balance Display, Codex-like Token Heatmap Plugin: Current Session Cost, Daily Cost, Budget Limit Display, History Reco",
+    "pushed_at": "2026-08-18T00:51:01Z",
+    "created_at_source": "2026-08-13T14:57:55Z"
+  },
+  {
+    "title": "Knuckles-Team/sql-mcp",
+    "url": "https://github.com/Knuckles-Team/sql-mcp",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Generic SQL MCP connector + agent — Postgres, MySQL/MariaDB, MSSQL, Oracle, SQLite via SQLAlchemy",
+    "pushed_at": "2026-08-18T00:51:00Z",
+    "created_at_source": "2026-06-11T14:58:06Z"
+  },
+  {
+    "title": "rassdread/homecheff-motion",
+    "url": "https://github.com/rassdread/homecheff-motion",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI tool to turn photos into animated video transitions (HomeCheff Motion)",
+    "pushed_at": "2026-08-18T00:50:59Z",
+    "created_at_source": "2026-04-25T13:39:38Z"
+  },
+  {
+    "title": "mahimalam/llm-sports-forecasting-engine",
+    "url": "https://github.com/mahimalam/llm-sports-forecasting-engine",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "An LLM-driven forecasting pipeline that ingests live match and team data from public sports APIs, applies structured inference via Gemini 2.5 pro and generates statistically-grounded outcome models de",
+    "pushed_at": "2026-08-18T00:50:59Z",
+    "created_at_source": "2026-07-22T14:20:41Z"
+  },
+  {
+    "title": "Bablu-singh/octopus-nim",
+    "url": "https://github.com/Bablu-singh/octopus-nim",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Task-sized parallel agent pool over the NVIDIA NIM API",
+    "pushed_at": "2026-08-18T00:50:58Z",
+    "created_at_source": "2026-08-17T15:55:12Z"
+  },
+  {
+    "title": "gt52bts-dotcom/internship-tech-radar",
+    "url": "https://github.com/gt52bts-dotcom/internship-tech-radar",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Internship technical radar project with Git-based AI PM context",
+    "pushed_at": "2026-08-18T00:50:57Z",
+    "created_at_source": "2026-07-15T00:11:57Z"
+  },
+  {
+    "title": "NhanUEHer/iig-ai-system",
+    "url": "https://github.com/NhanUEHer/iig-ai-system",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-18T00:50:55Z",
+    "created_at_source": "2026-07-12T06:55:27Z"
+  },
+  {
+    "title": "gelipundio/my-agents",
+    "url": "https://github.com/gelipundio/my-agents",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-18T00:50:55Z",
+    "created_at_source": "2026-08-17T23:44:23Z"
+  },
+  {
+    "title": "jensenzhong/federated-air-quality-forecasting",
+    "url": "https://github.com/jensenzhong/federated-air-quality-forecasting",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-18T00:50:55Z",
+    "created_at_source": "2026-08-17T16:09:19Z"
+  },
+  {
+    "title": "anoop675/reva",
+    "url": "https://github.com/anoop675/reva",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A multimodal LLM architecture leveraging dual-bridge VL alignment to ground visual perception in both broader image and regional contexts for visual question answering.",
+    "pushed_at": "2026-08-18T00:50:54Z",
+    "created_at_source": "2026-08-18T00:50:07Z"
+  },
+  {
+    "title": "当 AI 遇见 FinOps：Snowflake 如何为 AI 时代重新定义成本管理 | 技术趋势",
+    "url": "https://www.infoq.cn/article/0MLCGOPXzzILTxB8CORk?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派评 | 近期值得关注的 App",
+    "url": "https://sspai.com/post/113544",
+    "source": "rss",
+    "popularity": 0,
+    "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+    "url": "https://arxiv.org/abs/2608.13564",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.13564v1 Announce Type: new \nAbstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executable ",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study",
+    "url": "https://arxiv.org/abs/2608.13568",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.13568v1 Announce Type: new \nAbstract: Coding agents spend most of their context budget on retrieval. Lexical retrieval (grep) is universal, instant, and zero-setup, but noisy: it cannot tel",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+    "url": "https://arxiv.org/abs/2608.13562",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.13562v1 Announce Type: new \nAbstract: Modern operational systems face uncertainty even in routine conditions, where rare, bursty, and self-exciting events emerge from both exogenous covaria",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "What to Preserve, Where to Adapt: A Depth-Wise Analysis of Forgetting in Continual Gynecological Image Segmentation",
+    "url": "https://arxiv.org/abs/2608.13660",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.13660v1 Announce Type: new \nAbstract: Medical image segmentation models are typically trained under the assumption that all data are available simultaneously. However, in clinical practice,",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "AirTag reveals how Amazon destroys rare books for AI training",
+    "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Amazon buys large quantities of printed books, scans them as AI training data, and destroys them in the process.\nThe article AirTag reveals how Amazon destroys rare books for AI training appeared firs",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption",
+    "url": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "MiniMax released MiniMax-Music3, an open-weights text-to-music model. Given lyrics with section tags and a structured caption, it generates a complete song of up to five minutes in a single pass, as 3",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "GLM-5.3 🤖, Stripe OpenRouter deal 💰, AI agent consensus 🤝",
+    "url": "https://tldr.tech/ai/2026-08-17",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "The Defender’s Window",
+    "url": "https://openai.com/index/the-defenders-window",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+    "feed_name": "OpenAI"
+  }
+]

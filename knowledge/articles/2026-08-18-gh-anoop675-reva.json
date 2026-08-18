@@ -1,0 +1,19 @@
+{
+  "id": "github-20260818-010",
+  "title": "anoop675/reva",
+  "source_url": "https://github.com/anoop675/reva",
+  "source_type": "github_trending",
+  "summary": "reva 是一种多模态大语言模型架构，通过双桥视觉-语言对齐，将视觉感知同时锚定在全局图像和局部区域上下文中，显著提升视觉问答的准确性与细粒度理解能力。其核心价值在于解决传统单桥对齐在复杂场景下视觉语义丢失的问题，适用于图像问答、细粒度视觉推理等任务。",
+  "tags": [
+    "Multimodal",
+    "LLM",
+    "Visual Question Answering",
+    "Vision-Language Alignment",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

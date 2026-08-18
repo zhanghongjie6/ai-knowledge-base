@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-005",
+  "title": "L-FNO: Lorentzian Fourier Neural Operator for Stochastic Event Dynamics",
+  "source_url": "https://arxiv.org/abs/2608.13562",
+  "source_type": "rss",
+  "summary": "L-FNO是一种结合洛伦兹变换与傅里叶神经算子的新方法，用于建模随机事件动力学中的罕见突发和自激事件。它通过处理外生协变量带来的不确定性，提升了对复杂动态系统的预测能力，适用于金融、网络流量、流行病学等场景。",
+  "tags": [
+    "Neural Operator",
+    "Uncertainty",
+    "Event Dynamics",
+    "Fourier Transform",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260818-004",
+  "title": "mahimalam/llm-sports-forecasting-engine",
+  "source_url": "https://github.com/mahimalam/llm-sports-forecasting-engine",
+  "source_type": "github_trending",
+  "summary": "该项目构建了一个基于LLM的体育赛事预测流水线，从公开体育API获取实时比赛和球队数据，通过Gemini 2.5 Pro进行结构化推理，生成统计上合理的比赛结果模型。核心价值在于将LLM的语义理解与结构化数据结合，提供可解释的预测输出，适用于体育博彩分析、赛事策略研究等场景。",
+  "tags": [
+    "LLM",
+    "Sports Analytics",
+    "Forecasting",
+    "Gemini",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

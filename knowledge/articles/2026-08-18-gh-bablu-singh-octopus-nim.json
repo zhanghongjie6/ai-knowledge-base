@@ -1,0 +1,19 @@
+{
+  "id": "github-20260818-005",
+  "title": "Bablu-singh/octopus-nim",
+  "source_url": "https://github.com/Bablu-singh/octopus-nim",
+  "source_type": "github_trending",
+  "summary": "octopus-nim 是一个基于 NVIDIA NIM API 的任务级并行智能体池，旨在高效处理大量小型任务。它通过并行调度多个智能体，提升任务吞吐量，降低延迟，适用于批量数据处理、自动化测试、内容生成等场景。核心价值在于简化 NIM 集成，提供可扩展的并行执行框架。",
+  "tags": [
+    "NIM",
+    "Parallel",
+    "Agent",
+    "TaskPool",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

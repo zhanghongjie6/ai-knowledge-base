@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-006",
+  "title": "What to Preserve, Where to Adapt: A Depth-Wise Analysis of Forgetting in Continual Gynecological Image Segmentation",
+  "source_url": "https://arxiv.org/abs/2608.13660",
+  "source_type": "rss",
+  "summary": "本文针对持续妇科图像分割中的灾难性遗忘问题，提出深度维度的分析框架，探讨在持续学习场景下哪些层应保留旧知识、哪些层应适应新任务。核心价值在于为医学影像分割模型在临床动态数据流中的稳定更新提供理论指导，避免性能退化。技术亮点包括逐层遗忘量化与自适应策略，适用于妇科影像的增量式模型部署。",
+  "tags": [
+    "Continual Learning",
+    "Medical Image Segmentation",
+    "Catastrophic Forgetting",
+    "Gynecology",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}

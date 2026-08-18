@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-004",
+  "title": "Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study",
+  "source_url": "https://arxiv.org/abs/2608.13568",
+  "source_type": "rss",
+  "summary": "该研究提出了一种测量方法，初步评估语言服务器（LSP）是否能为编码代理节省令牌。编码代理将大部分上下文预算用于检索，词法检索（grep）虽通用、即时、零配置，但噪声大。研究通过对比LSP与grep的检索质量与令牌消耗，发现LSP能提供更精准的语义信息，减少噪声，从而可能节省令牌。该工作为优化编码代理的检索策略提供了新思路，适用于代码补全、错误诊断等场景。",
+  "tags": [
+    "Coding Agent",
+    "Language Server",
+    "Token Efficiency",
+    "Retrieval",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-18T00:52:05+00:00",
+  "updated_at": "2026-08-18T00:52:05+00:00"
+}
