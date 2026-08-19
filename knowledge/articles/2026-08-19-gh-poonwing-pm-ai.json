@@ -1,0 +1,19 @@
+{
+  "id": "github-20260819-004",
+  "title": "poonwing/pm-ai",
+  "source_url": "https://github.com/poonwing/pm-ai",
+  "source_type": "github_trending",
+  "summary": "pm-ai 是一个面向产品经理的AI工具集，提供需求分析、用户故事生成、PRD撰写等自动化功能。它通过自然语言处理帮助产品经理快速将想法转化为结构化文档，提升工作效率。支持与主流项目管理工具集成，适用于敏捷开发流程中的需求梳理和文档生成场景。",
+  "tags": [
+    "Product Management",
+    "NLP",
+    "Document Generation",
+    "Agile",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

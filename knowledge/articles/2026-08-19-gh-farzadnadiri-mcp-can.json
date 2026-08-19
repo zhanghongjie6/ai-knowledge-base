@@ -1,0 +1,20 @@
+{
+  "id": "github-20260819-003",
+  "title": "farzadnadiri/MCP-CAN",
+  "source_url": "https://github.com/farzadnadiri/MCP-CAN",
+  "source_type": "github_trending",
+  "summary": "MCP-CAN 是一个专为车辆 CAN/OBD 数据设计的 MCP 服务器，旨在将车辆实时数据无缝接入 LLM/SLM。它通过标准化接口，使 AI 模型能够直接读取和解析车辆总线数据，支持故障诊断、驾驶行为分析、车况监控等场景。该工具降低了车辆数据与 AI 集成的门槛，为智能网联汽车和车联网应用提供了便捷的桥梁。",
+  "tags": [
+    "MCP",
+    "CAN",
+    "OBD",
+    "Automotive",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 13,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

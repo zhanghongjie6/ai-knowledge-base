@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-007",
+  "title": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
+  "source_url": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+  "source_type": "rss",
+  "summary": "OpenAI表示正在“放缓模型开发节奏”，部分原因是即将推出的“Astra”模型可能接近具备关键的网络攻击能力。公司引入新的监控系统，在模型能力达到危险阈值时触发警报，以防范AI被用于高级网络攻击。此举凸显了AI安全与能力发展之间的平衡，也反映了行业对前沿模型潜在风险的担忧。",
+  "tags": [
+    "AI Safety",
+    "Cybersecurity",
+    "OpenAI",
+    "Model Development",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

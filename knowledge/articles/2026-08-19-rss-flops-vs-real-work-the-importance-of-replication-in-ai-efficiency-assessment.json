@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-003",
+  "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+  "source_url": "https://arxiv.org/abs/2608.14550",
+  "source_type": "rss",
+  "summary": "本文探讨AI效率评估中FLOPs指标与实际工作负载的差异，强调复制（replication）在衡量真实效率中的重要性。核心价值在于揭示仅依赖FLOPs可能误导优化方向，需结合复制因子等更全面的评估方法，适用于模型设计、硬件选型和绿色AI实践。",
+  "tags": [
+    "AI Efficiency",
+    "FLOPs",
+    "Sustainability",
+    "Model Optimization",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

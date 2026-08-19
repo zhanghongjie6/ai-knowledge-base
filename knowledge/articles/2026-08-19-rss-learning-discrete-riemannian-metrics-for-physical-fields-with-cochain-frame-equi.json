@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-005",
+  "title": "Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivarianc",
+  "source_url": "https://arxiv.org/abs/2608.14556",
+  "source_type": "rss",
+  "summary": "该研究提出一种学习离散黎曼度量的新方法，用于物理场模拟，通过余链-框架等变性实现拓扑与几何的分离。核心价值在于确保守恒律的精确性，同时灵活适应几何变化，适用于计算力学、电磁学等领域的网格仿真，提升数值稳定性和效率。",
+  "tags": [
+    "Geometric Deep Learning",
+    "Physical Simulation",
+    "Equivariance",
+    "Discrete Differential Geometry",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

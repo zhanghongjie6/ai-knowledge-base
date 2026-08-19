@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-008",
+  "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+  "source_url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+  "source_type": "rss",
+  "summary": "NVIDIA发布TensorRT Model Connect（TRTMC）公开预览版，这是一个Apache-2.0项目，可将受支持的Hugging Face或本地检查点通过两条命令转换为端到端的TensorRT推理，实现原生C++高性能部署。该工具简化了模型优化与集成流程，适用于生产环境中的低延迟推理场景，如实时AI服务、边缘计算等。",
+  "tags": [
+    "TensorRT",
+    "Inference",
+    "C++",
+    "Model Deployment",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

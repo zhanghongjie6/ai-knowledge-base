@@ -1,0 +1,172 @@
+[
+  {
+    "title": "danipolisik-ai/de2-primedaily169",
+    "url": "https://github.com/danipolisik-ai/de2-primedaily169",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-19T00:51:34Z",
+    "created_at_source": "2026-08-19T00:51:33Z"
+  },
+  {
+    "title": "fejzadenis/inrooms",
+    "url": "https://github.com/fejzadenis/inrooms",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Networking platform for tech sales professionals: events, subscriptions and payments, AI-assisted features",
+    "pushed_at": "2026-08-19T00:51:33Z",
+    "created_at_source": "2025-06-16T02:06:34Z"
+  },
+  {
+    "title": "farzadnadiri/MCP-CAN",
+    "url": "https://github.com/farzadnadiri/MCP-CAN",
+    "source": "github_trending",
+    "popularity": 13,
+    "summary": "An MCP server purpose-built to surface vehicle CAN/OBD data to an LLM/SLM.",
+    "pushed_at": "2026-08-19T00:51:32Z",
+    "created_at_source": "2025-11-29T00:16:31Z"
+  },
+  {
+    "title": "poonwing/pm-ai",
+    "url": "https://github.com/poonwing/pm-ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-19T00:51:29Z",
+    "created_at_source": "2026-08-18T16:08:27Z"
+  },
+  {
+    "title": "samirkt/local-research-agent",
+    "url": "https://github.com/samirkt/local-research-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-19T00:51:28Z",
+    "created_at_source": "2026-08-19T00:50:54Z"
+  },
+  {
+    "title": "theerakarnm/remaindr",
+    "url": "https://github.com/theerakarnm/remaindr",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "a macOS menu bar app (SwiftUI `MenuBarExtra`) that shows remaining usage/quota for AI providers",
+    "pushed_at": "2026-08-19T00:51:28Z",
+    "created_at_source": "2026-08-16T11:17:04Z"
+  },
+  {
+    "title": "minkunai87-ai/mk",
+    "url": "https://github.com/minkunai87-ai/mk",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-19T00:51:33Z",
+    "created_at_source": "2026-02-03T04:06:29Z"
+  },
+  {
+    "title": "Present-Capable-Computing/Steel-Mission",
+    "url": "https://github.com/Present-Capable-Computing/Steel-Mission",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Agent Delivery Plane for governed AI-assisted software delivery",
+    "pushed_at": "2026-08-19T00:51:25Z",
+    "created_at_source": "2026-08-19T00:23:43Z"
+  },
+  {
+    "title": "dahun-han/rag_qa_2",
+    "url": "https://github.com/dahun-han/rag_qa_2",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-19T00:51:25Z",
+    "created_at_source": "2026-08-18T08:14:08Z"
+  },
+  {
+    "title": "kingdoooo/quick-site-builder",
+    "url": "https://github.com/kingdoooo/quick-site-builder",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Agent-driven site builder: develop and deploy simple full-stack sites on AWS with natural language via Skill + MCP / 在任意 Skill+MCP Agent 客户端用自然语言开发并一键部署全栈小站点",
+    "pushed_at": "2026-08-19T00:51:25Z",
+    "created_at_source": "2026-08-19T00:51:24Z"
+  },
+  {
+    "title": "谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
+    "url": "https://www.infoq.cn/article/J7CiEHSU79e9TYi3soro?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "社区速递 154 | AI 代码助手大乱斗、租房电钻组合与神奇实体卡片故事机",
+    "url": "https://sspai.com/post/113593",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+    "url": "https://arxiv.org/abs/2608.14550",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.14550v1 Announce Type: new \nAbstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. ",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Auxiliary uncertainty signals for LLM-assisted systematic review screening: a benchmark across eight Cohen drug-class reviews",
+    "url": "https://arxiv.org/abs/2608.14551",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.14551v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for title-abstract screening in systematic reviews, but their decisions lack calibrated uncertainty.",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Learning Discrete Riemannian Metrics for Physical Fields with Cochain-Frame Equivarianc",
+    "url": "https://arxiv.org/abs/2608.14556",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.14556v1 Announce Type: new \nAbstract: Physical fields on meshes require a separation between topology and geometry: conservation laws are topological and should be exact, while geometry, ma",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Xemo-Talker: Unlock Emotions Explicitly for Audio-Driven Talking Portrait Synthesis",
+    "url": "https://arxiv.org/abs/2608.14700",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.14700v1 Announce Type: new \nAbstract: Precise emotion control in audio-driven talking heads remains a challenge due to the reliance on implicit emotion regulation in existing systems, which",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
+    "url": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI is deliberately \"pacing AI model development,\" partly because the upcoming \"Astra\" model may be close to gaining critical cyberattack capabilities. A new monitoring system triggers an alert wit",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
+    "url": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to end-to-end TensorRT inference in two commands, wi",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Cursor Origin 👨‍💻, Anthropic $65B revenue 💰, deadline dividend scaling 📈",
+    "url": "https://tldr.tech/ai/2026-08-18",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Strengthening democratic oversight in national security",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "feed_name": "OpenAI"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-004",
+  "title": "Auxiliary uncertainty signals for LLM-assisted systematic review screening: a benchmark across eight Cohen drug-class reviews",
+  "source_url": "https://arxiv.org/abs/2608.14551",
+  "source_type": "rss",
+  "summary": "该研究针对LLM在系统综述标题-摘要筛选中缺乏校准不确定性信号的问题，提出了辅助不确定性信号方法，并在八个Cohen药物类综述基准上评估。核心价值在于提升筛选决策的可信度与可靠性，技术亮点包括不确定性校准与多信号融合，适用于医学证据合成和文献筛选自动化场景。",
+  "tags": [
+    "LLM",
+    "Uncertainty",
+    "Systematic Review",
+    "Medical Evidence",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

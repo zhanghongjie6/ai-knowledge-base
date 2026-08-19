@@ -1,0 +1,20 @@
+{
+  "id": "github-20260819-010",
+  "title": "kingdoooo/quick-site-builder",
+  "source_url": "https://github.com/kingdoooo/quick-site-builder",
+  "source_type": "github_trending",
+  "summary": "quick-site-builder 是一个基于 Agent 的全栈站点生成工具，用户可通过自然语言在支持 Skill 和 MCP 的客户端中描述需求，自动生成并部署到 AWS。核心价值在于将开发、部署流程简化为对话式操作，适合快速搭建原型或小型业务站点，显著降低开发门槛。",
+  "tags": [
+    "Agent",
+    "MCP",
+    "Full-stack",
+    "AWS",
+    "Low-code",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

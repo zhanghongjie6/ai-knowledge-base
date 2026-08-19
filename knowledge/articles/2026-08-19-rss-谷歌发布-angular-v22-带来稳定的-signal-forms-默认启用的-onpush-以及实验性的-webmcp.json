@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260819-001",
+  "title": "谷歌发布 Angular v22，带来稳定的 Signal Forms、默认启用的 OnPush 以及实验性的 WebMCP",
+  "source_url": "https://www.infoq.cn/article/J7CiEHSU79e9TYi3soro?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Angular v22 正式发布，核心亮点包括稳定的 Signal Forms、默认启用的 OnPush 变更检测策略，以及实验性的 WebMCP。Signal Forms 简化了表单状态管理，OnPush 默认启用显著提升性能，WebMCP 则探索将 Angular 应用与 Web 组件互操作。适用于需要高性能、响应式表单和现代 Web 标准集成的企业级应用开发。",
+  "tags": [
+    "Angular",
+    "Signal Forms",
+    "OnPush",
+    "WebMCP",
+    "Frontend Framework",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

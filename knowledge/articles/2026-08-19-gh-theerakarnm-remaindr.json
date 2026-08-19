@@ -1,0 +1,20 @@
+{
+  "id": "github-20260819-006",
+  "title": "theerakarnm/remaindr",
+  "source_url": "https://github.com/theerakarnm/remaindr",
+  "source_type": "github_trending",
+  "summary": "remaindr 是一款 macOS 菜单栏应用，基于 SwiftUI 的 MenuBarExtra 构建，用于实时显示 AI 服务提供商（如 OpenAI、Anthropic 等）的剩余用量或配额。它帮助用户监控 API 消费，避免超额费用，适合开发者、重度 AI 用户及团队管理者。核心价值在于便捷的用量可视化，技术亮点是轻量级原生集成，使用场景包括日常开发、成本控制等。",
+  "tags": [
+    "macOS",
+    "SwiftUI",
+    "AI",
+    "Quota",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

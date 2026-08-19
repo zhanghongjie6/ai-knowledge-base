@@ -1,0 +1,19 @@
+{
+  "id": "github-20260819-009",
+  "title": "dahun-han/rag_qa_2",
+  "source_url": "https://github.com/dahun-han/rag_qa_2",
+  "source_type": "github_trending",
+  "summary": "这是一个基于RAG（检索增强生成）的问答系统项目，旨在通过结合外部知识库提升大语言模型回答的准确性和时效性。项目提供了完整的RAG流程实现，包括文档加载、向量化、检索和生成，适合快速搭建企业级知识问答应用。",
+  "tags": [
+    "RAG",
+    "QA",
+    "LLM",
+    "Knowledge Base",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

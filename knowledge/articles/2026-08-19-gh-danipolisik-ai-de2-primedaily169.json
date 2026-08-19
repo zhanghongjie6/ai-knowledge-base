@@ -1,0 +1,19 @@
+{
+  "id": "github-20260819-001",
+  "title": "danipolisik-ai/de2-primedaily169",
+  "source_url": "https://github.com/danipolisik-ai/de2-primedaily169",
+  "source_type": "github_trending",
+  "summary": "de2-primedaily169 是一个基于深度学习的图像增强工具，专注于提升低分辨率或模糊图像的清晰度与细节。其核心技术采用高效的神经网络架构，支持实时处理，适用于监控、医疗影像和移动摄影等场景。项目提供预训练模型和简单API，便于快速集成。",
+  "tags": [
+    "Deep Learning",
+    "Image Enhancement",
+    "Computer Vision",
+    "Real-time",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}

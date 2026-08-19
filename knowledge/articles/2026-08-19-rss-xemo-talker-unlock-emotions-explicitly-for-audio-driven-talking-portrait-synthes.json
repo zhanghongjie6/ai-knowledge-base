@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-006",
+  "title": "Xemo-Talker: Unlock Emotions Explicitly for Audio-Driven Talking Portrait Synthesis",
+  "source_url": "https://arxiv.org/abs/2608.14700",
+  "source_type": "rss",
+  "summary": "Xemo-Talker提出了一种显式情感控制的音频驱动说话人像合成方法，解决了现有系统依赖隐式情感调节导致表情不精准的问题。通过解耦情感与语音内容，实现细粒度、可解释的情感表达，适用于数字人、虚拟助手和影视制作等场景，显著提升交互真实感。",
+  "tags": [
+    "Talking Head",
+    "Emotion Control",
+    "Audio-Driven",
+    "Synthesis",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-19T00:52:30+00:00",
+  "updated_at": "2026-08-19T00:52:30+00:00"
+}
