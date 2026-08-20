@@ -1,0 +1,19 @@
+{
+  "id": "github-20260820-004",
+  "title": "greftukim/gref_ai",
+  "source_url": "https://github.com/greftukim/gref_ai",
+  "source_type": "github_trending",
+  "summary": "gref_ai是一个开源AI工具项目，旨在提供轻量级、可扩展的AI工作流管理能力。它支持自定义模型接入、任务编排与自动化执行，适用于个人开发者和中小团队快速构建AI应用原型。技术亮点包括模块化设计、简洁API和本地优先部署，降低使用门槛。",
+  "tags": [
+    "AI",
+    "Workflow",
+    "Open Source",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

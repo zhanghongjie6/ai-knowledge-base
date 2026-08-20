@@ -1,0 +1,19 @@
+{
+  "id": "github-20260820-007",
+  "title": "silvatechf/security-report-assistant",
+  "source_url": "https://github.com/silvatechf/security-report-assistant",
+  "source_type": "github_trending",
+  "summary": "该项目是一个Python微服务，用于接收分析引擎的遥测数据，处理入侵指标（IoCs），并自动生成安全报告。核心价值在于将安全分析流程自动化，提升报告生成效率。技术亮点包括结构化数据摄取、IoCs处理及报告生成。适用于安全运营中心（SOC）的日常监控与报告场景。",
+  "tags": [
+    "Security",
+    "Microservice",
+    "IoCs",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

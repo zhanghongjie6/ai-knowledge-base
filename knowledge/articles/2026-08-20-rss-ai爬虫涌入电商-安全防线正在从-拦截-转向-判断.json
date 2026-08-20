@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260820-001",
+  "title": "AI爬虫涌入电商，安全防线正在从“拦截”转向“判断”",
+  "source_url": "https://www.infoq.cn/article/61DFAJiVlqlaWQXi9kzA?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文探讨了AI爬虫对电商平台带来的安全挑战，指出传统基于规则的拦截手段已难以应对智能化爬虫，安全防线正从被动拦截转向主动判断。核心价值在于提出通过行为分析、风险评分和机器学习模型来区分正常用户与恶意爬虫，从而在保障用户体验的同时维护数据安全。技术亮点包括实时流量识别、动态风险评估和自适应策略调整。适用于电商反爬、数据保护和业务风控等场景。",
+  "tags": [
+    "AI Crawler",
+    "E-commerce",
+    "Security",
+    "Machine Learning",
+    "Risk Assessment",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

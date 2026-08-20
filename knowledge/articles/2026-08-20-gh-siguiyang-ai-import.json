@@ -1,0 +1,19 @@
+{
+  "id": "github-20260820-009",
+  "title": "SiGuiyang/ai-import",
+  "source_url": "https://github.com/SiGuiyang/ai-import",
+  "source_type": "github_trending",
+  "summary": "ai-import 是一个简化 AI 模型导入流程的工具，提供统一的接口来加载和配置多种主流 AI 框架（如 PyTorch、TensorFlow 等），减少样板代码，提升开发效率。适用于快速原型验证、模型迁移和教学演示场景，尤其适合需要频繁切换框架的开发者。",
+  "tags": [
+    "AI",
+    "Model Import",
+    "Developer Tools",
+    "Framework",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

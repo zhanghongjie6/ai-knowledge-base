@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-005",
+  "title": "Proactive Road Safety Intervention in Australia: Predicting Risky Driving Hotspots from Connected Vehicle Data",
+  "source_url": "https://arxiv.org/abs/2608.16913",
+  "source_type": "rss",
+  "summary": "该研究提出利用网联车辆数据主动预测澳大利亚道路危险驾驶热点，替代传统基于事故记录的事后分析。通过实时数据挖掘与机器学习，识别高风险区域，实现预防性干预，提升道路安全，减少伤亡。",
+  "tags": [
+    "Connected Vehicles",
+    "Road Safety",
+    "Predictive Analytics",
+    "Machine Learning",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

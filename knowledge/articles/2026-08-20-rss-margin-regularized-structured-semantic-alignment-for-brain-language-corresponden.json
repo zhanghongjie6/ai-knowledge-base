@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-004",
+  "title": "Margin-Regularized Structured Semantic Alignment for Brain-Language Correspondence",
+  "source_url": "https://arxiv.org/abs/2608.16975",
+  "source_type": "rss",
+  "summary": "本文提出一种基于边界正则化的结构化语义对齐方法，用于增强大脑-语言对应关系。该方法利用大语言模型提取语义特征，并通过结构化对齐与边界正则化提升脑电/功能磁共振信号与文本表征的匹配度，在神经解码任务中展现潜力，适用于认知神经科学与脑机接口研究。",
+  "tags": [
+    "Brain-Language Decoding",
+    "Semantic Alignment",
+    "LLM",
+    "Neural Decoding",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

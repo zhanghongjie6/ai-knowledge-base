@@ -1,0 +1,20 @@
+{
+  "id": "github-20260820-002",
+  "title": "frankxai/prompt-engine",
+  "source_url": "https://github.com/frankxai/prompt-engine",
+  "source_type": "github_trending",
+  "summary": "prompt-engine 是一个面向 Claude、GPT、Gemini 及开源模型的多智能体提示工程平台，由 13 个专业 agent 组成，覆盖提示设计、优化、评估、红队测试和内部检查等全流程。所有提示均通过统一的质量门禁，确保一致性和可靠性。适用于需要系统化管理和迭代提示词的生产环境，可显著提升 LLM 应用的稳定性和安全性。",
+  "tags": [
+    "Prompt Engineering",
+    "Multi-Agent",
+    "LLM",
+    "Evaluation",
+    "Red-Teaming",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

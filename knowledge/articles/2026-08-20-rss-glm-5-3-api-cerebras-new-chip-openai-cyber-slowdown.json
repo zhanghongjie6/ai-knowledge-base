@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-008",
+  "title": "GLM-5.3 API 🤖, Cerebras’ new chip ⚡, OpenAI cyber slowdown 🚨",
+  "source_url": "https://tldr.tech/ai/2026-08-19",
+  "source_type": "rss",
+  "summary": "本期TLDR AI摘要涵盖三大热点：智谱发布GLM-5.3 API，性能显著提升；Cerebras推出新型AI芯片，主打高速推理；OpenAI因安全审查放缓模型发布节奏。这些动态分别代表国产大模型商业化、专用芯片竞争及行业安全合规趋势，对开发者选型和企业AI战略有直接参考价值。",
+  "tags": [
+    "LLM",
+    "AI Chip",
+    "AI Safety",
+    "API",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

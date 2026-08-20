@@ -1,0 +1,172 @@
+[
+  {
+    "title": "tech-leads-club/harness-toolkit",
+    "url": "https://github.com/tech-leads-club/harness-toolkit",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Steers Cursor and Claude Code agents with gates → follow-up → handoff → policy.",
+    "pushed_at": "2026-08-20T00:51:25Z",
+    "created_at_source": "2026-08-05T14:01:29Z"
+  },
+  {
+    "title": "frankxai/prompt-engine",
+    "url": "https://github.com/frankxai/prompt-engine",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "13-agent prompt-engineering team for Claude, GPT, Gemini, and OSS models. Design / optimize / evaluate / red-team / introspect — every prompt walks the same gate.",
+    "pushed_at": "2026-08-20T00:51:24Z",
+    "created_at_source": "2026-05-14T11:33:59Z"
+  },
+  {
+    "title": "HexaConqueror/llm-adaptive-learning",
+    "url": "https://github.com/HexaConqueror/llm-adaptive-learning",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-20T00:51:26Z",
+    "created_at_source": "2026-08-20T00:51:22Z"
+  },
+  {
+    "title": "greftukim/gref_ai",
+    "url": "https://github.com/greftukim/gref_ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-20T00:51:22Z",
+    "created_at_source": "2026-02-25T08:31:33Z"
+  },
+  {
+    "title": "clawdbotatg/clawd-daily",
+    "url": "https://github.com/clawdbotatg/clawd-daily",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "daily brief at the intersection of crypto and ai — headlines first, curated by clawd 🦞",
+    "pushed_at": "2026-08-20T00:51:22Z",
+    "created_at_source": "2026-08-18T16:11:19Z"
+  },
+  {
+    "title": "Geoffrey-Fitzjarrell-ai/generator_servicing",
+    "url": "https://github.com/Geoffrey-Fitzjarrell-ai/generator_servicing",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "repo created to store data collected from trucking to schedule maintenance for generators",
+    "pushed_at": "2026-08-20T00:51:18Z",
+    "created_at_source": "2026-06-30T06:45:48Z"
+  },
+  {
+    "title": "silvatechf/security-report-assistant",
+    "url": "https://github.com/silvatechf/security-report-assistant",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "El sistema actúa como un microservicio en Python que ingiere la telemetría estructurada proveniente del motor de triaje analítico (Lab 3), procesa los Indicadores de Compromiso (IoCs) mediante análisi",
+    "pushed_at": "2026-08-20T00:51:18Z",
+    "created_at_source": "2026-06-07T17:23:53Z"
+  },
+  {
+    "title": "gaberossifs1127/creatorai-video-studio",
+    "url": "https://github.com/gaberossifs1127/creatorai-video-studio",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "CreatorAI Studio vLatest is a browser-based AI video editor for 2026 that analyzes reference footage and reshapes raw clips around its pacing, transitions, and color style in the current release.",
+    "pushed_at": "2026-08-20T00:51:18Z",
+    "created_at_source": "2026-08-01T22:30:21Z"
+  },
+  {
+    "title": "SiGuiyang/ai-import",
+    "url": "https://github.com/SiGuiyang/ai-import",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "ai-import",
+    "pushed_at": "2026-08-20T00:51:17Z",
+    "created_at_source": "2026-06-05T09:02:36Z"
+  },
+  {
+    "title": "YYC-Cube/YYC3-Family-AI-Agents",
+    "url": "https://github.com/YYC-Cube/YYC3-Family-AI-Agents",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-20T00:51:17Z",
+    "created_at_source": "2026-08-19T20:12:46Z"
+  },
+  {
+    "title": "AI爬虫涌入电商，安全防线正在从“拦截”转向“判断”",
+    "url": "https://www.infoq.cn/article/61DFAJiVlqlaWQXi9kzA?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+    "url": "https://sspai.com/post/113618",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这三个Beta版本 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+    "url": "https://arxiv.org/abs/2608.16890",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.16890v1 Announce Type: new \nAbstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submissi",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Margin-Regularized Structured Semantic Alignment for Brain-Language Correspondence",
+    "url": "https://arxiv.org/abs/2608.16975",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.16975v1 Announce Type: new \nAbstract: With the rapid advancement of large language models, brain-language decoding has achieved remarkable progress. However, it remains unclear whether deco",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Proactive Road Safety Intervention in Australia: Predicting Risky Driving Hotspots from Connected Vehicle Data",
+    "url": "https://arxiv.org/abs/2608.16913",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.16913v1 Announce Type: new \nAbstract: Road safety monitoring has historically been reactive, relying on crash-record analysis after fatalities and injuries have already occurred. Proactive ",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Multi-Observer Vehicle Localization Case Study with Roadside Radar and Connected Vehicle Sensing",
+    "url": "https://arxiv.org/abs/2608.16966",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.16966v1 Announce Type: new \nAbstract: In modern intelligent transportation systems, it is essential to accurately estimate vehicle positions, especially in mixed traffic conditions where bo",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
+    "url": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "In a letter to investors, Stripe declares January 1 the \"beginning of the singularity\" and uses that as a reason to stay private. Not that it needs one: revenue grew 41 percent in the first half of th",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "GLM-5.3 API 🤖, Cerebras’ new chip ⚡, OpenAI cyber slowdown 🚨",
+    "url": "https://tldr.tech/ai/2026-08-19",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Domain and publish date filters for Web Search on AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult an",
+    "feed_name": "AWS ML Blog"
+  }
+]

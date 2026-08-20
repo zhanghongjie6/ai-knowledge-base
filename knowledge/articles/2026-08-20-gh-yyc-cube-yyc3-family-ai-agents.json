@@ -1,0 +1,19 @@
+{
+  "id": "github-20260820-010",
+  "title": "YYC-Cube/YYC3-Family-AI-Agents",
+  "source_url": "https://github.com/YYC-Cube/YYC3-Family-AI-Agents",
+  "source_type": "github_trending",
+  "summary": "YYC3-Family-AI-Agents 是一个面向多场景的 AI 智能体家族项目，提供模块化、可扩展的 Agent 框架，支持任务规划、工具调用和知识增强。其核心价值在于降低 AI 应用开发门槛，适用于自动化办公、智能客服、数据分析等场景。技术亮点包括灵活的插件机制、多模型适配和高效的任务编排。",
+  "tags": [
+    "AI Agent",
+    "Multi-Agent",
+    "Framework",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

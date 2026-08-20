@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-009",
+  "title": "Offering Zero Data Retention for frontier models",
+  "source_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+  "source_type": "rss",
+  "summary": "OpenAI 为符合条件的API客户提供零数据保留（ZDR）选项，确保数据不被存储或用于训练，同时预览私有安全处理技术，在不牺牲隐私的前提下实现高级AI安全审查。该举措强化了企业级数据合规能力，适用于金融、医疗等敏感行业，平衡了前沿模型的安全性与隐私保护需求。",
+  "tags": [
+    "Data Privacy",
+    "Zero Data Retention",
+    "Enterprise AI",
+    "AI Safety",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260820-003",
+  "title": "HexaConqueror/llm-adaptive-learning",
+  "source_url": "https://github.com/HexaConqueror/llm-adaptive-learning",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套基于大语言模型的个性化学习系统，通过自适应算法动态调整学习内容与难度，结合知识图谱与用户反馈，实现高效学习路径规划。支持多学科场景，可集成到教育平台或智能辅导工具中，提升学习效果与用户体验。",
+  "tags": [
+    "LLM",
+    "Adaptive Learning",
+    "EdTech",
+    "Knowledge Graph",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

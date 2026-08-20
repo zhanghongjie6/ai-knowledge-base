@@ -1,0 +1,19 @@
+{
+  "id": "github-20260820-001",
+  "title": "tech-leads-club/harness-toolkit",
+  "source_url": "https://github.com/tech-leads-club/harness-toolkit",
+  "source_type": "github_trending",
+  "summary": "harness-toolkit 是一个用于引导 Cursor 和 Claude Code 代理的工具包，通过门控、跟进、交接和策略机制，实现对 AI 编码代理的精细控制。它帮助团队在开发流程中嵌入规则和检查点，确保代理行为符合预期，提升代码质量和协作效率。适用于需要严格管控 AI 辅助开发的团队，尤其适合大型项目或合规要求高的场景。",
+  "tags": [
+    "AI Agent",
+    "Developer Tools",
+    "Workflow",
+    "Policy",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

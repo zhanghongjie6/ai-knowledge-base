@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260820-003",
+  "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
+  "source_url": "https://arxiv.org/abs/2608.16890",
+  "source_type": "rss",
+  "summary": "GxP-Agent 提出将临床试试验编程流程建模为过程DAG拓扑，以提升LLM智能体在监管合规场景下的可靠性。其核心价值在于将CDISC标准下的协议转数据集任务结构化分解，减少错误传播，适用于药物审批、数据分析和自动化报告生成等场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Clinical Trial",
+    "Workflow",
+    "DAG",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}

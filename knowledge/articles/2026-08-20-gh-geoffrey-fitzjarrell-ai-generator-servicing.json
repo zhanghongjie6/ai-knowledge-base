@@ -1,0 +1,18 @@
+{
+  "id": "github-20260820-006",
+  "title": "Geoffrey-Fitzjarrell-ai/generator_servicing",
+  "source_url": "https://github.com/Geoffrey-Fitzjarrell-ai/generator_servicing",
+  "source_type": "github_trending",
+  "summary": "该仓库用于存储从卡车运输行业收集的数据，以安排发电机维护计划。核心价值在于将运输数据与设备维护管理结合，提供数据驱动的维护调度基础。技术亮点可能涉及数据采集与存储，但当前内容较为初步。适用场景包括物流车队发电机维护管理。",
+  "tags": [
+    "Maintenance",
+    "Data Collection",
+    "Trucking",
+    "github"
+  ],
+  "score": 4,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-20T00:52:31+00:00",
+  "updated_at": "2026-08-20T00:52:31+00:00"
+}
