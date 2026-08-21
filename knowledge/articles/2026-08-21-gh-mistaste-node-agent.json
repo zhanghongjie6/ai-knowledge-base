@@ -1,0 +1,19 @@
+{
+  "id": "github-20260821-005",
+  "title": "mistaste/node-agent",
+  "source_url": "https://github.com/mistaste/node-agent",
+  "source_type": "github_trending",
+  "summary": "node-agent 是一个基于 Node.js 的轻量级 AI 代理框架，专注于简化 LLM 调用与工具集成。它提供统一的 API 接口，支持多模型切换、流式输出和函数调用，适合快速构建聊天机器人、自动化工作流等场景。其核心优势在于低依赖、易扩展，并内置了请求重试和错误处理机制。",
+  "tags": [
+    "Node.js",
+    "AI Agent",
+    "LLM",
+    "Tool Calling",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-21T00:56:05+00:00",
+  "updated_at": "2026-08-21T00:56:05+00:00"
+}

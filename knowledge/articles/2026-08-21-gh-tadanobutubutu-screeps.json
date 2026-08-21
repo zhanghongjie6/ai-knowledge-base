@@ -1,0 +1,19 @@
+{
+  "id": "github-20260821-006",
+  "title": "tadanobutubutu/screeps",
+  "source_url": "https://github.com/tadanobutubutu/screeps",
+  "source_type": "github_trending",
+  "summary": "该仓库是《Screeps》游戏（一款面向程序员的MMO策略游戏）的AI代码库，展示了如何通过JavaScript编写脚本控制游戏中的单位（creeps）进行资源采集、建造、战斗等操作。核心价值在于提供了一套可运行的Screeps AI实现，包含基础架构和策略逻辑，适合学习游戏AI开发和自动化决策。技术亮点包括模块化代码组织、任务分配机制和路径规划。使用场景包括游戏玩家参考、AI编程学习及算法实践。",
+  "tags": [
+    "Game AI",
+    "JavaScript",
+    "Automation",
+    "Strategy",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-08-21T00:56:05+00:00",
+  "updated_at": "2026-08-21T00:56:05+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260821-005",
+  "title": "Entropy-Constrained Adaptive Stochastic Quantization",
+  "source_url": "https://arxiv.org/abs/2608.18147",
+  "source_type": "rss",
+  "summary": "熵约束自适应随机量化（ASQ）是一种针对给定输入优化均方误差（MSE）的新型量化方法。通过引入熵约束，该方法在保持高压缩率的同时，显著提升量化精度，适用于深度学习模型压缩、边缘计算和分布式训练等场景。其技术亮点在于动态调整量化参数，平衡信息损失与压缩比，为高效推理提供新思路。",
+  "tags": [
+    "Quantization",
+    "Model Compression",
+    "Edge Computing",
+    "Deep Learning",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-21T00:56:05+00:00",
+  "updated_at": "2026-08-21T00:56:05+00:00"
+}

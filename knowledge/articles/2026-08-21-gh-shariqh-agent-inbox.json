@@ -1,0 +1,19 @@
+{
+  "id": "github-20260821-007",
+  "title": "shariqh/agent-inbox",
+  "source_url": "https://github.com/shariqh/agent-inbox",
+  "source_type": "github_trending",
+  "summary": "agent-inbox 是一个本地优先的编码代理注意力收件箱，通过 MCP 和 SQLite 实现跨项目、跨工具的待办事项与通知聚合。它提供统一视图，帮助开发者集中管理来自不同 AI 编码代理的请求和任务，避免信息分散，提升多代理协作效率。核心价值在于轻量、隐私安全且易于集成，适用于本地开发环境中的多代理工作流管理。",
+  "tags": [
+    "MCP",
+    "SQLite",
+    "Agent",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-21T00:56:05+00:00",
+  "updated_at": "2026-08-21T00:56:05+00:00"
+}

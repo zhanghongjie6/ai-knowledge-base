@@ -1,0 +1,172 @@
+[
+  {
+    "title": "EstebanForge/construct-cli",
+    "url": "https://github.com/EstebanForge/construct-cli",
+    "source": "github_trending",
+    "popularity": 61,
+    "summary": "The secure loading program (sandbox) for AI Agents",
+    "pushed_at": "2026-08-21T00:55:01Z",
+    "created_at_source": "2025-12-18T22:38:14Z"
+  },
+  {
+    "title": "tom-hugheslmg3433/drug-discovery-graph-models",
+    "url": "https://github.com/tom-hugheslmg3433/drug-discovery-graph-models",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Python toolkit for AI drug discovery in 2026, using graph neural networks for molecular modeling, property estimation, binding-affinity analysis, toxicity prediction, and drug-combination studies.",
+    "pushed_at": "2026-08-21T00:55:00Z",
+    "created_at_source": "2026-08-02T14:36:29Z"
+  },
+  {
+    "title": "MahsaKeikha/agentic_data_engineering",
+    "url": "https://github.com/MahsaKeikha/agentic_data_engineering",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-21T00:55:00Z",
+    "created_at_source": "2026-08-21T00:54:59Z"
+  },
+  {
+    "title": "Zakha-star/cashbook-connector",
+    "url": "https://github.com/Zakha-star/cashbook-connector",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI-assisted bank reconciliation web app that matches cashbook entries to bank statements and flags discrepancies. Built with Lovable.",
+    "pushed_at": "2026-08-21T00:55:00Z",
+    "created_at_source": "2026-08-21T00:31:14Z"
+  },
+  {
+    "title": "mistaste/node-agent",
+    "url": "https://github.com/mistaste/node-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-21T00:54:59Z",
+    "created_at_source": "2026-06-17T14:02:46Z"
+  },
+  {
+    "title": "tadanobutubutu/screeps",
+    "url": "https://github.com/tadanobutubutu/screeps",
+    "source": "github_trending",
+    "popularity": 3,
+    "summary": "Screeps AI code repository",
+    "pushed_at": "2026-08-21T00:54:59Z",
+    "created_at_source": "2026-02-19T12:28:45Z"
+  },
+  {
+    "title": "shariqh/agent-inbox",
+    "url": "https://github.com/shariqh/agent-inbox",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Local, cross-project, cross-tool attention inbox for coding agents (MCP + SQLite + viewer)",
+    "pushed_at": "2026-08-21T00:54:59Z",
+    "created_at_source": "2026-07-16T03:45:14Z"
+  },
+  {
+    "title": "brndnsh-labs/the-cycle",
+    "url": "https://github.com/brndnsh-labs/the-cycle",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "An installable, self-updating work pipeline for AI coding harnesses",
+    "pushed_at": "2026-08-21T00:54:58Z",
+    "created_at_source": "2026-08-01T13:17:40Z"
+  },
+  {
+    "title": "brown-m2762/aixnqv",
+    "url": "https://github.com/brown-m2762/aixnqv",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-21T00:54:58Z",
+    "created_at_source": "2026-08-20T14:14:32Z"
+  },
+  {
+    "title": "gtg7784/exposed-ai-api-keys",
+    "url": "https://github.com/gtg7784/exposed-ai-api-keys",
+    "source": "github_trending",
+    "popularity": 8,
+    "summary": "Please change your api keys to env variable or secrets manager or another place",
+    "pushed_at": "2026-08-21T00:54:58Z",
+    "created_at_source": "2026-04-15T07:49:42Z"
+  },
+  {
+    "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+    "url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：华为发布 Pura X View、享界 G9 等多款新品",
+    "url": "https://sspai.com/post/113666",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "影石推出竖拍云台相机 Luna Pro，森海塞尔发布 MOMENTUM True Wireless 5 真无线耳机等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+    "url": "https://arxiv.org/abs/2608.18078",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.18078v1 Announce Type: new \nAbstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be requ",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "LongNovel: A Multi-Scale Benchmark for Hallucination Detection in Long-Context Novel Summarization",
+    "url": "https://arxiv.org/abs/2608.18082",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.18082v1 Announce Type: new \nAbstract: Although context windows have expanded significantly in recent years, hallucinations in long-context summarization remain a challenge. Long novels are ",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Entropy-Constrained Adaptive Stochastic Quantization",
+    "url": "https://arxiv.org/abs/2608.18147",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.18147v1 Announce Type: new \nAbstract: Adaptive stochastic quantization (ASQ) is a recently introduced quantization approach that optimizes the Mean Squared Error (MSE) for a given input whi",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Human-Centric Intelligence in the Era of Foundation Models: A Survey",
+    "url": "https://arxiv.org/abs/2608.18184",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.18184v1 Announce Type: new \nAbstract: Human-centric intelligence is evolving in the foundation-model era, with growing emphasis on scale, transferability, and general-purpose modeling. Yet ",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
+    "url": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projec",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
+    "url": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "S1-mini is a 462 MB open-weights normalizer that sits after ASR, removing fillers and resolving self-corrections locally.\nThe post Meet S1-mini: Superwhisper&#8217;s 462 MB Open-Weights Text Normalize",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Muse Video leaks 📹, Ramp Router launch 🔀, why Stripe bought OpenRouter 💰",
+    "url": "https://tldr.tech/ai/2026-08-20",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "feed_name": "OpenAI"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260821-001",
+  "title": "EstebanForge/construct-cli",
+  "source_url": "https://github.com/EstebanForge/construct-cli",
+  "source_type": "github_trending",
+  "summary": "construct-cli 是一个为 AI 代理提供安全加载环境（沙箱）的命令行工具。它通过隔离代理的执行环境，防止恶意代码或意外操作对主机系统造成损害，同时支持灵活的配置和资源限制。适用于需要安全运行第三方或不可信 AI 代理的场景，如自动化任务、插件系统等。其核心价值在于提升 AI 代理部署的安全性和可控性。",
+  "tags": [
+    "AI Agent",
+    "Sandbox",
+    "Security",
+    "CLI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 61,
+  "status": "draft",
+  "created_at": "2026-08-21T00:56:05+00:00",
+  "updated_at": "2026-08-21T00:56:05+00:00"
+}

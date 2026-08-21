@@ -1,0 +1,19 @@
+{
+  "id": "github-20260821-008",
+  "title": "brndnsh-labs/the-cycle",
+  "source_url": "https://github.com/brndnsh-labs/the-cycle",
+  "source_type": "github_trending",
+  "summary": "The Cycle 是一个可安装、自更新的 AI 编码工作流水线，旨在为 AI 编程工具提供持续集成与部署能力。它通过自动化流程管理代码生成、测试与迭代，减少人工干预，提升开发效率。适用于需要快速迭代的 AI 辅助开发场景，尤其适合团队协作与持续交付。",
+  "tags": [
+    "AI Coding",
+    "Pipeline",
+    "Automation",
+    "DevOps",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-21T00:56:05+00:00",
+  "updated_at": "2026-08-21T00:56:05+00:00"
+}

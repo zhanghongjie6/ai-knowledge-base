@@ -1,0 +1,19 @@
+{
+  "id": "github-20260821-003",
+  "title": "MahsaKeikha/agentic_data_engineering",
+  "source_url": "https://github.com/MahsaKeikha/agentic_data_engineering",
+  "source_type": "github_trending",
+  "summary": "该开源项目展示了如何利用AI智能体（Agent）自动化数据工程全流程，包括数据采集、清洗、转换、加载及质量监控。通过自然语言交互，降低数据管道构建门槛，提升开发效率。适用于数据工程师快速原型验证、非技术用户自助分析及企业数据平台智能化升级场景。",
+  "tags": [
+    "Data Engineering",
+    "Agent",
+    "Automation",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-21T00:56:05+00:00",
+  "updated_at": "2026-08-21T00:56:05+00:00"
+}

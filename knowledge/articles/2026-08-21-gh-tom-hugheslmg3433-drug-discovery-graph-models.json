@@ -1,0 +1,19 @@
+{
+  "id": "github-20260821-002",
+  "title": "tom-hugheslmg3433/drug-discovery-graph-models",
+  "source_url": "https://github.com/tom-hugheslmg3433/drug-discovery-graph-models",
+  "source_type": "github_trending",
+  "summary": "该工具包面向2026年AI药物发现，基于图神经网络实现分子建模、性质预测、结合亲和力分析、毒性预测及药物组合研究。提供Python接口，集成数据预处理、模型训练与评估流程，适用于药物研发早期筛选与优化，降低实验成本并加速候选药物发现。",
+  "tags": [
+    "Drug Discovery",
+    "Graph Neural Networks",
+    "Molecular Modeling",
+    "Toxicity Prediction",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-21T00:56:05+00:00",
+  "updated_at": "2026-08-21T00:56:05+00:00"
+}

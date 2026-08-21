@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260821-006",
+  "title": "Human-Centric Intelligence in the Era of Foundation Models: A Survey",
+  "source_url": "https://arxiv.org/abs/2608.18184",
+  "source_type": "rss",
+  "summary": "该综述探讨了基础模型时代下以人为中心的智能演进，强调规模化、可迁移性和通用建模的重要性。文章系统梳理了相关技术路线，并指出当前挑战与未来方向，为构建更贴合人类需求的AI系统提供了理论框架和实践指导，适用于人机交互、个性化服务及社会计算等场景。",
+  "tags": [
+    "Foundation Models",
+    "Human-Centric AI",
+    "Survey",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-21T00:56:05+00:00",
+  "updated_at": "2026-08-21T00:56:05+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260821-008",
+  "title": "Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
+  "source_url": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
+  "source_type": "rss",
+  "summary": "S1-mini 是 Superwhisper 推出的 462MB 开源权重文本规范化模型，专为 ASR 后处理设计。它能去除口语填充词（如“嗯”“啊”）、解决自我纠正，将原始转录转换为干净书面文本。模型轻量，可本地部署，适用于会议记录、字幕生成、语音助手等场景，提升文本可读性和下游任务效果。",
+  "tags": [
+    "ASR",
+    "Text Normalization",
+    "Open Weights",
+    "NLP",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-21T00:56:05+00:00",
+  "updated_at": "2026-08-21T00:56:05+00:00"
+}
