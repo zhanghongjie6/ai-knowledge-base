@@ -1,0 +1,19 @@
+{
+  "id": "github-20260822-004",
+  "title": "yaso0o5/ai-real-estate",
+  "source_url": "https://github.com/yaso0o5/ai-real-estate",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI驱动的房地产分析工具，整合了数据抓取、机器学习预测和可视化功能，帮助用户评估房产价值、市场趋势和投资潜力。核心价值在于将复杂房地产数据转化为可操作洞察，适用于购房者、投资者和中介。技术亮点包括自动化数据管道、预测模型和交互式仪表盘。",
+  "tags": [
+    "Real Estate",
+    "Machine Learning",
+    "Data Visualization",
+    "Predictive Analytics",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-22T00:52:37+00:00",
+  "updated_at": "2026-08-22T00:52:37+00:00"
+}

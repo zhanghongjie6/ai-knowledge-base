@@ -1,0 +1,18 @@
+{
+  "id": "github-20260822-002",
+  "title": "mrman055/jinx-agent-orignal",
+  "source_url": "https://github.com/mrman055/jinx-agent-orignal",
+  "source_type": "github_trending",
+  "summary": "Jinx Agent 是一个开源智能体框架，专注于简化多步骤任务自动化与工具调用。其核心价值在于提供轻量级、可扩展的代理编排能力，支持自定义工具集成与记忆管理。适用于个人助理、自动化工作流及快速原型开发场景，技术亮点包括模块化设计、低依赖和直观的API。",
+  "tags": [
+    "Agent",
+    "Automation",
+    "Open Source",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-22T00:52:37+00:00",
+  "updated_at": "2026-08-22T00:52:37+00:00"
+}

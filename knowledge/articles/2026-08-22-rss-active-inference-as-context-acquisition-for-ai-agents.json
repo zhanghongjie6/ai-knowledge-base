@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260822-003",
+  "title": "Active Inference as Context Acquisition for AI Agents",
+  "source_url": "https://arxiv.org/abs/2608.19202",
+  "source_type": "rss",
+  "summary": "本文提出将主动推理（Active Inference）应用于AI代理的上下文获取，以解决用户省略约束、偏好、文件或任务变量时的高效上下文获取问题。核心价值在于通过主动感知和行动选择，最小化获取必要上下文所需的交互成本，提升代理在真实交互场景中的效率与鲁棒性。技术亮点包括将主动推理框架与上下文建模结合，支持动态信息寻求。适用于对话系统、任务自动化及个性化助手等场景。",
+  "tags": [
+    "Active Inference",
+    "AI Agents",
+    "Context Acquisition",
+    "Interactive Systems",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-22T00:52:37+00:00",
+  "updated_at": "2026-08-22T00:52:37+00:00"
+}

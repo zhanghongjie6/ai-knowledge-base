@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260822-004",
+  "title": "A Virtual Member of a Community of Practice for the Society of Petroleum Engineers: From Prototype to Deployment",
+  "source_url": "https://arxiv.org/abs/2608.19199",
+  "source_type": "rss",
+  "summary": "ATHENA是一个为石油工程师协会（SPE）设计的虚拟社区成员，从原型演进到部署，旨在支持知识捕获、检索和传播。其核心价值在于将AI助手融入专业社区实践，提升知识管理效率。技术亮点包括自然语言处理、知识图谱和个性化推荐。应用场景包括技术问答、文档检索和专家经验分享。",
+  "tags": [
+    "Knowledge Management",
+    "Virtual Assistant",
+    "Community of Practice",
+    "NLP",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-22T00:52:37+00:00",
+  "updated_at": "2026-08-22T00:52:37+00:00"
+}

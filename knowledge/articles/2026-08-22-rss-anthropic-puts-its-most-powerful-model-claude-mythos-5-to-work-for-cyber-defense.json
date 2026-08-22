@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260822-007",
+  "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
+  "source_url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+  "source_type": "rss",
+  "summary": "Anthropic将其最强大的模型Claude Mythos 5应用于网络安全防御，通过安全扫描器Claude Security对代码库进行漏洞检测，提供严重性评级和CWE分类，并给出修复建议。该工具旨在提升代码安全审计的效率和准确性，适用于开发流程中的安全审查和漏洞管理。",
+  "tags": [
+    "Cybersecurity",
+    "LLM",
+    "Code Analysis",
+    "AI Security",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-22T00:52:37+00:00",
+  "updated_at": "2026-08-22T00:52:37+00:00"
+}

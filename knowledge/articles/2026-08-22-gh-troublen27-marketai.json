@@ -1,0 +1,19 @@
+{
+  "id": "github-20260822-009",
+  "title": "troubleN27/MarketAI",
+  "source_url": "https://github.com/troubleN27/MarketAI",
+  "source_type": "github_trending",
+  "summary": "MarketAI是一个面向金融市场的AI分析工具，整合实时行情数据与自然语言处理，提供市场情绪分析、趋势预测和投资建议生成。其核心价值在于将大语言模型与量化交易指标结合，支持多资产类别（股票、加密货币等），并通过可解释的AI输出帮助用户理解市场动态。适用于个人投资者快速获取洞察，以及量化团队辅助策略研发。",
+  "tags": [
+    "LLM",
+    "FinTech",
+    "Quantitative Analysis",
+    "Market Intelligence",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-22T00:52:37+00:00",
+  "updated_at": "2026-08-22T00:52:37+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260822-001",
+  "title": "cc-crack/jeb-agent",
+  "source_url": "https://github.com/cc-crack/jeb-agent",
+  "source_type": "github_trending",
+  "summary": "jeb-agent 是一个为 JEB 逆向工程平台设计的技能模块，旨在通过智能代理增强 JEB 的自动化分析能力。它可能集成 LLM 来辅助代码反编译、漏洞挖掘和二进制分析，提升逆向工程效率。适用于安全研究员、恶意软件分析人员及漏洞挖掘场景，能简化复杂逆向任务。",
+  "tags": [
+    "Reverse Engineering",
+    "LLM",
+    "Security",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-22T00:52:37+00:00",
+  "updated_at": "2026-08-22T00:52:37+00:00"
+}

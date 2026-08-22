@@ -1,0 +1,172 @@
+[
+  {
+    "title": "cc-crack/jeb-agent",
+    "url": "https://github.com/cc-crack/jeb-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "a JEB skill",
+    "pushed_at": "2026-08-22T00:51:30Z",
+    "created_at_source": "2026-07-09T12:24:29Z"
+  },
+  {
+    "title": "mrman055/jinx-agent-orignal",
+    "url": "https://github.com/mrman055/jinx-agent-orignal",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-22T00:51:28Z",
+    "created_at_source": "2026-08-22T00:51:27Z"
+  },
+  {
+    "title": "oubakiou/delegate-skills",
+    "url": "https://github.com/oubakiou/delegate-skills",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "delegate-skills — Offload implement / investigate / git tasks to cheaper models. File-based md2idx protocol keeps the main agent's context lean.",
+    "pushed_at": "2026-08-22T00:51:26Z",
+    "created_at_source": "2026-06-21T08:10:11Z"
+  },
+  {
+    "title": "yaso0o5/ai-real-estate",
+    "url": "https://github.com/yaso0o5/ai-real-estate",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-22T00:51:25Z",
+    "created_at_source": "2026-08-21T15:23:07Z"
+  },
+  {
+    "title": "yasirmir1/kudos-ai",
+    "url": "https://github.com/yasirmir1/kudos-ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-22T00:51:25Z",
+    "created_at_source": "2025-08-01T23:15:38Z"
+  },
+  {
+    "title": "elvatis/elvatis-mcp",
+    "url": "https://github.com/elvatis/elvatis-mcp",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "MCP server for OpenClaw - expose smart home, memory, and automation tools to Claude Desktop, Cursor, Windsurf, and any MCP client",
+    "pushed_at": "2026-08-22T00:51:24Z",
+    "created_at_source": "2026-03-31T09:48:41Z"
+  },
+  {
+    "title": "Tristan578/project-forge",
+    "url": "https://github.com/Tristan578/project-forge",
+    "source": "github_trending",
+    "popularity": 5,
+    "summary": "AI-native 3D game engine for the browser. MCP commands let LLMs and agents build complete games - scenes, physics, audio, particles, scripts, and export  via natural language. Powered by WebGPU, Rust/",
+    "pushed_at": "2026-08-22T00:51:23Z",
+    "created_at_source": "2026-02-11T22:52:17Z"
+  },
+  {
+    "title": "Navruzbek/emehmon_ai_bot",
+    "url": "https://github.com/Navruzbek/emehmon_ai_bot",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-22T00:51:23Z",
+    "created_at_source": "2026-08-22T00:51:21Z"
+  },
+  {
+    "title": "troubleN27/MarketAI",
+    "url": "https://github.com/troubleN27/MarketAI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-22T00:51:22Z",
+    "created_at_source": "2026-08-22T00:43:20Z"
+  },
+  {
+    "title": "calebpower/botguilds-agent-orchestrator",
+    "url": "https://github.com/calebpower/botguilds-agent-orchestrator",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Self-learning loop and agent orchestrator for https://bot.willmorrison.net",
+    "pushed_at": "2026-08-22T00:51:22Z",
+    "created_at_source": "2026-08-17T00:39:08Z"
+  },
+  {
+    "title": "神秘“Ox Alpha”突袭 OpenRouter，性能超过 Fable 5？全网盲猜智谱 or 小米",
+    "url": "https://www.infoq.cn/article/3MNJh5F34GSsRQJJWJzY?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 10 部作品",
+    "url": "https://sspai.com/post/113693",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯、佩德罗·帕斯卡等主演，小罗伯特·唐尼回归 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Active Inference as Context Acquisition for AI Agents",
+    "url": "https://arxiv.org/abs/2608.19202",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.19202v1 Announce Type: new \nAbstract: Interactive AI agents must acquire the right context as efficiently as possible. When a user omits a constraint, preference, file, or task variable, an",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "A Virtual Member of a Community of Practice for the Society of Petroleum Engineers: From Prototype to Deployment",
+    "url": "https://arxiv.org/abs/2608.19199",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.19199v1 Announce Type: new \nAbstract: We describe the evolution of a virtual assistant, called ATHENA, designed to support the capture, retrieval, and dissemination of knowledge for members",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Towards On-Board Implementation of ML-Based Helicopter Weight Estimator",
+    "url": "https://arxiv.org/abs/2608.19210",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.19210v1 Announce Type: new \nAbstract: This paper focuses on the implementation of a novel supervised Machine Learning model for estimating helicopter weight during takeoff, utilizing extens",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Clustering and Token Denoising for Faster and More Robust VLMs",
+    "url": "https://arxiv.org/abs/2608.19285",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.19285v1 Announce Type: new \nAbstract: Recent Visual-Language Models (VLMs) have enhanced the capabilities of pre-trained LLMs by adding vision tokens alongside text, with approaches like LL",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Anthropic puts its most powerful model Claude Mythos 5 to work for cyber defense",
+    "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic is now running its security scanner Claude Security on Claude Mythos 5. The tool scans codebases for vulnerabilities, provides severity ratings with CWE classifications, and suggests patches",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+    "url": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading toward IPOs; Groq rebuilt itself as an inference clou",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "ChatGPT Apple Messages 💬, Anthropic’s meeting recorder 💼, Mistral Agentic Search 🔍",
+    "url": "https://tldr.tech/ai/2026-08-21",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Google DeepMind"
+  }
+]

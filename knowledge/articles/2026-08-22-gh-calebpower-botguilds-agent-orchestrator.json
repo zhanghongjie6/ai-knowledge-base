@@ -1,0 +1,19 @@
+{
+  "id": "github-20260822-010",
+  "title": "calebpower/botguilds-agent-orchestrator",
+  "source_url": "https://github.com/calebpower/botguilds-agent-orchestrator",
+  "source_type": "github_trending",
+  "summary": "BotGuilds Agent Orchestrator 是一个面向 bot.willmorrison.net 的智能体编排框架，核心价值在于实现自学习循环，让多个代理协同工作并持续优化。技术亮点包括动态任务分配、反馈驱动的自我改进机制，以及灵活的代理管理。适用于自动化工作流、多代理协作和持续学习场景。",
+  "tags": [
+    "Agent",
+    "Orchestration",
+    "Self-Learning",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-22T00:52:37+00:00",
+  "updated_at": "2026-08-22T00:52:37+00:00"
+}
