@@ -1,0 +1,19 @@
+{
+  "id": "github-20260823-002",
+  "title": "buckrich/aierya",
+  "source_url": "https://github.com/buckrich/aierya",
+  "source_type": "github_trending",
+  "summary": "aierya是一个开源AI代理平台，支持多模型统一接入与可视化工作流编排。核心价值在于降低AI应用开发门槛，通过拖拽式界面快速构建智能体，适用于自动化任务、客服系统和数据分析等场景。技术亮点包括模块化架构和灵活的模型切换。",
+  "tags": [
+    "Agent",
+    "Workflow",
+    "Open Source",
+    "Multi-Model",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

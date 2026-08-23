@@ -1,0 +1,20 @@
+{
+  "id": "github-20260823-007",
+  "title": "saurabhav88/EnviousWispr",
+  "source_url": "https://github.com/saurabhav88/EnviousWispr",
+  "source_type": "github_trending",
+  "summary": "EnviousWispr 是一款面向 macOS 的免费、亚秒级响应的本地 AI 听写工具，专为 Apple Silicon 优化。它集成 Whisper 和 Parakeet 双引擎，支持离线运行，并可选配本地模型（EG-1）、Apple Intelligence 或 Ollama 进行文本润色。核心价值在于提供快速、隐私安全的语音转文字体验，适用于笔记、写作、邮件等场景，无需上传数据到云端。",
+  "tags": [
+    "macOS",
+    "Speech-to-Text",
+    "On-device AI",
+    "Whisper",
+    "Dictation",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 83,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260823-010",
+  "title": "TomH59-AI/sitehawk",
+  "source_url": "https://github.com/TomH59-AI/sitehawk",
+  "source_type": "github_trending",
+  "summary": "SiteHawk 是一个基于 Base44 框架的智能网站分析工具，能够自动抓取网页内容并进行深度解析，提取关键信息、生成结构化摘要。其核心价值在于快速理解任意网站的结构与内容，适用于竞品分析、市场调研、内容聚合等场景。技术亮点包括高效的爬虫引擎和智能信息抽取算法，支持自定义规则，易于集成。",
+  "tags": [
+    "Web Scraping",
+    "Data Extraction",
+    "Analytics",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260823-009",
+  "title": "ayusika/AI_Development_Environment",
+  "source_url": "https://github.com/ayusika/AI_Development_Environment",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套完整的AI开发环境配置方案，涵盖依赖管理、模型部署、数据预处理等模块，旨在降低AI项目搭建门槛。通过标准化配置和自动化脚本，开发者可快速复现环境，适用于个人学习和团队协作场景，提升开发效率。",
+  "tags": [
+    "AI",
+    "DevOps",
+    "Environment Setup",
+    "Tooling",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

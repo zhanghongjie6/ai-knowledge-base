@@ -1,0 +1,19 @@
+{
+  "id": "github-20260823-005",
+  "title": "BananaSoldier01/mini-coding-agent",
+  "source_url": "https://github.com/BananaSoldier01/mini-coding-agent",
+  "source_type": "github_trending",
+  "summary": "Mini Coding Agent 是一个本地轻量级编码代理框架，旨在简化开发者的自动化编码流程。它提供简洁的接口和模块化设计，支持任务分解、代码生成与执行，适合快速集成到现有工作流中。核心价值在于低资源占用和易用性，适用于个人项目或小型团队的自动化编码场景。",
+  "tags": [
+    "Coding Agent",
+    "Automation",
+    "Developer Tools",
+    "Local",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

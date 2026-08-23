@@ -1,0 +1,18 @@
+{
+  "id": "github-20260823-001",
+  "title": "Lopn17/ai-gladiator-rl",
+  "source_url": "https://github.com/Lopn17/ai-gladiator-rl",
+  "source_type": "github_trending",
+  "summary": "ai-gladiator-rl 是一个基于强化学习的AI角斗士项目，旨在训练智能体在模拟环境中与僵尸战斗。项目核心价值在于将RL算法应用于游戏对战场景，提供可复现的训练流程和可视化效果，适合研究强化学习在实时决策中的应用。技术亮点包括环境模拟、奖励设计和策略优化，使用场景涵盖游戏AI开发、RL教学演示及算法验证。",
+  "tags": [
+    "Reinforcement Learning",
+    "Game AI",
+    "Simulation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

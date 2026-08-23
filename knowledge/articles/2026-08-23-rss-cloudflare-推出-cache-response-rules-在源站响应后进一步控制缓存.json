@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260823-001",
+  "title": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+  "source_url": "https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Cloudflare 推出 Cache Response Rules，允许用户在源站响应后进一步精细控制缓存行为。该功能基于响应属性（如状态码、头部）动态调整缓存策略，提升缓存命中率与灵活性，适用于动态内容加速、API 缓存优化及多源站场景。",
+  "tags": [
+    "CDN",
+    "Caching",
+    "Edge Computing",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

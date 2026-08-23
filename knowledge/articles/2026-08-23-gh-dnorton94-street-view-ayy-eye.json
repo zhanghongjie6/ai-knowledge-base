@@ -1,0 +1,19 @@
+{
+  "id": "github-20260823-006",
+  "title": "dnorton94/street-view-ayy-eye",
+  "source_url": "https://github.com/dnorton94/street-view-ayy-eye",
+  "source_type": "github_trending",
+  "summary": "Street View Ayy Eye 是一个基于 Gemini 的 AI 虚拟街景导览工具，利用 Google Street View 图像和 Gemini 的视觉理解能力，自动生成沉浸式街景解说。它支持用户输入地点，AI 自动规划路线并生成语音导览，适用于旅游探索、远程教育、城市规划展示等场景。核心价值在于将 AI 与街景数据结合，提供交互式虚拟旅行体验。",
+  "tags": [
+    "Gemini",
+    "Street View",
+    "Virtual Tour",
+    "AI Travel",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

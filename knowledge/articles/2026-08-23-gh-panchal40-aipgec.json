@@ -1,0 +1,19 @@
+{
+  "id": "github-20260823-008",
+  "title": "panchal40/aipgec",
+  "source_url": "https://github.com/panchal40/aipgec",
+  "source_type": "github_trending",
+  "summary": "aipgec是一个面向AI生成内容（AIGC）的提示词工程工具，旨在优化LLM输出质量。它提供结构化提示模板、上下文管理和输出校验功能，适用于文本生成、代码辅助等场景，帮助开发者快速构建稳定、可控的AI应用。",
+  "tags": [
+    "Prompt Engineering",
+    "LLM",
+    "AIGC",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

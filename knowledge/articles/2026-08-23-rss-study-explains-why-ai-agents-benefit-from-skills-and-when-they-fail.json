@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260823-003",
+  "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
+  "source_url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+  "source_type": "rss",
+  "summary": "普林斯顿大学和加州大学圣地亚哥分校的研究揭示了AI代理中“技能”的真正价值：主要在于提供结构化工作流，而非增加知识。研究还指出了技能失效的条件，为设计更有效的AI代理提供了理论指导。该发现有助于优化代理的模块化设计，提升其在复杂任务中的表现。",
+  "tags": [
+    "AI Agent",
+    "Skills",
+    "Workflow",
+    "Research",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260823-005",
+  "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
+  "source_type": "rss",
+  "summary": "ADOP是AWS Bedrock上的参考架构，利用专用AI代理自动化数据管道的青铜到白银到黄金全生命周期，将数据工程时间从数周压缩至数小时。其核心价值在于通过代理协作简化数据集成、清洗和建模流程，适用于需要快速构建可扩展数据管道的企业场景。",
+  "tags": [
+    "Agent",
+    "Data Engineering",
+    "AWS Bedrock",
+    "Automation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

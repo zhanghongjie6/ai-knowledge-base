@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Lopn17/ai-gladiator-rl",
+    "url": "https://github.com/Lopn17/ai-gladiator-rl",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "ai gladiator learn how to fight zombies",
+    "pushed_at": "2026-08-23T00:54:56Z",
+    "created_at_source": "2026-08-23T00:50:21Z"
+  },
+  {
+    "title": "buckrich/aierya",
+    "url": "https://github.com/buckrich/aierya",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-23T00:55:00Z",
+    "created_at_source": "2026-08-22T22:57:35Z"
+  },
+  {
+    "title": "kental-ai/nyusatsu-compass",
+    "url": "https://github.com/kental-ai/nyusatsu-compass",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "入札コンパス用のリポジトリ",
+    "pushed_at": "2026-08-23T00:54:55Z",
+    "created_at_source": "2026-08-11T04:24:01Z"
+  },
+  {
+    "title": "asmith418310/aijihf",
+    "url": "https://github.com/asmith418310/aijihf",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-23T00:54:59Z",
+    "created_at_source": "2026-08-22T18:47:15Z"
+  },
+  {
+    "title": "BananaSoldier01/mini-coding-agent",
+    "url": "https://github.com/BananaSoldier01/mini-coding-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Mini Coding Agent / Mini DSH — 本地轻量级 Coding Agent Harness",
+    "pushed_at": "2026-08-23T00:54:55Z",
+    "created_at_source": "2026-08-20T13:35:01Z"
+  },
+  {
+    "title": "dnorton94/street-view-ayy-eye",
+    "url": "https://github.com/dnorton94/street-view-ayy-eye",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Street View Ayy Eye — AI-Led Virtual Street Tours powered by Gemini",
+    "pushed_at": "2026-08-23T00:54:55Z",
+    "created_at_source": "2026-08-22T15:53:47Z"
+  },
+  {
+    "title": "saurabhav88/EnviousWispr",
+    "url": "https://github.com/saurabhav88/EnviousWispr",
+    "source": "github_trending",
+    "popularity": 83,
+    "summary": "Free, sub-second on-device AI dictation for macOS. Dual engines (Whisper + Parakeet) on Apple Silicon. Optional AI polish with our own on-device model (EG-1), Apple Intelligence (macOS 26), Ollama, or",
+    "pushed_at": "2026-08-23T00:55:01Z",
+    "created_at_source": "2026-02-18T23:28:05Z"
+  },
+  {
+    "title": "panchal40/aipgec",
+    "url": "https://github.com/panchal40/aipgec",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-23T00:54:59Z",
+    "created_at_source": "2026-08-22T22:59:30Z"
+  },
+  {
+    "title": "ayusika/AI_Development_Environment",
+    "url": "https://github.com/ayusika/AI_Development_Environment",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-23T00:54:53Z",
+    "created_at_source": "2026-07-31T10:21:39Z"
+  },
+  {
+    "title": "TomH59-AI/sitehawk",
+    "url": "https://github.com/TomH59-AI/sitehawk",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Base44 App: SiteHawk",
+    "pushed_at": "2026-08-23T00:54:53Z",
+    "created_at_source": "2026-04-15T15:43:07Z"
+  },
+  {
+    "title": "Cloudflare 推出 Cache Response Rules，在源站响应后进一步控制缓存",
+    "url": "https://www.infoq.cn/article/kyUdCw0IPHwuIHg2WJCu?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "线下活动｜Echoes Remain：迈克尔杰克逊 68 周年诞辰唱片展",
+    "url": "https://sspai.com/post/113675",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的空间，不必拘谨落 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
+    "url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill l",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+    "url": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simple prompt filtering to implement a layered archite",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Agentic Data Operations Platform (ADOP): Data engineering into hours",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-data-operations-platform-adop-data-engineering-into-hours/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The Agentic Data Operations Platform (ADOP) is a reference architecture on Amazon Bedrock that uses specialized AI agents to automate the full Bronze-to-Silver-to-Gold data pipeline lifecycle, compres",
+    "feed_name": "AWS ML Blog"
+  },
+  {
+    "title": "The August 17 outage, and the work ahead",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "An update on the August 17 outage and the steps we're taking to improve reliability.\nThe post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
+    "feed_name": "GitHub Blog"
+  },
+  {
+    "title": "How Ora benchmarks every major AI agent on Vercel",
+    "url": "https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Vercel News"
+  },
+  {
+    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i",
+    "feed_name": "VentureBeat AI"
+  },
+  {
+    "title": "The Download: threats from space mirrors and credit for AI drugs",
+    "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could",
+    "feed_name": "MIT Tech Review"
+  },
+  {
+    "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri",
+    "feed_name": "The Verge AI"
+  }
+]

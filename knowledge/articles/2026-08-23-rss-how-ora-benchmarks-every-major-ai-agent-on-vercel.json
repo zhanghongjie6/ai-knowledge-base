@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260823-007",
+  "title": "How Ora benchmarks every major AI agent on Vercel",
+  "source_url": "https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+  "source_type": "rss",
+  "summary": "Ora在Vercel上对主流AI Agent进行基准测试，评估其性能、可靠性和用户体验。该测试覆盖多个知名Agent，提供量化对比数据，帮助开发者选择合适方案。核心价值在于建立统一的Agent评估标准，揭示不同Agent在真实场景下的表现差异，为AI应用开发提供决策参考。技术亮点包括标准化测试流程和Vercel平台集成，适用于Agent选型、性能优化和产品迭代。",
+  "tags": [
+    "AI Agent",
+    "Benchmark",
+    "Vercel",
+    "Evaluation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

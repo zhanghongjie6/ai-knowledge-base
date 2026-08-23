@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260823-004",
+  "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+  "source_url": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+  "source_type": "rss",
+  "summary": "本教程深入探讨如何使用NeMo Guardrails为基于LLM的企业应用构建生产级安全防护。内容超越简单的提示词过滤，实现分层防护架构，涵盖输入验证、输出审核、对话流程控制等关键环节，确保AI系统在复杂业务场景中的安全性与合规性。适用于金融、医疗等高要求行业。",
+  "tags": [
+    "LLM",
+    "AI Safety",
+    "Guardrails",
+    "Enterprise",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}

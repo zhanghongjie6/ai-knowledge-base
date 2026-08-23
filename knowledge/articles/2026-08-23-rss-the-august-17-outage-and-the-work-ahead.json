@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260823-006",
+  "title": "The August 17 outage, and the work ahead",
+  "source_url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+  "source_type": "rss",
+  "summary": "GitHub 官方发布关于8月17日服务中断的详细说明，承认事件影响并承诺提升可靠性。文章核心价值在于透明化故障处理流程，强调后续将加强基础设施韧性、监控预警和应急响应能力。技术亮点包括对故障根因的深度复盘及系统性改进措施。适用场景为企业级平台可靠性管理、故障复盘实践参考。",
+  "tags": [
+    "Reliability",
+    "Incident Response",
+    "Infrastructure",
+    "SRE",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-23T00:55:53+00:00",
+  "updated_at": "2026-08-23T00:55:53+00:00"
+}
