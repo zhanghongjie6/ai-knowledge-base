@@ -1,0 +1,19 @@
+{
+  "id": "github-20260824-007",
+  "title": "MurariAmbati/aurora-agent-releases",
+  "source_url": "https://github.com/MurariAmbati/aurora-agent-releases",
+  "source_type": "github_trending",
+  "summary": "AURORA Agent (bioprism) 的二进制发布仓库，提供作为 Claude Desktop 扩展的 MCP 服务器（.mcpb 文件）。该工具将生物信息学能力集成到 Claude 中，支持用户通过自然语言调用生物数据分析功能，简化科研工作流。核心价值在于降低生物信息学工具的使用门槛，实现 AI 辅助的生物学研究自动化。",
+  "tags": [
+    "MCP",
+    "Bioinformatics",
+    "Claude Desktop",
+    "Agent",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-24T00:54:06+00:00",
+  "updated_at": "2026-08-24T00:54:06+00:00"
+}

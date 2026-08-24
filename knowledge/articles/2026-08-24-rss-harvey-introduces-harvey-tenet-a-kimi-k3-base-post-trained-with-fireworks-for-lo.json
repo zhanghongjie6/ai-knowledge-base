@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-004",
+  "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
+  "source_url": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
+  "source_type": "rss",
+  "summary": "Harvey推出其首个基于Kimi K3底座、经Fireworks后训练的模型Tenet，专为长周期法律智能体任务设计。官方称其将LAB任务完成率提升近一倍，但独立验证目前仅确认一个基准数字。该模型聚焦法律场景的复杂推理与多步骤执行，有望提升法律工作流自动化水平，但需更多外部验证。",
+  "tags": [
+    "Legal AI",
+    "Agent",
+    "Post-training",
+    "Kimi K3",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-24T00:54:06+00:00",
+  "updated_at": "2026-08-24T00:54:06+00:00"
+}

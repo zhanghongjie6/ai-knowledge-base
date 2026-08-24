@@ -1,0 +1,19 @@
+{
+  "id": "github-20260824-010",
+  "title": "kikostefanov-lab/Arena4Ai",
+  "source_url": "https://github.com/kikostefanov-lab/Arena4Ai",
+  "source_type": "github_trending",
+  "summary": "Arena4Ai 是一个自托管的AI编码智能体竞技场，让两个AI代理在隔离工作区中针对同一任务进行竞赛，并由AI交叉评审根据实际生成的文件和用户自定义的评分标准进行实时评分。它支持Claude等模型，为开发者提供直观的模型性能对比和评估工具，适用于模型选型、能力基准测试和开发流程优化。",
+  "tags": [
+    "AI Agent",
+    "Benchmarking",
+    "Evaluation",
+    "Self-hosted",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-24T00:54:06+00:00",
+  "updated_at": "2026-08-24T00:54:06+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-005",
+  "title": "API Key Management: Essential On-Premises Security",
+  "source_url": "https://dev.to/vladimir_lialine_b2e67374/api-key-management-essential-on-premises-security-36eh",
+  "source_type": "rss",
+  "summary": "本文探讨了API密钥管理在本地部署中的关键问题，指出硬编码密钥（如嵌入源代码、容器镜像、自动化脚本或配置文件）会导致严重安全风险。文章强调需要采用集中式密钥管理方案，实现密钥的轮换、审计和访问控制，以保护敏感凭据并确保系统安全。适用于开发运维和安全团队。",
+  "tags": [
+    "API Security",
+    "Key Management",
+    "DevOps",
+    "Security",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-24T00:54:06+00:00",
+  "updated_at": "2026-08-24T00:54:06+00:00"
+}

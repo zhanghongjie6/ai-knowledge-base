@@ -1,0 +1,19 @@
+{
+  "id": "github-20260824-005",
+  "title": "sxp6664/agentic-code-reviewer",
+  "source_url": "https://github.com/sxp6664/agentic-code-reviewer",
+  "source_type": "github_trending",
+  "summary": "这是一个基于AI代理的代码审查工具，利用大语言模型自动分析代码变更，提供风格、逻辑、安全等多维度反馈。支持自定义规则和与CI/CD集成，提升代码质量与审查效率。适用于开发团队日常代码审查、开源项目维护及教学场景。",
+  "tags": [
+    "Code Review",
+    "LLM",
+    "DevTools",
+    "CI/CD",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-24T00:54:06+00:00",
+  "updated_at": "2026-08-24T00:54:06+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260824-001",
+  "title": "talel90/StudyNL_AI_RAG",
+  "source_url": "https://github.com/talel90/StudyNL_AI_RAG",
+  "source_type": "github_trending",
+  "summary": "StudyNL_AI_RAG是一个基于检索增强生成（RAG）的AI学习助手项目，专为荷兰学习场景设计。它整合了课程资料、文档和知识库，通过向量检索与LLM生成结合，提供精准问答、学习摘要和个性化辅导。技术亮点包括模块化RAG流水线、多格式文档解析和可扩展的向量存储，适合学生、教育者和开发者快速部署智能学习工具。",
+  "tags": [
+    "RAG",
+    "Education",
+    "LLM",
+    "Vector Search",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-24T00:54:06+00:00",
+  "updated_at": "2026-08-24T00:54:06+00:00"
+}

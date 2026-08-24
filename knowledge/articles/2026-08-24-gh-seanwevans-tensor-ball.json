@@ -1,0 +1,19 @@
+{
+  "id": "github-20260824-008",
+  "title": "seanwevans/Tensor-Ball",
+  "source_url": "https://github.com/seanwevans/Tensor-Ball",
+  "source_type": "github_trending",
+  "summary": "Tensor-Ball 是一个基于浏览器的强化学习环境，利用 Three.js、Cannon-es 和 TensorFlow.js 训练 CNN 智能体打篮球。支持大规模并行批次训练，在浏览器端即可运行，适合快速原型验证和教学演示，展示了 Web 端 RL 的可行性。",
+  "tags": [
+    "Reinforcement Learning",
+    "TensorFlow.js",
+    "WebGL",
+    "CNN",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-24T00:54:06+00:00",
+  "updated_at": "2026-08-24T00:54:06+00:00"
+}

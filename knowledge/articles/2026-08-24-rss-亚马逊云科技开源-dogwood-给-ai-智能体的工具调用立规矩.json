@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260824-001",
+  "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+  "source_url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "亚马逊云科技开源Dogwood，为AI智能体的工具调用建立标准化规则。它通过定义清晰的接口和约束，提升工具调用的可靠性与可观测性，减少错误与不确定性。适用于复杂多步骤任务、企业级自动化及多智能体协作场景，帮助开发者构建更稳健的AI应用。",
+  "tags": [
+    "Agent",
+    "Tool Calling",
+    "Open Source",
+    "Standardization",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-24T00:54:06+00:00",
+  "updated_at": "2026-08-24T00:54:06+00:00"
+}

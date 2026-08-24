@@ -1,0 +1,19 @@
+{
+  "id": "github-20260824-006",
+  "title": "jasontloft/aiawwg",
+  "source_url": "https://github.com/jasontloft/aiawwg",
+  "source_type": "github_trending",
+  "summary": "aiawwg是一个开源工具，旨在帮助用户自动化生成AI工作流。它通过可视化界面和模板系统，简化了从设计到部署AI流程的过程，支持多种主流AI框架和API集成，适合快速原型开发和教学演示。",
+  "tags": [
+    "AI Workflow",
+    "Visual Programming",
+    "Automation",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-24T00:54:06+00:00",
+  "updated_at": "2026-08-24T00:54:06+00:00"
+}
