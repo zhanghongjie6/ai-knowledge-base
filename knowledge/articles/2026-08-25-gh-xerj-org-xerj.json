@@ -1,0 +1,19 @@
+{
+  "id": "github-20260825-008",
+  "title": "xerj-org/xerj",
+  "source_url": "https://github.com/xerj-org/xerj",
+  "source_type": "github_trending",
+  "summary": "XERJ 是一种新型 AI 数据搜索工具，通过自动索引功能让 AI 代理无需消耗大量 token 进行 grep/sed 搜索即可理解数据。一条命令即可索引代码、文档、日志和 PDF，实现高效检索，适用于开发调试、文档问答和日志分析等场景。",
+  "tags": [
+    "AI Search",
+    "Data Indexing",
+    "Developer Tools",
+    "Agent",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 1649,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

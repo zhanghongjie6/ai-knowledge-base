@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-009",
+  "title": "DeepSeek Flash Vision 👀, Claude Mythos security 🛡️, inside Grok Bot 🤖",
+  "source_url": "https://tldr.tech/ai/2026-08-24",
+  "source_type": "rss",
+  "summary": "本期TLDR AI汇总了DeepSeek Flash Vision视觉模型、Claude Mythos安全框架及Grok Bot内部机制。Flash Vision主打高效多模态推理，适用于实时图像分析；Mythos强化AI安全防护，降低对抗性攻击风险；Grok Bot解析则揭示其对话架构与训练细节。整体覆盖视觉、安全与对话系统前沿进展，为开发者提供实用参考。",
+  "tags": [
+    "Vision",
+    "Security",
+    "Chatbot",
+    "Multimodal",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

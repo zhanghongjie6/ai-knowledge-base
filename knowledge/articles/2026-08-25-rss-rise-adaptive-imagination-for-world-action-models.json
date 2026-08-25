@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-006",
+  "title": "RISE: Adaptive Imagination for World Action Models",
+  "source_url": "https://arxiv.org/abs/2608.20430",
+  "source_type": "rss",
+  "summary": "RISE提出自适应想象机制，用于世界动作模型（WAMs）的规划。它根据任务需求动态调整想象未来世界的深度和广度，避免固定想象带来的计算浪费或规划不足。技术亮点包括自适应想象调度、与现有WAM架构无缝集成。适用于机器人控制、自动驾驶等需要长期规划的领域，提升规划效率和鲁棒性。",
+  "tags": [
+    "World Action Model",
+    "Planning",
+    "Adaptive Imagination",
+    "Robotics",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

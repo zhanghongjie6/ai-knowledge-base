@@ -1,0 +1,20 @@
+{
+  "id": "github-20260825-007",
+  "title": "Mikedev115/Aetox",
+  "source_url": "https://github.com/Mikedev115/Aetox",
+  "source_type": "github_trending",
+  "summary": "Aetox 是一款面向 Windows 的桌面 AI 代理，通过架构扩展让任意模型具备图像/视频 OCR、离线语音转写、代理驱动浏览器、真实 Office 文件输出及 MCP 支持，显著提升本地自动化与多模态处理能力，适用于办公自动化、数据提取和智能交互场景。",
+  "tags": [
+    "Desktop Agent",
+    "OCR",
+    "Speech-to-Text",
+    "MCP",
+    "Automation",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 24,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-004",
+  "title": "Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twins",
+  "source_url": "https://arxiv.org/abs/2608.20344",
+  "source_type": "rss",
+  "summary": "本文提出超越原始对话记录的结构化人格提取方法，用于构建LLM数字孪生。核心价值在于将非结构化交互数据转化为结构化人格档案，提升数字孪生在模拟个体行为与回答新问题时的准确性和泛化能力。技术亮点包括人格建模框架与提取流程，适用于个性化助手、社交模拟等场景。",
+  "tags": [
+    "LLM",
+    "Digital Twin",
+    "Persona Extraction",
+    "Structured Data",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20260825-005",
+  "title": "bzhzion/beammeup",
+  "source_url": "https://github.com/bzhzion/beammeup",
+  "source_type": "github_trending",
+  "summary": "beammeup 是一个基于 Tauri 的桌面工具，将 PowerShell 和 SSH 会话整合到单一窗口中，支持人类与 AI 代理共享会话。其核心价值在于提供统一的终端协作界面，便于人类和代理在同一会话中协同操作，适用于远程运维、自动化脚本调试和 AI 辅助开发等场景。技术亮点包括轻量级桌面框架、跨平台支持和会话共享机制。",
+  "tags": [
+    "Tauri",
+    "SSH",
+    "PowerShell",
+    "Agent",
+    "Collaboration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-003",
+  "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+  "source_url": "https://arxiv.org/abs/2608.20341",
+  "source_type": "rss",
+  "summary": "SDAD提出了一种面向AI原生软件开发生命周期的规范驱动智能体开发方法，利用大语言模型的长上下文能力，通过规范生成、验证与迭代执行，实现从需求到代码的自动化流程。该方法提升了开发效率与代码质量，适用于复杂软件系统的快速原型构建与维护，有望改变传统软件开发范式。",
+  "tags": [
+    "AI-Native",
+    "Agent",
+    "SDLC",
+    "LLM",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

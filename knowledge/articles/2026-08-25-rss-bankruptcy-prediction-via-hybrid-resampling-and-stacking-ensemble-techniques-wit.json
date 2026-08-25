@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-005",
+  "title": "Bankruptcy Prediction via Hybrid Resampling and Stacking Ensemble Techniques with Explainable Artificial Intelligence (XAI)-Driven Analysis",
+  "source_url": "https://arxiv.org/abs/2608.20343",
+  "source_type": "rss",
+  "summary": "该研究提出了一种破产预测框架，结合共识特征选择、混合重采样和堆叠集成技术，并引入可解释人工智能（XAI）分析。核心价值在于提升预测准确性的同时增强模型可解释性，适用于金融机构风险评估、信贷审批和投资决策等场景。技术亮点包括处理不平衡数据、集成多模型优势以及提供决策依据。",
+  "tags": [
+    "Bankruptcy Prediction",
+    "Ensemble Learning",
+    "XAI",
+    "Imbalanced Data",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

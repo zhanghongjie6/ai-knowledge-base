@@ -1,0 +1,20 @@
+{
+  "id": "github-20260825-001",
+  "title": "Asheesh7298/Rag-voice",
+  "source_url": "https://github.com/Asheesh7298/Rag-voice",
+  "source_type": "github_trending",
+  "summary": "Rag-voice是一个结合RAG与语音交互的开源项目，支持语音输入查询、检索增强生成和语音回复，实现端到端的语音问答。核心价值在于降低语音助手开发门槛，提供可定制的知识库问答方案，适用于智能客服、教育辅导、企业知识管理等场景。技术亮点包括语音识别、向量检索与TTS的无缝集成。",
+  "tags": [
+    "RAG",
+    "Voice",
+    "TTS",
+    "ASR",
+    "Knowledge Base",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

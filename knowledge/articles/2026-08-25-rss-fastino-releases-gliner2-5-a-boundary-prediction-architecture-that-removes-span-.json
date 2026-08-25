@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-008",
+  "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction",
+  "source_url": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/",
+  "source_type": "rss",
+  "summary": "Fastino发布GLiNER2.5，采用边界预测架构替代跨度枚举，使实体宽度不再影响计算成本。提供74M、194M和287M三种Apache 2.0许可的检查点，均支持CPU运行。该模型提升了信息抽取效率，适用于实体识别等场景，尤其适合资源受限环境。",
+  "tags": [
+    "NLP",
+    "Information Extraction",
+    "Entity Recognition",
+    "Efficient Inference",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

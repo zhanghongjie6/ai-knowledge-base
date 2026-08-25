@@ -1,0 +1,19 @@
+{
+  "id": "github-20260825-009",
+  "title": "harezadmm/CoretaxAgent",
+  "source_url": "https://github.com/harezadmm/CoretaxAgent",
+  "source_type": "github_trending",
+  "summary": "CoretaxAgent是一个面向印尼税务系统的AI代理工具，通过自动化浏览器操作与LLM结合，帮助用户完成Coretax税务申报流程。它提供自然语言交互、表单自动填充和错误处理能力，显著降低税务申报复杂度，适用于个人和企业用户。",
+  "tags": [
+    "AI Agent",
+    "Tax Automation",
+    "Browser Automation",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}

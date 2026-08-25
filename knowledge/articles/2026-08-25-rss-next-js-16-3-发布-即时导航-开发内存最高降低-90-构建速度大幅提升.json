@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260825-001",
+  "title": "Next.js 16.3 发布：即时导航、开发内存最高降低 90%，构建速度大幅提升",
+  "source_url": "https://www.infoq.cn/article/NedlVNN6E9uWbIE3WV07?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Next.js 16.3 正式发布，核心亮点包括即时导航（Instant Navigation）技术，显著提升页面切换速度；开发内存占用最高降低 90%，构建速度大幅提升，优化开发者体验。该版本适用于大型前端项目、SSR/SSG 应用，尤其适合需要快速迭代和高性能导航的 Web 应用。",
+  "tags": [
+    "Next.js",
+    "Web Framework",
+    "Performance",
+    "SSR",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-25T00:54:02+00:00",
+  "updated_at": "2026-08-25T00:54:02+00:00"
+}
