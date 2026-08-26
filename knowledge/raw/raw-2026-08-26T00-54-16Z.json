@@ -1,0 +1,172 @@
+[
+  {
+    "title": "DiegoAutomata/Portfolio",
+    "url": "https://github.com/DiegoAutomata/Portfolio",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Portfolio de Diego Lezana - AI Developer",
+    "pushed_at": "2026-08-26T00:54:05Z",
+    "created_at_source": "2026-05-05T13:27:16Z"
+  },
+  {
+    "title": "RicardoViRa/flutter-workshop-ai-agent",
+    "url": "https://github.com/RicardoViRa/flutter-workshop-ai-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Workshop app: Flutter + Firebase + agente IA (Gemini) con Function Calling. Incluye guías paso a paso",
+    "pushed_at": "2026-08-26T00:54:04Z",
+    "created_at_source": "2026-08-26T00:43:16Z"
+  },
+  {
+    "title": "rkyurit/ai-review.nvim",
+    "url": "https://github.com/rkyurit/ai-review.nvim",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-26T00:54:04Z",
+    "created_at_source": "2026-08-26T00:33:31Z"
+  },
+  {
+    "title": "ReggieNZ/AI---INVERTED-PENDULUM-SIMULATION",
+    "url": "https://github.com/ReggieNZ/AI---INVERTED-PENDULUM-SIMULATION",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Inverted pendulum simulation with fuzzy logic engine and animation functions",
+    "pushed_at": "2026-08-26T00:54:02Z",
+    "created_at_source": "2026-08-26T00:54:01Z"
+  },
+  {
+    "title": "syedmuhammadali-dev/ai-qa-agent",
+    "url": "https://github.com/syedmuhammadali-dev/ai-qa-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-26T00:54:01Z",
+    "created_at_source": "2026-08-23T02:05:32Z"
+  },
+  {
+    "title": "offrd-ai/offgrd",
+    "url": "https://github.com/offrd-ai/offgrd",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-26T00:54:01Z",
+    "created_at_source": "2026-07-01T04:18:37Z"
+  },
+  {
+    "title": "belalalibb/general_ai_core",
+    "url": "https://github.com/belalalibb/general_ai_core",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-26T00:54:07Z",
+    "created_at_source": "2026-08-25T13:11:09Z"
+  },
+  {
+    "title": "anihitk07/noc-agent-a365",
+    "url": "https://github.com/anihitk07/noc-agent-a365",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "NOC/NOA Microsoft IQ demo: single MAF agent on Agent 365, wiring Foundry IQ + Fabric IQ + Web IQ + Work IQ via one Foundry Toolbox MCP endpoint. Forked/adapted from PathfinderIQ-Demo-Version.",
+    "pushed_at": "2026-08-26T00:53:59Z",
+    "created_at_source": "2026-08-13T02:11:37Z"
+  },
+  {
+    "title": "thierry-gilgen-ict/engawa",
+    "url": "https://github.com/thierry-gilgen-ict/engawa",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Engawa — the open toolkit for agent-native websites. Bring your agent.",
+    "pushed_at": "2026-08-26T00:53:59Z",
+    "created_at_source": "2026-08-22T11:09:49Z"
+  },
+  {
+    "title": "ac-prometheus/athena-class-agent",
+    "url": "https://github.com/ac-prometheus/athena-class-agent",
+    "source": "github_trending",
+    "popularity": 6,
+    "summary": "Reference codebase for the Athena-class agentic cognitive architecture",
+    "pushed_at": "2026-08-26T00:53:57Z",
+    "created_at_source": "2026-06-08T23:06:08Z"
+  },
+  {
+    "title": "主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+    "url": "https://www.infoq.cn/article/4mIQfr4w5gPLXSIW7YST?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "社区速递 155 | 适马千元人像神头与七月派友剁手清单",
+    "url": "https://sspai.com/post/113828",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+    "url": "https://arxiv.org/abs/2608.21362",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.21362v1 Announce Type: new \nAbstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing ",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Distinguishing Revision and Delayed Elaboration in Incremental Narrative Interpretation",
+    "url": "https://arxiv.org/abs/2608.21364",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.21364v1 Announce Type: new \nAbstract: Both human and AI systems that process narrative or long-form content operate incrementally: input is received over time, and internal representations ",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Topology of a Smile: Persistent Homology in Dental Imaging",
+    "url": "https://arxiv.org/abs/2608.21422",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.21422v1 Announce Type: new \nAbstract: CBCT (Cone Beam Computed Tomography) scans provide detailed three-dimensional images, widely used in dentistry for diagnostic and treatment planning ta",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
+    "url": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts. The operators accessed the platform through VPNs from Russia",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
+    "url": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This week, Liquid AI released Pipette. It is an open-sourc",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Nvidia’s Groq chip ⚡, frontier economics 💰, Ox Alpha mystery 🕵️",
+    "url": "https://tldr.tech/ai/2026-08-25",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Last Week in AI #342 - Last 3 Months in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-342-last-3-months",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The newsletter is finally back!",
+    "feed_name": "Last Week in AI"
+  },
+  {
+    "title": "The full stack behind abundant intelligence",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "feed_name": "OpenAI"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260826-003",
+  "title": "rkyurit/ai-review.nvim",
+  "source_url": "https://github.com/rkyurit/ai-review.nvim",
+  "source_type": "github_trending",
+  "summary": "ai-review.nvim 是一个 Neovim 插件，利用 AI 对代码进行实时审查，提供改进建议和潜在问题检测。它集成多种 AI 提供商，支持自定义提示词，帮助开发者在不离开编辑器的情况下获得即时反馈，提升代码质量与开发效率。",
+  "tags": [
+    "Neovim",
+    "AI",
+    "Code Review",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

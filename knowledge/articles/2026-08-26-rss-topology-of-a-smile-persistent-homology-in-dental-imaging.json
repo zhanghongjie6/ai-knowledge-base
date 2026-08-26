@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-005",
+  "title": "Topology of a Smile: Persistent Homology in Dental Imaging",
+  "source_url": "https://arxiv.org/abs/2608.21422",
+  "source_type": "rss",
+  "summary": "该研究将持久同调（Persistent Homology）应用于牙科CBCT影像分析，通过拓扑特征提取三维牙齿结构的关键形态信息，辅助诊断与治疗规划。核心价值在于将计算拓扑引入医学影像，提供鲁棒的几何描述，适用于牙齿分割、异常检测及手术导航等场景。",
+  "tags": [
+    "Topology",
+    "Medical Imaging",
+    "Dentistry",
+    "CBCT",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

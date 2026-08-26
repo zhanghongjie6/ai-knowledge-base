@@ -1,0 +1,20 @@
+{
+  "id": "github-20260826-008",
+  "title": "anihitk07/noc-agent-a365",
+  "source_url": "https://github.com/anihitk07/noc-agent-a365",
+  "source_type": "github_trending",
+  "summary": "这是一个基于Microsoft Agent 365的NOC/NOA演示项目，通过单个MAF代理集成Foundry IQ、Fabric IQ、Web IQ和Work IQ，统一经由Foundry Toolbox MCP端点实现多源智能协作。核心价值在于展示如何利用Agent 365构建轻量级、可扩展的智能运维代理，适用于网络运营中心（NOC）和网络运营助理（NOA）场景，如故障检测、数据查询和自动化响应。技术亮点包括MCP协议集成和模块化代理设计，便于快速部署和定制。",
+  "tags": [
+    "Agent",
+    "MCP",
+    "Microsoft",
+    "NOC",
+    "Demo",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

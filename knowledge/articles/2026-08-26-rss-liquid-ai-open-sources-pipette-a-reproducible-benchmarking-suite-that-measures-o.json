@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-007",
+  "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
+  "source_url": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
+  "source_type": "rss",
+  "summary": "Liquid AI 开源了 Pipette，一个可复现的基准测试套件，用于在端侧设备上联合评估模型、量化、运行时和硬件。它解决了模型卡在服务器级全精度下的指标无法预测手机端实际表现的问题，为端侧AI部署提供可靠参考。",
+  "tags": [
+    "Benchmarking",
+    "On-Device AI",
+    "Quantization",
+    "Runtime",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

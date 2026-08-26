@@ -1,0 +1,19 @@
+{
+  "id": "github-20260826-010",
+  "title": "ac-prometheus/athena-class-agent",
+  "source_url": "https://github.com/ac-prometheus/athena-class-agent",
+  "source_type": "github_trending",
+  "summary": "Athena-class agentic cognitive架构的参考实现，提供模块化智能体设计模式，集成感知、推理、规划与执行组件，适用于复杂任务自动化、多智能体协作及自适应决策场景，强调可扩展性与生产级部署。",
+  "tags": [
+    "Agent",
+    "Cognitive Architecture",
+    "Multi-Agent",
+    "Production",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 6,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

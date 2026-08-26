@@ -1,0 +1,20 @@
+{
+  "id": "github-20260826-002",
+  "title": "RicardoViRa/flutter-workshop-ai-agent",
+  "source_url": "https://github.com/RicardoViRa/flutter-workshop-ai-agent",
+  "source_type": "github_trending",
+  "summary": "这是一个结合Flutter、Firebase和Gemini AI代理的实战工作坊应用，重点展示Function Calling技术。提供逐步指南，帮助开发者构建跨平台AI应用，涵盖前端、后端和AI集成，适合学习现代移动AI开发流程。",
+  "tags": [
+    "Flutter",
+    "Firebase",
+    "Gemini",
+    "Function Calling",
+    "AI Agent",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

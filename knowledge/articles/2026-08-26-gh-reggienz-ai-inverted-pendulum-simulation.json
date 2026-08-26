@@ -1,0 +1,19 @@
+{
+  "id": "github-20260826-004",
+  "title": "ReggieNZ/AI---INVERTED-PENDULUM-SIMULATION",
+  "source_url": "https://github.com/ReggieNZ/AI---INVERTED-PENDULUM-SIMULATION",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一个倒立摆仿真环境，集成了模糊逻辑控制引擎和动画可视化功能。核心价值在于通过直观的仿真演示模糊控制在经典控制问题中的应用，适合教学、算法验证和快速原型开发。技术亮点包括可配置的模糊规则、实时动画反馈以及易于扩展的代码结构。使用场景涵盖控制理论学习、模糊控制器设计测试以及机器人平衡控制研究。",
+  "tags": [
+    "Fuzzy Logic",
+    "Simulation",
+    "Control Systems",
+    "Education",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

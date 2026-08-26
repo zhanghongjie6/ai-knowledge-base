@@ -1,0 +1,19 @@
+{
+  "id": "github-20260826-005",
+  "title": "syedmuhammadali-dev/ai-qa-agent",
+  "source_url": "https://github.com/syedmuhammadali-dev/ai-qa-agent",
+  "source_type": "github_trending",
+  "summary": "AI QA Agent是一个基于大语言模型的自动化测试代理，能够理解自然语言测试用例并自动执行UI测试、生成报告。它结合了视觉识别与LLM推理，支持跨浏览器和移动端测试，显著降低测试脚本维护成本，适用于敏捷开发和持续集成场景。",
+  "tags": [
+    "LLM",
+    "QA",
+    "Automation",
+    "Testing",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260826-003",
+  "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
+  "source_url": "https://arxiv.org/abs/2608.21362",
+  "source_type": "rss",
+  "summary": "KVBoost通过分块级KV缓存复用与偏差引导的重计算机制，显著降低Transformer大模型推理中的预填充延迟。其核心技术在于识别并复用跨请求的KV块，同时利用偏差检测决定何时重算以保证精度，适用于高并发、长上下文的在线推理场景，兼顾效率与准确性。",
+  "tags": [
+    "LLM",
+    "KV Cache",
+    "Inference Optimization",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260826-006",
+  "title": "offrd-ai/offgrd",
+  "source_url": "https://github.com/offrd-ai/offgrd",
+  "source_type": "github_trending",
+  "summary": "offgrd 是一个开源框架，旨在简化大型语言模型（LLM）应用的本地部署与离线运行。它提供轻量级推理引擎、模型管理和API兼容层，支持多种主流模型架构，使开发者无需依赖云服务即可构建隐私保护、低延迟的AI应用。适用于边缘计算、数据敏感场景及离线环境下的智能助手、文档分析等。",
+  "tags": [
+    "LLM",
+    "Edge Computing",
+    "Privacy",
+    "Inference",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

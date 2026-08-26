@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-001",
+  "title": "主要前沿模型提供商采用水印技术以满足欧盟法规要求",
+  "source_url": "https://www.infoq.cn/article/4mIQfr4w5gPLXSIW7YST?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文报道了主要前沿AI模型提供商（如OpenAI、Google等）为满足欧盟《人工智能法案》的透明度要求，开始采用水印技术标记AI生成内容。该技术通过嵌入不可见标识，帮助识别和追踪AI输出，以应对虚假信息风险。此举标志着行业在合规与负责任AI实践上的重要进展，对内容溯源和监管落地具有示范意义。",
+  "tags": [
+    "AI Regulation",
+    "Watermarking",
+    "Content Provenance",
+    "Compliance",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}

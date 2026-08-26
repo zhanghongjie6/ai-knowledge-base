@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260826-004",
+  "title": "Distinguishing Revision and Delayed Elaboration in Incremental Narrative Interpretation",
+  "source_url": "https://arxiv.org/abs/2608.21364",
+  "source_type": "rss",
+  "summary": "该论文探讨了人类与AI系统在增量处理叙事或长文本时，如何区分“修订”与“延迟阐述”两种认知机制。核心价值在于为叙事理解模型提供更精细的认知框架，提升AI对动态信息更新的处理能力。技术亮点包括提出区分两者的理论模型，并可能应用于长文本理解、对话系统和叙事生成。",
+  "tags": [
+    "Narrative Understanding",
+    "Incremental Processing",
+    "Cognitive Model",
+    "AI",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-26T00:55:03+00:00",
+  "updated_at": "2026-08-26T00:55:03+00:00"
+}
