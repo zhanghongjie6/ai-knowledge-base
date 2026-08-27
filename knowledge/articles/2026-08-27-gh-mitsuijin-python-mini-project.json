@@ -1,0 +1,19 @@
+{
+  "id": "github-20260827-007",
+  "title": "mitsuiJin/python-mini-project",
+  "source_url": "https://github.com/mitsuiJin/python-mini-project",
+  "source_type": "github_trending",
+  "summary": "这是一个针对注塑成型机AI数据集的迷你分析项目，提供从数据清洗、特征工程到模型训练与评估的完整Python示例代码。项目结构清晰，适合初学者快速上手工业数据分析流程，涵盖异常检测、质量预测等典型场景，具有教学和参考价值。",
+  "tags": [
+    "Industrial AI",
+    "Data Analysis",
+    "Python",
+    "Machine Learning",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

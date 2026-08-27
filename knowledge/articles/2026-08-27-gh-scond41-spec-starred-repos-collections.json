@@ -1,0 +1,19 @@
+{
+  "id": "github-20260827-001",
+  "title": "scond41-spec/starred-repos-collections",
+  "source_url": "https://github.com/scond41-spec/starred-repos-collections",
+  "source_type": "github_trending",
+  "summary": "该项目是作者对GitHub上收藏仓库的系统化整理，按AI智能体、Claude Code、自动化、学习资源、Google Workspace等主题分类。核心价值在于提供精选资源导航，帮助开发者快速发现高质量工具和资料，节省搜索时间。适合作为技术学习与工具选型的参考清单。",
+  "tags": [
+    "GitHub",
+    "Curated List",
+    "AI Agents",
+    "Learning Resources",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

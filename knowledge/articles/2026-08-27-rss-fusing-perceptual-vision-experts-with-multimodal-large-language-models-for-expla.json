@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260827-006",
+  "title": "Fusing Perceptual Vision Experts with Multimodal Large Language Models for Explainable Plant Disease Diagnosis: From Benchmark Imagery to Real-World Robotic Field Validation",
+  "source_url": "https://arxiv.org/abs/2608.24934",
+  "source_type": "rss",
+  "summary": "该研究提出一种混合分层多模态框架，融合感知视觉专家与多模态大语言模型，用于可解释的植物病害诊断。方法从基准图像扩展到真实机器人田间验证，有效处理不确定性和冲突证据，提升诊断准确性与可解释性，适用于精准农业和智能植保场景。",
+  "tags": [
+    "Multimodal LLM",
+    "Plant Disease Diagnosis",
+    "Robotics",
+    "Agriculture",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "scond41-spec/starred-repos-collections",
+    "url": "https://github.com/scond41-spec/starred-repos-collections",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "My organized collections of starred repositories - AI Agents, Claude Code, Automation, Learning Resources, Google Workspace, and more.",
+    "pushed_at": "2026-08-27T06:35:58Z",
+    "created_at_source": "2026-08-27T06:35:57Z"
+  },
+  {
+    "title": "fireseasonnow/earwitness",
+    "url": "https://github.com/fireseasonnow/earwitness",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "An independent play log for Claude FM, Anthropic's 24/7 stream. OCRs the credit ticker to show what it played today. Bun + Astro, no AI calls. Unofficial.",
+    "pushed_at": "2026-08-27T06:35:58Z",
+    "created_at_source": "2026-08-23T19:31:53Z"
+  },
+  {
+    "title": "BlossomingL/fag-agent",
+    "url": "https://github.com/BlossomingL/fag-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-27T06:36:01Z",
+    "created_at_source": "2026-08-27T06:33:05Z"
+  },
+  {
+    "title": "devesh-saini/HeterogeneousRAG",
+    "url": "https://github.com/devesh-saini/HeterogeneousRAG",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "HeterogeneousRAG is a research in finding out how does using different models for different tasks helps in better response generation in a RAG system.",
+    "pushed_at": "2026-08-27T06:35:57Z",
+    "created_at_source": "2026-06-28T03:49:47Z"
+  },
+  {
+    "title": "conorbronsdon/conorbronsdon",
+    "url": "https://github.com/conorbronsdon/conorbronsdon",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "My personal GitHub profile repo",
+    "pushed_at": "2026-08-27T06:35:57Z",
+    "created_at_source": "2024-10-11T20:43:23Z"
+  },
+  {
+    "title": "proigor/agent-verification",
+    "url": "https://github.com/proigor/agent-verification",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Verifying what an AI agent claims a tool call did, against what the datastore actually holds. Ruby reference implementation plus a Python evaluation harness.",
+    "pushed_at": "2026-08-27T06:35:56Z",
+    "created_at_source": "2026-08-27T06:35:15Z"
+  },
+  {
+    "title": "mitsuiJin/python-mini-project",
+    "url": "https://github.com/mitsuiJin/python-mini-project",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "사출성형기 AI 데이터셋 분석 미니 프로젝트",
+    "pushed_at": "2026-08-27T06:35:55Z",
+    "created_at_source": "2026-08-25T06:28:34Z"
+  },
+  {
+    "title": "skiboons/ragect",
+    "url": "https://github.com/skiboons/ragect",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-27T06:35:59Z",
+    "created_at_source": "2026-08-27T02:23:50Z"
+  },
+  {
+    "title": "Mr-Spectr/Enterprise-Knowledge-Agent-AgenticAI-",
+    "url": "https://github.com/Mr-Spectr/Enterprise-Knowledge-Agent-AgenticAI-",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-27T06:35:51Z",
+    "created_at_source": "2026-07-18T05:50:11Z"
+  },
+  {
+    "title": "Built-By-Ranjan/TuteMe.ai",
+    "url": "https://github.com/Built-By-Ranjan/TuteMe.ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-08-27T06:35:49Z",
+    "created_at_source": "2026-08-27T06:35:45Z"
+  },
+  {
+    "title": "非结构化数据的结构化处理：基于 Snowflake Cortex AI Functions | 技术实践",
+    "url": "https://www.infoq.cn/article/Xw6Nlqq7N2J0CKA0ehx8?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "来自 1997 年的迷你笔记本电脑，东芝 Libretto 50M 怀旧手记",
+    "url": "https://sspai.com/post/113222",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+    "url": "https://arxiv.org/abs/2608.23568",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.23568v1 Announce Type: new \nAbstract: Memory and RAG evaluations often treat the answering model's input as an implementation detail, even though systems may render the same history as a me",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Detection != Reliable Control: Decodable Empathy Directions Yield at Most Partial Shifts in Automated Empathy Scores",
+    "url": "https://arxiv.org/abs/2608.24901",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.24901v1 Announce Type: new \nAbstract: A decodable \"empathy\" direction is routinely read as a causal lever, conflating decodability, automated-metric control, and human-perceived change. We ",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Dynamic Influence-Weighted Distillation for Single-IMU Activity Recognition",
+    "url": "https://arxiv.org/abs/2608.24904",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.24904v1 Announce Type: new \nAbstract: Inertial sensors at multiple body locations can improve activity recognition, but requiring every sensor at inference increases the deployment burden. ",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Fusing Perceptual Vision Experts with Multimodal Large Language Models for Explainable Plant Disease Diagnosis: From Benchmark Imagery to Real-World Robotic Field Validation",
+    "url": "https://arxiv.org/abs/2608.24934",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.24934v1 Announce Type: new \nAbstract: Accurate field plant disease diagnosis requires reliable fusion of uncertain and conflicting perceptual evidence. We present the Hybrid Hierarchical Mu",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Sam Altman says OpenAI will have AGI by the end of 2026 if you accept his definition",
+    "url": "https://the-decoder.com/sam-altman-says-openai-will-have-agi-by-the-end-of-2026-if-you-accept-his-definition/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI's leadership believes AGI is within reach, according to a TIME report. The company's upcoming model Astra already works as an automated research intern, according to chief scientist Jakub Pacho",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Google Research Introduces GlucoFM: A 0.72M-Parameter Dual-Stream Foundation Model for Continuous Glucose Monitoring",
+    "url": "https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Google Research and UNSW Sydney released GlucoFM, a self-supervised foundation model that splits a CGM trace into a slow physiological stream and a transient event stream instead of encoding it as one",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "OpenAI Jalapeño 🌶️, Perplexity Portable Computer  💻, Claude combines memory 🧠",
+    "url": "https://tldr.tech/ai/2026-08-26",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "feed_name": "OpenAI"
+  }
+]

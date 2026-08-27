@@ -1,0 +1,19 @@
+{
+  "id": "github-20260827-003",
+  "title": "BlossomingL/fag-agent",
+  "source_url": "https://github.com/BlossomingL/fag-agent",
+  "source_type": "github_trending",
+  "summary": "fag-agent 是一个轻量级、可扩展的 AI Agent 框架，专注于简化多步骤任务编排与工具调用。它提供简洁的 API 和模块化设计，支持自定义工具、记忆和模型接入，适用于自动化工作流、智能客服和数据分析等场景。其核心优势在于低门槛快速部署，适合开发者快速构建原型。",
+  "tags": [
+    "Agent",
+    "Framework",
+    "Automation",
+    "LLM",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20260827-002",
+  "title": "fireseasonnow/earwitness",
+  "source_url": "https://github.com/fireseasonnow/earwitness",
+  "source_type": "github_trending",
+  "summary": "earwitness 是一个非官方的 Claude FM 播放日志工具，通过 OCR 识别 Anthropic 24/7 直播中的信用滚动条，记录并展示当天播放的曲目。基于 Bun 和 Astro 构建，无 AI 调用，轻量高效。适合追踪直播音乐、分析播放列表或作为趣味项目参考。",
+  "tags": [
+    "OCR",
+    "Bun",
+    "Astro",
+    "Streaming",
+    "Music",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

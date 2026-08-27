@@ -1,0 +1,20 @@
+{
+  "id": "github-20260827-009",
+  "title": "Mr-Spectr/Enterprise-Knowledge-Agent-AgenticAI-",
+  "source_url": "https://github.com/Mr-Spectr/Enterprise-Knowledge-Agent-AgenticAI-",
+  "source_type": "github_trending",
+  "summary": "企业级知识库智能体解决方案，基于Agentic AI架构，整合RAG、多智能体协作与知识图谱技术，提供文档问答、智能检索与自动化决策支持。支持私有化部署，适配企业安全合规需求，可快速集成至现有业务系统，提升知识管理效率与决策质量。",
+  "tags": [
+    "Agentic AI",
+    "RAG",
+    "Knowledge Graph",
+    "Enterprise",
+    "LLM",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

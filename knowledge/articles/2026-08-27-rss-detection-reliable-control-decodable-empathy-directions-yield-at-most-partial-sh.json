@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260827-004",
+  "title": "Detection != Reliable Control: Decodable Empathy Directions Yield at Most Partial Shifts in Automated Empathy Scores",
+  "source_url": "https://arxiv.org/abs/2608.24901",
+  "source_type": "rss",
+  "summary": "该研究指出，可解码的“共情”方向常被误认为因果杠杆，混淆了可解码性、自动化指标控制和人类感知变化。实验表明，沿此方向干预最多只能部分改变自动化共情分数，无法实现可靠控制，对情感AI的可解释性和评估方法提出重要警示。",
+  "tags": [
+    "Empathy",
+    "Interpretability",
+    "AI Evaluation",
+    "Causal Inference",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

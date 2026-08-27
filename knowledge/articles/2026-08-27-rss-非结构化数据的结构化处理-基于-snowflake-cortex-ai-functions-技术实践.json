@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260827-001",
+  "title": "非结构化数据的结构化处理：基于 Snowflake Cortex AI Functions | 技术实践",
+  "source_url": "https://www.infoq.cn/article/Xw6Nlqq7N2J0CKA0ehx8?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍了如何利用Snowflake Cortex AI Functions对非结构化数据进行结构化处理，涵盖文本提取、情感分析、实体识别等AI功能。通过SQL直接调用内置模型，简化了数据管道，提升了处理效率。适用于日志分析、客户反馈挖掘、文档解析等场景，帮助企业快速从海量非结构化数据中获取洞察。",
+  "tags": [
+    "Snowflake",
+    "AI Functions",
+    "Unstructured Data",
+    "SQL",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

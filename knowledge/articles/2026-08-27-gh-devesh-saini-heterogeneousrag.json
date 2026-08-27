@@ -1,0 +1,20 @@
+{
+  "id": "github-20260827-004",
+  "title": "devesh-saini/HeterogeneousRAG",
+  "source_url": "https://github.com/devesh-saini/HeterogeneousRAG",
+  "source_type": "github_trending",
+  "summary": "HeterogeneousRAG 探索在RAG系统中为不同任务（如检索、重排序、生成）使用异构模型组合对最终响应质量的影响。通过系统化实验，验证了模型分工策略能显著提升生成准确性与相关性，为构建高效、可扩展的RAG流水线提供了实用指导。适用于多模态知识库、企业问答及复杂推理场景。",
+  "tags": [
+    "RAG",
+    "Model Selection",
+    "Heterogeneous",
+    "LLM",
+    "Research",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

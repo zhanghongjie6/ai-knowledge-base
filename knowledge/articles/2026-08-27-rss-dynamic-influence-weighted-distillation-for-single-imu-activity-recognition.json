@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260827-005",
+  "title": "Dynamic Influence-Weighted Distillation for Single-IMU Activity Recognition",
+  "source_url": "https://arxiv.org/abs/2608.24904",
+  "source_type": "rss",
+  "summary": "该研究提出动态影响加权蒸馏方法，用于单IMU人体活动识别。通过将多位置惯性传感器的知识蒸馏到单一传感器模型，在推理时仅需一个IMU即可实现高精度识别，显著降低部署负担。核心技术包括动态影响权重分配和知识蒸馏框架，适用于可穿戴设备、健康监测等场景。",
+  "tags": [
+    "IMU",
+    "Knowledge Distillation",
+    "Activity Recognition",
+    "Wearable",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

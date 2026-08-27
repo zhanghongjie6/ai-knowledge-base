@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260827-003",
+  "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
+  "source_url": "https://arxiv.org/abs/2608.23568",
+  "source_type": "rss",
+  "summary": "RENDER提出在LLM记忆与RAG评估中控制读者可见证据的方法，强调系统渲染历史的方式会影响模型回答。该工作提供标准化评估框架，揭示不同渲染策略对记忆检索和推理的影响，适用于对话系统、知识密集型问答等场景，提升评估可靠性与可复现性。",
+  "tags": [
+    "LLM",
+    "RAG",
+    "Evaluation",
+    "Memory",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

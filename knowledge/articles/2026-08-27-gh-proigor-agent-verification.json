@@ -1,0 +1,19 @@
+{
+  "id": "github-20260827-006",
+  "title": "proigor/agent-verification",
+  "source_url": "https://github.com/proigor/agent-verification",
+  "source_type": "github_trending",
+  "summary": "该项目提出了一种验证AI代理工具调用真实性的方法，通过对比代理声称的操作结果与数据存储实际状态，确保代理行为的可信度。提供Ruby参考实现和Python评估框架，适用于需要严格审计代理行为的场景，如自动化运维、数据变更管理等。核心价值在于增强代理系统的透明度和可靠性，减少幻觉或误报。",
+  "tags": [
+    "AI Agent",
+    "Verification",
+    "Tool Calling",
+    "Reliability",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}

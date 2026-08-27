@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260827-008",
+  "title": "Google Research Introduces GlucoFM: A 0.72M-Parameter Dual-Stream Foundation Model for Continuous Glucose Monitoring",
+  "source_url": "https://www.marktechpost.com/2026/08/26/google-research-introduces-glucofm-a-0-72m-parameter-dual-stream-foundation-model-for-continuous-glucose-monitoring/",
+  "source_type": "rss",
+  "summary": "GlucoFM是Google Research与UNSW Sydney联合推出的连续血糖监测基础模型，仅0.72M参数，采用双流架构分别编码慢速生理变化和快速瞬态事件，通过自监督学习捕捉血糖动态规律。该模型可应用于血糖预测、异常事件检测及个性化糖尿病管理，为可穿戴健康监测提供了高效、轻量的AI解决方案。",
+  "tags": [
+    "Foundation Model",
+    "Health AI",
+    "CGM",
+    "Self-Supervised Learning",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-27T06:36:58+00:00",
+  "updated_at": "2026-08-27T06:36:58+00:00"
+}
