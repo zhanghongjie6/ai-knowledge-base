@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-008",
+  "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
+  "source_url": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
+  "source_type": "rss",
+  "summary": "Google发布Gemini 3.5 Transcribe语音转文本模型，采用双端点设计：流式端点实现亚秒级转录但无说话人分离，批处理端点支持完整说话人分离和标点。在85+语言上平均WER仅2.6%，显著提升多语言转录准确率。适用于实时字幕、会议记录、多语言内容本地化等场景，为语音AI应用提供高效解决方案。",
+  "tags": [
+    "Speech-to-Text",
+    "Multilingual",
+    "Real-time",
+    "Gemini",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-28T08:26:52+00:00",
+  "updated_at": "2026-08-28T08:26:52+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260828-005",
+  "title": "chi111i/BypassAIGC",
+  "source_url": "https://github.com/chi111i/BypassAIGC",
+  "source_type": "github_trending",
+  "summary": "BypassAIGC 是一款针对论文润色和 AIGC 检测降重的开源工具，旨在帮助用户规避 GPTZero 等 AI 内容检测系统的识别。其核心价值在于通过文本改写和风格调整，降低文本被判定为 AI 生成的概率，适用于学术写作、内容创作等场景。技术亮点包括自动化处理流程和多种降重策略，使用户能快速调整文本以通过检测。",
+  "tags": [
+    "AIGC",
+    "Text Rewriting",
+    "Academic Writing",
+    "Detection Bypass",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2056,
+  "status": "draft",
+  "created_at": "2026-08-28T08:26:52+00:00",
+  "updated_at": "2026-08-28T08:26:52+00:00"
+}

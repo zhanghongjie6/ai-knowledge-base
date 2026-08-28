@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-006",
+  "title": "Surgical Video Generation From Diffusion to World Models: A Survey",
+  "source_url": "https://arxiv.org/abs/2608.26214",
+  "source_type": "rss",
+  "summary": "该综述系统梳理了从扩散模型到世界模型的手术视频生成技术，涵盖核心方法、训练数据挑战及在术中感知、手术流程理解和机器人决策中的应用。文章强调生成模型在解决手术数据稀缺、隐私限制和标注成本高问题上的潜力，并展望了世界模型在手术预测和交互式模拟中的前景。",
+  "tags": [
+    "Surgical Video Generation",
+    "Diffusion Models",
+    "World Models",
+    "Medical AI",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-28T08:26:52+00:00",
+  "updated_at": "2026-08-28T08:26:52+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260828-004",
+  "title": "singletonsarah9/0828_AICMO",
+  "source_url": "https://github.com/singletonsarah9/0828_AICMO",
+  "source_type": "github_trending",
+  "summary": "AICMO是一个面向AI竞赛的集成工具包，提供数据预处理、模型训练、评估和部署的标准化流程。它简化了从实验到提交的环节，支持多种主流框架，适合快速搭建基线并迭代优化，提升竞赛效率。",
+  "tags": [
+    "AI Competition",
+    "MLOps",
+    "Framework",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-28T08:26:52+00:00",
+  "updated_at": "2026-08-28T08:26:52+00:00"
+}

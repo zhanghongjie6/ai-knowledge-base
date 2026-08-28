@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-004",
+  "title": "TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding",
+  "source_url": "https://arxiv.org/abs/2608.26112",
+  "source_type": "rss",
+  "summary": "TreeGraft提出了一种自适应多草稿器嫁接方法，用于树状投机解码，通过动态选择并组合多个草稿模型，显著提升了大语言模型推理速度。其核心技术在于自适应嫁接策略，能根据输入和模型状态优化草稿树结构，兼顾准确性与效率。适用于高吞吐量推理场景，如实时对话、代码生成等，可有效降低延迟。",
+  "tags": [
+    "Speculative Decoding",
+    "LLM Inference",
+    "Tree-based Decoding",
+    "Adaptive Drafting",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-28T08:26:52+00:00",
+  "updated_at": "2026-08-28T08:26:52+00:00"
+}

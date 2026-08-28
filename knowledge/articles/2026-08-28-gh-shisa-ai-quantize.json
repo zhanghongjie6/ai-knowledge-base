@@ -1,0 +1,19 @@
+{
+  "id": "github-20260828-007",
+  "title": "shisa-ai/quantize",
+  "source_url": "https://github.com/shisa-ai/quantize",
+  "source_type": "github_trending",
+  "summary": "shisa-ai/quantize 提供了一套模型量化脚本，旨在简化将大型语言模型压缩为低精度格式（如INT8、INT4）的流程。其核心价值在于降低模型部署的显存占用和推理延迟，使模型能在消费级GPU或边缘设备上运行。技术亮点包括支持多种量化方法（如GPTQ、AWQ）和与Hugging Face生态的无缝集成。适用于本地部署、移动端推理和低成本云服务等场景。",
+  "tags": [
+    "Model Quantization",
+    "LLM",
+    "Deployment",
+    "Hugging Face",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-28T08:26:52+00:00",
+  "updated_at": "2026-08-28T08:26:52+00:00"
+}

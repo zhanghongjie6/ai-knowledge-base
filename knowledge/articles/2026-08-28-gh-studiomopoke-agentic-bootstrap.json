@@ -1,0 +1,19 @@
+{
+  "id": "github-20260828-001",
+  "title": "StudioMopoke/agentic-bootstrap",
+  "source_url": "https://github.com/StudioMopoke/agentic-bootstrap",
+  "source_type": "github_trending",
+  "summary": "agentic-bootstrap 是一个智能代理引导命令，旨在帮助开发者从零开始快速搭建项目框架。它通过自动化流程简化项目初始化，支持多种技术栈和配置选项，提升开发效率。适用于快速原型开发、标准化项目结构及团队协作场景。",
+  "tags": [
+    "CLI",
+    "Project Scaffolding",
+    "Developer Tools",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-28T08:26:52+00:00",
+  "updated_at": "2026-08-28T08:26:52+00:00"
+}

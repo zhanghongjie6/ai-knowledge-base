@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260828-005",
+  "title": "SLM-Conditioned Hierarchical Relation Routing for Labeled Property Graph Learning",
+  "source_url": "https://arxiv.org/abs/2608.26132",
+  "source_type": "rss",
+  "summary": "该研究提出一种基于小语言模型（SLM）的分层关系路由方法，用于标注属性图学习。核心价值在于高效整合图结构、文本和类别属性，通过SLM引导关系路由，提升图神经网络在复杂异构图上的表示能力。适用于社交网络分析、知识图谱推理和推荐系统等场景。",
+  "tags": [
+    "Graph Neural Network",
+    "SLM",
+    "Knowledge Graph",
+    "Heterogeneous Graph",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-28T08:26:52+00:00",
+  "updated_at": "2026-08-28T08:26:52+00:00"
+}
