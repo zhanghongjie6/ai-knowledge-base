@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260829-007",
+  "title": "Gemini Omni 1.1 Flash lets you build with more control",
+  "source_url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+  "source_type": "rss",
+  "summary": "Gemini Omni 1.1 Flash 是谷歌推出的新一代多模态模型，提供更强的开发者控制能力，支持实时音频、视频和文本交互。其核心价值在于低延迟、高效率和灵活的API设计，适用于构建交互式AI应用，如实时翻译、语音助手和视觉辅助工具。技术亮点包括改进的流式处理、可调节的响应格式和增强的上下文理解，帮助开发者更精准地控制输出。",
+  "tags": [
+    "Multimodal",
+    "Real-time",
+    "API",
+    "Gemini",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

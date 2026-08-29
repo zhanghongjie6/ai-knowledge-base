@@ -1,0 +1,20 @@
+{
+  "id": "github-20260829-001",
+  "title": "safwan518/PERSONAL-AI-",
+  "source_url": "https://github.com/safwan518/PERSONAL-AI-",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于本地RAG的个人知识助手，利用ChromaDB、Sentence Transformers和Llama 3.2实现文档问答。核心价值在于完全本地化运行，保护隐私，无需云端API。技术亮点包括向量检索与生成结合，支持多种文档格式。适用于个人笔记管理、离线知识库查询等场景。",
+  "tags": [
+    "RAG",
+    "LocalAI",
+    "KnowledgeBase",
+    "ChromaDB",
+    "Llama",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

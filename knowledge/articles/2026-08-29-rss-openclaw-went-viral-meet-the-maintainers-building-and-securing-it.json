@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260829-009",
+  "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+  "source_url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+  "source_type": "rss",
+  "summary": "OpenClaw是GitHub历史上增长最快的项目，本文采访了其维护者Peter Steinberger等人，分享了项目前六个月的经验教训。核心价值在于展示了开源项目如何快速走红并应对安全与维护挑战，技术亮点包括社区驱动开发和快速迭代，适用于开源治理、项目维护及安全实践。",
+  "tags": [
+    "Open Source",
+    "Maintainers",
+    "Security",
+    "Community",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

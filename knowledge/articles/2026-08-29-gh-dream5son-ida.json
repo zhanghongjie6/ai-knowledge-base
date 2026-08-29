@@ -1,0 +1,19 @@
+{
+  "id": "github-20260829-008",
+  "title": "dream5son/ida",
+  "source_url": "https://github.com/dream5son/ida",
+  "source_type": "github_trending",
+  "summary": "ida 是一个智能数据代理，旨在简化数据访问与分析流程。它通过自然语言交互，让用户能够以对话方式查询、处理和可视化数据，降低数据操作门槛。其核心价值在于将复杂的数据任务自动化，适用于数据分析师、业务人员等非技术用户，提升数据驱动决策的效率。",
+  "tags": [
+    "Data Agent",
+    "Natural Language Processing",
+    "Data Analysis",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

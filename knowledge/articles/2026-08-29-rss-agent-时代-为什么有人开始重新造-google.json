@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260829-001",
+  "title": "Agent 时代，为什么有人开始重新造 Google？",
+  "source_url": "https://www.infoq.cn/article/KbbHdAQFxQM7AJIYMLqR?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文探讨了在Agent时代重新构建搜索引擎的现象，分析了传统搜索与AI Agent结合的新范式。核心价值在于将大模型能力与实时信息检索融合，实现更智能、更个性化的查询响应。技术亮点包括多步骤推理、工具调用和动态知识获取。适用场景涵盖复杂问题解答、研究辅助和自动化任务执行。",
+  "tags": [
+    "AI Search",
+    "Agent",
+    "LLM",
+    "Information Retrieval",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

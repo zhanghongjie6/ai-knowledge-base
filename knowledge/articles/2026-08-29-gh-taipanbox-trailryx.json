@@ -1,0 +1,19 @@
+{
+  "id": "github-20260829-004",
+  "title": "TAIPANBOX/trailryx",
+  "source_url": "https://github.com/TAIPANBOX/trailryx",
+  "source_type": "github_trending",
+  "summary": "Trailryx 是一个为 AI 代理行为提供防篡改记录的轻量级工具。它确保每个代理响应都附带完整性证明，任何修改或截断都会被检测到，同时支持按请求删除个人数据，兼顾透明与隐私。适用于审计、合规和信任场景。",
+  "tags": [
+    "AI Agent",
+    "Tamper-evident",
+    "Audit",
+    "Privacy",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260829-010",
+  "title": "Hy4 Preview now available on AI Gateway",
+  "source_url": "https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway",
+  "source_type": "rss",
+  "summary": "Vercel AI Gateway现已支持Hy4模型预览版，为开发者提供统一的API接入点，简化多模型管理。该更新降低了集成门槛，支持快速切换和调用Hy4，适用于AI应用开发与部署场景，提升开发效率与灵活性。",
+  "tags": [
+    "AI Gateway",
+    "Hy4",
+    "Model Integration",
+    "Developer Tools",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

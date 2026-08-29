@@ -1,0 +1,19 @@
+{
+  "id": "github-20260829-003",
+  "title": "bendourthe/Nexus-AI",
+  "source_url": "https://github.com/bendourthe/Nexus-AI",
+  "source_type": "github_trending",
+  "summary": "Nexus-AI 是一款基于 Google Gemma 4 的本地 VS Code 编码助手，采用 Claude Code 风格工作流，支持跨文件编辑、终端执行和多文件推理，无需外部 API，实现完全本地化的智能编码体验。核心价值在于隐私保护和离线可用性，适合对代码安全敏感的开发场景。技术亮点包括本地推理、深度 IDE 集成和自主任务执行。适用于日常开发、代码重构和复杂项目维护。",
+  "tags": [
+    "Local AI",
+    "Coding Assistant",
+    "Gemma",
+    "VS Code",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

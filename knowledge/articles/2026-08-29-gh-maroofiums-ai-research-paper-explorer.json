@@ -1,0 +1,20 @@
+{
+  "id": "github-20260829-006",
+  "title": "maroofiums/AI-Research-Paper-Explorer",
+  "source_url": "https://github.com/maroofiums/AI-Research-Paper-Explorer",
+  "source_type": "github_trending",
+  "summary": "AI-Research-Paper-Explorer 是一个开源工具，旨在帮助研究人员和开发者高效探索人工智能领域的最新论文。它通过聚合 arXiv 等来源，提供关键词搜索、趋势分析和个性化推荐，支持按主题、时间或影响力筛选。其核心价值在于简化文献调研流程，节省时间，并帮助用户快速把握研究热点。技术亮点包括自动摘要生成和引用网络可视化，适用于学术研究、技术选型和趋势追踪。",
+  "tags": [
+    "AI",
+    "Research",
+    "Paper",
+    "Explorer",
+    "NLP",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

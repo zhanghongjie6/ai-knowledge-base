@@ -1,0 +1,19 @@
+{
+  "id": "github-20260829-007",
+  "title": "Begainer24/bharanis-retail-co",
+  "source_url": "https://github.com/Begainer24/bharanis-retail-co",
+  "source_type": "github_trending",
+  "summary": "这是一个个人学习项目，利用AI辅助零售分析，针对虚构公司数据。项目使用Python构建，展示如何将AI技术应用于零售业务场景，如销售预测、客户行为分析等。适合初学者了解AI在零售领域的实际应用，但功能较为基础，缺乏生产级部署能力。",
+  "tags": [
+    "AI",
+    "Retail Analytics",
+    "Python",
+    "Learning Project",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

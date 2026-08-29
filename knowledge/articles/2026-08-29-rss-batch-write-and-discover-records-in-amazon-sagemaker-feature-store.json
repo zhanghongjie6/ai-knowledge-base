@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260829-008",
+  "title": "Batch write and discover records in Amazon SageMaker Feature Store",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/batch-write-and-discover-records-in-amazon-sagemaker-feature-store/",
+  "source_type": "rss",
+  "summary": "Amazon SageMaker Feature Store 新增两个API：BatchWriteRecord支持跨多个特征组批量写入最多25条记录，ListRecords可枚举记录标识符。该功能简化了特征管理流程，提升了机器学习工作流中特征数据写入与发现的效率，适用于大规模特征工程和模型训练场景。",
+  "tags": [
+    "AWS",
+    "Feature Store",
+    "Machine Learning",
+    "Data Management",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

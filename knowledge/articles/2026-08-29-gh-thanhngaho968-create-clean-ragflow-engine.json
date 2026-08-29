@@ -1,0 +1,19 @@
+{
+  "id": "github-20260829-002",
+  "title": "thanhngaho968-create/clean-ragflow-engine",
+  "source_url": "https://github.com/thanhngaho968-create/clean-ragflow-engine",
+  "source_type": "github_trending",
+  "summary": "这是一个基于RAG的竞品情报提取引擎，强调干净、有依据的检索增强生成，并以无状态云运行器形式部署。核心价值在于提供可复用的RAG流水线，支持从多源数据中提取结构化竞品信息，适用于市场调研、产品分析和情报监控场景。技术亮点包括无状态设计、云端运行和干净的上下文管理。",
+  "tags": [
+    "RAG",
+    "Competitive Intelligence",
+    "Cloud",
+    "NLP",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}

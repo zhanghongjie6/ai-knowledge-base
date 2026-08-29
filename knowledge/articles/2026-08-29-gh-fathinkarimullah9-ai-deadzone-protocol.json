@@ -1,0 +1,19 @@
+{
+  "id": "github-20260829-010",
+  "title": "fathinkarimullah9-ai/DEADZONE-PROTOCOL",
+  "source_url": "https://github.com/fathinkarimullah9-ai/DEADZONE-PROTOCOL",
+  "source_type": "github_trending",
+  "summary": "DEADZONE-PROTOCOL 是一个 GitHub 上的开源项目，旨在提供一种去中心化的协议框架，用于构建安全、隐私保护的通信和数据处理系统。其核心技术包括零知识证明、端到端加密和分布式账本，适用于需要高安全性的场景，如金融交易、身份验证和敏感数据共享。该项目仍处于早期阶段，但展示了区块链与隐私计算结合的可能性。",
+  "tags": [
+    "Blockchain",
+    "Privacy",
+    "Zero-Knowledge",
+    "Protocol",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-29T05:07:38+00:00",
+  "updated_at": "2026-08-29T05:07:38+00:00"
+}
