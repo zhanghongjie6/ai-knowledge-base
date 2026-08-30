@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260830-006",
+  "title": "When Logo-Only Cleanup Is Enough: A Practical Gemini Image Decision Tree",
+  "source_url": "https://dev.to/emmanuel_asika/when-logo-only-cleanup-is-enough-a-practical-gemini-image-decision-tree-1h0l",
+  "source_type": "rss",
+  "summary": "本文提出一个实用的决策树，帮助开发者判断何时只需对Gemini生成的图像进行简单的Logo清理，而非复杂的服务器端处理。核心价值在于简化图像后处理流程，节省计算资源。技术亮点包括基于问题类型的分类方法和轻量级清理策略。适用于图像生成应用中需要快速修复小瑕疵的场景。",
+  "tags": [
+    "Gemini",
+    "Image Processing",
+    "Decision Tree",
+    "Cleanup",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

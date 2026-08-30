@@ -1,0 +1,19 @@
+{
+  "id": "github-20260830-005",
+  "title": "xi-yangy/herb-ai-agent",
+  "source_url": "https://github.com/xi-yangy/herb-ai-agent",
+  "source_type": "github_trending",
+  "summary": "herb-ai-agent 是一个基于大语言模型的智能体框架，专注于中医药领域的知识问答与辅助决策。它整合了中医典籍、方剂和药材数据，支持多轮对话、辨证论治推理和个性化建议生成。技术亮点包括RAG增强的知识检索、结构化中医知识图谱以及可扩展的Agent工具链。适用于中医教育、临床辅助和健康管理场景，降低了中医AI应用的门槛。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "RAG",
+    "Traditional Chinese Medicine",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

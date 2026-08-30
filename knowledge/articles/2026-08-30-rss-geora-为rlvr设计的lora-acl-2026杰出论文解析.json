@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260830-010",
+  "title": "GeoRA: 为RLVR设计的LoRA——ACL 2026杰出论文解析",
+  "source_url": "https://tech.meituan.com/2026/08/27/ACL-Outstanding-Paper-GeoRA.html",
+  "source_type": "rss",
+  "summary": "GeoRA是美团履约技术团队在ACL 2026上发表的杰出论文，提出一种专为RLVR（基于验证器反馈的强化学习）设计的低秩训练方法。该方法通过改进LoRA在强化学习场景下的稳定性与效率，显著提升业务Agentic RL的训练效果与收敛速度，已在美团实际业务中落地验证，为大规模智能体强化学习训练提供了高效、可扩展的解决方案。",
+  "tags": [
+    "LoRA",
+    "RLVR",
+    "Agentic RL",
+    "Low-Rank Training",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

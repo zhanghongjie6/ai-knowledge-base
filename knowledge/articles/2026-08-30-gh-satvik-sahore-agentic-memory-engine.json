@@ -1,0 +1,19 @@
+{
+  "id": "github-20260830-008",
+  "title": "satvik-sahore/agentic-memory-engine",
+  "source_url": "https://github.com/satvik-sahore/agentic-memory-engine",
+  "source_type": "github_trending",
+  "summary": "生产级AI代理长期记忆微服务与MCP服务器，采用两阶段事实提取、状态冲突调和及Qdrant向量搜索，为智能体提供持久化记忆管理。支持动态记忆更新与冲突解决，适用于需要长期上下文的多轮对话、个性化推荐及自主决策场景。",
+  "tags": [
+    "Memory",
+    "MCP",
+    "Vector Search",
+    "Agent",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

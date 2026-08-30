@@ -1,0 +1,19 @@
+{
+  "id": "github-20260830-010",
+  "title": "NimaMohammadii/ai-configa",
+  "source_url": "https://github.com/NimaMohammadii/ai-configa",
+  "source_type": "github_trending",
+  "summary": "ai-configa 是一个开源工具，旨在通过 AI 自动生成和优化配置文件（如 JSON、YAML、TOML），支持多种格式和框架。它利用大语言模型理解配置需求，提供交互式命令行界面，帮助开发者快速创建、校验和修复配置，减少手动编写错误，提升开发效率。适用于项目初始化、环境配置迁移及配置调试场景。",
+  "tags": [
+    "LLM",
+    "CLI",
+    "Config",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

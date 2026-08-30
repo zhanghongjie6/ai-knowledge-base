@@ -1,0 +1,19 @@
+{
+  "id": "github-20260830-006",
+  "title": "phumcj11/vps_social_aiserver",
+  "source_url": "https://github.com/phumcj11/vps_social_aiserver",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于VPS的社交AI服务器，提供自托管的AI社交助手功能。它集成了多种AI模型，支持自然语言交互、内容生成和社交平台集成，适合个人或小团队快速部署私有AI社交服务。技术亮点包括轻量级架构、易于配置和扩展，以及多平台兼容性。",
+  "tags": [
+    "AI",
+    "Social",
+    "Self-hosted",
+    "VPS",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

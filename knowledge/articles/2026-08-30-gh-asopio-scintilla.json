@@ -1,0 +1,19 @@
+{
+  "id": "github-20260830-007",
+  "title": "asopio/scintilla",
+  "source_url": "https://github.com/asopio/scintilla",
+  "source_type": "github_trending",
+  "summary": "SCINTILLA 是一个面向科学文献的智能导航工具包，利用大语言模型代理对科学语料库进行深度分析和检索。它支持文献问答、概念关联、趋势发现等功能，帮助研究人员快速定位关键信息，提升科研效率。其核心价值在于将LLM的推理能力与科学文献的结构化知识相结合，提供精准的学术搜索与洞察。",
+  "tags": [
+    "LLM",
+    "Scientific Literature",
+    "Knowledge Navigation",
+    "Agent",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

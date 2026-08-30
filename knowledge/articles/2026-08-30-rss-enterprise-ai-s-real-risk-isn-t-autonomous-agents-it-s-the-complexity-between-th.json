@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260830-003",
+  "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+  "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+  "source_type": "rss",
+  "summary": "本文指出企业AI的真正风险并非自主代理本身，而是代理之间交互的复杂性。随着企业部署多个AI代理，它们之间的通信、协调和治理成为关键挑战，可能导致效率低下和安全漏洞。文章强调需要关注代理间复杂性，并可能通过API管理、可观测性和治理框架来应对。核心价值在于提醒企业从单点代理转向系统性管理，确保AI生态的稳定与可控。",
+  "tags": [
+    "Enterprise AI",
+    "Agent",
+    "Complexity",
+    "Governance",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

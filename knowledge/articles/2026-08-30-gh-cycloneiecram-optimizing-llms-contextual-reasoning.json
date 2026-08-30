@@ -1,0 +1,19 @@
+{
+  "id": "github-20260830-002",
+  "title": "Cycloneiecram/optimizing-llms-contextual-reasoning",
+  "source_url": "https://github.com/Cycloneiecram/optimizing-llms-contextual-reasoning",
+  "source_type": "github_trending",
+  "summary": "该项目聚焦于优化大语言模型的上下文推理能力，通过改进提示策略、注意力机制或推理路径，提升模型在复杂任务中的准确性和效率。适用于长文本理解、多步推理和知识密集型问答等场景，为LLM应用提供更可靠的推理支持。",
+  "tags": [
+    "LLM",
+    "Reasoning",
+    "Prompt Engineering",
+    "Optimization",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

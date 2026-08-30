@@ -1,0 +1,19 @@
+{
+  "id": "github-20260830-004",
+  "title": "4fuu/uri-agent",
+  "source_url": "https://github.com/4fuu/uri-agent",
+  "source_type": "github_trending",
+  "summary": "uri-agent 是一个基于 URI 协议的编码代理，将 Skills 风格的按需加载扩展到所有能力。它结合了可靠的工具调用、渐进式上下文管理和极高的灵活性，使开发者能够通过 URI 动态调用工具和资源，适用于复杂编码任务和自动化工作流。",
+  "tags": [
+    "Agent",
+    "URI",
+    "Coding",
+    "Tool-Calling",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

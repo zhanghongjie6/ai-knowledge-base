@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260830-001",
+  "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+  "source_url": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍了HarmonyOS 7中视觉AI技术的实际应用，包括一句话找图（多模态语义搜索）和低清图像增强功能。通过端云协同架构，实现高效图像理解与处理，提升用户体验。适用于相册管理、图像修复等场景，展示了AI在操作系统层面的深度集成。",
+  "tags": [
+    "HarmonyOS",
+    "Computer Vision",
+    "Multimodal Search",
+    "Image Enhancement",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

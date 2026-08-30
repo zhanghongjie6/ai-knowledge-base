@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260830-009",
+  "title": "科技爱好者周刊（第 410 期）：你需要知道的 AI 三种机制",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/08/weekly-issue-410.html",
+  "source_type": "rss",
+  "summary": "本期周刊聚焦AI三种核心机制，以通俗方式解析大模型内存需求、AI缓存及推理机制，帮助读者理解AI底层原理。内容涵盖技术要点与实际应用场景，适合开发者与科技爱好者快速掌握AI关键概念，提升对AI系统的认知与运用能力。",
+  "tags": [
+    "AI",
+    "LLM",
+    "Cache",
+    "Memory",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}

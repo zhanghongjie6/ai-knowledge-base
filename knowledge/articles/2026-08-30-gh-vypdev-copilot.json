@@ -1,0 +1,18 @@
+{
+  "id": "github-20260830-003",
+  "title": "vypdev/copilot",
+  "source_url": "https://github.com/vypdev/copilot",
+  "source_type": "github_trending",
+  "summary": "vypdev/copilot 是一个为 GitHub 提供超级能力的工具，旨在增强开发者的日常协作与代码管理体验。其核心价值在于通过自动化与智能辅助，简化仓库操作、提升工作流效率。技术亮点可能包括对 GitHub API 的深度集成、智能命令或自定义脚本支持。适用于频繁使用 GitHub 的开发者、团队维护者及 DevOps 场景，可减少重复性操作，提高生产力。",
+  "tags": [
+    "GitHub",
+    "Developer Tools",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-08-30T02:57:55+00:00",
+  "updated_at": "2026-08-30T02:57:55+00:00"
+}
