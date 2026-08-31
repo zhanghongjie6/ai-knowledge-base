@@ -1,0 +1,19 @@
+{
+  "id": "github-20260831-001",
+  "title": "Strikerman23/Airline_Analysis_Dashboard_using_Tableau",
+  "source_url": "https://github.com/Strikerman23/Airline_Analysis_Dashboard_using_Tableau",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于Tableau的航空公司分析仪表盘，提供航班准点率、延误原因、航线分布等核心指标的可视化。通过交互式图表帮助用户快速洞察运营绩效，适用于航空业数据分析、业务监控和决策支持场景。技术亮点在于数据清洗与Tableau高级图表结合，实现直观的驾驶舱体验。",
+  "tags": [
+    "Tableau",
+    "Data Visualization",
+    "Airline Analytics",
+    "Dashboard",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

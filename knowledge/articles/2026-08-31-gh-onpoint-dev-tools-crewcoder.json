@@ -1,0 +1,19 @@
+{
+  "id": "github-20260831-002",
+  "title": "OnPoint-Dev-Tools/crewcoder",
+  "source_url": "https://github.com/OnPoint-Dev-Tools/crewcoder",
+  "source_type": "github_trending",
+  "summary": "CrewCoder 是一个可扩展、注重安全的编码代理命令行工具，旨在通过多代理协作提升开发效率。它支持自定义代理配置，强调安全执行，适用于自动化代码生成、审查和重构等场景。其核心价值在于为开发者提供灵活、可控的AI辅助编码环境。",
+  "tags": [
+    "CLI",
+    "Coding Agent",
+    "Security",
+    "Extensibility",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

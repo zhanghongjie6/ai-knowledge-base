@@ -1,0 +1,19 @@
+{
+  "id": "github-20260831-005",
+  "title": "j3bit/agent-docker",
+  "source_url": "https://github.com/j3bit/agent-docker",
+  "source_type": "github_trending",
+  "summary": "agent-docker 是一个让 AI 代理直接操作 Docker 容器的工具，通过自然语言指令实现容器生命周期管理、资源监控和日志分析。它简化了 AI 与基础设施的交互，适用于自动化运维、开发测试和智能部署场景，提升了容器管理的智能化水平。",
+  "tags": [
+    "Docker",
+    "AI Agent",
+    "DevOps",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

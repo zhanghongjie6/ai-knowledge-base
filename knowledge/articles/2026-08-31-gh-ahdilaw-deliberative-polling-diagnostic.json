@@ -1,0 +1,19 @@
+{
+  "id": "github-20260831-007",
+  "title": "ahdilaw/deliberative-polling-diagnostic",
+  "source_url": "https://github.com/ahdilaw/deliberative-polling-diagnostic",
+  "source_type": "github_trending",
+  "summary": "该仓库为EMNLP 2026论文《Before You Poll with LLMs: A Deliberative Diagnostic Framework》提供响应数据与实验注册表。核心价值在于提出一种在LLM投票前进行审议诊断的框架，以提升群体决策质量。技术亮点包括系统化的实验记录与数据共享，适用于研究LLM在民主审议、集体智慧等场景中的应用。",
+  "tags": [
+    "LLM",
+    "Deliberative Polling",
+    "Framework",
+    "EMNLP",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

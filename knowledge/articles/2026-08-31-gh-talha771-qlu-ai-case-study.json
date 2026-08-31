@@ -1,0 +1,19 @@
+{
+  "id": "github-20260831-010",
+  "title": "Talha771/QLU-AI-case-study",
+  "source_url": "https://github.com/Talha771/QLU-AI-case-study",
+  "source_type": "github_trending",
+  "summary": "QLU-AI-case-study 是一个安全SaaS平台的案例研究，展示了S3文件上传、加密搜索和Redux状态管理等核心功能。该项目提供了完整的前端实现，适合学习如何构建安全的企业级Web应用，尤其关注数据加密和云存储集成。",
+  "tags": [
+    "SaaS",
+    "Security",
+    "S3",
+    "Redux",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260831-004",
+  "title": "Talha771/to-vibe-or-not-to-vibe",
+  "source_url": "https://github.com/Talha771/to-vibe-or-not-to-vibe",
+  "source_type": "github_trending",
+  "summary": "该研究项目评估AI生成的代码补丁与人工修复在代码质量上的差异，使用CodeQL进行静态分析。核心价值在于量化AI编程助手的实际效果，为开发者选择工具提供数据支持。技术亮点包括自动化评估流程和CodeQL规则集应用。适用场景包括代码审查、AI辅助开发工具评测及软件工程研究。",
+  "tags": [
+    "AI Code Generation",
+    "CodeQL",
+    "Static Analysis",
+    "Software Engineering",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

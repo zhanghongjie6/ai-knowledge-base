@@ -1,0 +1,19 @@
+{
+  "id": "github-20260831-003",
+  "title": "MrSplinterRat/neftegaz-analyst",
+  "source_url": "https://github.com/MrSplinterRat/neftegaz-analyst",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向石油天然气行业的AI分析代理，基于RAG技术处理行业报告，支持网络搜索和油价预测，并确保每个数据点都有来源追溯。核心价值在于为行业分析师提供可靠、可验证的智能辅助工具，提升决策效率。",
+  "tags": [
+    "RAG",
+    "AI Agent",
+    "Oil & Gas",
+    "Data Provenance",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-010",
+  "title": "Claude Desktop support with Ollama",
+  "source_url": "https://ollama.com/blog/claude-desktop",
+  "source_type": "rss",
+  "summary": "Claude Desktop现已支持通过Ollama作为第三方网关，用户可在Claude界面中直接使用Ollama提供的开源模型。这一集成打破了Claude对专有模型的依赖，为开发者提供了更灵活、本地化的AI工作流。技术亮点在于无缝配置与本地推理，适用于隐私敏感场景、离线开发及模型对比测试。",
+  "tags": [
+    "Claude",
+    "Ollama",
+    "Open Source",
+    "Local Inference",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260831-009",
+  "title": "jinngimk-lang/agentci",
+  "source_url": "https://github.com/jinngimk-lang/agentci",
+  "source_type": "github_trending",
+  "summary": "agentci 是一个面向 AI 代理的持续集成（CI）工具，强调证据优先和沙箱证据验证。它允许开发者在沙盒环境中运行代理，并验证其行为证据，确保代理输出的可靠性和可审计性。目前处于开发者预览阶段，后端尚未认证，适合早期采用者探索。",
+  "tags": [
+    "AI Agent",
+    "CI/CD",
+    "Sandbox",
+    "Verification",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

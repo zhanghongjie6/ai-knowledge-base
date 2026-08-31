@@ -1,0 +1,19 @@
+{
+  "id": "github-20260831-006",
+  "title": "Terry-yoda/AI-Pulmonary-Lesion-Diagnostic-System",
+  "source_url": "https://github.com/Terry-yoda/AI-Pulmonary-Lesion-Diagnostic-System",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于深度学习的肺部病灶诊断系统，利用医学影像（如CT）自动检测和分类肺结节等病变。核心价值在于辅助医生提高诊断效率和准确性，减少漏诊。技术亮点包括端到端的训练流程、可视化界面以及多模型集成。适用于临床筛查、远程医疗和医学教育场景。",
+  "tags": [
+    "Medical Imaging",
+    "Deep Learning",
+    "Computer Vision",
+    "Healthcare",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

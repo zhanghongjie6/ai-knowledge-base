@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260831-004",
+  "title": "Lowest-Latency Inference APIs for Voice and Realtime Agents: A Time to First Token TTFT-First Benchmark",
+  "source_url": "https://www.marktechpost.com/2026/08/30/lowest-latency-inference-apis-for-voice-and-realtime-agents-a-time-to-first-token-ttft-first-benchmark/",
+  "source_type": "rss",
+  "summary": "本文聚焦语音与实时智能体的推理API延迟问题，提出以首令牌时间（TTFT）为核心的基准测试。核心观点是延迟比智能更早成为瓶颈，TTFT是选型起点但非终点。文章对比了多家API供应商的TTFT表现，强调端到端延迟、稳定性和成本平衡，适用于语音助手、实时翻译、交互式对话等场景，为开发者提供可操作的选型参考。",
+  "tags": [
+    "LLM",
+    "Latency",
+    "Benchmark",
+    "Voice Agent",
+    "Realtime API",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}

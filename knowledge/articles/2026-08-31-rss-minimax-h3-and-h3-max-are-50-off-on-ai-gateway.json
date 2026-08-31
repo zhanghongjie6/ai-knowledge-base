@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260831-005",
+  "title": "MiniMax H3 and H3 Max are 50% off on AI Gateway",
+  "source_url": "https://vercel.com/changelog/minimax-h3-and-h3-max-are-50-off-on-ai-gateway",
+  "source_type": "rss",
+  "summary": "Vercel AI Gateway宣布MiniMax H3和H3 Max模型调用价格降低50%，为开发者提供更经济的AI推理方案。该优惠直接降低使用成本，适用于需要高性价比文本生成、对话等场景，尤其适合在Vercel平台上构建AI应用的中小团队。技术亮点在于无缝集成现有AI Gateway工作流，无需额外配置即可享受折扣。",
+  "tags": [
+    "AI Gateway",
+    "Pricing",
+    "MiniMax",
+    "LLM",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-08-31T02:51:55+00:00",
+  "updated_at": "2026-08-31T02:51:55+00:00"
+}
