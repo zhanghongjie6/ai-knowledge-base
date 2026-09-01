@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260901-001",
+  "title": "智元的“夺冠方法论”",
+  "source_url": "https://www.infoq.cn/article/Ql9rmriHMYtauB4R53Kw?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文深度剖析智元机器人团队在具身智能领域的技术突破与工程实践，揭示其从算法到硬件协同优化的“夺冠方法论”。核心价值在于提出一套可复用的系统级解决方案，涵盖感知、决策与控制闭环，并展示在复杂任务中的高效泛化能力。适用于机器人研发、智能制造及AI落地场景，为行业提供高价值参考。",
+  "tags": [
+    "Embodied AI",
+    "Robotics",
+    "System Optimization",
+    "AI Engineering",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

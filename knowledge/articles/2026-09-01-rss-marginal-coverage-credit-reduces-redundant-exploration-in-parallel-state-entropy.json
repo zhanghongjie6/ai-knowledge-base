@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260901-003",
+  "title": "Marginal Coverage Credit Reduces Redundant Exploration in Parallel State-Entropy Optimization",
+  "source_url": "https://arxiv.org/abs/2608.27507",
+  "source_type": "rss",
+  "summary": "本文提出边际覆盖信用（Marginal Coverage Credit）机制，用于并行状态熵优化中的策略梯度方法，通过减少冗余探索提升状态空间覆盖效率。核心技术为在多个独立策略并行训练时，依据边际覆盖贡献分配信用，避免重复探索已覆盖区域。适用于强化学习中的高效探索、机器人导航及复杂环境下的策略学习场景。",
+  "tags": [
+    "Reinforcement Learning",
+    "Exploration",
+    "Policy Gradient",
+    "State Entropy",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

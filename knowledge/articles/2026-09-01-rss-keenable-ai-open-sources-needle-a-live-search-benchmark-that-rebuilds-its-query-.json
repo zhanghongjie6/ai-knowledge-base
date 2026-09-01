@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260901-006",
+  "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
+  "source_url": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+  "source_type": "rss",
+  "summary": "NEEDLE 是一个实时搜索基准测试，每小时重建查询集，防止搜索代理通过抓取公开数据集作弊。它解决了传统静态基准因代理具备抓取工具而失效的问题，提供更真实的评估环境。适用于搜索增强型AI、RAG系统及Agent性能评测，确保测试结果反映真实能力而非记忆或作弊。",
+  "tags": [
+    "Search Benchmark",
+    "Agent",
+    "Evaluation",
+    "RAG",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

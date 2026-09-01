@@ -1,0 +1,19 @@
+{
+  "id": "github-20260901-010",
+  "title": "glossycannon/Claude-Codex-Cursor-Token-Saver",
+  "source_url": "https://github.com/glossycannon/Claude-Codex-Cursor-Token-Saver",
+  "source_type": "github_trending",
+  "summary": "这是一个面向Windows平台的AI编程令牌节省工具，通过本地过滤、文件优先级排序和上下文压缩，优化发送给Claude、Codex、Cursor等AI编码助手的提示词和仓库上下文，从而减少令牌消耗，降低使用成本，提升编码效率。适用于频繁使用AI辅助编程的开发者，尤其适合大型代码库场景。",
+  "tags": [
+    "AI Coding",
+    "Token Optimization",
+    "Context Compression",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 34,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

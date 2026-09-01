@@ -1,0 +1,19 @@
+{
+  "id": "github-20260901-007",
+  "title": "uniqueplume/AI-Token-Optimizer-Claude-Codex-Cursor",
+  "source_url": "https://github.com/uniqueplume/AI-Token-Optimizer-Claude-Codex-Cursor",
+  "source_type": "github_trending",
+  "summary": "这是一个本地AI上下文压缩工具，专为Claude Code、Codex和Cursor设计。它通过去除重复上下文、优先处理Git diff、过滤生成文件、生成对话摘要和估算token用量，显著减少token消耗，提升AI编程效率。适用于日常开发中需要优化上下文管理、降低API成本的场景。",
+  "tags": [
+    "Token Optimization",
+    "Context Compression",
+    "AI Coding Assistant",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 18,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

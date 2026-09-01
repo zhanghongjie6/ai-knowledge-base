@@ -1,0 +1,19 @@
+{
+  "id": "github-20260901-009",
+  "title": "glossycannon/Offline-AI-Noise-Removal-Audio",
+  "source_url": "https://github.com/glossycannon/Offline-AI-Noise-Removal-Audio",
+  "source_type": "github_trending",
+  "summary": "这是一个面向Windows的离线AI音频清理工具，专注于本地私有处理WAV、MP3、FLAC及视频提取音频。核心功能包括降噪、去混响、去嗡嗡声、语音增强，并提供预览对比和导出配置文件。无需联网，保护隐私，适合内容创作者、播客制作者和视频编辑者使用。",
+  "tags": [
+    "Audio Processing",
+    "Noise Removal",
+    "Offline AI",
+    "Windows",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 20,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260901-003",
+  "title": "me-shaon/trackway",
+  "source_url": "https://github.com/me-shaon/trackway",
+  "source_type": "github_trending",
+  "summary": "Trackway 通过分析代码背后的代理会话，解释每一行代码存在的原因。它连接开发工具与AI代理日志，提供代码溯源和上下文理解，帮助开发者快速定位逻辑来源，适用于代码审查、调试和团队协作场景。",
+  "tags": [
+    "Code Traceability",
+    "Agent",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 6,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

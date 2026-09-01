@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260901-004",
+  "title": "FVeinSyn: Synthetic Finger Vein Image Generator",
+  "source_url": "https://arxiv.org/abs/2608.27527",
+  "source_type": "rss",
+  "summary": "FVeinSyn 是一个合成指静脉图像生成器，旨在解决指静脉识别领域缺乏大规模公开数据集的问题。现有数据集身份数量少、样本有限，限制了深度学习模型的训练和性能。该生成器能够创建多样化的合成指静脉图像，为模型训练提供充足数据，提升识别系统的泛化能力和鲁棒性。适用于生物识别安全、身份认证等场景。",
+  "tags": [
+    "Biometrics",
+    "Synthetic Data",
+    "Finger Vein Recognition",
+    "Deep Learning",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

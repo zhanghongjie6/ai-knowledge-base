@@ -1,0 +1,19 @@
+{
+  "id": "github-20260901-001",
+  "title": "freddyldb/aieotm",
+  "source_url": "https://github.com/freddyldb/aieotm",
+  "source_type": "github_trending",
+  "summary": "aieotm 是一个开源项目，旨在通过 AI 技术优化端到端测试流程。它利用大语言模型自动生成测试用例、执行测试并分析结果，减少人工编写和维护测试脚本的工作量。支持主流测试框架，可集成到 CI/CD 管道中，提升测试效率和覆盖率。适用于 Web 应用、API 和移动应用的自动化测试场景。",
+  "tags": [
+    "AI Testing",
+    "LLM",
+    "Automation",
+    "CI/CD",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

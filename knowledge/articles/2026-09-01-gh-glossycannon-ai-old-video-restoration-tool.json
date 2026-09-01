@@ -1,0 +1,20 @@
+{
+  "id": "github-20260901-008",
+  "title": "glossycannon/AI-Old-Video-Restoration-Tool",
+  "source_url": "https://github.com/glossycannon/AI-Old-Video-Restoration-Tool",
+  "source_type": "github_trending",
+  "summary": "这是一个面向Windows平台的AI老视频修复工具，专注于离线VHS和档案视频修复。核心功能包括降噪、去模糊、色彩清理、人脸恢复、超分辨率预设、前后对比预览和导出配置。用户无需联网即可完成老视频的自动化修复，适合个人存档和家庭影像数字化。",
+  "tags": [
+    "Video Restoration",
+    "AI",
+    "Offline",
+    "Upscaling",
+    "VHS",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 29,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

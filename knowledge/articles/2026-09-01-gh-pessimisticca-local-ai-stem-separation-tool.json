@@ -1,0 +1,19 @@
+{
+  "id": "github-20260901-004",
+  "title": "pessimisticca/Local-AI-Stem-Separation-Tool",
+  "source_url": "https://github.com/pessimisticca/Local-AI-Stem-Separation-Tool",
+  "source_type": "github_trending",
+  "summary": "本地AI音频分离工具，支持离线人声/伴奏分离、语音提取、音轨生成及串音抑制。提供预览、批量处理和WAV/FLAC/MP3导出，适用于音乐制作、内容创作及音频后期处理，保障数据隐私。",
+  "tags": [
+    "Audio Processing",
+    "AI",
+    "Music Production",
+    "Offline",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}

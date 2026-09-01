@@ -1,0 +1,20 @@
+{
+  "id": "github-20260901-006",
+  "title": "mammothbrew/Offline-AI-Video-Dubber-Translator",
+  "source_url": "https://github.com/mammothbrew/Offline-AI-Video-Dubber-Translator",
+  "source_type": "github_trending",
+  "summary": "这是一个面向Windows的离线AI视频配音与翻译工具，支持本地语音转写、字幕生成、翻译、TTS配音、时间轴对齐、音轨混音及多语言导出。核心价值在于完全离线运行，保护隐私且无需网络，适用于视频本地化、内容创作和教育场景。技术亮点包括集成多种AI模型，实现从语音识别到配音的自动化流水线。",
+  "tags": [
+    "Video Dubbing",
+    "Speech-to-Text",
+    "TTS",
+    "Translation",
+    "Offline AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 5,
+  "status": "draft",
+  "created_at": "2026-09-01T03:01:12+00:00",
+  "updated_at": "2026-09-01T03:01:12+00:00"
+}
