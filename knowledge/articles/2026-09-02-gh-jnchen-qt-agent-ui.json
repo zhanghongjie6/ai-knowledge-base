@@ -1,0 +1,19 @@
+{
+  "id": "github-20260902-006",
+  "title": "jnchen/qt-agent-ui",
+  "source_url": "https://github.com/jnchen/qt-agent-ui",
+  "source_type": "github_trending",
+  "summary": "qt-agent-ui 是一个开箱即用的 Qt 界面框架，专为智能体（Agent）应用设计。它提供了跨平台的图形用户界面组件，支持快速集成到现有 Agent 工作流中，简化了桌面端 Agent 应用的开发与部署。其核心价值在于降低 GUI 开发门槛，使开发者能专注于 Agent 逻辑本身。适用于需要桌面交互界面的本地 AI 助手、自动化工具等场景。",
+  "tags": [
+    "Qt",
+    "Agent",
+    "GUI",
+    "Desktop",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

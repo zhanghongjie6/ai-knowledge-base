@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-008",
+  "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
+  "source_url": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
+  "source_type": "rss",
+  "summary": "Anthropic发布Claude Fable 5.1与Mythos 5.1，同一模型配不同安全层。Fable 5.1已在Claude API、AWS、Google Cloud和Microsoft平台全面可用，在Terminal-Bench-Science上取得52.6%的SOTA成绩，同时缓存读取成本降低75%。该模型兼顾高性能与成本优化，适用于科学计算、终端自动化等场景，并强化了安全对齐能力。",
+  "tags": [
+    "LLM",
+    "AI Safety",
+    "Cost Optimization",
+    "Benchmark",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

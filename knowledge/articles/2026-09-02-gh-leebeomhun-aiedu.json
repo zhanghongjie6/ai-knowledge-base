@@ -1,0 +1,19 @@
+{
+  "id": "github-20260902-002",
+  "title": "leebeomhun/aiedu",
+  "source_url": "https://github.com/leebeomhun/aiedu",
+  "source_type": "github_trending",
+  "summary": "aiedu 是一个面向教育场景的开源 AI 工具包，提供课程生成、智能问答、作业批改等功能。它通过模块化设计集成多种大模型，支持自定义知识库与教学流程，帮助教师快速搭建个性化 AI 助教。适用于在线教育、企业培训等场景，降低 AI 教学应用门槛。",
+  "tags": [
+    "EdTech",
+    "LLM",
+    "AI Assistant",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

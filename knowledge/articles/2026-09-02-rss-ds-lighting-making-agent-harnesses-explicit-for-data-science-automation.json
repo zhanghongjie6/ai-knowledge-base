@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-003",
+  "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+  "source_url": "https://arxiv.org/abs/2608.28590",
+  "source_type": "rss",
+  "summary": "DS-Lighting 通过显式化智能体“马具”（harness）概念，提升数据科学工作流的自动化水平。其核心价值在于将任务分解、工具调用与结果验证等环节结构化，增强 LLM 代理的可靠性与可解释性。适用于数据清洗、特征工程、模型选择等场景，可显著减少人工干预。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Data-Science",
+    "Automation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

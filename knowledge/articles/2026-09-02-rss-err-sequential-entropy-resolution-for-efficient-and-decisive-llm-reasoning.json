@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-005",
+  "title": "ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning",
+  "source_url": "https://arxiv.org/abs/2608.28771",
+  "source_type": "rss",
+  "summary": "ERR+提出了一种基于顺序熵解析的推理策略，通过动态识别推理路径中的高不确定性步骤并优先解决，显著提升了大语言模型在复杂任务上的推理效率与决策准确性。该方法无需额外训练，可即插即用，适用于数学推理、逻辑推断和多步规划等场景，在保持性能的同时大幅减少推理长度。",
+  "tags": [
+    "LLM",
+    "Reasoning",
+    "Efficiency",
+    "Entropy",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

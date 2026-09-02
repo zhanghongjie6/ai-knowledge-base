@@ -1,0 +1,172 @@
+[
+  {
+    "title": "TokenDanceLab/AgentHub",
+    "url": "https://github.com/TokenDanceLab/AgentHub",
+    "source": "github_trending",
+    "popularity": 9,
+    "summary": "IM-native multi-agent collaboration platform — @mention Claude Code, Codex, OpenCode like teammates",
+    "pushed_at": "2026-09-02T02:20:11Z",
+    "created_at_source": "2026-05-20T16:29:47Z"
+  },
+  {
+    "title": "leebeomhun/aiedu",
+    "url": "https://github.com/leebeomhun/aiedu",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-02T02:20:11Z",
+    "created_at_source": "2026-09-02T01:51:52Z"
+  },
+  {
+    "title": "riverhe459-lgtm/llm-adaptive-learning",
+    "url": "https://github.com/riverhe459-lgtm/llm-adaptive-learning",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-02T02:20:10Z",
+    "created_at_source": "2026-09-02T02:20:07Z"
+  },
+  {
+    "title": "PengYip/supply-chain-agent",
+    "url": "https://github.com/PengYip/supply-chain-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-02T02:20:10Z",
+    "created_at_source": "2026-08-10T02:31:47Z"
+  },
+  {
+    "title": "fouad3966/apex-athletics",
+    "url": "https://github.com/fouad3966/apex-athletics",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A production-ready, highly interactive web application for a premium fitness center. Features a modern dark-mode glassmorphism UI, advanced Framer Motion animations, and a custom-built smart AI Chatbo",
+    "pushed_at": "2026-09-02T02:20:09Z",
+    "created_at_source": "2026-09-02T02:09:23Z"
+  },
+  {
+    "title": "jnchen/qt-agent-ui",
+    "url": "https://github.com/jnchen/qt-agent-ui",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "An out-of-the-box, Qt Inteface for Agent Applications",
+    "pushed_at": "2026-09-02T02:20:08Z",
+    "created_at_source": "2026-09-02T02:20:07Z"
+  },
+  {
+    "title": "DevGuyRash/agent-tooling",
+    "url": "https://github.com/DevGuyRash/agent-tooling",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Portable Agent Skills bundles (SKILL.md + scripts/references)",
+    "pushed_at": "2026-09-02T02:20:07Z",
+    "created_at_source": "2026-01-11T16:18:30Z"
+  },
+  {
+    "title": "mattsmith321/skills",
+    "url": "https://github.com/mattsmith321/skills",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Claude Code skills and agent-workflow docs from my TASSALL project, shared as examples",
+    "pushed_at": "2026-09-02T02:20:06Z",
+    "created_at_source": "2026-09-02T02:20:02Z"
+  },
+  {
+    "title": "Kira0129/AI-LP",
+    "url": "https://github.com/Kira0129/AI-LP",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-02T02:20:06Z",
+    "created_at_source": "2026-08-13T04:47:36Z"
+  },
+  {
+    "title": "domia-ai/domia-core",
+    "url": "https://github.com/domia-ai/domia-core",
+    "source": "github_trending",
+    "popularity": 14,
+    "summary": "",
+    "pushed_at": "2026-09-02T02:20:06Z",
+    "created_at_source": "2025-06-08T00:13:40Z"
+  },
+  {
+    "title": "Claude越狱后，Anthropic停掉训练、150人紧急转岗",
+    "url": "https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：英伟达正式发布 DLSS 5、戴森发布智能电动牙刷 CameraJet 等",
+    "url": "https://sspai.com/post/114093",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "索尼发布三款 ULT Tower 派对音箱，Starman Optical 收购 GoPro 等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation",
+    "url": "https://arxiv.org/abs/2608.28590",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.28590v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise for automating data-science workflows, yet their end-to-end performance depends critically on the ",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient Indian Medical Texts",
+    "url": "https://arxiv.org/abs/2608.28608",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.28608v1 Announce Type: new \nAbstract: Ancient Indian medical texts like Sushruta Samhita have extensive information on diseases, treatments, and surgical techniques. Yet, their ancient form",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "ERR+: Sequential Entropy Resolution for Efficient and Decisive LLM Reasoning",
+    "url": "https://arxiv.org/abs/2608.28771",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.28771v1 Announce Type: new \nAbstract: Large reasoning models achieve strong performance on complex tasks by generating extended chain-of-thought (CoT) traces via reinforcement learning with",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Open-Set Cattle Muzzle Identification: A Leakage-Controlled Benchmark and Evaluation Protocol",
+    "url": "https://arxiv.org/abs/2608.28663",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2608.28663v1 Announce Type: new \nAbstract: Reliable individual cattle identification supports disease surveillance, vaccination records, breeding management, and livestock insurance. Although th",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+    "url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generate",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
+    "url": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic has released Claude Fable 5.1 and Claude Mythos 5.1, the same model behind two different safeguard layers. Fable 5.1 is generally available on the Claude API, AWS, Google Cloud, and Microsof",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Muse Code 👨‍💻, Runway Solaris ☀️, OpenClaw 2.0 🤖",
+    "url": "https://tldr.tech/ai/2026-09-01",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "feed_name": "OpenAI"
+  }
+]

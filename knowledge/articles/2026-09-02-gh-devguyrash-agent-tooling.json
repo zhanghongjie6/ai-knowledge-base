@@ -1,0 +1,19 @@
+{
+  "id": "github-20260902-007",
+  "title": "DevGuyRash/agent-tooling",
+  "source_url": "https://github.com/DevGuyRash/agent-tooling",
+  "source_type": "github_trending",
+  "summary": "DevGuyRash/agent-tooling 提供可移植的 Agent 技能包，每个技能包包含 SKILL.md 描述文件和配套脚本/参考文档。该工具旨在标准化 Agent 技能的定义、分发和复用，使开发者能够轻松地将特定能力嵌入到不同 Agent 框架中。适用于快速构建自定义 Agent 工作流、共享领域知识或集成外部工具。",
+  "tags": [
+    "Agent",
+    "Skill",
+    "Tooling",
+    "Portable",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

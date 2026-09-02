@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-004",
+  "title": "NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient Indian Medical Texts",
+  "source_url": "https://arxiv.org/abs/2608.28608",
+  "source_type": "rss",
+  "summary": "该研究利用NLP技术对古印度医学文献（如《苏鲁塔本集》）进行知识抽取与主题分类，克服古文本翻译与结构化的挑战，提取疾病、治疗和手术技术等关键信息。核心价值在于将非结构化历史文献转化为可查询的结构化知识库，助力医学史研究和传统医学数字化。技术亮点包括针对古语言的NLP管道和主题建模，应用场景涵盖历史医学研究、知识图谱构建及跨文化医学比较。",
+  "tags": [
+    "NLP",
+    "Knowledge Extraction",
+    "Historical Text Mining",
+    "Medical Informatics",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

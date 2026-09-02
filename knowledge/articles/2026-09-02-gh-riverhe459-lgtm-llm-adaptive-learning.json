@@ -1,0 +1,19 @@
+{
+  "id": "github-20260902-003",
+  "title": "riverhe459-lgtm/llm-adaptive-learning",
+  "source_url": "https://github.com/riverhe459-lgtm/llm-adaptive-learning",
+  "source_type": "github_trending",
+  "summary": "该项目利用大语言模型实现自适应学习系统，根据用户学习行为和知识掌握情况动态调整学习路径和内容。核心技术包括知识图谱构建、个性化推荐和实时反馈，适用于在线教育、技能培训等场景，能显著提升学习效率。",
+  "tags": [
+    "LLM",
+    "Adaptive Learning",
+    "EdTech",
+    "Knowledge Graph",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

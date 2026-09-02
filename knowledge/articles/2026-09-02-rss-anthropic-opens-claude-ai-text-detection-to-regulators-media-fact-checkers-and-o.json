@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-007",
+  "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+  "source_url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+  "source_type": "rss",
+  "summary": "Anthropic向监管机构、媒体和研究人员开放Claude文本检测API，用于识别文本是否带有Claude的数字水印。此举响应欧盟《人工智能法案》对AI生成内容隐形水印的要求，旨在提升AI内容透明度，防止滥用，并支持事实核查与内容溯源。该技术可嵌入文本生成流程，实现可验证的出处标记。",
+  "tags": [
+    "AI Safety",
+    "Watermarking",
+    "Regulation",
+    "Content Provenance",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

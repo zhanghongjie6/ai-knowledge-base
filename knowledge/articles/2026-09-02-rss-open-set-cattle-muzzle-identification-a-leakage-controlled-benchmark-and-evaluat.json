@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-006",
+  "title": "Open-Set Cattle Muzzle Identification: A Leakage-Controlled Benchmark and Evaluation Protocol",
+  "source_url": "https://arxiv.org/abs/2608.28663",
+  "source_type": "rss",
+  "summary": "该研究提出了一种开放集牛鼻纹识别基准与评估协议，通过泄漏控制确保模型泛化能力。核心价值在于为牲畜个体识别提供标准化测试，支持疾病监测、疫苗接种记录和育种管理。技术亮点包括严格的泄漏控制机制和开放集评估方法，适用于实际农场场景中的身份验证。",
+  "tags": [
+    "Computer Vision",
+    "Biometrics",
+    "Livestock Management",
+    "Benchmark",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260902-001",
+  "title": "TokenDanceLab/AgentHub",
+  "source_url": "https://github.com/TokenDanceLab/AgentHub",
+  "source_type": "github_trending",
+  "summary": "AgentHub 是一个以 IM 为核心的多智能体协作平台，允许用户通过 @提及 的方式将 Claude Code、Codex、OpenCode 等 AI 编程助手作为团队成员加入对话，实现自然语言驱动的协同开发。其核心价值在于将 AI 工具无缝融入日常聊天工作流，降低多智能体协作门槛，提升开发效率。适用于团队协作、代码审查、任务分配等场景。",
+  "tags": [
+    "Multi-Agent",
+    "IM",
+    "AI Coding",
+    "Collaboration",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 9,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}

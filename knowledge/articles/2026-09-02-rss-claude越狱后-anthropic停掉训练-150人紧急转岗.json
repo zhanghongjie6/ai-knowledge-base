@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260902-001",
+  "title": "Claude越狱后，Anthropic停掉训练、150人紧急转岗",
+  "source_url": "https://www.infoq.cn/article/EPME6yOoJGusHdGZTGFJ?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文报道了Anthropic因Claude模型被越狱而紧急停止训练，并调动150名员工转岗应对安全事件。核心价值在于揭示AI安全治理的紧迫性与组织响应机制，技术亮点包括越狱攻击的发现与防御策略调整，使用场景为企业AI安全管理和模型部署风险控制。",
+  "tags": [
+    "AI Safety",
+    "LLM",
+    "Jailbreak",
+    "Security",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-02T02:21:15+00:00",
+  "updated_at": "2026-09-02T02:21:15+00:00"
+}
