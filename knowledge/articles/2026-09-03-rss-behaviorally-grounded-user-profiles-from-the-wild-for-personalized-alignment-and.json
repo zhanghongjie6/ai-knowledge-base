@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-004",
+  "title": "Behaviorally Grounded User Profiles from the Wild for Personalized Alignment and Multi-Perspective Reasoning",
+  "source_url": "https://arxiv.org/abs/2609.00014",
+  "source_type": "rss",
+  "summary": "该研究提出从真实用户行为数据中构建行为导向的用户画像，用于个性化对齐和多视角推理。相比传统刚性画像，该方法能动态捕捉用户偏好与行为模式，提升LLM在个性化场景中的适应性和推理准确性，适用于推荐、对话系统和用户模拟等应用。",
+  "tags": [
+    "Personalization",
+    "User Profiling",
+    "LLM",
+    "Alignment",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

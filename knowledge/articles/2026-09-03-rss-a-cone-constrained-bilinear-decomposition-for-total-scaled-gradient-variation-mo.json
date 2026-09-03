@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260903-006",
+  "title": "A Cone-Constrained Bilinear Decomposition for Total Scaled-Gradient Variation Models",
+  "source_url": "https://arxiv.org/abs/2609.00036",
+  "source_type": "rss",
+  "summary": "该论文提出一种锥约束双线性分解方法，用于求解总缩放梯度变分（TSGV）模型。TSGV正则化源自分段线性结构的稀疏建模，能有效保留边缘。该方法通过双线性分解将原问题转化为更易处理的锥约束优化，提升计算效率与稳定性，适用于图像去噪、重建等逆问题。",
+  "tags": [
+    "Optimization",
+    "Image Processing",
+    "Variational Methods",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

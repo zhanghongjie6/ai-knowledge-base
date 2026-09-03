@@ -1,0 +1,19 @@
+{
+  "id": "github-20260903-007",
+  "title": "simokitafresh/multi-agent-shogun",
+  "source_url": "https://github.com/simokitafresh/multi-agent-shogun",
+  "source_type": "github_trending",
+  "summary": "multi-agent-shogun 是一个受武士道启发的多智能体系统，专为 Claude Code 设计。它通过 tmux 实现并行 AI 任务编排，采用 shogun → karo → ashigaru 的层级结构，分别对应指挥官、管理者与执行者角色，支持复杂任务的分解与协同处理，提升开发效率。",
+  "tags": [
+    "Multi-Agent",
+    "Claude Code",
+    "Task Orchestration",
+    "tmux",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

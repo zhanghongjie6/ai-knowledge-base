@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-005",
+  "title": "Task-Specific Prompt with Global Context for Multi-Task Graph Pre-Training",
+  "source_url": "https://arxiv.org/abs/2609.00047",
+  "source_type": "rss",
+  "summary": "本文提出一种结合全局上下文的任务特定提示方法，用于多任务图预训练。现有图提示学习在低资源场景下适配预训练模型时，忽略了任务间共享的全局结构信息。该方法通过设计任务特定提示并融合全局上下文，提升下游任务性能，适用于节点分类、链接预测等图分析任务，尤其在标注数据稀缺时表现优异。",
+  "tags": [
+    "Graph Neural Network",
+    "Prompt Learning",
+    "Pre-training",
+    "Low-resource Learning",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260903-008",
+  "title": "mash-enori/aioqgh",
+  "source_url": "https://github.com/mash-enori/aioqgh",
+  "source_type": "github_trending",
+  "summary": "aioqgh 是一个轻量级异步任务队列工具，专注于简化 Python 中的并发任务处理。它提供简洁的 API，支持任务优先级、延迟执行和结果回调，适用于爬虫、数据处理和微服务中的异步工作流。其核心优势在于零依赖、易于集成，并内置错误重试机制，可快速提升开发效率。",
+  "tags": [
+    "Async",
+    "Task Queue",
+    "Python",
+    "Concurrency",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

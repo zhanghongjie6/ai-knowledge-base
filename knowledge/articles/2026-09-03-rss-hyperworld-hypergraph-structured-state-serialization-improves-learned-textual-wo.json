@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260903-003",
+  "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+  "source_url": "https://arxiv.org/abs/2609.00002",
+  "source_type": "rss",
+  "summary": "HyperWorld 提出了一种基于超图结构的状态序列化方法，用于改进文本世界模型。该方法通过将环境状态表示为超图，并设计序列化策略，使语言模型能更准确地预测环境动态并支持规划。核心价值在于提升智能体在文本交互环境中的决策能力，适用于游戏、模拟和任务型对话等场景。",
+  "tags": [
+    "World Model",
+    "Hypergraph",
+    "State Serialization",
+    "Language Agent",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

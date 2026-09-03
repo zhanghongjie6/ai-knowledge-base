@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260903-008",
+  "title": "Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search",
+  "source_url": "https://www.marktechpost.com/2026/09/02/qwen-developers-open-sources-zg-zvec-grep-a-local-first-search-layer-unifying-ripgrep-bm25-and-vector-search/",
+  "source_type": "rss",
+  "summary": "zg（zvec-grep）是Qwen开发者开源的本地优先搜索层，统一了ripgrep、BM25和向量搜索三种模式，提供单一命令行接口。它支持关键词精确匹配、BM25相关性排序和语义向量检索，无需外部服务即可在本地高效运行。适用于代码搜索、文档检索、本地知识库管理等场景，兼顾速度与语义理解。",
+  "tags": [
+    "Search",
+    "Local-first",
+    "Vector Search",
+    "BM25",
+    "Open Source",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

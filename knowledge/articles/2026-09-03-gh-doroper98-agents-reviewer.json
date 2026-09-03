@@ -1,0 +1,19 @@
+{
+  "id": "github-20260903-006",
+  "title": "doroper98/agents_reviewer",
+  "source_url": "https://github.com/doroper98/agents_reviewer",
+  "source_type": "github_trending",
+  "summary": "agents_reviewer 是一个用于自动审查和评估 AI Agent 行为的开源工具，通过模拟用户交互和场景测试，帮助开发者发现 Agent 的缺陷、安全漏洞和逻辑错误。它提供可配置的测试用例和详细报告，适用于 Agent 开发、调试和上线前的质量保障。",
+  "tags": [
+    "Agent",
+    "Testing",
+    "Evaluation",
+    "Debugging",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

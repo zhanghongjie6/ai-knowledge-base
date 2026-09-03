@@ -1,0 +1,18 @@
+{
+  "id": "github-20260903-001",
+  "title": "noknov/kepler-agent",
+  "source_url": "https://github.com/noknov/kepler-agent",
+  "source_type": "github_trending",
+  "summary": "Kepler-agent 是一个轻量级、可扩展的 AI 代理框架，专注于简化多步骤任务自动化。它通过模块化设计支持自定义工具集成，并提供直观的配置接口，使开发者能快速构建智能工作流。适用于客服、数据分析、自动化运维等场景，降低 AI 应用开发门槛。",
+  "tags": [
+    "AI Agent",
+    "Framework",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

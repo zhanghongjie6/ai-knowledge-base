@@ -1,0 +1,19 @@
+{
+  "id": "github-20260903-009",
+  "title": "MING-W-H/AIWeeklyReportMaster",
+  "source_url": "https://github.com/MING-W-H/AIWeeklyReportMaster",
+  "source_type": "github_trending",
+  "summary": "AIWeeklyReportMaster 是一个基于 Python 的周报自动生成系统，核心价值在于自动化处理周报流程。它支持从 CRM 接口或本地 Excel 获取工时数据，汇总后调用多种大模型（如 MiniMax、DeepSeek、OpenCode、Qwen）生成结构化周报，并通过腾讯企业邮箱自动发送。适用于需要定期提交周报的团队或个人，能显著节省时间，提升报告规范性和效率。",
+  "tags": [
+    "Automation",
+    "LLM",
+    "Report Generation",
+    "Python",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 11,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260903-002",
+  "title": "koder-ai/template-static-slides",
+  "source_url": "https://github.com/koder-ai/template-static-slides",
+  "source_type": "github_trending",
+  "summary": "这是一个基于静态模板的幻灯片展示项目，无需后端支持，内容固定，适合快速部署演示场景。核心价值在于极简架构，降低维护成本，适用于技术分享、产品介绍或教学材料。技术亮点是纯前端实现，易于定制和版本管理。",
+  "tags": [
+    "Static Site",
+    "Presentation",
+    "Template",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}

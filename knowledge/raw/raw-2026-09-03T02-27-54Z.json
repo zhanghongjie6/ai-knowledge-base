@@ -1,0 +1,172 @@
+[
+  {
+    "title": "noknov/kepler-agent",
+    "url": "https://github.com/noknov/kepler-agent",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "",
+    "pushed_at": "2026-09-03T02:27:43Z",
+    "created_at_source": "2026-05-18T03:39:47Z"
+  },
+  {
+    "title": "koder-ai/template-static-slides",
+    "url": "https://github.com/koder-ai/template-static-slides",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Simple slide presentation with fixed content and no backend.",
+    "pushed_at": "2026-09-03T02:27:42Z",
+    "created_at_source": "2026-07-14T01:36:55Z"
+  },
+  {
+    "title": "remarkablegames/secret-identity",
+    "url": "https://github.com/remarkablegames/secret-identity",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "🦸 AI chatbot game where you guess a superhero's secret identity",
+    "pushed_at": "2026-09-03T02:27:40Z",
+    "created_at_source": "2024-11-14T05:04:00Z"
+  },
+  {
+    "title": "prive-hn/admissible",
+    "url": "https://github.com/prive-hn/admissible",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Fail-closed admissibility kernel for agent workflows",
+    "pushed_at": "2026-09-03T02:27:40Z",
+    "created_at_source": "2026-08-30T21:21:34Z"
+  },
+  {
+    "title": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
+    "url": "https://github.com/wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
+    "source": "github_trending",
+    "popularity": 85,
+    "summary": "I’ve just created my own bot and I’m excited to share my work with you!",
+    "pushed_at": "2026-09-03T02:27:44Z",
+    "created_at_source": "2026-08-10T10:16:41Z"
+  },
+  {
+    "title": "doroper98/agents_reviewer",
+    "url": "https://github.com/doroper98/agents_reviewer",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-03T02:27:39Z",
+    "created_at_source": "2026-03-27T11:15:45Z"
+  },
+  {
+    "title": "simokitafresh/multi-agent-shogun",
+    "url": "https://github.com/simokitafresh/multi-agent-shogun",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy.",
+    "pushed_at": "2026-09-03T02:27:39Z",
+    "created_at_source": "2026-02-08T12:08:18Z"
+  },
+  {
+    "title": "mash-enori/aioqgh",
+    "url": "https://github.com/mash-enori/aioqgh",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-03T02:27:39Z",
+    "created_at_source": "2026-09-01T15:50:05Z"
+  },
+  {
+    "title": "MING-W-H/AIWeeklyReportMaster",
+    "url": "https://github.com/MING-W-H/AIWeeklyReportMaster",
+    "source": "github_trending",
+    "popularity": 11,
+    "summary": "一个基于 Python 的 AI 周报自动生成系统，支持通过 CRM 接口自动下载工时 Excel（或手动放置本地 Excel），汇总后调用大模型（MiniMax / DeepSeek / OpenCode / Qwen）生成结构化周报，并支持通过腾讯企业邮箱自动发送给指定人员。",
+    "pushed_at": "2026-09-03T02:27:38Z",
+    "created_at_source": "2026-07-22T03:31:25Z"
+  },
+  {
+    "title": "aijadugar/skyboy",
+    "url": "https://github.com/aijadugar/skyboy",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "The fastest, best-curated, agent-agnostic directory of AI skills (SKILL.md) — preview, install, and ship them to Claude, ChatGPT, Cursor, Gemini CLI, and more.",
+    "pushed_at": "2026-09-03T02:27:38Z",
+    "created_at_source": "2026-09-02T10:25:43Z"
+  },
+  {
+    "title": "Cursor 推出 Origin：面向智能体的 GitHub 替代方案",
+    "url": "https://www.infoq.cn/article/labxcNbT15HapoWw69lq?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
+    "url": "https://sspai.com/post/114113",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models",
+    "url": "https://arxiv.org/abs/2609.00002",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.00002v1 Announce Type: new \nAbstract: World models enable language-model agents to predict environment dynamics and plan before acting. In text environments, the model must learn symbolic a",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Behaviorally Grounded User Profiles from the Wild for Personalized Alignment and Multi-Perspective Reasoning",
+    "url": "https://arxiv.org/abs/2609.00014",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.00014v1 Announce Type: new \nAbstract: Persona-driven techniques increasingly adapt large language models (LLMs) to diverse contexts. However, existing methods predominantly rely on rigid, s",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Task-Specific Prompt with Global Context for Multi-Task Graph Pre-Training",
+    "url": "https://arxiv.org/abs/2609.00047",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.00047v1 Announce Type: new \nAbstract: Graph prompt learning is an effective paradigm to adapt pre-trained graph models to downstream tasks in low-resource scenarios. However, existing multi",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "A Cone-Constrained Bilinear Decomposition for Total Scaled-Gradient Variation Models",
+    "url": "https://arxiv.org/abs/2609.00036",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.00036v1 Announce Type: new \nAbstract: The total scaled-gradient variation (TSGV) regularizer, derived from sparse modeling of piecewise-linear structures, has been shown to preserve edges a",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "US Department of Justice backs fair use for AI training in landmark copyright case",
+    "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "In the class-action lawsuit involving The New York Times, the US Department of Justice argues that training AI models on copyrighted text qualifies as fair use. The filing directly contradicts a repor",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Qwen Developers Open-Sources zg (zvec-grep): A Local-First Search Layer Unifying ripgrep, BM25, and Vector Search",
+    "url": "https://www.marktechpost.com/2026/09/02/qwen-developers-open-sources-zg-zvec-grep-a-local-first-search-layer-unifying-ripgrep-bm25-and-vector-search/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "We look at zg (zvec-grep), the local-first search layer that Qwen Developers just open-sourced under Apache 2.0. We explain how it puts ripgrep, BM25, and vector search behind a single interface, so a",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Fable 5.1 🧠, World Labs Atlas 🌍, Cognition $47B 💰",
+    "url": "https://tldr.tech/ai/2026-09-02",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "feed_name": "OpenAI"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "github-20260903-004",
+  "title": "prive-hn/admissible",
+  "source_url": "https://github.com/prive-hn/admissible",
+  "source_type": "github_trending",
+  "summary": "Admissible 是一个为代理工作流设计的故障关闭（fail-closed）可接纳性内核，确保代理在执行操作前通过严格的安全与策略检查。它提供核心价值在于防止不可信或越权行为，技术亮点包括可插拔的验证规则和明确的拒绝机制，适用于需要高安全性的自动化决策场景。",
+  "tags": [
+    "Agent",
+    "Security",
+    "Workflow",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-03T02:28:37+00:00",
+  "updated_at": "2026-09-03T02:28:37+00:00"
+}
