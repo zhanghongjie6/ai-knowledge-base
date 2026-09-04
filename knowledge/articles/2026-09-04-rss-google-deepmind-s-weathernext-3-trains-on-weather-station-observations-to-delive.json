@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-008",
+  "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+  "source_url": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
+  "source_type": "rss",
+  "summary": "Google DeepMind发布WeatherNext 3，基于气象站观测数据训练，提供全球5公里分辨率、每小时更新的天气预报。该系统融合实时地球静止卫星拼图，并集成于搜索、Gemini和地图等产品中。其核心价值在于提升短临预报精度与时效性，对农业、交通、应急管理等领域具有直接应用潜力，标志着AI在气象预测领域的实用化新高度。",
+  "tags": [
+    "AI",
+    "Weather Forecasting",
+    "DeepMind",
+    "Satellite Data",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-04T02:24:05+00:00",
+  "updated_at": "2026-09-04T02:24:05+00:00"
+}

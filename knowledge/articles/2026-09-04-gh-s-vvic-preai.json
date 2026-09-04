@@ -1,0 +1,18 @@
+{
+  "id": "github-20260904-005",
+  "title": "s-vvic/PreAI",
+  "source_url": "https://github.com/s-vvic/PreAI",
+  "source_type": "github_trending",
+  "summary": "PreAI 是一个面向AI应用开发的前端预处理器，通过声明式配置和组件化抽象，简化LLM驱动的界面构建。它提供状态管理、流式响应处理和可复用UI组件，支持快速集成到现有前端项目，适用于聊天机器人、智能表单和实时数据分析等场景，降低AI交互开发门槛。",
+  "tags": [
+    "Frontend",
+    "LLM",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-04T02:24:05+00:00",
+  "updated_at": "2026-09-04T02:24:05+00:00"
+}

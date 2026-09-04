@@ -1,0 +1,19 @@
+{
+  "id": "github-20260904-006",
+  "title": "qiantongtech/qData",
+  "source_url": "https://github.com/qiantongtech/qData",
+  "source_type": "github_trending",
+  "summary": "qData 是一个开源数据治理与开发平台，集成了ETL、数据开发、元数据管理、数据质量、数据资产、API服务及AI数据问答。其核心价值在于提供一站式解决方案，降低数据平台建设门槛，并通过AI增强数据交互效率。适用于企业数据中台、数据治理及智能分析场景。",
+  "tags": [
+    "Data Governance",
+    "ETL",
+    "Data Platform",
+    "AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 584,
+  "status": "draft",
+  "created_at": "2026-09-04T02:24:05+00:00",
+  "updated_at": "2026-09-04T02:24:05+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260904-002",
+  "title": "clarity108/agent-develop",
+  "source_url": "https://github.com/clarity108/agent-develop",
+  "source_type": "github_trending",
+  "summary": "agent-develop 是一个帮助开发者构建自定义 Agent 的开源项目，提供从零开发智能体的完整流程与工具链。其核心价值在于降低 Agent 开发门槛，支持快速集成 LLM、工具调用与记忆模块，适用于自动化任务、智能客服及个人助理等场景。技术亮点包括模块化设计、易扩展的接口和清晰的文档，开发者可基于此快速搭建生产级 Agent。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "Developer Tools",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-04T02:24:05+00:00",
+  "updated_at": "2026-09-04T02:24:05+00:00"
+}

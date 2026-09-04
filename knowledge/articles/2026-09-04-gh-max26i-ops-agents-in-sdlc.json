@@ -1,0 +1,19 @@
+{
+  "id": "github-20260904-003",
+  "title": "max26i-ops/agents-in-sdlc",
+  "source_url": "https://github.com/max26i-ops/agents-in-sdlc",
+  "source_type": "github_trending",
+  "summary": "该项目展示了将AI代理应用于软件开发生命周期（SDLC）各阶段的实践，涵盖需求分析、编码、测试、部署等环节。通过多个可复用的代理示例，帮助开发者理解如何用LLM自动化开发流程，提升效率与质量。适合作为AI辅助开发的参考模板。",
+  "tags": [
+    "AI Agent",
+    "SDLC",
+    "DevOps",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-04T02:24:05+00:00",
+  "updated_at": "2026-09-04T02:24:05+00:00"
+}

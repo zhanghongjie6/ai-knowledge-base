@@ -1,0 +1,172 @@
+[
+  {
+    "title": "mrz1836/lucid",
+    "url": "https://github.com/mrz1836/lucid",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "🔮 Finally, a tool for your inner life—AI journal, therapist, coach & agent-self that grows with you",
+    "pushed_at": "2026-09-04T02:23:06Z",
+    "created_at_source": "2025-11-27T19:44:55Z"
+  },
+  {
+    "title": "clarity108/agent-develop",
+    "url": "https://github.com/clarity108/agent-develop",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "开发属于自己的agent",
+    "pushed_at": "2026-09-04T02:23:05Z",
+    "created_at_source": "2026-09-02T12:32:05Z"
+  },
+  {
+    "title": "max26i-ops/agents-in-sdlc",
+    "url": "https://github.com/max26i-ops/agents-in-sdlc",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-04T02:23:09Z",
+    "created_at_source": "2026-09-04T02:23:04Z"
+  },
+  {
+    "title": "Henryshin/research",
+    "url": "https://github.com/Henryshin/research",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Independent equity research notes — robotics, physical AI, and industrial component supply chain.",
+    "pushed_at": "2026-09-04T02:23:04Z",
+    "created_at_source": "2026-07-22T02:04:46Z"
+  },
+  {
+    "title": "s-vvic/PreAI",
+    "url": "https://github.com/s-vvic/PreAI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-04T02:23:04Z",
+    "created_at_source": "2026-08-10T10:48:25Z"
+  },
+  {
+    "title": "qiantongtech/qData",
+    "url": "https://github.com/qiantongtech/qData",
+    "source": "github_trending",
+    "popularity": 584,
+    "summary": "qData is an open-source data governance and data development platform that integrates ETL, data development, metadata management, data quality, data assets, API services, and AI-powered data Q&A.",
+    "pushed_at": "2026-09-04T02:23:04Z",
+    "created_at_source": "2025-05-17T02:45:03Z"
+  },
+  {
+    "title": "Nagumo-Ryunosuke/github-agent-bridge",
+    "url": "https://github.com/Nagumo-Ryunosuke/github-agent-bridge",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-04T02:23:10Z",
+    "created_at_source": "2026-09-04T02:14:16Z"
+  },
+  {
+    "title": "erdemirigiz-dotcom/ironvision",
+    "url": "https://github.com/erdemirigiz-dotcom/ironvision",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Source of ironvisiontools.com — Iron Vision Tools: practical AI tools for small businesses (appointment bots, fast business sites, automation)",
+    "pushed_at": "2026-09-04T02:23:04Z",
+    "created_at_source": "2026-05-18T14:49:56Z"
+  },
+  {
+    "title": "lherron/hrc-runtime",
+    "url": "https://github.com/lherron/hrc-runtime",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "HRC — Harness Runtime Controller (local runtime control plane for agent sessions)",
+    "pushed_at": "2026-09-04T02:23:03Z",
+    "created_at_source": "2026-05-19T03:22:06Z"
+  },
+  {
+    "title": "zdingwl/ai-drama-studio",
+    "url": "https://github.com/zdingwl/ai-drama-studio",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "视频翻译重绘工具",
+    "pushed_at": "2026-09-04T02:23:03Z",
+    "created_at_source": "2026-08-23T05:39:02Z"
+  },
+  {
+    "title": "向总决赛进发｜GOAI复赛评审正式启动",
+    "url": "https://www.infoq.cn/article/bOI6y8Tdr714CWa5CcxR?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、Meta 发布 Muse Spark 1.3 模型等",
+    "url": "https://sspai.com/post/114164",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+    "url": "https://arxiv.org/abs/2609.01611",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.01611v1 Announce Type: new \nAbstract: Frontier large language models can often recognize when they are being evaluated, a capability known as evaluation awareness. If models behave differen",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation",
+    "url": "https://arxiv.org/abs/2609.01658",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.01658v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation enhances Large Language Models by grounding responses in external knowledge, but multi-hop reasoning remains vulnerable ",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling",
+    "url": "https://arxiv.org/abs/2609.01608",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.01608v1 Announce Type: new \nAbstract: Black-box optimization problems remain challenging because of large, weakly structured, and high-dimensional search spaces. Existing methods often suff",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Beyond Textual Chain-of-Thought: A Survey on Action-Grounded Reasoning in Autonomous Driving",
+    "url": "https://arxiv.org/abs/2609.01659",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.01659v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) reasoning powers generative models by eliciting intermediate steps before producing an answer. In autonomous driving, the answer",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "GPT-6 Astra is the first model making OpenAI willing to declare the \"AGI era\"",
+    "url": "https://the-decoder.com/gpt-6-astra-is-the-first-model-making-openai-willing-to-declare-the-agi-era/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI has released GPT-6 Astra, its most capable model yet. President Greg Brockman says it marks the start of the \"AGI era.\" Astra tops benchmarks in math, coding, and cybersecurity and is the first",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Google DeepMind’s WeatherNext 3 Trains on Weather Station Observations to Deliver 5 km Global Forecasts, Refreshed Every Hour",
+    "url": "https://www.marktechpost.com/2026/09/03/google-deepminds-weathernext-3-trains-on-weather-station-observations-to-deliver-5-km-global-forecasts-refreshed-every-hour/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "WeatherNext 3 ingests live geostationary satellite mosaics, refreshes hourly, and outputs 5 km forecasts across Search, Gemini, Maps.\nThe post Google DeepMind&#8217;s WeatherNext 3 Trains on Weather S",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Muse Spark 1.3 ✨, Gemini 3.8 Flash ⚡, intelligence vs cost 📊",
+    "url": "https://tldr.tech/ai/2026-09-03",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "feed_name": "OpenAI"
+  }
+]

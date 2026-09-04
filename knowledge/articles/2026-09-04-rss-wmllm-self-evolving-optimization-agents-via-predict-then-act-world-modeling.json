@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-005",
+  "title": "WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling",
+  "source_url": "https://arxiv.org/abs/2609.01608",
+  "source_type": "rss",
+  "summary": "WMLLM提出了一种基于世界模型的自我进化优化智能体，通过“先预测后行动”的范式解决黑箱优化问题。其核心价值在于利用大语言模型构建环境动态模型，提升搜索效率与泛化能力，适用于高维、弱结构化空间的自动调参、神经架构搜索等场景。技术亮点包括预测模块与行动模块的协同、自我进化机制，以及无需梯度即可优化。",
+  "tags": [
+    "LLM",
+    "Optimization",
+    "World Model",
+    "Agent",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-04T02:24:05+00:00",
+  "updated_at": "2026-09-04T02:24:05+00:00"
+}

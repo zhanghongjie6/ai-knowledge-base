@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-006",
+  "title": "Beyond Textual Chain-of-Thought: A Survey on Action-Grounded Reasoning in Autonomous Driving",
+  "source_url": "https://arxiv.org/abs/2609.01659",
+  "source_type": "rss",
+  "summary": "本文综述了自动驾驶中超越文本链式推理的动作接地推理方法，强调将推理过程与车辆实际动作和环境交互相结合。核心价值在于提升生成模型在动态驾驶场景中的决策可靠性与可解释性。技术亮点包括多模态感知融合、动作空间约束推理及闭环评估框架。应用场景涵盖复杂路口决策、危险规避及人机共驾系统。",
+  "tags": [
+    "Autonomous Driving",
+    "Chain-of-Thought",
+    "Action-Grounded Reasoning",
+    "Survey",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-04T02:24:05+00:00",
+  "updated_at": "2026-09-04T02:24:05+00:00"
+}

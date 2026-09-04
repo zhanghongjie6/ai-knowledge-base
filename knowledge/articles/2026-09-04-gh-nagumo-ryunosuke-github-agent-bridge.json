@@ -1,0 +1,19 @@
+{
+  "id": "github-20260904-007",
+  "title": "Nagumo-Ryunosuke/github-agent-bridge",
+  "source_url": "https://github.com/Nagumo-Ryunosuke/github-agent-bridge",
+  "source_type": "github_trending",
+  "summary": "github-agent-bridge 是一个将 GitHub 与 AI 代理连接的开源工具，允许开发者通过自然语言指令直接操作 GitHub 仓库，如创建 issue、管理 PR、审查代码等。它利用 AI 代理理解意图并调用 GitHub API，简化了开发工作流，提升了自动化水平。适用于个人开发者及团队，可集成到 CI/CD 或日常开发中，减少手动操作。",
+  "tags": [
+    "GitHub",
+    "AI Agent",
+    "Developer Tools",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-04T02:24:05+00:00",
+  "updated_at": "2026-09-04T02:24:05+00:00"
+}

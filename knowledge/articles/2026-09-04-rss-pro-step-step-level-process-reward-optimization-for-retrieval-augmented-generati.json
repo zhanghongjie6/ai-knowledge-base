@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260904-004",
+  "title": "PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation",
+  "source_url": "https://arxiv.org/abs/2609.01658",
+  "source_type": "rss",
+  "summary": "PRO-Step 提出了一种面向检索增强生成（RAG）的步骤级过程奖励优化方法，旨在解决多跳推理中因检索噪声或中间错误导致的脆弱性问题。通过将过程奖励建模到每个推理步骤，并利用强化学习或对比学习进行优化，显著提升模型在复杂问答任务中的准确性和鲁棒性。该方法可广泛应用于开放域问答、事实验证及知识密集型对话系统。",
+  "tags": [
+    "RAG",
+    "Process Reward",
+    "Multi-hop Reasoning",
+    "LLM",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-04T02:24:05+00:00",
+  "updated_at": "2026-09-04T02:24:05+00:00"
+}

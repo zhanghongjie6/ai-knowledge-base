@@ -1,0 +1,19 @@
+{
+  "id": "github-20260904-009",
+  "title": "lherron/hrc-runtime",
+  "source_url": "https://github.com/lherron/hrc-runtime",
+  "source_type": "github_trending",
+  "summary": "HRC（Harness Runtime Controller）是一个面向代理会话的本地运行时控制平面，旨在为AI代理提供统一的会话生命周期管理、资源调度与安全隔离能力。其核心价值在于将代理执行环境从应用逻辑中解耦，支持动态启停、状态同步与故障恢复，适用于需要稳定运行多个代理的复杂自动化场景。技术亮点包括轻量级设计、可插拔后端以及与主流代理框架的集成能力。",
+  "tags": [
+    "Agent",
+    "Runtime",
+    "Control Plane",
+    "Session Management",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-04T02:24:05+00:00",
+  "updated_at": "2026-09-04T02:24:05+00:00"
+}
