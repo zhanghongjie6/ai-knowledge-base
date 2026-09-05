@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260905-009",
+  "title": "Developing Enterprise Frontier Safeguards with our customers",
+  "source_url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+  "source_type": "rss",
+  "summary": "Anthropic 推出企业前沿防护（EFS），结合零数据保留（ZDR）的隐私保护与先进的滥用检测机制。通过存储提示和输出摘要而非原始数据，EFS 在保障数据隐私的同时，为企业提供高安全性的 AI 使用环境，适用于金融、医疗等对数据合规要求严格的行业。",
+  "tags": [
+    "AI Safety",
+    "Enterprise",
+    "Privacy",
+    "Zero Data Retention",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

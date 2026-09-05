@@ -1,0 +1,19 @@
+{
+  "id": "github-20260905-009",
+  "title": "phfarath/ready-ai",
+  "source_url": "https://github.com/phfarath/ready-ai",
+  "source_type": "github_trending",
+  "summary": "ready-ai 是一个开源核心，专注于代理式浏览器自动化，能够自动生成带截图的分步 SaaS 文档。它通过智能代理模拟用户操作，捕获关键界面，并自动生成结构化教程，显著降低文档编写成本。适用于产品手册、用户指南、内部培训等场景，提升文档更新效率与准确性。",
+  "tags": [
+    "Agent",
+    "Browser Automation",
+    "Documentation",
+    "SaaS",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

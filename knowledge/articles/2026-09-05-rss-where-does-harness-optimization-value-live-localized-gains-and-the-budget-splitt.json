@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260905-004",
+  "title": "Where Does Harness-Optimization Value Live? Localized Gains and the Budget-Splitting Trap in Self-Evolving LLM Agents",
+  "source_url": "https://arxiv.org/abs/2609.02889",
+  "source_type": "rss",
+  "summary": "该研究探讨了自进化LLM智能体中优化“框架”（即模型周围的文本脚手架）的价值分布问题。核心发现是，框架优化带来的收益具有局部性，且存在“预算分割陷阱”——即分散优化资源可能导致整体性能下降。研究为智能体设计提供了关键指导，帮助开发者更有效地分配优化预算，避免常见误区。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Self-Evolution",
+    "Optimization",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

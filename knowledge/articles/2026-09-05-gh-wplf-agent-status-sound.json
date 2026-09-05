@@ -1,0 +1,19 @@
+{
+  "id": "github-20260905-008",
+  "title": "wplf/agent-status-sound",
+  "source_url": "https://github.com/wplf/agent-status-sound",
+  "source_type": "github_trending",
+  "summary": "这是一个Cursor插件，通过声音提示代理任务完成或需要人工关注，提升开发效率。核心价值在于无需持续盯屏，通过听觉反馈及时响应。技术亮点是轻量集成Cursor事件系统，支持自定义音效。适用于长时间运行代理任务的场景。",
+  "tags": [
+    "Cursor",
+    "Plugin",
+    "Audio",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

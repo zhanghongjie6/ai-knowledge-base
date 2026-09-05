@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260905-003",
+  "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+  "source_url": "https://arxiv.org/abs/2609.02981",
+  "source_type": "rss",
+  "summary": "该论文探讨人工智能如何将实用英语教材从固定纸质序列转变为可诊断学习者需求的适应性学习系统，提出新教材的结构设计与实现方法，涵盖智能内容生成、个性化路径推荐及实时反馈机制，适用于语言教学、自适应学习平台及教育内容开发场景，推动教材智能化转型。",
+  "tags": [
+    "AI in Education",
+    "Adaptive Learning",
+    "NLP",
+    "Textbook Design",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

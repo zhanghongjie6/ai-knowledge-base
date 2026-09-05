@@ -1,0 +1,19 @@
+{
+  "id": "github-20260905-005",
+  "title": "techcornerhq/jobs-ai-worker",
+  "source_url": "https://github.com/techcornerhq/jobs-ai-worker",
+  "source_type": "github_trending",
+  "summary": "jobs-ai-worker 是一个开源项目，提供基于 AI 的自动化求职助手，能够自动搜索职位、生成定制简历和求职信，并跟踪申请进度。其核心价值在于利用大语言模型简化求职流程，提升效率。技术亮点包括模块化 worker 架构、支持多平台职位源集成以及灵活的配置。适用于求职者、招聘顾问等场景，可显著减少重复性工作。",
+  "tags": [
+    "AI Agent",
+    "Job Search",
+    "Automation",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

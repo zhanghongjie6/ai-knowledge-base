@@ -1,0 +1,20 @@
+{
+  "id": "github-20260905-002",
+  "title": "Gyliardson/studyflash-ai",
+  "source_url": "https://github.com/Gyliardson/studyflash-ai",
+  "source_type": "github_trending",
+  "summary": "StudyFlash AI是一个基于AI的学习平台，提供闪卡、间隔重复和模拟考试功能。技术栈包括Next.js前端、FastAPI后端、PostgreSQL/Neon数据库和Clerk认证。其核心价值在于利用AI生成学习内容并优化复习计划，适用于学生备考和终身学习场景。",
+  "tags": [
+    "AI Education",
+    "Flashcards",
+    "Spaced Repetition",
+    "Next.js",
+    "FastAPI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

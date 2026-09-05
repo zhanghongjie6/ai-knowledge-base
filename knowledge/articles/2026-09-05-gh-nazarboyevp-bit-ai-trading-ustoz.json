@@ -1,0 +1,19 @@
+{
+  "id": "github-20260905-007",
+  "title": "nazarboyevp-bit/Ai-trading-ustoz",
+  "source_url": "https://github.com/nazarboyevp-bit/Ai-trading-ustoz",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI交易系统，结合机器学习与量化策略，提供自动化交易、回测和风险管理功能。核心价值在于降低交易门槛，通过智能信号辅助决策，适用于加密货币和股票市场。技术亮点包括实时数据分析和自适应模型，但项目成熟度有限。",
+  "tags": [
+    "AI Trading",
+    "Quantitative Finance",
+    "Machine Learning",
+    "Backtesting",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

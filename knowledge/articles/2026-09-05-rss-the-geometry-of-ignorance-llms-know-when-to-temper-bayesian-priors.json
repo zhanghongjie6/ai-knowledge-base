@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260905-005",
+  "title": "The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors",
+  "source_url": "https://arxiv.org/abs/2609.02959",
+  "source_type": "rss",
+  "summary": "该研究揭示了大语言模型在信息不足时如何通过其解嵌入矩阵的几何结构来调节贝叶斯先验。核心发现是存在一个单一方向，控制模型在低线索情境下的预测行为，使其能自动平衡先验知识与当前证据。这为理解模型不确定性提供了新视角，并可能改进校准与推理策略。",
+  "tags": [
+    "LLM",
+    "Bayesian",
+    "Geometry",
+    "Uncertainty",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

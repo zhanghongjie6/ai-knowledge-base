@@ -1,0 +1,19 @@
+{
+  "id": "github-20260905-003",
+  "title": "Zedster07/omarchy-desktop-agent",
+  "source_url": "https://github.com/Zedster07/omarchy-desktop-agent",
+  "source_type": "github_trending",
+  "summary": "Omarchy桌面代理是一个开源项目，旨在通过自然语言指令自动化桌面操作，集成视觉识别与任务规划，提升工作效率。其核心价值在于将AI代理能力扩展到本地桌面环境，支持跨应用操作，适用于办公自动化、软件测试等场景。技术亮点包括多模态感知和模块化设计，便于扩展。",
+  "tags": [
+    "Desktop Automation",
+    "AI Agent",
+    "Computer Vision",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

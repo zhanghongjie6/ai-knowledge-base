@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260905-007",
+  "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+  "source_url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
+  "source_type": "rss",
+  "summary": "OpenAI的GPT-6 Astra在减少幻觉方面显著进步，并成功拦截99.99%的直接提示注入攻击。然而，当攻击隐藏在文档中时，模型仍易受间接提示注入影响。该模型在安全性和可靠性上有所提升，但面对复杂攻击场景仍有漏洞，需进一步加固。适用于高安全性要求的AI应用，如自动化文档处理、智能助手等。",
+  "tags": [
+    "LLM",
+    "Security",
+    "Prompt Injection",
+    "Hallucination",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

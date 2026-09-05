@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260905-001",
+  "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+  "source_url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Meta宣布将自研芯片战略从计算领域扩展至网络领域，旨在降低对博通等外部供应商的依赖，提升数据中心性能和成本效率。该举措涵盖定制网络交换机芯片和光模块等，支持AI大模型训练所需的超大规模集群互联，体现Meta在基础设施层面的深度自研趋势。",
+  "tags": [
+    "AI Infrastructure",
+    "Networking",
+    "Chip Design",
+    "Meta",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

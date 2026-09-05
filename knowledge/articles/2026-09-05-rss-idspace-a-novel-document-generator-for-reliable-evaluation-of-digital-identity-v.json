@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260905-006",
+  "title": "IDSPACE: A Novel Document Generator for Reliable Evaluation of Digital Identity Verification Systems [Extended Technical Report]",
+  "source_url": "https://arxiv.org/abs/2609.03052",
+  "source_type": "rss",
+  "summary": "IDSPACE提出了一种用于数字身份验证系统可靠评估的新型文档生成器。随着服务线上化，银行、贷款机构和政府需远程验证用户身份，欺诈检测工具面临挑战。该生成器能创建逼真的身份文档，用于测试和评估验证系统的性能与鲁棒性，填补了该领域缺乏标准化评估数据的空白。",
+  "tags": [
+    "Identity Verification",
+    "Document Generation",
+    "Fraud Detection",
+    "Evaluation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}

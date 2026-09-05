@@ -1,0 +1,172 @@
+[
+  {
+    "title": "shangliny10-lab/embedded-skills",
+    "url": "https://github.com/shangliny10-lab/embedded-skills",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "嵌入式开发 AI Agent Skills 集合：STM32、Arduino/ESP32、FreeRTOS、通信协议、嵌入式 Linux",
+    "pushed_at": "2026-09-05T02:24:10Z",
+    "created_at_source": "2026-09-05T01:48:54Z"
+  },
+  {
+    "title": "Gyliardson/studyflash-ai",
+    "url": "https://github.com/Gyliardson/studyflash-ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "StudyFlash AI-powered study platform for flashcards, spaced repetition, and practice exams; built with Next.js, FastAPI, PostgreSQL/Neon, and Clerk.",
+    "pushed_at": "2026-09-05T02:24:07Z",
+    "created_at_source": "2025-12-08T23:58:41Z"
+  },
+  {
+    "title": "Zedster07/omarchy-desktop-agent",
+    "url": "https://github.com/Zedster07/omarchy-desktop-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-05T02:24:07Z",
+    "created_at_source": "2026-09-03T15:06:55Z"
+  },
+  {
+    "title": "Sofiabns/govinsight-ai",
+    "url": "https://github.com/Sofiabns/govinsight-ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Plataforma de engenharia de dados para analisar contratações públicas do PNCP com FastAPI, PostgreSQL e evidências auditáveis.",
+    "pushed_at": "2026-09-05T02:24:06Z",
+    "created_at_source": "2026-09-05T01:53:05Z"
+  },
+  {
+    "title": "techcornerhq/jobs-ai-worker",
+    "url": "https://github.com/techcornerhq/jobs-ai-worker",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-05T02:24:06Z",
+    "created_at_source": "2026-09-04T05:22:41Z"
+  },
+  {
+    "title": "Sabra7/AIChE-KKU",
+    "url": "https://github.com/Sabra7/AIChE-KKU",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-05T02:24:06Z",
+    "created_at_source": "2026-09-04T19:33:20Z"
+  },
+  {
+    "title": "nazarboyevp-bit/Ai-trading-ustoz",
+    "url": "https://github.com/nazarboyevp-bit/Ai-trading-ustoz",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-05T02:24:06Z",
+    "created_at_source": "2026-08-17T20:11:22Z"
+  },
+  {
+    "title": "wplf/agent-status-sound",
+    "url": "https://github.com/wplf/agent-status-sound",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Cursor plugin that plays sounds when an agent finishes or needs human attention",
+    "pushed_at": "2026-09-05T02:24:06Z",
+    "created_at_source": "2026-09-05T02:18:07Z"
+  },
+  {
+    "title": "phfarath/ready-ai",
+    "url": "https://github.com/phfarath/ready-ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Open-source core for agentic browser automation that generates step-by-step SaaS documentation with screenshots.",
+    "pushed_at": "2026-09-05T02:24:06Z",
+    "created_at_source": "2026-03-06T16:34:42Z"
+  },
+  {
+    "title": "vasily-tolkyov/kairos-v5-predictive-agent",
+    "url": "https://github.com/vasily-tolkyov/kairos-v5-predictive-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Kairos V5 embodied-agent prototype using R1/R2/R2A predictive memory, attention, and a joint physical-control field",
+    "pushed_at": "2026-09-05T02:24:05Z",
+    "created_at_source": "2026-08-29T06:51:29Z"
+  },
+  {
+    "title": "Meta 拓展自研芯片战略：从计算领域延伸至网络领域",
+    "url": "https://www.infoq.cn/article/bSxsIYqjExqDh8eO2kwL?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 8 部作品",
+    "url": "https://sspai.com/post/114175",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence",
+    "url": "https://arxiv.org/abs/2609.02981",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.02981v1 Announce Type: new \nAbstract: Artificial intelligence is changing the form of applied English materials from fixed paper sequences to adaptive learning systems that can diagnose lea",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Where Does Harness-Optimization Value Live? Localized Gains and the Budget-Splitting Trap in Self-Evolving LLM Agents",
+    "url": "https://arxiv.org/abs/2609.02889",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.02889v1 Announce Type: new \nAbstract: A growing body of work improves frozen large language models (LLMs) as agents by evolving their harness: the textual scaffolding around the model, incl",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "The Geometry of Ignorance: LLMs Know When to Temper Bayesian Priors",
+    "url": "https://arxiv.org/abs/2609.02959",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.02959v1 Announce Type: new \nAbstract: What does a language model predict when it has few clues? The answer lurks in its unembedding geometry: a single direction of the unembedding matrix en",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "IDSPACE: A Novel Document Generator for Reliable Evaluation of Digital Identity Verification Systems [Extended Technical Report]",
+    "url": "https://arxiv.org/abs/2609.03052",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.03052v1 Announce Type: new \nAbstract: As services move online, trust institutions such as banks, lenders, and governments must verify the identity of remote users. Fraud detection tools are",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
+    "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI's GPT-6 Astra hallucinates less than its predecessor and blocks 99.99 percent of direct prompt injections. But when attacks are hidden inside documents the AI reads, the model still gets cracke",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "GPT-6 Astra 🚀, Grok Bot Enterprise 🤖, Runway world model 🌎",
+    "url": "https://tldr.tech/ai/2026-09-04",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Developing Enterprise Frontier Safeguards with our customers",
+    "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Today we’re announcing Enterprise Frontier Safeguards (EFS), a solution that combines the privacy of zero data retention (ZDR) with state-of-the-art safeguards for detecting misuse. EFS works by stori",
+    "feed_name": "Anthropic News"
+  },
+  {
+    "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Google DeepMind"
+  }
+]

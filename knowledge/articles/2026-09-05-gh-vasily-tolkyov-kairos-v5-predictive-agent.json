@@ -1,0 +1,19 @@
+{
+  "id": "github-20260905-010",
+  "title": "vasily-tolkyov/kairos-v5-predictive-agent",
+  "source_url": "https://github.com/vasily-tolkyov/kairos-v5-predictive-agent",
+  "source_type": "github_trending",
+  "summary": "Kairos V5是一个具身智能体原型，采用R1/R2/R2A预测性记忆机制、注意力机制和联合物理控制场。其核心价值在于通过预测性记忆与注意力结合，提升智能体在物理环境中的决策与行动能力。适用于机器人控制、自动驾驶等需要实时物理交互的场景。",
+  "tags": [
+    "Embodied AI",
+    "Predictive Memory",
+    "Robotics",
+    "Attention",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-05T02:24:56+00:00",
+  "updated_at": "2026-09-05T02:24:56+00:00"
+}
