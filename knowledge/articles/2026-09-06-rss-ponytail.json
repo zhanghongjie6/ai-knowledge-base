@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260906-010",
+  "title": "Ponytail",
+  "source_url": "https://www.producthunt.com/products/ponytail",
+  "source_type": "rss",
+  "summary": "Ponytail 是一款强调“让新代码成为最后手段”的开发工具，鼓励开发者优先复用、重构和利用现有代码库，减少技术债务和重复劳动。其核心价值在于通过智能分析和引导，帮助团队在添加新功能前充分挖掘已有代码潜力，从而提升代码质量与开发效率。适用于大型项目维护、遗留系统现代化以及追求可持续开发的团队。",
+  "tags": [
+    "Code Reuse",
+    "Developer Tools",
+    "Refactoring",
+    "Tech Debt",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-06T02:20:56+00:00",
+  "updated_at": "2026-09-06T02:20:56+00:00"
+}

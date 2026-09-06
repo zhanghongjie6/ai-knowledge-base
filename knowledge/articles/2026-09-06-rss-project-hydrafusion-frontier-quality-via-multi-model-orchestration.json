@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260906-005",
+  "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+  "source_url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+  "source_type": "rss",
+  "summary": "HydraFusion 是 GitHub 推出的多模型编排研究项目，通过智能选择不同模型处理编码工作流中的特定任务，在离线评估中达到或超越 Opus 5 的基准质量，同时降低预估成本。其核心价值在于按需调用最合适的模型，实现前沿质量与成本效率的平衡，适用于复杂编码任务，现已提供研究预览。",
+  "tags": [
+    "Multi-Model",
+    "Orchestration",
+    "AI Coding",
+    "Cost Optimization",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-06T02:20:56+00:00",
+  "updated_at": "2026-09-06T02:20:56+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260906-004",
+  "title": "Deploy a multimodal WhatsApp ordering assistant with Amazon Bedrock AgentCore",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/deploy-a-multimodal-whatsapp-ordering-assistant-with-amazon-bedrock-agentcore/",
+  "source_type": "rss",
+  "summary": "该方案基于Amazon Bedrock AgentCore构建多模态WhatsApp点单助手，支持文本、语音留言和实时语音通话下单，统一业务号码。技术亮点包括多模态输入处理、Agent编排、与WhatsApp集成，适用于餐饮、零售等行业，提升客户下单体验与运营效率。",
+  "tags": [
+    "Multimodal",
+    "Agent",
+    "Amazon Bedrock",
+    "WhatsApp",
+    "Voice",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-06T02:20:56+00:00",
+  "updated_at": "2026-09-06T02:20:56+00:00"
+}

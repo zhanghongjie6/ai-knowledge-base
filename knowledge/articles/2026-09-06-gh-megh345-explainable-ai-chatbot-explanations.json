@@ -1,0 +1,19 @@
+{
+  "id": "github-20260906-002",
+  "title": "megh345/Explainable-AI-Chatbot-Explanations",
+  "source_url": "https://github.com/megh345/Explainable-AI-Chatbot-Explanations",
+  "source_type": "github_trending",
+  "summary": "该项目提供可解释AI聊天机器人的解释生成框架，通过可视化注意力权重和决策路径，帮助用户理解模型回答依据。核心技术包括LIME/SHAP集成、对话上下文追踪和置信度展示，适用于客服、教育及医疗等需透明决策的场景。",
+  "tags": [
+    "Explainable AI",
+    "Chatbot",
+    "Interpretability",
+    "NLP",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-06T02:20:56+00:00",
+  "updated_at": "2026-09-06T02:20:56+00:00"
+}

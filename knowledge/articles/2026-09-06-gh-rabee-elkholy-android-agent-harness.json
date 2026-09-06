@@ -1,0 +1,19 @@
+{
+  "id": "github-20260906-008",
+  "title": "rabee-elkholy/android-agent-harness",
+  "source_url": "https://github.com/rabee-elkholy/android-agent-harness",
+  "source_type": "github_trending",
+  "summary": "android-agent-harness 是一个面向 Android 开发的确定性 AI 智能体框架，集成了 5-Leaf 审查门控机制，支持 Cursor、Claude Code、Antigravity、Copilot 和 Windsurf 等主流 AI 编程工具。它通过结构化流程约束 AI 生成代码的质量，减少随机性，提升可预测性，适用于需要严格代码审查和自动化开发流程的 Android 项目。",
+  "tags": [
+    "Android",
+    "AI Agent",
+    "Code Review",
+    "DevTools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 6,
+  "status": "draft",
+  "created_at": "2026-09-06T02:20:56+00:00",
+  "updated_at": "2026-09-06T02:20:56+00:00"
+}

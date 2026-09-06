@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260906-007",
+  "title": "Architecting memory and storage in the AI era",
+  "source_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
+  "source_type": "rss",
+  "summary": "AI推理时代对内存与存储架构提出新要求。本文探讨如何设计面向AI工作负载的存储系统，以支持实时处理海量数据，如医疗研究或智能助手。核心在于优化数据访问速度与能效，满足AI应用对低延迟和高吞吐的需求，为行业提供架构设计参考。",
+  "tags": [
+    "AI",
+    "Memory",
+    "Storage",
+    "Architecture",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-06T02:20:56+00:00",
+  "updated_at": "2026-09-06T02:20:56+00:00"
+}

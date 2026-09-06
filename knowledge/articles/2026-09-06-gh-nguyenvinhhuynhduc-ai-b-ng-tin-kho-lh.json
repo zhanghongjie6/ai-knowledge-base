@@ -1,0 +1,19 @@
+{
+  "id": "github-20260906-005",
+  "title": "nguyenvinhhuynhduc-ai/B-ng-tin-kho-LH",
+  "source_url": "https://github.com/nguyenvinhhuynhduc-ai/B-ng-tin-kho-LH",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于GitHub的越南语新闻聚合工具，名为“Bảng tin khoa học LH”，专注于收集和展示科技与科学领域的新闻。它通过自动化脚本从多个来源抓取内容，并以简洁的界面呈现，帮助用户快速获取最新科技动态。核心价值在于提供越南语科技新闻的一站式阅读体验，适合越南语用户或对越南科技新闻感兴趣的研究者。",
+  "tags": [
+    "News Aggregator",
+    "Vietnamese",
+    "Automation",
+    "Open Source",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-06T02:20:56+00:00",
+  "updated_at": "2026-09-06T02:20:56+00:00"
+}

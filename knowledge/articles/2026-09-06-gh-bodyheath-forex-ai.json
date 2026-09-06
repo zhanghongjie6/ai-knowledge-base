@@ -1,0 +1,19 @@
+{
+  "id": "github-20260906-006",
+  "title": "bodyheath/forex-ai",
+  "source_url": "https://github.com/bodyheath/forex-ai",
+  "source_type": "github_trending",
+  "summary": "forex-ai 是一个面向外汇交易的开源AI项目，集成了机器学习模型用于汇率预测和交易信号生成。它提供数据预处理、特征工程、模型训练与回测的完整流程，支持多种算法（如LSTM、XGBoost），并附带实时数据接口。适合个人交易者或量化爱好者快速搭建自动化交易策略，降低入门门槛。",
+  "tags": [
+    "Forex",
+    "Machine Learning",
+    "Quantitative Trading",
+    "Time Series",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-06T02:20:56+00:00",
+  "updated_at": "2026-09-06T02:20:56+00:00"
+}

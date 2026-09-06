@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260906-006",
+  "title": "Ling 3.0 Flash Sante is now available on AI Gateway for free",
+  "source_url": "https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free",
+  "source_type": "rss",
+  "summary": "Vercel AI Gateway 现已免费提供 Ling 3.0 Flash Sante 模型，开发者可通过统一 API 快速接入。该模型主打低延迟与高性价比，适用于实时交互、边缘推理及轻量级 AI 应用场景，简化了多模型管理流程。",
+  "tags": [
+    "AI Gateway",
+    "Model API",
+    "Edge Computing",
+    "Developer Tools",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-06T02:20:56+00:00",
+  "updated_at": "2026-09-06T02:20:56+00:00"
+}

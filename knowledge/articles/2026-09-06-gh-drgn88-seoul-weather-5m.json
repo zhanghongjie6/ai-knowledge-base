@@ -1,0 +1,18 @@
+{
+  "id": "github-20260906-004",
+  "title": "drgn88/seoul_weather_5m",
+  "source_url": "https://github.com/drgn88/seoul_weather_5m",
+  "source_type": "github_trending",
+  "summary": "该项目是Korcham AI训练营的练习仓库，包含首尔天气数据的5分钟级处理示例。核心价值在于教学演示，展示如何获取、清洗和可视化气象数据，适合初学者学习数据管道搭建。技术亮点有限，无创新性，但可作为入门参考。",
+  "tags": [
+    "Data Pipeline",
+    "Weather Data",
+    "Education",
+    "github"
+  ],
+  "score": 3,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-06T02:20:56+00:00",
+  "updated_at": "2026-09-06T02:20:56+00:00"
+}
