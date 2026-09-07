@@ -1,0 +1,172 @@
+[
+  {
+    "title": "EngenhariaBucarId/dnos-apps-desktop",
+    "url": "https://github.com/EngenhariaBucarId/dnos-apps-desktop",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "dn.os Desktop — casca Tauri do dn.os para Mac e Windows (carrega dnos.dnia.ai; notificações nativas, deep link, atualização automática)",
+    "pushed_at": "2026-09-07T02:17:01Z",
+    "created_at_source": "2026-09-05T10:54:08Z"
+  },
+  {
+    "title": "antiserum-ai/antiserum",
+    "url": "https://github.com/antiserum-ai/antiserum",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Antivirus for training data. Local scanner, shared poison signatures.",
+    "pushed_at": "2026-09-07T02:17:01Z",
+    "created_at_source": "2026-08-26T16:54:02Z"
+  },
+  {
+    "title": "Erio-AI/build",
+    "url": "https://github.com/Erio-AI/build",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "build.erio.ai — website building placeholder",
+    "pushed_at": "2026-09-07T02:17:00Z",
+    "created_at_source": "2026-08-05T04:32:18Z"
+  },
+  {
+    "title": "psivicom/psivicom.github.io",
+    "url": "https://github.com/psivicom/psivicom.github.io",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Open science hub — FAIR, reproducible research. Open data (CC-BY 4.0), open code (Apache 2.0), open access with DOIs via Zenodo / OSF / GitHub — psivi.com",
+    "pushed_at": "2026-09-07T02:16:59Z",
+    "created_at_source": "2026-08-27T22:07:12Z"
+  },
+  {
+    "title": "Erio-AI/coach-erio",
+    "url": "https://github.com/Erio-AI/coach-erio",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "coach.erio.ai landing page",
+    "pushed_at": "2026-09-07T02:16:59Z",
+    "created_at_source": "2026-07-20T09:12:48Z"
+  },
+  {
+    "title": "gojiplus/mimiq",
+    "url": "https://github.com/gojiplus/mimiq",
+    "source": "github_trending",
+    "popularity": 3,
+    "summary": "Dynamic E2E Agentic Simulation and Evaluation with Cypress, Playwright, stagehand",
+    "pushed_at": "2026-09-07T02:16:59Z",
+    "created_at_source": "2026-03-13T20:01:00Z"
+  },
+  {
+    "title": "soluzka/Isolation_Bytes",
+    "url": "https://github.com/soluzka/Isolation_Bytes",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "learning/research project AV Desktop App",
+    "pushed_at": "2026-09-07T02:16:59Z",
+    "created_at_source": "2025-05-12T02:35:08Z"
+  },
+  {
+    "title": "tianheng2017/CloudFog",
+    "url": "https://github.com/tianheng2017/CloudFog",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "云之雾（CloudFog） AI 大模型 API 聚合平台",
+    "pushed_at": "2026-09-07T02:16:59Z",
+    "created_at_source": "2026-09-06T10:59:06Z"
+  },
+  {
+    "title": "shritekale-AI/medicare-plan-assistant",
+    "url": "https://github.com/shritekale-AI/medicare-plan-assistant",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Conversational Medicare plan assistant grounded in official CMS-filed plan documents. Hybrid retrieval, deterministic eligibility rules, cited answers. Built as an AI Product Manager take-home exercis",
+    "pushed_at": "2026-09-07T02:16:58Z",
+    "created_at_source": "2026-09-06T21:47:21Z"
+  },
+  {
+    "title": "UoA-eResearch/timeout",
+    "url": "https://github.com/UoA-eResearch/timeout",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Making AI watch reels",
+    "pushed_at": "2026-09-07T02:16:58Z",
+    "created_at_source": "2025-10-18T04:14:47Z"
+  },
+  {
+    "title": "微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池",
+    "url": "https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：微软公布 Project Zenith 计划、F-Droid 拟效仿 Debian 制定生成式 AI 使用政策",
+    "url": "https://sspai.com/post/114250",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+    "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 use",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 ",
+    "feed_name": "The Verge AI"
+  },
+  {
+    "title": "Your Intellectual Fly Is Open — How to Spot LLM-Generated Content (and Why It Matters)",
+    "url": "https://dev.to/ashraf_chowdury09/your-intellectual-fly-is-open-how-to-spot-llm-generated-content-and-why-it-matters-331d",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Bryan Cantrill's 2025 post \"Your intellectual fly is open\" hit 530 points on Hacker News yesterday for a reason. The punchline is simple: when you use an LLM to write a post, everyone notices — and no",
+    "feed_name": "DEV.to AI"
+  },
+  {
+    "title": "Notify.domains",
+    "url": "https://www.producthunt.com/products/notify-domains",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Know the moment a domain opportunity appears\n          \n          \n            Discussion\n            |\n            Link",
+    "feed_name": "Product Hunt"
+  },
+  {
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "feed_name": "TechCrunch AI"
+  },
+  {
+    "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+    "url": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "这里记录每周值得分享的科技内容，周五发布。\n\n        本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。\n\n封面图\n\n\n\n宁夏西夏陵使用金属网，将残片还原成石像生。（via）\n\nOpenClaw 2.0 是一个缩影\n\n本周，OpenClaw 发布了2.0版。\n\n\n\n是不是很久没听到这个名字了？现在很少有人提到它，不",
+    "feed_name": "阮一峰博客"
+  },
+  {
+    "title": "美团智播——数字人直播技术创新与实践",
+    "url": "https://tech.meituan.com/2026/09/03/meituan-Digital-Human-practice.html",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "美团智播围绕 AI 主播「长得真→动得准→演得活→卖得好」构建了完整技术闭环：真人 1:1 复刻、换装换背景身份不跑偏；动作自然流畅，告别「木偶戏」；边说边动、音画一致；背后还有推理加速技术支撑万路并发开播，让普惠落地成为可能。",
+    "feed_name": "美团技术团队"
+  }
+]

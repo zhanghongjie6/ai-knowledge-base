@@ -1,0 +1,19 @@
+{
+  "id": "github-20260907-001",
+  "title": "EngenhariaBucarId/dnos-apps-desktop",
+  "source_url": "https://github.com/EngenhariaBucarId/dnos-apps-desktop",
+  "source_type": "github_trending",
+  "summary": "dn.os Desktop 是一个基于 Tauri 的桌面壳应用，将 dn.os 网页应用封装为 Mac 和 Windows 原生桌面程序。它加载 dnos.dnia.ai，提供原生通知、深度链接和自动更新功能，旨在提升用户体验和系统集成度。适用于需要桌面端便捷访问 dn.os 服务的用户，尤其适合追求轻量级、跨平台桌面解决方案的场景。",
+  "tags": [
+    "Tauri",
+    "Desktop",
+    "WebView",
+    "Cross-platform",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-07T02:18:06+00:00",
+  "updated_at": "2026-09-07T02:18:06+00:00"
+}

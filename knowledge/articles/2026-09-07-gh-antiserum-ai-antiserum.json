@@ -1,0 +1,19 @@
+{
+  "id": "github-20260907-002",
+  "title": "antiserum-ai/antiserum",
+  "source_url": "https://github.com/antiserum-ai/antiserum",
+  "source_type": "github_trending",
+  "summary": "Antiserum 是一个针对训练数据的“杀毒软件”，提供本地扫描器与共享的“投毒签名”库，用于检测和防御针对机器学习模型的训练数据投毒攻击。其核心价值在于提升AI供应链安全性，适用于数据清洗、模型训练前验证及安全审计等场景。技术亮点包括本地化扫描、社区共享签名机制，能有效识别已知恶意样本。",
+  "tags": [
+    "AI Security",
+    "Data Poisoning",
+    "MLOps",
+    "Supply Chain",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-07T02:18:06+00:00",
+  "updated_at": "2026-09-07T02:18:06+00:00"
+}

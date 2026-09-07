@@ -1,0 +1,20 @@
+{
+  "id": "github-20260907-006",
+  "title": "gojiplus/mimiq",
+  "source_url": "https://github.com/gojiplus/mimiq",
+  "source_type": "github_trending",
+  "summary": "mimiq 是一个动态端到端代理仿真与评估框架，集成 Cypress、Playwright 和 Stagehand，用于测试和验证 AI 代理在真实浏览器环境中的行为。它提供可重复的仿真场景，支持复杂用户流程的自动化评估，帮助开发者确保代理的可靠性和安全性。适用于需要严格验证代理交互的开发和 QA 团队。",
+  "tags": [
+    "Agent",
+    "E2E Testing",
+    "Simulation",
+    "Playwright",
+    "Cypress",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-09-07T02:18:06+00:00",
+  "updated_at": "2026-09-07T02:18:06+00:00"
+}

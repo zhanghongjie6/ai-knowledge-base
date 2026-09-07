@@ -1,0 +1,19 @@
+{
+  "id": "github-20260907-004",
+  "title": "psivicom/psivicom.github.io",
+  "source_url": "https://github.com/psivicom/psivicom.github.io",
+  "source_type": "github_trending",
+  "summary": "psivicom/psivicom.github.io 是一个开放科学中心，致力于推动FAIR（可查找、可访问、可互操作、可重用）和可复现研究。项目提供开放数据（CC-BY 4.0）、开放代码（Apache 2.0），并通过Zenodo/OSF/GitHub发布带DOI的开放获取内容。适用于科研人员共享数据、代码和论文，促进学术透明与协作。",
+  "tags": [
+    "Open Science",
+    "FAIR",
+    "Reproducibility",
+    "Research",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-07T02:18:06+00:00",
+  "updated_at": "2026-09-07T02:18:06+00:00"
+}

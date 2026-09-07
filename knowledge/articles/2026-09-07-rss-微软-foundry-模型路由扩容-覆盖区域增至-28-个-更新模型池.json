@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260907-001",
+  "title": "微软 Foundry 模型路由扩容：覆盖区域增至 28 个，更新模型池",
+  "source_url": "https://www.infoq.cn/article/ba7Tq1EZbAD6JEzG16uE?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "微软扩展其Foundry模型路由服务，将覆盖区域从少数几个增加到28个，并更新了模型池。该服务旨在帮助开发者智能选择最适合的AI模型，优化成本与性能。此次扩容提升了全球可用性，支持更多场景，如多区域部署、模型切换和负载均衡，降低了AI应用开发的复杂性。",
+  "tags": [
+    "Model Routing",
+    "Azure",
+    "AI Infrastructure",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-07T02:18:06+00:00",
+  "updated_at": "2026-09-07T02:18:06+00:00"
+}

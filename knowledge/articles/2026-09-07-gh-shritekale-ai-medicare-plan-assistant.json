@@ -1,0 +1,19 @@
+{
+  "id": "github-20260907-009",
+  "title": "shritekale-AI/medicare-plan-assistant",
+  "source_url": "https://github.com/shritekale-AI/medicare-plan-assistant",
+  "source_type": "github_trending",
+  "summary": "这是一个基于官方CMS备案计划文档的对话式医疗保险计划助手。采用混合检索和确定性资格规则，提供带引用的回答。作为AI产品经理的居家练习项目，展示了如何将RAG与规则引擎结合，确保医疗信息的准确性和可追溯性。适用于医疗保险咨询、政策解读等场景。",
+  "tags": [
+    "RAG",
+    "Healthcare",
+    "Conversational AI",
+    "Rule Engine",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-07T02:18:06+00:00",
+  "updated_at": "2026-09-07T02:18:06+00:00"
+}

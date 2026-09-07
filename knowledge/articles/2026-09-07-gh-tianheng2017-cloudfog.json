@@ -1,0 +1,19 @@
+{
+  "id": "github-20260907-008",
+  "title": "tianheng2017/CloudFog",
+  "source_url": "https://github.com/tianheng2017/CloudFog",
+  "source_type": "github_trending",
+  "summary": "CloudFog是一个AI大模型API聚合平台，旨在统一管理多家大模型服务商的接口，提供统一的调用方式、密钥管理和负载均衡。它支持主流模型如OpenAI、Anthropic等，简化了多模型集成与切换流程，适用于需要灵活调用不同大模型的应用场景。",
+  "tags": [
+    "API Gateway",
+    "LLM",
+    "Multi-model",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-07T02:18:06+00:00",
+  "updated_at": "2026-09-07T02:18:06+00:00"
+}

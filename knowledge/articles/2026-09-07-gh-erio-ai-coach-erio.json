@@ -1,0 +1,19 @@
+{
+  "id": "github-20260907-005",
+  "title": "Erio-AI/coach-erio",
+  "source_url": "https://github.com/Erio-AI/coach-erio",
+  "source_type": "github_trending",
+  "summary": "coach-erio 是一个 AI 教练工具的落地页项目，旨在通过自然语言交互为用户提供个性化指导。其核心价值在于快速搭建简洁高效的 AI 教练界面，技术亮点可能包括前端框架的轻量集成和响应式设计。适用于健身、学习或职业规划等场景，帮助用户通过对话获得实时反馈和建议。",
+  "tags": [
+    "AI Coach",
+    "Landing Page",
+    "Frontend",
+    "Open Source",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-07T02:18:06+00:00",
+  "updated_at": "2026-09-07T02:18:06+00:00"
+}
