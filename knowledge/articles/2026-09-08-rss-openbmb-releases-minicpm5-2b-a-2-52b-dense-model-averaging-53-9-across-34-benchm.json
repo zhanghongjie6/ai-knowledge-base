@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260908-008",
+  "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
+  "source_url": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/",
+  "source_type": "rss",
+  "summary": "OpenBMB发布MiniCPM5-2B，一款2.52B参数的稠密因果语言模型，原生支持131K上下文，在34项基准测试中平均得分53.9，超越同规模模型。其核心价值在于高性能与设备端部署的平衡，适用于移动设备、边缘计算等资源受限场景，支持长文本处理与实时推理。",
+  "tags": [
+    "LLM",
+    "Edge AI",
+    "On-Device",
+    "Efficient AI",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20260908-006",
+  "title": "halverneus/reader",
+  "source_url": "https://github.com/halverneus/reader",
+  "source_type": "github_trending",
+  "summary": "halverneus/reader 是一个用 Rust 和 Slint 编写的 AI 脚本阅读器，需借助 Docker 运行。它能够解析并朗读脚本内容，适用于剧本审阅、配音辅助等场景。核心价值在于结合 Rust 的高性能与 Slint 的轻量 UI，提供跨平台的本地化阅读体验，但依赖 Docker 可能增加部署复杂度。",
+  "tags": [
+    "Rust",
+    "AI",
+    "Script Reader",
+    "Slint",
+    "Docker",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

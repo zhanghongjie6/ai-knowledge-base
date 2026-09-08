@@ -1,0 +1,20 @@
+{
+  "id": "github-20260908-005",
+  "title": "OmarAlaaeldein/Sentinel-Chimp",
+  "source_url": "https://github.com/OmarAlaaeldein/Sentinel-Chimp",
+  "source_type": "github_trending",
+  "summary": "Sentinel-Chimp 是一个面向散户交易者的开源市场终端，提供机构级数学工具。核心亮点包括 Bjerksund-Stensland 期权定价模型、GARCH 波动率预测以及基于 AI 的实时情绪分析。它整合了量化金融与自然语言处理，帮助用户更科学地做出交易决策，适合期权交易者、量化爱好者及需要实时市场洞察的投资者。",
+  "tags": [
+    "Options Pricing",
+    "GARCH",
+    "Sentiment Analysis",
+    "Quantitative Finance",
+    "Trading Terminal",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

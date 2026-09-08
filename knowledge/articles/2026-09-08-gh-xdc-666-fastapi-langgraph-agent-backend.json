@@ -1,0 +1,20 @@
+{
+  "id": "github-20260908-002",
+  "title": "XDC-666/fastapi-langgraph-agent-backend",
+  "source_url": "https://github.com/XDC-666/fastapi-langgraph-agent-backend",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一个基于FastAPI和LangGraph的AI Agent后端模板，集成了RAG检索增强生成、JWT认证和SSE流式输出。核心价值在于快速搭建生产级Agent服务，支持多Agent编排、工具调用和知识库问答。适用于需要快速部署智能客服、内部知识助手或复杂工作流自动化的场景。技术亮点包括模块化设计、异步性能和安全的API接口。",
+  "tags": [
+    "FastAPI",
+    "LangGraph",
+    "RAG",
+    "Agent",
+    "SSE",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

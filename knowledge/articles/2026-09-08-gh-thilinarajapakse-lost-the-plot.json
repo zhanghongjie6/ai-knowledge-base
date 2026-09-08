@@ -1,0 +1,18 @@
+{
+  "id": "github-20260908-008",
+  "title": "ThilinaRajapakse/lost-the-plot",
+  "source_url": "https://github.com/ThilinaRajapakse/lost-the-plot",
+  "source_type": "github_trending",
+  "summary": "lost-the-plot 是一个基于 Simple Agents 构建的电视节目追踪与推荐系统。它利用智能体技术自动跟踪用户观看进度，并根据偏好提供个性化推荐。核心价值在于将 Agent 应用于娱乐场景，简化追剧管理。技术亮点包括轻量级智能体框架和推荐算法。适用于个人追剧或作为 Agent 应用示例。",
+  "tags": [
+    "Agent",
+    "Recommendation",
+    "TV Tracker",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

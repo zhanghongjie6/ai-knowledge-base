@@ -1,0 +1,18 @@
+{
+  "id": "github-20260908-003",
+  "title": "teslamint/entirecontext",
+  "source_url": "https://github.com/teslamint/entirecontext",
+  "source_type": "github_trending",
+  "summary": "entirecontext 是一个为编码代理提供基于 Git 锚定的决策记忆工具。它通过将代理的决策过程与 Git 历史绑定，帮助代理在长时间任务中保持上下文一致性，减少重复推理，提升代码修改的准确性和效率。适用于复杂代码库的自动化开发、重构和调试场景。",
+  "tags": [
+    "Coding Agent",
+    "Git",
+    "Context Memory",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

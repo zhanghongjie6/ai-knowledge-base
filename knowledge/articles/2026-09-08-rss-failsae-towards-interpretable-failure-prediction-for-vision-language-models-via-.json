@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260908-006",
+  "title": "FailSAE: Towards Interpretable Failure Prediction for Vision-Language Models via Sparse Autoencoders",
+  "source_url": "https://arxiv.org/abs/2609.04276",
+  "source_type": "rss",
+  "summary": "FailSAE提出利用稀疏自编码器（SAE）对视觉语言模型（如CLIP）进行可解释的失败预测。通过分析模型内部稀疏特征，识别导致错误预测的潜在模式，从而在推理阶段提前预警。该方法提升了多模态任务的可靠性与透明度，适用于安全敏感场景如自动驾驶、医疗影像等。",
+  "tags": [
+    "Vision-Language Model",
+    "Sparse Autoencoder",
+    "Failure Prediction",
+    "Interpretability",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

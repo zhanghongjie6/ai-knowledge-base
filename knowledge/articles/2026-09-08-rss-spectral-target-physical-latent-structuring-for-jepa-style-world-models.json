@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260908-005",
+  "title": "Spectral-Target Physical Latent Structuring for JEPA-Style World Models",
+  "source_url": "https://arxiv.org/abs/2609.04264",
+  "source_type": "rss",
+  "summary": "该论文提出一种用于JEPA风格世界模型的谱目标物理潜在结构化方法，旨在提升潜在空间中的预测与规划能力。通过引入谱目标与物理约束，增强模型对动态系统的表征能力，适用于机器人控制、自动驾驶等需要高效规划的场景。技术亮点包括潜在空间结构化、谱分解与物理一致性约束。",
+  "tags": [
+    "World Model",
+    "JEPA",
+    "Latent Space",
+    "Planning",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260908-010",
+  "title": "skmdx/wine-lfsync",
+  "source_url": "https://github.com/skmdx/wine-lfsync",
+  "source_type": "github_trending",
+  "summary": "wine-lfsync 是一个实验性的 Wine 无锁同步后端，旨在替代传统锁机制以提升多线程应用的性能。项目由 AI 生成，使用 gpt-5.6-sol 模型，尚处于概念验证阶段。其核心价值在于探索无锁编程在 Wine 兼容层中的应用，可能为高并发 Windows 游戏或应用带来性能提升，但当前成熟度低，需谨慎评估。",
+  "tags": [
+    "Wine",
+    "Lock-free",
+    "Synchronization",
+    "AI-generated",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

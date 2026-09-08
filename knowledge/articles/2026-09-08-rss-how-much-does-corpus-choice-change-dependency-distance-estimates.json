@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260908-004",
+  "title": "How Much Does Corpus Choice Change Dependency-Distance Estimates?",
+  "source_url": "https://arxiv.org/abs/2609.04223",
+  "source_type": "rss",
+  "summary": "该研究探讨语料库选择对依存距离估算的影响，质疑单一语料库得出的依存距离是否可视为语言属性。通过对比不同语料库，揭示语料库差异可能显著影响依存距离估计，提醒研究者在跨语言比较或语言类型学研究中需谨慎选择语料库，并考虑语料库偏差对结论的影响。",
+  "tags": [
+    "Dependency Grammar",
+    "Corpus Linguistics",
+    "Quantitative Linguistics",
+    "Methodology",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

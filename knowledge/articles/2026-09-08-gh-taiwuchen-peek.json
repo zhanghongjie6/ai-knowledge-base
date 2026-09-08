@@ -1,0 +1,19 @@
+{
+  "id": "github-20260908-001",
+  "title": "taiwuchen/peek",
+  "source_url": "https://github.com/taiwuchen/peek",
+  "source_type": "github_trending",
+  "summary": "Peek 是一款 macOS 菜单栏应用，允许用户截取屏幕区域并直接向 AI 提问，对话内容显示在浮动面板中。它简化了从视觉信息到智能问答的流程，适用于快速获取屏幕内容解释、代码审查、设计反馈等场景。核心价值在于将截图与 AI 对话无缝集成，提升工作效率。",
+  "tags": [
+    "macOS",
+    "AI",
+    "Screenshot",
+    "Productivity",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

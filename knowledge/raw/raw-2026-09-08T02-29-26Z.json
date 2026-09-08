@@ -1,0 +1,172 @@
+[
+  {
+    "title": "taiwuchen/peek",
+    "url": "https://github.com/taiwuchen/peek",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "macOS menu bar app: capture a screen region, ask AI about it, and keep the conversation in a floating panel.",
+    "pushed_at": "2026-09-08T02:29:15Z",
+    "created_at_source": "2026-09-07T23:32:25Z"
+  },
+  {
+    "title": "XDC-666/fastapi-langgraph-agent-backend",
+    "url": "https://github.com/XDC-666/fastapi-langgraph-agent-backend",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "FastAPI + LangGraph AI Agent backend with RAG, JWT auth, SSE streaming",
+    "pushed_at": "2026-09-08T02:29:14Z",
+    "created_at_source": "2026-09-08T02:29:13Z"
+  },
+  {
+    "title": "teslamint/entirecontext",
+    "url": "https://github.com/teslamint/entirecontext",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Git-anchored decision memory for coding agents.",
+    "pushed_at": "2026-09-08T02:29:16Z",
+    "created_at_source": "2026-02-13T07:50:40Z"
+  },
+  {
+    "title": "Matt-Renegar/golden-path-security",
+    "url": "https://github.com/Matt-Renegar/golden-path-security",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Normalizes SCA, SAST, secret, DAST and MAST scanner output into one audited schema, then gates CI and remediation tickets on severity — with the approval gate enforced by the API, not the LLM agent dr",
+    "pushed_at": "2026-09-08T02:29:13Z",
+    "created_at_source": "2026-09-08T02:27:36Z"
+  },
+  {
+    "title": "OmarAlaaeldein/Sentinel-Chimp",
+    "url": "https://github.com/OmarAlaaeldein/Sentinel-Chimp",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A Python-based market terminal for retail traders. Features Bjerksund-Stensland options pricing, GARCH volatility forecasting, and real-time AI sentiment analysis. Institutional-grade math, open sourc",
+    "pushed_at": "2026-09-08T02:29:14Z",
+    "created_at_source": "2026-01-08T08:51:29Z"
+  },
+  {
+    "title": "halverneus/reader",
+    "url": "https://github.com/halverneus/reader",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI script reader program written in Rust with Slint (requires Docker).",
+    "pushed_at": "2026-09-08T02:29:11Z",
+    "created_at_source": "2026-04-16T01:40:34Z"
+  },
+  {
+    "title": "kj2whvbzjn-hue/browser-agent",
+    "url": "https://github.com/kj2whvbzjn-hue/browser-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-08T02:29:11Z",
+    "created_at_source": "2026-09-08T02:00:24Z"
+  },
+  {
+    "title": "ThilinaRajapakse/lost-the-plot",
+    "url": "https://github.com/ThilinaRajapakse/lost-the-plot",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A TV show tracker and recommender built with Simple Agents.",
+    "pushed_at": "2026-09-08T02:29:11Z",
+    "created_at_source": "2026-09-08T02:06:47Z"
+  },
+  {
+    "title": "fisaarpelesjo/intelligence-agent",
+    "url": "https://github.com/fisaarpelesjo/intelligence-agent",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "",
+    "pushed_at": "2026-09-08T02:29:10Z",
+    "created_at_source": "2026-09-07T20:27:55Z"
+  },
+  {
+    "title": "skmdx/wine-lfsync",
+    "url": "https://github.com/skmdx/wine-lfsync",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Experimental lock-free synchronization backend for Wine. AI-generated slop with gpt-5.6-sol (medium).",
+    "pushed_at": "2026-09-08T02:29:10Z",
+    "created_at_source": "2026-08-29T11:31:17Z"
+  },
+  {
+    "title": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+    "url": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会等",
+    "url": "https://sspai.com/post/114307",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "EXAONE Forecast for Finance",
+    "url": "https://arxiv.org/abs/2609.04239",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.04239v1 Announce Type: new \nAbstract: This technical report presents EXAONE Forecast for Finance (EXAONE Finance), a financial time series (TS) foundation model (TSFM) tailored to financial",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "How Much Does Corpus Choice Change Dependency-Distance Estimates?",
+    "url": "https://arxiv.org/abs/2609.04223",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.04223v1 Announce Type: new \nAbstract: Dependency-distance estimates derived from a single corpus are routinely treated as properties of a language, yet this assumption has not been tested a",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Spectral-Target Physical Latent Structuring for JEPA-Style World Models",
+    "url": "https://arxiv.org/abs/2609.04264",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.04264v1 Announce Type: new \nAbstract: Latent world models have become increasingly popular as a method to predict and plan in latent space rather than pixel space. Recent architectures, suc",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "FailSAE: Towards Interpretable Failure Prediction for Vision-Language Models via Sparse Autoencoders",
+    "url": "https://arxiv.org/abs/2609.04276",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.04276v1 Announce Type: new \nAbstract: Vision-language models (VLMs), such as CLIP, have achieved strong performance across multimodal tasks by aligning visual and textual representations in",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+    "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
+    "url": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 across the 34 benchmarks in its model card, ahead of ",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Claude proves Fermat 🧮, automated AI researcher 🔬, Z1 efficiency chip ⚡",
+    "url": "https://tldr.tech/ai/2026-09-07",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Last Week in AI #343 - GPT-6, OpenAI’s agents chatted on a wiki, Fable 5.1",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-343-gpt-6-openais",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "GPT-6 Astra Is Here, Discovery of a new OpenAI agent message board, Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work, and more!",
+    "feed_name": "Last Week in AI"
+  }
+]

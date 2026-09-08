@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260908-003",
+  "title": "EXAONE Forecast for Finance",
+  "source_url": "https://arxiv.org/abs/2609.04239",
+  "source_type": "rss",
+  "summary": "EXAONE Finance 是专为金融领域设计的时间序列基础模型，旨在解决金融预测中的复杂性和非平稳性。该模型利用大规模金融数据预训练，具备强大的跨市场、跨资产泛化能力，可应用于股票价格预测、风险管理、宏观经济指标预测等场景。其核心价值在于提供高精度、可解释的金融时间序列预测，降低金融机构的建模成本，并支持实时决策。",
+  "tags": [
+    "Time Series",
+    "Finance",
+    "Foundation Model",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

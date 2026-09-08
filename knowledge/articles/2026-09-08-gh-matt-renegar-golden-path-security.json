@@ -1,0 +1,20 @@
+{
+  "id": "github-20260908-004",
+  "title": "Matt-Renegar/golden-path-security",
+  "source_url": "https://github.com/Matt-Renegar/golden-path-security",
+  "source_type": "github_trending",
+  "summary": "golden-path-security 是一个安全工具，将 SCA、SAST、密钥扫描、DAST 和 MAST 等多种扫描器的输出统一为审计模式，并根据严重性门控 CI 和修复工单。其批准门控由 API 强制执行，而非依赖 LLM 代理，确保安全策略的可靠性和一致性。适用于需要集成多种安全扫描并自动化合规流程的 CI/CD 环境。",
+  "tags": [
+    "Security",
+    "CI/CD",
+    "SCA",
+    "SAST",
+    "Automation",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

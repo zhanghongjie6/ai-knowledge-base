@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260908-001",
+  "title": "OpenClaw 2.0 发布：简化配置，支持智能体协作",
+  "source_url": "https://www.infoq.cn/article/hOJ5r8sQvQsGvm0KNHTd?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "OpenClaw 2.0 发布，主打简化配置与智能体协作。新版本降低了部署门槛，使开发者能快速上手，同时支持多智能体协同工作，提升复杂任务处理效率。适用于自动化运维、智能客服、工作流编排等场景，是构建多智能体系统的实用工具。",
+  "tags": [
+    "Agent",
+    "Multi-Agent",
+    "Automation",
+    "Configuration",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}

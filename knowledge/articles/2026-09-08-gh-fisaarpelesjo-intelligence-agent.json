@@ -1,0 +1,18 @@
+{
+  "id": "github-20260908-009",
+  "title": "fisaarpelesjo/intelligence-agent",
+  "source_url": "https://github.com/fisaarpelesjo/intelligence-agent",
+  "source_type": "github_trending",
+  "summary": "这是一个面向多场景的智能体框架，支持任务规划、工具调用与记忆管理，可快速构建自动化工作流。技术亮点包括模块化设计、异步执行和可扩展插件系统，适用于客服、数据分析及个人助理等场景，降低开发门槛。",
+  "tags": [
+    "Agent",
+    "Framework",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-08T02:30:10+00:00",
+  "updated_at": "2026-09-08T02:30:10+00:00"
+}
