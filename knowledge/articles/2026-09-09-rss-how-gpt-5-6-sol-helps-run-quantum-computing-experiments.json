@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-006",
+  "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+  "source_url": "https://openai.com/index/codex-quantum-computing-experiments",
+  "source_type": "rss",
+  "summary": "本文展示了MIT研究员如何利用GPT-5.6 Sol与Codex协同，自主运行量子计算实验、分析结果并校准量子比特。核心价值在于将大语言模型应用于量子实验的自动化流程，显著降低实验门槛，加速研究迭代。技术亮点包括自然语言指令控制实验、实时数据分析与反馈调整。应用场景涵盖量子硬件调试、实验设计优化及科研自动化。",
+  "tags": [
+    "LLM",
+    "Quantum Computing",
+    "Automation",
+    "Codex",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}

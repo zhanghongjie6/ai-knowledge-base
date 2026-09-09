@@ -1,0 +1,19 @@
+{
+  "id": "github-20260909-009",
+  "title": "NingYuanLee/deepseek-harness-EdgeOne",
+  "source_url": "https://github.com/NingYuanLee/deepseek-harness-EdgeOne",
+  "source_type": "github_trending",
+  "summary": "该项目将DeepSeek Harness Web UI部署在EdgeOne Makers平台上，通过Makers AI Gateway接入模型，提供会话沙箱工作区。核心价值在于快速搭建可交互的DeepSeek模型测试环境，便于开发者验证提示词、调试Agent工作流，并利用EdgeOne的全球加速能力实现低延迟访问。技术亮点包括官方UI、网关统一管理和沙箱隔离。适用于AI应用原型开发、教学演示及模型能力评估场景。",
+  "tags": [
+    "DeepSeek",
+    "WebUI",
+    "AI Gateway",
+    "Sandbox",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}

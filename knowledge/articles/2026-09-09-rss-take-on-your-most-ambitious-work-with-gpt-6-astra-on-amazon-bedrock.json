@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-008",
+  "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
+  "source_type": "rss",
+  "summary": "OpenAI的GPT-6 Astra现已通过Amazon Bedrock全面可用，提供更深层次的推理和更精准的判断能力，适用于高难度任务。它运行在Bedrock推理引擎上，结合AWS的企业级安全、可扩展性和生态集成，使企业能够安全地部署前沿AI模型，加速业务创新。",
+  "tags": [
+    "GPT-6",
+    "Amazon Bedrock",
+    "AI Inference",
+    "Enterprise AI",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}

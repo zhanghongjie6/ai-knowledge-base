@@ -1,0 +1,19 @@
+{
+  "id": "github-20260909-001",
+  "title": "eberrocal-ai/identity-lifecycle-automation",
+  "source_url": "https://github.com/eberrocal-ai/identity-lifecycle-automation",
+  "source_type": "github_trending",
+  "summary": "该项目提供治理优先的自动化身份生命周期管理方案，覆盖员工入职、角色变更、离职、应用授权、审批与访问审查。核心价值在于将安全合规内建到流程中，减少人工操作与风险。技术亮点包括策略驱动、可扩展的自动化引擎，适用于企业IT与安全团队。",
+  "tags": [
+    "Identity Management",
+    "Automation",
+    "Governance",
+    "Access Control",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}

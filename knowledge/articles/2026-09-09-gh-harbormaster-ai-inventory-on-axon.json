@@ -1,0 +1,19 @@
+{
+  "id": "github-20260909-005",
+  "title": "Harbormaster-AI/inventory-on-axon",
+  "source_url": "https://github.com/Harbormaster-AI/inventory-on-axon",
+  "source_type": "github_trending",
+  "summary": "该项目是Harbormaster-AI在GitHub上的首个提交，名为inventory-on-axon，可能涉及基于Axon框架的库存管理系统。由于仅有一个初始提交，内容尚不明确，但推测与事件驱动架构或领域驱动设计相关。核心价值在于探索Axon在库存管理中的应用，技术亮点可能包括Axon的CQRS/ES模式。用例适合需要高扩展性和审计性的库存系统。目前处于早期阶段，需关注后续更新。",
+  "tags": [
+    "Axon",
+    "Inventory",
+    "CQRS",
+    "EventSourcing",
+    "github"
+  ],
+  "score": 4,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}

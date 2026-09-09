@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-001",
+  "title": "Open Code Review：百万真实任务验证的确定性工程与 Agent 协同｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/owxMsObP9h1wFcRqW000?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍了Open Code Review在QCon上海分享的确定性工程与Agent协同实践，基于百万真实任务验证，强调通过确定性流程减少AI不确定性，提升代码审查质量与效率。核心价值在于将LLM与工程化规则结合，实现可复现、可审计的代码审查，适用于大规模团队研发流程优化。",
+  "tags": [
+    "Code Review",
+    "Agent",
+    "LLM",
+    "Engineering",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}

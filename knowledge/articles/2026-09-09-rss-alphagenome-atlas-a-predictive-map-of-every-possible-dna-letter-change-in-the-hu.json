@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-007",
+  "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+  "source_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+  "source_type": "rss",
+  "summary": "AlphaGenome Atlas 是 DeepMind 发布的全基因组预测图谱，覆盖人类基因组中所有可能的单碱基改变及其功能影响。它利用 AI 模型预测 DNA 变异对基因调控、剪接和蛋白质编码的影响，为罕见病诊断、药物研发和精准医学提供关键参考。该工具可帮助研究人员快速筛选致病突变，加速临床解读和基础研究。",
+  "tags": [
+    "Genomics",
+    "AI",
+    "Mutation Prediction",
+    "Precision Medicine",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}

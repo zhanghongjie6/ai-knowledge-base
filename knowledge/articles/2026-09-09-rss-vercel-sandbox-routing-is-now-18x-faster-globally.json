@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260909-009",
+  "title": "Vercel Sandbox routing is now 18x faster globally",
+  "source_url": "https://vercel.com/changelog/vercel-sandbox-routing-is-now-18x-faster-globally",
+  "source_type": "rss",
+  "summary": "Vercel Sandbox 路由性能全球提升18倍，通过优化网络层和边缘节点分发，显著降低开发预览环境的访问延迟。该更新对使用 Vercel 进行团队协作、持续集成和即时预览的开发者尤为实用，可加速迭代反馈循环，提升跨地域团队的开发效率。技术亮点包括智能路由算法和全球边缘网络优化，无需用户配置即可生效。",
+  "tags": [
+    "Vercel",
+    "Sandbox",
+    "Routing",
+    "Performance",
+    "DevTools",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}

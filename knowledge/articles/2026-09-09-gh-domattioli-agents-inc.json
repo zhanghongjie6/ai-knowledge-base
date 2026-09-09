@@ -1,0 +1,19 @@
+{
+  "id": "github-20260909-002",
+  "title": "domattioli/agents_Inc",
+  "source_url": "https://github.com/domattioli/agents_Inc",
+  "source_type": "github_trending",
+  "summary": "agents_Inc 是一个以“agents, all the way down”为核心理念的开源项目，探索将AI代理作为基础组件进行递归组合与嵌套，构建复杂自主系统的可能性。项目提供了一套轻量级框架，支持代理间的层级协作、任务分解与动态调度，适用于多代理工作流、自动化决策和复杂任务编排等场景。其技术亮点在于简洁的接口设计和灵活的递归架构，便于开发者快速搭建和扩展。",
+  "tags": [
+    "Agent",
+    "Multi-Agent",
+    "Framework",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}

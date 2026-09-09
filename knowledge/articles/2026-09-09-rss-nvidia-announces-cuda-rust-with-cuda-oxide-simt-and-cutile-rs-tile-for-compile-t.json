@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-004",
+  "title": "NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels",
+  "source_url": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
+  "source_type": "rss",
+  "summary": "NVIDIA发布CUDA Rust，推动Rust成为GPU内核的一等语言。两个开源项目cuda-oxide（SIMT模型）和cutile-rs（Tile模型）支持编译期安全的内核开发，提升内存安全与性能，适用于高性能计算、AI推理及科学计算等场景。",
+  "tags": [
+    "CUDA",
+    "Rust",
+    "GPU",
+    "Compile-Time Safety",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}

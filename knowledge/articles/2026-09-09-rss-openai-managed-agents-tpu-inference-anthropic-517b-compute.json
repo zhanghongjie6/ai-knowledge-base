@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260909-005",
+  "title": "OpenAI managed agents 🤖, TPU inference ⚡, Anthropic $517B compute 💰",
+  "source_url": "https://tldr.tech/ai/2026-09-08",
+  "source_type": "rss",
+  "summary": "本期TLDR AI涵盖三大热点：OpenAI推出托管式AI代理服务，简化企业部署；TPU推理性能大幅提升，挑战GPU主导地位；Anthropic获巨额投资用于扩展计算能力。这些进展标志着AI从模型研发向规模化应用和基础设施竞争转变，对企业和开发者具有直接参考价值。",
+  "tags": [
+    "Agent",
+    "TPU",
+    "AI Infrastructure",
+    "Enterprise AI",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-09T02:32:05+00:00",
+  "updated_at": "2026-09-09T02:32:05+00:00"
+}
