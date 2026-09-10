@@ -1,0 +1,19 @@
+{
+  "id": "github-20260910-007",
+  "title": "sofar-ai/sofar-finance",
+  "source_url": "https://github.com/sofar-ai/sofar-finance",
+  "source_type": "github_trending",
+  "summary": "Sofar Finance 是一个开源个人财务仪表盘，帮助用户集中管理资产、负债与收支数据。项目提供可视化图表与分类统计，便于追踪消费习惯和财务健康度。技术亮点在于简洁的自托管架构与可扩展的数据接入方式，适合注重隐私、希望自主掌控财务数据的个人用户快速搭建专属财务看板。",
+  "tags": [
+    "Finance",
+    "Dashboard",
+    "Self-hosted",
+    "Open Source",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-09-10T02:32:49+00:00",
+  "updated_at": "2026-09-10T02:32:49+00:00"
+}

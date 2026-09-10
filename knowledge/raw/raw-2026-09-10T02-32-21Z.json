@@ -1,0 +1,172 @@
+[
+  {
+    "title": "smol-machines/smol-mcp",
+    "url": "https://github.com/smol-machines/smol-mcp",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "MCP server to use smol machines products with AI agents",
+    "pushed_at": "2026-09-10T02:32:05Z",
+    "created_at_source": "2026-09-09T19:04:53Z"
+  },
+  {
+    "title": "RolfSkogling/AI-skiftet",
+    "url": "https://github.com/RolfSkogling/AI-skiftet",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI assy site",
+    "pushed_at": "2026-09-10T02:32:07Z",
+    "created_at_source": "2026-03-11T18:14:22Z"
+  },
+  {
+    "title": "Colinchiu007/Multi-Publish",
+    "url": "https://github.com/Colinchiu007/Multi-Publish",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "????????? - Playwright + AI Resilience Layer",
+    "pushed_at": "2026-09-10T02:32:04Z",
+    "created_at_source": "2026-06-06T16:21:32Z"
+  },
+  {
+    "title": "SourceBox-LLC/Sentinel-Command",
+    "url": "https://github.com/SourceBox-LLC/Sentinel-Command",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Distributed camera surveillance platform with AI-driven incident management and programmatic automation, designed as the central hub of an edge-compute ecosystem.",
+    "pushed_at": "2026-09-10T02:32:03Z",
+    "created_at_source": "2026-01-07T11:12:48Z"
+  },
+  {
+    "title": "slopus/happy-agent",
+    "url": "https://github.com/slopus/happy-agent",
+    "source": "github_trending",
+    "popularity": 25,
+    "summary": "Universal Agent Harness from Happy that works with any subscription",
+    "pushed_at": "2026-09-10T02:32:03Z",
+    "created_at_source": "2026-07-04T16:23:33Z"
+  },
+  {
+    "title": "Vitti-Capital-Tech/ASX_Dashboard",
+    "url": "https://github.com/Vitti-Capital-Tech/ASX_Dashboard",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "AI-powered intelligence dashboard for daily ASX company announcements and market updates.",
+    "pushed_at": "2026-09-10T02:32:03Z",
+    "created_at_source": "2026-04-01T14:12:13Z"
+  },
+  {
+    "title": "sofar-ai/sofar-finance",
+    "url": "https://github.com/sofar-ai/sofar-finance",
+    "source": "github_trending",
+    "popularity": 3,
+    "summary": "Sofar Finance — Personal financial dashboard",
+    "pushed_at": "2026-09-10T02:32:03Z",
+    "created_at_source": "2026-03-09T23:39:40Z"
+  },
+  {
+    "title": "subhead-trimmers-1/Resurgence-Agent-Trainer-2026",
+    "url": "https://github.com/subhead-trimmers-1/Resurgence-Agent-Trainer-2026",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A configurable PC trainer utility for supported PvE activities in The Division Resurgence.",
+    "pushed_at": "2026-09-10T02:32:03Z",
+    "created_at_source": "2026-09-05T14:18:36Z"
+  },
+  {
+    "title": "ak8abhinay/MedRoute-AI",
+    "url": "https://github.com/ak8abhinay/MedRoute-AI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-10T02:32:02Z",
+    "created_at_source": "2026-07-27T15:35:29Z"
+  },
+  {
+    "title": "jackwalkerlabs/useclis",
+    "url": "https://github.com/jackwalkerlabs/useclis",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A directory of CLIs for coding agents, built with Astro and React.",
+    "pushed_at": "2026-09-10T02:32:02Z",
+    "created_at_source": "2026-09-10T01:17:27Z"
+  },
+  {
+    "title": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+    "url": "https://www.infoq.cn/article/I0qWiIGTkCqG8H1hAoJb?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
+    "url": "https://sspai.com/post/114394",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Anthropic built an economic model that frames its CEO's bleakest job forecasts as an outlier scenario",
+    "url": "https://the-decoder.com/anthropic-built-an-economic-model-that-frames-its-ceos-bleakest-job-forecasts-as-an-outlier-scenario/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic published an economic model with three scenarios for the US economy through 2030. In the extreme scenario, output doubles every 4.5 years and knowledge worker unemployment hits 17.9 percent.",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
+    "url": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a document, page and block tree. DPT-3 Pro grounds to ",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Images 2.5 🎨, OpenAI solves Navier-Stokes 🧮, AlphaGenome Atlas 🧬",
+    "url": "https://tldr.tech/ai/2026-09-09",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "LWiAI Podcast #256 - Fable 5.1, Astra Tease, Gemini 3.8 Flash",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-256-fable-51-astra",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic launches Claude Fable 5.1, OpenAI Is About (already has) to Release Its First AI Model With &#8216;Critical&#8217; Cyber Abilities, OpenAI&#8217;s rogue AI model incident was worse than we t",
+    "feed_name": "Last Week in AI"
+  },
+  {
+    "title": "The AI policy window is open. We need to act.",
+    "url": "https://openai.com/index/ai-policy-window",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Learn how to deploy Qwen3.8-2.4T-A95B, a 2.4-trillion-parameter open-weight model, on Amazon SageMaker HyperPod with vLLM. This walkthrough covers cluster provisioning, NVFP4 quantization, and an Open",
+    "feed_name": "AWS ML Blog"
+  },
+  {
+    "title": "GitHub availability report: August 2026",
+    "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services.\nThe post GitHub availability report: August 2026 appeared first on The GitHub Blog.",
+    "feed_name": "GitHub Blog"
+  },
+  {
+    "title": "Password Protection is now available per project on Pro",
+    "url": "https://vercel.com/changelog/password-protection-now-costs-20-per-project-per-month-on-pro",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Vercel News"
+  }
+]

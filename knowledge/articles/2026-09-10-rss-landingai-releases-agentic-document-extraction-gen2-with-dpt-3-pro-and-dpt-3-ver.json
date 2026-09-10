@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-004",
+  "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
+  "source_url": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
+  "source_type": "rss",
+  "summary": "LandingAI 发布 Agentic Document Extraction Gen2，基于 DPT-3 模型家族重构文档处理栈，以文档、页面、块树结构取代传统分块方式。DPT-3 Pro 提供精准定位，DPT-3 Verity 增强验证能力，适用于金融、法律等复杂文档的智能抽取与校验场景。",
+  "tags": [
+    "Document AI",
+    "Agent",
+    "Extraction",
+    "LLM",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-10T02:32:49+00:00",
+  "updated_at": "2026-09-10T02:32:49+00:00"
+}

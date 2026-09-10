@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-009",
+  "title": "GitHub availability report: August 2026",
+  "source_url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+  "source_type": "rss",
+  "summary": "GitHub 发布 2026 年 8 月可用性报告，披露当月共发生五起服务降级事件，影响其多项核心服务。报告属于公司透明度与运维复盘性质，说明平台在稳定性方面仍面临挑战，对依赖 GitHub 进行代码托管、CI/CD 与协作开发的团队具有参考价值，可据此评估风险与制定容灾预案。",
+  "tags": [
+    "GitHub",
+    "Availability",
+    "Incident Report",
+    "DevOps",
+    "rss"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-10T02:32:49+00:00",
+  "updated_at": "2026-09-10T02:32:49+00:00"
+}

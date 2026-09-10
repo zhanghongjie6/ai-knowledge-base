@@ -1,0 +1,20 @@
+{
+  "id": "github-20260910-004",
+  "title": "SourceBox-LLC/Sentinel-Command",
+  "source_url": "https://github.com/SourceBox-LLC/Sentinel-Command",
+  "source_type": "github_trending",
+  "summary": "Sentinel-Command 是一个分布式摄像头监控平台，集成了 AI 驱动的事件管理与可编程自动化，作为边缘计算生态系统的核心枢纽。它支持多摄像头协同、实时视频分析、智能事件检测与响应，并提供 API 实现自动化工作流。适用于安防监控、智慧城市、工业巡检等场景，提升监控效率与响应速度。",
+  "tags": [
+    "Surveillance",
+    "Edge Computing",
+    "AI",
+    "Automation",
+    "Video Analytics",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-09-10T02:32:49+00:00",
+  "updated_at": "2026-09-10T02:32:49+00:00"
+}

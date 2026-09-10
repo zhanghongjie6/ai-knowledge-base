@@ -1,0 +1,20 @@
+{
+  "id": "github-20260910-003",
+  "title": "Colinchiu007/Multi-Publish",
+  "source_url": "https://github.com/Colinchiu007/Multi-Publish",
+  "source_type": "github_trending",
+  "summary": "Multi-Publish 是一个基于 Playwright 的多平台内容发布工具，通过 AI 韧性层增强自动化稳定性。它允许用户将文章、动态等内容一键发布到多个社交媒体或博客平台，解决手动重复操作和平台反爬问题。技术亮点在于结合 Playwright 的浏览器自动化与 AI 驱动的容错机制，自动适应页面变化，提高发布成功率。适用于内容创作者、运营人员及需要跨平台分发的场景。",
+  "tags": [
+    "Playwright",
+    "Automation",
+    "AI",
+    "Multi-Platform",
+    "Publishing",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-10T02:32:49+00:00",
+  "updated_at": "2026-09-10T02:32:49+00:00"
+}

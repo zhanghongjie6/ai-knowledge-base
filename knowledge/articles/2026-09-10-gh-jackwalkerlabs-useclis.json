@@ -1,0 +1,19 @@
+{
+  "id": "github-20260910-010",
+  "title": "jackwalkerlabs/useclis",
+  "source_url": "https://github.com/jackwalkerlabs/useclis",
+  "source_type": "github_trending",
+  "summary": "UseCLIs 是一个面向编码智能体的 CLI 工具目录，使用 Astro 和 React 构建。它集中收录并分类展示各类命令行工具，帮助开发者快速发现、比较和选用适合 AI 编码代理的 CLI，提升智能体工具链的搭建效率。适合正在构建或使用编码代理的开发者作为工具检索入口。",
+  "tags": [
+    "CLI",
+    "Coding Agent",
+    "Developer Tools",
+    "Astro",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-10T02:32:49+00:00",
+  "updated_at": "2026-09-10T02:32:49+00:00"
+}

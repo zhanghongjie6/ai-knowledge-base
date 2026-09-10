@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260910-008",
+  "title": "Deploying Qwen3.8-2.4T-A95B on Amazon SageMaker HyperPod with vLLM",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/deploying-qwen3-8-2-4t-a95b-on-amazon-sagemaker-hyperpod-with-vllm/",
+  "source_type": "rss",
+  "summary": "本文介绍如何在 Amazon SageMaker HyperPod 上使用 vLLM 部署 2.4 万亿参数的开源模型 Qwen3.8-2.4T-A95B，涵盖集群配置、NVFP4 量化及推理优化。该方案为超大规模模型提供可扩展的生产级部署路径，适合需要高性能推理的企业和研究者。",
+  "tags": [
+    "LLM",
+    "vLLM",
+    "SageMaker",
+    "Quantization",
+    "Deployment",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-10T02:32:49+00:00",
+  "updated_at": "2026-09-10T02:32:49+00:00"
+}

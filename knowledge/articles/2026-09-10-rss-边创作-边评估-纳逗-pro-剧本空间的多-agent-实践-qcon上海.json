@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260910-001",
+  "title": "边创作，边评估：纳逗 PRO·剧本空间的多 Agent 实践｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/I0qWiIGTkCqG8H1hAoJb?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "纳逗 PRO 剧本空间采用多 Agent 协作架构，实现边创作边评估的剧本生成流程。通过多个智能体分别负责创意生成、逻辑校验和风格评估，在创作过程中实时反馈与优化，提升剧本质量和创作效率。该实践在 QCon 上海分享，适用于影视、游戏等需要剧本创作的场景。",
+  "tags": [
+    "Multi-Agent",
+    "LLM",
+    "Creative Writing",
+    "Evaluation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-10T02:32:49+00:00",
+  "updated_at": "2026-09-10T02:32:49+00:00"
+}

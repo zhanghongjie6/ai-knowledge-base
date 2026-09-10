@@ -1,0 +1,18 @@
+{
+  "id": "github-20260910-001",
+  "title": "smol-machines/smol-mcp",
+  "source_url": "https://github.com/smol-machines/smol-mcp",
+  "source_type": "github_trending",
+  "summary": "smol-mcp 是一个 MCP 服务器，让 AI 智能体能够调用 smol machines 产品的能力。它通过标准化协议将外部工具接入大模型，降低集成门槛，适用于构建自动化工作流、智能助手和 Agent 应用，帮助开发者快速扩展 AI 的可操作范围。",
+  "tags": [
+    "MCP",
+    "Agent",
+    "Tool Integration",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-10T02:32:49+00:00",
+  "updated_at": "2026-09-10T02:32:49+00:00"
+}

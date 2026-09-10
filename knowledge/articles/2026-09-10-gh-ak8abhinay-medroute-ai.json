@@ -1,0 +1,19 @@
+{
+  "id": "github-20260910-009",
+  "title": "ak8abhinay/MedRoute-AI",
+  "source_url": "https://github.com/ak8abhinay/MedRoute-AI",
+  "source_type": "github_trending",
+  "summary": "MedRoute-AI 是一个基于 AI 的医疗分诊与路由系统，利用大语言模型理解患者症状描述，自动推荐合适的科室或医生。项目展示了 LLM 在医疗场景中的落地潜力，技术亮点包括症状解析、科室匹配和对话式交互。适用于在线问诊平台、医院预检分诊等场景，可提升就医效率并减轻医护人员负担。",
+  "tags": [
+    "LLM",
+    "Healthcare",
+    "Triage",
+    "Chatbot",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-10T02:32:49+00:00",
+  "updated_at": "2026-09-10T02:32:49+00:00"
+}
