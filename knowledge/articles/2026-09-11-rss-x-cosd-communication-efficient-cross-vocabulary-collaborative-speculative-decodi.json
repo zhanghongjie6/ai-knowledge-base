@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260911-004",
+  "title": "X-CoSD: Communication-Efficient Cross-Vocabulary Collaborative Speculative Decoding",
+  "source_url": "https://arxiv.org/abs/2609.09166",
+  "source_type": "rss",
+  "summary": "本文提出X-CoSD，一种面向跨词表协同推测解码的通信高效框架。针对分布式LLM推理中设备端小模型与云端大模型词表不一致的问题，通过跨词表对齐与通信压缩，在保证生成质量的同时显著降低传输开销。该技术适用于边缘-云协同推理、低带宽场景下的加速部署，提升推理吞吐并减少延迟。",
+  "tags": [
+    "Speculative Decoding",
+    "LLM Inference",
+    "Distributed Inference",
+    "Edge Computing",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:05+00:00",
+  "updated_at": "2026-09-11T02:27:05+00:00"
+}

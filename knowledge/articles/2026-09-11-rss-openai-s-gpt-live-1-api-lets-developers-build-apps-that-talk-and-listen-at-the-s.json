@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260911-007",
+  "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
+  "source_url": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/",
+  "source_type": "rss",
+  "summary": "OpenAI发布GPT-Live-1开发者API，实现全双工语音交互，可同时说话与聆听。其交互测试得分从上一代的45.4%提升至80.1%，显著改善实时对话体验。该模型适用于构建语音助手、实时翻译、客服机器人等需要自然语音交互的应用，但每分钟0.05美元的成本较高，适合对交互质量要求高的场景。",
+  "tags": [
+    "Speech",
+    "API",
+    "Real-time",
+    "OpenAI",
+    "Full-duplex",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:05+00:00",
+  "updated_at": "2026-09-11T02:27:05+00:00"
+}

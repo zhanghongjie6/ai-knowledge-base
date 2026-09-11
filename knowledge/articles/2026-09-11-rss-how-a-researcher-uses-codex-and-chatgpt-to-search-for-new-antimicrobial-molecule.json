@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260911-010",
+  "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+  "source_url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+  "source_type": "rss",
+  "summary": "该案例展示了研究人员利用Codex和ChatGPT在现存及灭绝物种基因组中搜索抗菌分子，以对抗耐药感染。技术亮点在于将大语言模型应用于生物信息学，加速候选分子发现。适用于新药研发、抗生素耐药性研究等场景，体现了AI在生命科学中的实际价值。",
+  "tags": [
+    "LLM",
+    "Bioinformatics",
+    "Drug Discovery",
+    "Antimicrobial",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:05+00:00",
+  "updated_at": "2026-09-11T02:27:05+00:00"
+}

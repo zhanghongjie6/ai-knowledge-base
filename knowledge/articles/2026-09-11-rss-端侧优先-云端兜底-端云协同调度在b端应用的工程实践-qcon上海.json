@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260911-001",
+  "title": "端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/hLyrZkaWJ9DkIUr7UvKQ?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍端云协同调度在B端应用中的工程实践，核心是端侧优先、云端兜底策略。技术亮点包括动态任务分配、网络感知与模型轻量化，确保低延迟与高可用。适用于移动办公、IoT等场景，平衡成本与性能。",
+  "tags": [
+    "Edge Computing",
+    "Cloud Computing",
+    "Scheduling",
+    "B2B",
+    "Engineering",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:04+00:00",
+  "updated_at": "2026-09-11T02:27:04+00:00"
+}

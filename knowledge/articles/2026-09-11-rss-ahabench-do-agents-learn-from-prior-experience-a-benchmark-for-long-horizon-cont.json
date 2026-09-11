@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260911-005",
+  "title": "AhaBench: Do Agents Learn from Prior Experience? A Benchmark for Long-Horizon Continual Learning",
+  "source_url": "https://arxiv.org/abs/2609.05435",
+  "source_type": "rss",
+  "summary": "AhaBench 是一个评估语言智能体长时程持续学习能力的基准测试，核心关注智能体能否从先前经验中学习并迁移到新任务。技术亮点在于模拟追问、复用示例、处理工具反馈等真实交互场景，系统衡量经验积累对后续决策的影响。适用于智能体记忆机制、持续学习算法及长时程任务规划的研究与评测。",
+  "tags": [
+    "Agent",
+    "Benchmark",
+    "Continual Learning",
+    "Long-Horizon",
+    "LLM",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:05+00:00",
+  "updated_at": "2026-09-11T02:27:05+00:00"
+}

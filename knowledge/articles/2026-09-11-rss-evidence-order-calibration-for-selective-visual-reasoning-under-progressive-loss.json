@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260911-006",
+  "title": "Evidence-Order Calibration for Selective Visual Reasoning under Progressive Loss of Question-Critical Evidence",
+  "source_url": "https://arxiv.org/abs/2609.09184",
+  "source_type": "rss",
+  "summary": "该研究提出证据顺序校准方法，用于在问题关键视觉证据逐步丢失时进行选择性视觉推理。通过分析VLM置信度在证据退化下的聚合变化与个体结构不一致性，提升模型在证据不完整场景下的可靠性。适用于自动驾驶、医疗影像等对视觉推理鲁棒性要求高的领域。",
+  "tags": [
+    "VLM",
+    "Visual Reasoning",
+    "Calibration",
+    "Robustness",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:05+00:00",
+  "updated_at": "2026-09-11T02:27:05+00:00"
+}

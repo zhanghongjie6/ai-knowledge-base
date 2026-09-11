@@ -1,0 +1,20 @@
+{
+  "id": "github-20260911-009",
+  "title": "mhju0/filing-agent",
+  "source_url": "https://github.com/mhju0/filing-agent",
+  "source_type": "github_trending",
+  "summary": "该项目利用本地LLM对韩国DART和美国SEC的上市公司财报进行智能调查，支持数据验证、持久化对话与双语回放。技术亮点在于本地部署保障隐私，并自动核对财务数字。适用于金融分析师、投资者快速提取财报关键信息，降低人工审阅成本。",
+  "tags": [
+    "LLM",
+    "Finance",
+    "Local",
+    "RAG",
+    "Bilingual",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:04+00:00",
+  "updated_at": "2026-09-11T02:27:04+00:00"
+}

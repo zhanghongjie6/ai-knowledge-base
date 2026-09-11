@@ -1,0 +1,19 @@
+{
+  "id": "github-20260911-003",
+  "title": "milkoor/causetrace",
+  "source_url": "https://github.com/milkoor/causetrace",
+  "source_type": "github_trending",
+  "summary": "CauseTrace 是面向 AI 编程代理的可观测性与因果追踪工具，支持 Claude Code、Codex CLI、OpenCode 及 Python 工作流。它记录代理执行链路，定位问题根因，帮助开发者调试和优化自动化编码流程，提升 AI 代理的可靠性与透明度。",
+  "tags": [
+    "Observability",
+    "Coding Agent",
+    "Debugging",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:04+00:00",
+  "updated_at": "2026-09-11T02:27:04+00:00"
+}

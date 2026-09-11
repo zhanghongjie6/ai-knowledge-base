@@ -1,0 +1,20 @@
+{
+  "id": "github-20260911-006",
+  "title": "yztl-code/docqa-service",
+  "source_url": "https://github.com/yztl-code/docqa-service",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于FastAPI的分层架构AI文档问答服务，整合PostgreSQL、Redis、JWT认证、后台任务和SSE流式响应，是早期Flask单体聊天机器人的服务化重构版本。核心价值在于提供可扩展、模块化的文档问答后端，支持异步任务处理和实时流式输出，适用于构建企业级知识库问答系统或智能客服场景。",
+  "tags": [
+    "FastAPI",
+    "Document QA",
+    "SSE",
+    "JWT",
+    "PostgreSQL",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:04+00:00",
+  "updated_at": "2026-09-11T02:27:04+00:00"
+}

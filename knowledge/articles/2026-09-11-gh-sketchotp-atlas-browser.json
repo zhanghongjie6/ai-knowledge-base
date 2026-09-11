@@ -1,0 +1,20 @@
+{
+  "id": "github-20260911-001",
+  "title": "SketchOTP/ATLAS-Browser",
+  "source_url": "https://github.com/SketchOTP/ATLAS-Browser",
+  "source_type": "github_trending",
+  "summary": "ATLAS-Browser 是一款以项目为中心的桌面浏览器，专为智能体研究、持久上下文和范围化 AI 执行设计。它允许用户将浏览会话、AI 交互和任务执行绑定到具体项目，实现跨会话的上下文记忆，并限制 AI 仅访问项目相关资源，提升研究效率与安全性。",
+  "tags": [
+    "Browser",
+    "Agent",
+    "AI",
+    "Research",
+    "Context",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:04+00:00",
+  "updated_at": "2026-09-11T02:27:04+00:00"
+}

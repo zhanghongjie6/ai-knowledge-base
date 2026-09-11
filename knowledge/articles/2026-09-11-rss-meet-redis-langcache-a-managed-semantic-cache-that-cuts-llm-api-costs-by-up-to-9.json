@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260911-008",
+  "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
+  "source_url": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
+  "source_type": "rss",
+  "summary": "Redis LangCache 是一款托管式语义缓存服务，专为生产级 LLM 应用设计。它通过语义匹配识别相似问题，直接返回缓存结果，从而将 LLM API 调用成本降低高达 90%，缓存命中速度提升 15 倍。适用于客服助手、RAG 管道等高频重复意图场景，无需自建向量数据库和缓存逻辑，开箱即用。",
+  "tags": [
+    "Semantic Cache",
+    "LLM",
+    "Redis",
+    "RAG",
+    "Cost Optimization",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:05+00:00",
+  "updated_at": "2026-09-11T02:27:05+00:00"
+}

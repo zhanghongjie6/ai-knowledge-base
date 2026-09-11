@@ -1,0 +1,19 @@
+{
+  "id": "github-20260911-008",
+  "title": "hyuno0129/ai-rag-chatbot",
+  "source_url": "https://github.com/hyuno0129/ai-rag-chatbot",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于RAG（检索增强生成）架构的AI聊天机器人，通过结合向量检索与大语言模型，实现基于私有知识库的精准问答。技术亮点包括文档嵌入、相似度检索与上下文增强生成，适合构建企业客服、知识库助手等场景，帮助用户快速获取文档中的答案。",
+  "tags": [
+    "RAG",
+    "Chatbot",
+    "LLM",
+    "Vector Search",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:04+00:00",
+  "updated_at": "2026-09-11T02:27:04+00:00"
+}

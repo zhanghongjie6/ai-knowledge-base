@@ -1,0 +1,19 @@
+{
+  "id": "github-20260911-005",
+  "title": "MeeFoundation/mia-ontologies",
+  "source_url": "https://github.com/MeeFoundation/mia-ontologies",
+  "source_type": "github_trending",
+  "summary": "MeeFoundation 开源的 mia-ontologies 是 Mee 身份代理所用的数据模型，以本体论方式定义身份、凭证与关系等核心概念。其技术亮点在于用语义化本体统一身份数据表达，便于代理推理与跨系统互操作。适用于去中心化身份、AI 代理记忆与知识图谱等场景。",
+  "tags": [
+    "Ontology",
+    "Identity",
+    "Agent",
+    "KnowledgeGraph",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:04+00:00",
+  "updated_at": "2026-09-11T02:27:04+00:00"
+}

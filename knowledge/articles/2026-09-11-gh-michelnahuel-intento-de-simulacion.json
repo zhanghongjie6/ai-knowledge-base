@@ -1,0 +1,19 @@
+{
+  "id": "github-20260911-004",
+  "title": "MichelNahuel/Intento_de_Simulacion",
+  "source_url": "https://github.com/MichelNahuel/Intento_de_Simulacion",
+  "source_type": "github_trending",
+  "summary": "这是一个基于智能体的生态系统模拟项目，在300x300网格上模拟食草动物的移动、进食和繁殖行为。技术亮点包括高斯变异的遗传机制和动态环境肥力模型，可用于研究进化生物学和复杂系统。",
+  "tags": [
+    "Agent-Based Simulation",
+    "Evolutionary Algorithm",
+    "Ecosystem",
+    "Python",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-11T02:27:04+00:00",
+  "updated_at": "2026-09-11T02:27:04+00:00"
+}

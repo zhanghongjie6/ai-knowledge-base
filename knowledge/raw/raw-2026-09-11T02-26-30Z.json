@@ -1,0 +1,172 @@
+[
+  {
+    "title": "SketchOTP/ATLAS-Browser",
+    "url": "https://github.com/SketchOTP/ATLAS-Browser",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A project-centered desktop browser for agentic research, durable context, and scoped AI execution.",
+    "pushed_at": "2026-09-11T02:26:19Z",
+    "created_at_source": "2026-08-28T10:27:21Z"
+  },
+  {
+    "title": "dvvwrisey-automation/optimizing-llms-contextual-reasoning",
+    "url": "https://github.com/dvvwrisey-automation/optimizing-llms-contextual-reasoning",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-11T02:26:18Z",
+    "created_at_source": "2026-09-11T02:26:14Z"
+  },
+  {
+    "title": "milkoor/causetrace",
+    "url": "https://github.com/milkoor/causetrace",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "AI coding agent observability and causal tracing for Claude Code, Codex CLI, OpenCode, and Python workflows",
+    "pushed_at": "2026-09-11T02:26:17Z",
+    "created_at_source": "2026-05-14T02:47:57Z"
+  },
+  {
+    "title": "MichelNahuel/Intento_de_Simulacion",
+    "url": "https://github.com/MichelNahuel/Intento_de_Simulacion",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Modelo de simulación basado en agentes de un ecosistema en una grilla 300x300: herbívoros que se mueven, se alimentan y se reproducen con herencia y mutación gaussiana, sobre un entorno con fertilidad",
+    "pushed_at": "2026-09-11T02:26:17Z",
+    "created_at_source": "2026-09-09T21:51:00Z"
+  },
+  {
+    "title": "MeeFoundation/mia-ontologies",
+    "url": "https://github.com/MeeFoundation/mia-ontologies",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Data model used by the Mee identity agent",
+    "pushed_at": "2026-09-11T02:26:16Z",
+    "created_at_source": "2026-01-20T21:38:08Z"
+  },
+  {
+    "title": "yztl-code/docqa-service",
+    "url": "https://github.com/yztl-code/docqa-service",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI 文档问答服务（v2）：FastAPI 分层架构 + PostgreSQL + Redis + JWT + 后台任务 + SSE 流式。是 ai-chatbot(v1 Flask 单体) 的服务化重构版。",
+    "pushed_at": "2026-09-11T02:26:16Z",
+    "created_at_source": "2026-09-11T02:26:15Z"
+  },
+  {
+    "title": "FreddyCreates/potential-succotash",
+    "url": "https://github.com/FreddyCreates/potential-succotash",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "AI Framework for Building REAL intelligent infrastructure",
+    "pushed_at": "2026-09-11T02:26:16Z",
+    "created_at_source": "2026-04-23T18:51:12Z"
+  },
+  {
+    "title": "hyuno0129/ai-rag-chatbot",
+    "url": "https://github.com/hyuno0129/ai-rag-chatbot",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI RAG 챗봇",
+    "pushed_at": "2026-09-11T02:26:16Z",
+    "created_at_source": "2026-09-11T01:10:19Z"
+  },
+  {
+    "title": "mhju0/filing-agent",
+    "url": "https://github.com/mhju0/filing-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Local LLM investigation of Korean DART and US SEC filings, with verified figures, persistent conversations and a bilingual replay. Sister project to Filing Digest.",
+    "pushed_at": "2026-09-11T02:26:16Z",
+    "created_at_source": "2026-09-06T03:38:49Z"
+  },
+  {
+    "title": "MsSonoma/freehands",
+    "url": "https://github.com/MsSonoma/freehands",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Ai assistant for parents and teachers and a calming teacher to deliver lessons.",
+    "pushed_at": "2026-09-11T02:26:16Z",
+    "created_at_source": "2025-09-24T00:02:33Z"
+  },
+  {
+    "title": "端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
+    "url": "https://www.infoq.cn/article/hLyrZkaWJ9DkIUr7UvKQ?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：商务部回应美国 AI 蒸馏指控",
+    "url": "https://sspai.com/post/114439",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "商务部回应美国 AI 蒸馏指控谷歌声称为了合规将「降级」欧盟搜索服务Apple 智能将有用量限制OpenAI 将与三星合作开发芯片小岛秀夫新游戏被索尼取消，转由微软发行DeepSeek V4.1 发布看看就行的简讯少数派的近期动态你可能错过的好文章查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Beyond Right and Wrong: Evaluating Second-order Social Reasoning in Large Language Models",
+    "url": "https://arxiv.org/abs/2609.05437",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.05437v1 Announce Type: new \nAbstract: Previous AI alignment efforts have focused primarily on first-order social norms -- teaching models what is socially acceptable or unacceptable (e.g., ",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "X-CoSD: Communication-Efficient Cross-Vocabulary Collaborative Speculative Decoding",
+    "url": "https://arxiv.org/abs/2609.09166",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.09166v1 Announce Type: new \nAbstract: This paper investigates collaborative speculative decoding (CoSD), a distributed large language model (LLM) inference framework in which an on-device s",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "AhaBench: Do Agents Learn from Prior Experience? A Benchmark for Long-Horizon Continual Learning",
+    "url": "https://arxiv.org/abs/2609.05435",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.05435v1 Announce Type: new \nAbstract: Modern language agents are expected to operate over long horizons: they ask follow-up questions, reuse worked examples, handle tool feedback, and adapt",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Evidence-Order Calibration for Selective Visual Reasoning under Progressive Loss of Question-Critical Evidence",
+    "url": "https://arxiv.org/abs/2609.09184",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.09184v1 Announce Type: new \nAbstract: Vision-language model (VLM) confidence may change in aggregate when visual evidence is degraded while remaining structurally inconsistent within indivi",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
+    "url": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI releases GPT-Live-1 as a developer API. The full-duplex speech model scores 80.1 percent in interactivity tests, up from 45.4 percent for its predecessor. At $0.05 per minute, it's not cheap.\nT",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Meet Redis LangCache: A Managed Semantic Cache That Cuts LLM API Costs by Up to 90% and Returns Cache Hits Up to 15x Faster",
+    "url": "https://www.marktechpost.com/2026/09/10/meet-redis-langcache-a-managed-semantic-cache-that-cuts-llm-api-costs-by-up-to-90-and-returns-cache-hits-up-to-15x-faster/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Production LLM applications rarely receive a question nobody has asked before. Support assistants and RAG pipelines field the same intents thousands of times a day, each phrased differently, and most ",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "DeepSeek Flash v4.1 🤖, Siri AI 📱, Anthropic AI economics 📈",
+    "url": "https://tldr.tech/ai/2026-09-10",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "feed_name": "OpenAI"
+  }
+]
