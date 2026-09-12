@@ -1,0 +1,19 @@
+{
+  "id": "github-20260912-008",
+  "title": "charvi370/Recipe-Sage",
+  "source_url": "https://github.com/charvi370/Recipe-Sage",
+  "source_type": "github_trending",
+  "summary": "RecipeSage 是一个 AI 驱动的食谱助手，用户输入现有食材即可获得可制作的菜谱，旨在减少食物浪费。项目利用大语言模型理解食材组合并生成烹饪建议，适合家庭厨房场景，帮助用户高效利用剩余食材，提升烹饪灵感。",
+  "tags": [
+    "LLM",
+    "Recipe",
+    "Food Waste",
+    "AI Assistant",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

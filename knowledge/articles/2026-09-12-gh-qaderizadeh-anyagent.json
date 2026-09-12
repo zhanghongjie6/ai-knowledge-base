@@ -1,0 +1,19 @@
+{
+  "id": "github-20260912-002",
+  "title": "qaderizadeh/anyagent",
+  "source_url": "https://github.com/qaderizadeh/anyagent",
+  "source_type": "github_trending",
+  "summary": "AnyAgent 是一个个人 CLI AI 代理，直接与 chat.deepseek.com 通信，无需 API 密钥。它提供单一 shell 工具，让用户在终端中便捷调用 DeepSeek 对话能力，适合快速获取 AI 辅助、执行命令或进行轻量级自动化，降低使用门槛。",
+  "tags": [
+    "CLI",
+    "AI Agent",
+    "DeepSeek",
+    "Shell",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

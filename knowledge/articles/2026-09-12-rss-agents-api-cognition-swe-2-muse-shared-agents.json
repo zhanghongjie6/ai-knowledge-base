@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-008",
+  "title": "Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑",
+  "source_url": "https://tldr.tech/ai/2026-09-11",
+  "source_type": "rss",
+  "summary": "本期 AI 快讯聚焦智能体生态新进展：Agents API 提供标准化接口，降低多智能体集成门槛；Cognition 发布 SWE-2，强化自主软件工程能力；Muse 推出共享智能体，支持团队协作与知识复用。三者共同推动智能体从单点工具走向可组合、可协作的生产力基础设施，适用于自动化开发、企业流程编排与多人协同场景。",
+  "tags": [
+    "Agent",
+    "API",
+    "SWE",
+    "Collaboration",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

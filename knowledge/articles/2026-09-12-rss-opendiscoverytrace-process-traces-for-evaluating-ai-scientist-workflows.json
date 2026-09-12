@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260912-003",
+  "title": "OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows",
+  "source_url": "https://arxiv.org/abs/2609.09203",
+  "source_type": "rss",
+  "summary": "OpenDiscoveryTrace 提出用过程轨迹评估自主 AI 科学家工作流，弥补现有基准仅看最终产物的缺陷。它记录并分析推理、实验与迭代过程，揭示决策质量与失败模式，适用于 AI 科研智能体开发、基准测试与可解释性研究。",
+  "tags": [
+    "AI Scientist",
+    "Agent",
+    "Benchmark",
+    "Evaluation",
+    "Reasoning",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

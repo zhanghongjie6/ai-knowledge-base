@@ -1,0 +1,19 @@
+{
+  "id": "github-20260912-007",
+  "title": "wnsdle/repair-note-ai",
+  "source_url": "https://github.com/wnsdle/repair-note-ai",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于AI的维修笔记工具，利用大语言模型自动生成和整理设备维修记录。用户输入故障描述后，系统可智能生成标准化维修报告，并支持历史记录检索。技术亮点在于将LLM与维修场景结合，降低文档编写成本，适用于工厂设备维护、汽车修理等需要频繁记录维修信息的场景。",
+  "tags": [
+    "LLM",
+    "AI",
+    "Maintenance",
+    "Note-taking",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

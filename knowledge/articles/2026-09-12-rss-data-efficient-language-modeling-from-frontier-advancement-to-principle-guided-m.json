@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260912-004",
+  "title": "Data-Efficient Language Modeling: From Frontier Advancement to Principle-Guided Model Improvement",
+  "source_url": "https://arxiv.org/abs/2609.10702",
+  "source_type": "rss",
+  "summary": "该研究探讨数据高效语言建模，旨在从有限文本中学习，使模型能有效利用上下文、泛化到新输入并保留有用能力。Qiushi Engine 进行了长期研究，提出从前沿推进到原则引导的模型改进路径，为低资源场景下的语言模型训练提供方法论。",
+  "tags": [
+    "Language Modeling",
+    "Data Efficiency",
+    "Low-Resource NLP",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

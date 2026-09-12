@@ -1,0 +1,20 @@
+{
+  "id": "github-20260912-009",
+  "title": "JustAGameZA/arbitarr",
+  "source_url": "https://github.com/JustAGameZA/arbitarr",
+  "source_type": "github_trending",
+  "summary": "Arbitarr 是一个身份感知的 Torznab/Newznab 搜索代理，位于 NZBHydra2 与 Sonarr/Radarr 之间。它通过本地 LLM 仲裁匹配，解决剧集身份和动漫编号（XEM、Anime-Lists）问题，提升自动化下载的准确性和效率。适用于自建媒体库用户，尤其是动漫收藏者。",
+  "tags": [
+    "Torznab",
+    "Newznab",
+    "LLM",
+    "Media Automation",
+    "Anime",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

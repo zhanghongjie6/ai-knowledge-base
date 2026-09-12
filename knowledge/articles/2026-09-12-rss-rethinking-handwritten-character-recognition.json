@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-006",
+  "title": "Rethinking Handwritten Character Recognition",
+  "source_url": "https://arxiv.org/abs/2609.10572",
+  "source_type": "rss",
+  "summary": "本文重新审视非拉丁语系手写字符识别（HCR）问题，指出当前主流方法将其视为通用图像分类任务存在局限。研究提出新的建模思路，强调字符结构、笔画顺序等语言先验知识的重要性，以提升低资源语言手写识别的准确率与泛化能力，适用于多语言文档数字化、教育评估及历史文献保护等场景。",
+  "tags": [
+    "Handwriting Recognition",
+    "OCR",
+    "Low-Resource",
+    "Computer Vision",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

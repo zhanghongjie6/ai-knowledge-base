@@ -1,0 +1,19 @@
+{
+  "id": "github-20260912-010",
+  "title": "dailyygamingg-boop/PC_Overlay",
+  "source_url": "https://github.com/dailyygamingg-boop/PC_Overlay",
+  "source_type": "github_trending",
+  "summary": "这是一个可在PC和服务器上使用的轻量级系统监控叠加层工具，支持实时查看CPU、内存等资源占用及媒体信息，并可通过SSH远程连接服务器交互数据。项目由AI辅助编写，功能简洁实用，适合需要快速监控本地或远程服务器状态的开发者和运维人员。",
+  "tags": [
+    "Monitoring",
+    "SSH",
+    "Overlay",
+    "Server",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

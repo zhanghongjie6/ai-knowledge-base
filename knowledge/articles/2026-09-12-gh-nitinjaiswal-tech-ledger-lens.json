@@ -1,0 +1,19 @@
+{
+  "id": "github-20260912-001",
+  "title": "nitinjaiswal-tech/Ledger-Lens",
+  "source_url": "https://github.com/nitinjaiswal-tech/Ledger-Lens",
+  "source_type": "github_trending",
+  "summary": "Ledger-Lens 是一个基于 AI 的 MPLADS 风险情报与监控平台，专注于异常检测、项目监控和可解释风险分析。它利用机器学习自动识别资金使用中的可疑模式，帮助审计人员和监管机构快速定位高风险项目，提升公共资金透明度与问责效率。",
+  "tags": [
+    "Anomaly Detection",
+    "Risk Analysis",
+    "GovTech",
+    "Monitoring",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

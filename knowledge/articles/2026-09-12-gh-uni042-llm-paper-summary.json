@@ -1,0 +1,19 @@
+{
+  "id": "github-20260912-004",
+  "title": "uni042/llm-paper-summary",
+  "source_url": "https://github.com/uni042/llm-paper-summary",
+  "source_type": "github_trending",
+  "summary": "该项目利用大语言模型自动总结学术论文，帮助研究者快速筛选和消化海量文献。技术亮点在于结合LLM的语义理解能力，生成结构化摘要，并可能支持批量处理与自定义提示。适用于科研人员、学生和AI从业者进行文献调研与知识管理。",
+  "tags": [
+    "LLM",
+    "Summarization",
+    "Research",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

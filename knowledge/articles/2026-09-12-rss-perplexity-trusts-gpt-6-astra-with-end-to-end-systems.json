@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-009",
+  "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+  "source_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+  "source_type": "rss",
+  "summary": "Perplexity 采用 GPT-6 Astra 实现端到端系统操作，包括撰写通信、修改软件和监控生产系统，且检查频率远低于早期模型。这展示了 AI 在真实运维场景中的高度自主性，技术亮点在于端到端任务执行与低监督需求，适用于自动化运维、DevOps 和智能助手等场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "DevOps",
+    "Automation",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

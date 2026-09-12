@@ -1,0 +1,19 @@
+{
+  "id": "github-20260912-005",
+  "title": "Seongwonp/AIDA",
+  "source_url": "https://github.com/Seongwonp/AIDA",
+  "source_type": "github_trending",
+  "summary": "AIDA 是一个 AI 驱动的平台，用于检测自动驾驶数据集中的边界框标签错误并优先安排重新检查。它利用机器学习自动识别标注问题，帮助团队高效修正数据，提升模型训练质量。适用于自动驾驶感知系统的数据清洗与标注验证环节。",
+  "tags": [
+    "Autonomous Driving",
+    "Data Quality",
+    "Annotation",
+    "Computer Vision",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

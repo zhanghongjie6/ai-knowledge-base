@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260912-010",
+  "title": "Monitoring production agent lifecycle with AWS DevOps Agent and AgentCore Evaluations",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/monitoring-production-agent-lifecycle-with-aws-devops-agent-and-agentcore-evaluations/",
+  "source_type": "rss",
+  "summary": "本文介绍了一种针对生产环境多智能体系统的双层监控方案，结合AWS DevOps Agent与Amazon Bedrock AgentCore Evaluations。传统监控难以捕捉智能体特有的失败模式，该方案通过持续质量评估和运维生命周期管理，帮助开发者实时发现并修复智能体异常，适用于复杂多智能体应用的稳定运行与性能优化。",
+  "tags": [
+    "Agent",
+    "AWS",
+    "Monitoring",
+    "DevOps",
+    "LLM",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}

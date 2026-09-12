@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260912-001",
+  "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
+  "source_url": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "前Google DeepMind研究员发现，仅需两个特殊Token即可让Kimi模型表现出Claude的典型行为，如拒绝回答和特定格式输出。这揭示了模型蒸馏可能存在的隐蔽机制，即通过少量触发词激活预训练中嵌入的教师模型特征。该发现对理解大模型行为、安全对齐及知识产权保护具有重要启示，适用于AI安全研究和模型审计场景。",
+  "tags": [
+    "LLM",
+    "Distillation",
+    "AI Safety",
+    "Model Behavior",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-12T02:35:01+00:00",
+  "updated_at": "2026-09-12T02:35:01+00:00"
+}
