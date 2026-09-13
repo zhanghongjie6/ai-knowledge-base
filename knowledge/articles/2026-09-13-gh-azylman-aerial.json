@@ -1,0 +1,19 @@
+{
+  "id": "github-20260913-008",
+  "title": "azylman/aerial",
+  "source_url": "https://github.com/azylman/aerial",
+  "source_type": "github_trending",
+  "summary": "这是一个由专业软件工程师打造的 Discord 个人助理项目，作者自嘲为“过度工程化、架构精细的 AI 垃圾”。项目展示了如何将 AI 能力集成到 Discord 中，实现自动化交互与任务处理，适合开发者学习 AI 应用架构设计，但实用性有限。",
+  "tags": [
+    "Discord",
+    "AI",
+    "Assistant",
+    "Architecture",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

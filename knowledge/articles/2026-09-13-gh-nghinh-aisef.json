@@ -1,0 +1,19 @@
+{
+  "id": "github-20260913-002",
+  "title": "nghinh/aisef",
+  "source_url": "https://github.com/nghinh/aisef",
+  "source_type": "github_trending",
+  "summary": "AISEF 是一个 AI 软件工程框架，用户只需提供一份需求文件，即可通过多智能体协作产出经过门禁验证、有证据支撑的完整应用。其核心价值在于用代码强制执行质量保证，让智能体负责判断决策，适用于希望自动化端到端软件交付的团队。",
+  "tags": [
+    "Agent",
+    "Software Engineering",
+    "Code Generation",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

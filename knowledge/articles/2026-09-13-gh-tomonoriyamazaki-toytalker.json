@@ -1,0 +1,20 @@
+{
+  "id": "github-20260913-001",
+  "title": "tomonoriyamazaki/toytalker",
+  "source_url": "https://github.com/tomonoriyamazaki/toytalker",
+  "source_type": "github_trending",
+  "summary": "ToyTalker 是一个面向儿童的 AI 语音伴侣玩具项目，通过语音交互提供陪伴与对话。技术亮点在于结合语音识别、大语言模型和语音合成，实现自然流畅的儿童友好对话。适用于家庭场景，帮助孩子进行语言学习、故事讲述和情感陪伴，降低 AI 使用门槛。",
+  "tags": [
+    "Voice",
+    "LLM",
+    "TTS",
+    "Kids",
+    "Companion",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

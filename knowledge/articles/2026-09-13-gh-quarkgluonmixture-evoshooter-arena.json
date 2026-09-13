@@ -1,0 +1,20 @@
+{
+  "id": "github-20260913-010",
+  "title": "Quarkgluonmixture/evoshooter-arena",
+  "source_url": "https://github.com/Quarkgluonmixture/evoshooter-arena",
+  "source_type": "github_trending",
+  "summary": "该项目实现了一个自进化的3D 5v5战术射击游戏环境，核心在于结合确定性模拟、神经进化算法以及信息诚实性测试套件。技术亮点包括可复现的物理模拟、通过进化优化智能体策略，以及验证智能体仅能获取允许信息的测试框架。适用于多智能体强化学习研究、游戏AI开发及公平性验证场景。",
+  "tags": [
+    "Multi-Agent",
+    "Neuroevolution",
+    "Game AI",
+    "Simulation",
+    "Reinforcement Learning",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

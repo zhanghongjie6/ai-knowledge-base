@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260913-009",
+  "title": "A generated image is not a memory. It is a guess dressed as one.",
+  "source_url": "https://dev.to/paifamily/a-generated-image-is-not-a-memory-it-is-a-guess-dressed-as-one-50nf",
+  "source_type": "rss",
+  "summary": "本文探讨生成图像的本质：它并非真实记忆，而是基于概率的猜测。作者以绘制黎明厨房为例，说明AI生成的图像虽能呈现蒸汽、椅子等细节，但这些细节是模型对视觉模式的统计推断，而非对真实场景的回忆。文章提醒人们警惕将生成图像误认为事实记录，适用于AI伦理、内容真实性鉴别及生成模型局限性讨论。",
+  "tags": [
+    "Generative AI",
+    "Image Generation",
+    "AI Ethics",
+    "Misinformation",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

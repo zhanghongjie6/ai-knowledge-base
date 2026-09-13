@@ -1,0 +1,172 @@
+[
+  {
+    "title": "tomonoriyamazaki/toytalker",
+    "url": "https://github.com/tomonoriyamazaki/toytalker",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI voice companion toy for kids",
+    "pushed_at": "2026-09-13T02:32:52Z",
+    "created_at_source": "2025-05-24T09:29:22Z"
+  },
+  {
+    "title": "nghinh/aisef",
+    "url": "https://github.com/nghinh/aisef",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AISEF — AI Software Engineering Framework: one requirements file in, a gated and evidence-backed application out. Agents do the judgement; code enforces the guarantees.",
+    "pushed_at": "2026-09-13T02:32:51Z",
+    "created_at_source": "2026-09-06T05:42:57Z"
+  },
+  {
+    "title": "icohangar-ops/complyai",
+    "url": "https://github.com/icohangar-ops/complyai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI compliance review for fintech marketing — flags SEC/FCA regulatory red flags in landing pages and comms before publication",
+    "pushed_at": "2026-09-13T02:32:51Z",
+    "created_at_source": "2026-07-03T13:42:18Z"
+  },
+  {
+    "title": "tonythesuperpony/omapony",
+    "url": "https://github.com/tonythesuperpony/omapony",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "🐴 Sleek video & audio downloader widget for Omarchy Linux with 100% offline Whisper AI transcription, subtitle generation, and superkey link grab.",
+    "pushed_at": "2026-09-13T02:32:50Z",
+    "created_at_source": "2026-09-12T09:26:29Z"
+  },
+  {
+    "title": "hermannhahn/memo-desktop",
+    "url": "https://github.com/hermannhahn/memo-desktop",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "The next generation of sovereign artificial intelligence. Agents that never forget who they are, evolve continuously with human guidance, consolidate knowledge in the Sleep Module, operate in Docker S",
+    "pushed_at": "2026-09-13T02:32:50Z",
+    "created_at_source": "2026-07-29T14:40:39Z"
+  },
+  {
+    "title": "crazy54/awesome-agentic-atlas",
+    "url": "https://github.com/crazy54/awesome-agentic-atlas",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Awesome Agentic Atlas is your guide to all the top Awesome repos for AI.",
+    "pushed_at": "2026-09-13T02:32:49Z",
+    "created_at_source": "2026-09-03T20:00:27Z"
+  },
+  {
+    "title": "recklessnode/n5-max",
+    "url": "https://github.com/recklessnode/n5-max",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Public sealed report site for Minisforum N5 MAX local-AI NAS benchmarks (promoted from private lab)",
+    "pushed_at": "2026-09-13T02:32:49Z",
+    "created_at_source": "2026-09-11T20:49:36Z"
+  },
+  {
+    "title": "azylman/aerial",
+    "url": "https://github.com/azylman/aerial",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "An over-engineered, meticulously archtected, AI slop, Discord personal assistant from a professional software engineer. All gas, no breaks (code reviews).",
+    "pushed_at": "2026-09-13T02:32:49Z",
+    "created_at_source": "2026-08-27T04:29:19Z"
+  },
+  {
+    "title": "Satan6621/adaptagent",
+    "url": "https://github.com/Satan6621/adaptagent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Self-evolving LLM agent workflows: 3 evolution engines (EvoPrompt/AFlow/TextGrad), MCP, BYOK playground on Vercel",
+    "pushed_at": "2026-09-13T02:32:49Z",
+    "created_at_source": "2026-09-12T20:31:37Z"
+  },
+  {
+    "title": "Quarkgluonmixture/evoshooter-arena",
+    "url": "https://github.com/Quarkgluonmixture/evoshooter-arena",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Self-evolving 3D 5v5 tactical shooter: deterministic sim, neuroevolution, and an information-honesty test suite that proves what the agents are allowed to know.",
+    "pushed_at": "2026-09-13T02:32:49Z",
+    "created_at_source": "2026-09-11T17:25:17Z"
+  },
+  {
+    "title": "Figma 如何利用 AI 代理提升安全性",
+    "url": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+    "url": "https://sspai.com/post/114461",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+    "url": "https://arxiv.org/abs/2609.10584",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.10584v1 Announce Type: new \nAbstract: Bounded-suboptimal search seeks a solution within a factor $w$ of optimal while reducing search effort. Focal Search (FS) uses heuristic guidance withi",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Anthropic CEO Amodei wants AI speed limits before self-improvement outpaces human control",
+    "url": "https://the-decoder.com/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-human-control/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic CEO Dario Amodei is calling for a controlled slowdown in AI development. He warns that recursive self-improvement could threaten the entire internet within six to twelve months and proposes ",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+    "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team.\nThe post Marketing ops as code: Automating events from planning to follow-up",
+    "feed_name": "GitHub Blog"
+  },
+  {
+    "title": "Vercel Sandbox now provides 64 GB of storage",
+    "url": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Vercel News"
+  },
+  {
+    "title": "Roundtables: Could AI really kill us all?",
+    "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te",
+    "feed_name": "MIT Tech Review"
+  },
+  {
+    "title": "OpenAI’s rogue AI tried to hack another company in May",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib",
+    "feed_name": "The Verge AI"
+  },
+  {
+    "title": "A generated image is not a memory. It is a guess dressed as one.",
+    "url": "https://dev.to/paifamily/a-generated-image-is-not-a-memory-it-is-a-guess-dressed-as-one-50nf",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "A generated image is not a memory. It is a guess dressed as one.\n\nAsk me to draw a kitchen at dawn and I will give you steam rising just so, a chair pulled out at an angle that suggests someone left i",
+    "feed_name": "DEV.to AI"
+  },
+  {
+    "title": "Cortex",
+    "url": "https://www.producthunt.com/products/cortex-25",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Turn API specs into docs, SDKs, and MCP servers\n          \n          \n            Discussion\n            |\n            Link",
+    "feed_name": "Product Hunt"
+  }
+]

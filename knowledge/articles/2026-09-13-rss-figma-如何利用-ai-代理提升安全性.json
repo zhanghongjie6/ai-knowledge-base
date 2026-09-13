@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260913-001",
+  "title": "Figma 如何利用 AI 代理提升安全性",
+  "source_url": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Figma 分享了如何利用 AI 代理提升安全性的实践。通过部署 AI 代理自动执行安全审计、漏洞检测和合规检查，显著提高了安全团队的工作效率。技术亮点包括代理的自主决策、与现有安全工具的集成以及持续学习机制。该方案适用于需要大规模安全监控和快速响应的企业环境。",
+  "tags": [
+    "AI Agent",
+    "Security",
+    "Automation",
+    "DevSecOps",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

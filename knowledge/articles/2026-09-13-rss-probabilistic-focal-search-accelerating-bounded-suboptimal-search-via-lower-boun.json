@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260913-003",
+  "title": "Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement",
+  "source_url": "https://arxiv.org/abs/2609.10584",
+  "source_type": "rss",
+  "summary": "本文提出概率焦点搜索（Probabilistic Focal Search），一种加速有界次优搜索的新算法。传统焦点搜索在保证解质量不超过最优解w倍的前提下，利用启发式信息减少搜索开销，但在复杂状态空间中仍可能效率不足。该方法通过下界推进机制，概率性地优先扩展更有希望的节点，从而在保持理论有界次优保证的同时显著降低搜索代价。适用于路径规划、机器人导航和组合优化等需要快速近似最优解的场景。",
+  "tags": [
+    "Search Algorithm",
+    "Heuristic Search",
+    "Path Planning",
+    "Optimization",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

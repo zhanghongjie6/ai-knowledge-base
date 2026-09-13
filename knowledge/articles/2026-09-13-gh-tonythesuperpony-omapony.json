@@ -1,0 +1,20 @@
+{
+  "id": "github-20260913-004",
+  "title": "tonythesuperpony/omapony",
+  "source_url": "https://github.com/tonythesuperpony/omapony",
+  "source_type": "github_trending",
+  "summary": "omapony 是专为 Omarchy Linux 打造的简洁视频与音频下载器组件，核心亮点是集成完全离线的 Whisper AI 转录，可自动生成字幕，并支持超级键快速抓取链接。它适合需要本地化、隐私友好的媒体下载与字幕制作场景，兼顾易用性与离线 AI 能力。",
+  "tags": [
+    "Whisper",
+    "Linux",
+    "Downloader",
+    "Subtitle",
+    "Offline",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

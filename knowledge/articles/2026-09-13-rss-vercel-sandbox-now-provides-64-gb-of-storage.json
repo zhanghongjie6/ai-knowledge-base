@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260913-006",
+  "title": "Vercel Sandbox now provides 64 GB of storage",
+  "source_url": "https://vercel.com/changelog/vercel-sandbox-64-gb-storage",
+  "source_type": "rss",
+  "summary": "Vercel Sandbox 将存储容量提升至 64 GB，为开发者提供更充裕的临时文件系统空间，用于运行 AI 代理、代码执行和构建任务。该更新降低了因磁盘限制导致的中断风险，适合需要处理大型依赖、数据集或生成产物的云端沙箱场景，进一步强化了 Vercel 在边缘计算与 AI 工作流中的基础设施能力。",
+  "tags": [
+    "Vercel",
+    "Sandbox",
+    "Cloud",
+    "AI Agent",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

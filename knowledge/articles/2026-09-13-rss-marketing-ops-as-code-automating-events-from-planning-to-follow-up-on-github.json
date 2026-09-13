@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260913-005",
+  "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+  "source_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+  "source_type": "rss",
+  "summary": "本文介绍GitHub APAC市场团队如何将营销运营（Marketing Ops）转化为代码，利用GitHub平台和Copilot实现活动从规划到跟进的全流程自动化。核心价值在于将可描述的工作流自动执行，技术亮点包括GitHub Actions、Issues和Copilot的集成，适用于市场活动管理、任务追踪和团队协作场景。",
+  "tags": [
+    "MarketingOps",
+    "GitHub",
+    "Copilot",
+    "Automation",
+    "Workflow",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

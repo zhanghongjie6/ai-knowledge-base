@@ -1,0 +1,19 @@
+{
+  "id": "github-20260913-007",
+  "title": "recklessnode/n5-max",
+  "source_url": "https://github.com/recklessnode/n5-max",
+  "source_type": "github_trending",
+  "summary": "该GitHub仓库公开了Minisforum N5 MAX作为本地AI NAS的基准测试报告，涵盖性能、功耗、AI推理等数据。技术亮点在于将私有实验室的测试结果完整公开，为本地AI硬件选型提供参考。适用于关注NAS与边缘AI部署的开发者。",
+  "tags": [
+    "NAS",
+    "Local AI",
+    "Benchmark",
+    "Hardware",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}

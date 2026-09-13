@@ -1,0 +1,19 @@
+{
+  "id": "github-20260913-006",
+  "title": "crazy54/awesome-agentic-atlas",
+  "source_url": "https://github.com/crazy54/awesome-agentic-atlas",
+  "source_type": "github_trending",
+  "summary": "Awesome Agentic Atlas 是一个聚合 AI 领域优质 Awesome 仓库的导航项目，帮助开发者快速定位智能体、大模型等方向的资源合集。它本身不提供技术实现，而是通过索引和分类降低信息检索成本，适合需要系统性了解 AI 生态、寻找学习或选型参考的开发者与研究者。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "Awesome List",
+    "AI Resources",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-13T02:33:42+00:00",
+  "updated_at": "2026-09-13T02:33:42+00:00"
+}
