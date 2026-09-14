@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260914-001",
+  "title": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+  "source_url": "https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本期Java新闻汇总了多个重要项目更新：TornadoVM 6支持异构硬件加速，JReleaser简化发布流程，LangChain4j增强Java生态的LLM集成能力，Java Operator SDK助力Kubernetes Operator开发，JHipster和Yupiik Fusion提供快速应用生成与集成方案。这些更新覆盖性能优化、AI集成、云原生开发等场景，对Java开发者具有直接参考价值。",
+  "tags": [
+    "Java",
+    "LLM",
+    "Kubernetes",
+    "GPU",
+    "DevOps",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-14T02:49:56+00:00",
+  "updated_at": "2026-09-14T02:49:56+00:00"
+}

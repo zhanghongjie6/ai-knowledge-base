@@ -1,0 +1,20 @@
+{
+  "id": "github-20260914-008",
+  "title": "davidpit1565/automatic-trading-ai",
+  "source_url": "https://github.com/davidpit1565/automatic-trading-ai",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于 Claude Code 的 AI 自动加密货币交易平台，利用大语言模型实现交易策略的自动生成与执行。技术亮点在于将 AI 代理与加密交易接口结合，可自动分析市场并下单。适用于量化交易爱好者、加密货币投资者以及希望探索 AI 驱动金融自动化的开发者。",
+  "tags": [
+    "AI",
+    "Trading",
+    "Crypto",
+    "Claude",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-09-14T02:49:56+00:00",
+  "updated_at": "2026-09-14T02:49:56+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260914-007",
+  "title": "Qusai-Altoubasy/ai-business-assistant",
+  "source_url": "https://github.com/Qusai-Altoubasy/ai-business-assistant",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于AI的商业助手开源工具，旨在帮助企业自动化处理日常业务任务。它利用大语言模型和智能代理技术，提供客户咨询、数据分析、文档处理等功能。技术亮点包括模块化架构、易于集成的API接口以及多场景适配能力。适用于中小企业提升运营效率，减少人工重复劳动，快速搭建智能客服与业务自动化流程。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Business Automation",
+    "Open Source",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-14T02:49:56+00:00",
+  "updated_at": "2026-09-14T02:49:56+00:00"
+}

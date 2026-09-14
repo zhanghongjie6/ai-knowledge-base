@@ -1,0 +1,19 @@
+{
+  "id": "github-20260914-009",
+  "title": "hswenforwork/AI-Agent-OS",
+  "source_url": "https://github.com/hswenforwork/AI-Agent-OS",
+  "source_type": "github_trending",
+  "summary": "AI-Agent-OS 是一个个人 AI Agent 团队管理平台，旨在帮助用户集中管理多个 AI Agent 的协作与任务分配。其核心价值在于将分散的 Agent 整合为可统一调度的团队，提升自动化效率。技术亮点包括 Agent 编排、任务分发与状态监控，适合个人开发者或小团队构建自动化工作流。",
+  "tags": [
+    "Agent",
+    "Orchestration",
+    "Automation",
+    "Workflow",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-14T02:49:56+00:00",
+  "updated_at": "2026-09-14T02:49:56+00:00"
+}

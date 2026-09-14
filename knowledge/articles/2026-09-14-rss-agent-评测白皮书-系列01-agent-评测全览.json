@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260914-010",
+  "title": "《Agent 评测白皮书》系列01：Agent 评测全览",
+  "source_url": "https://tech.meituan.com/2026/09/10/Agent-Evaluation-White-Paper-01.html",
+  "source_type": "rss",
+  "summary": "美团技术团队发布《Agent评测白皮书》系列首篇，系统梳理Agent评测的落地指南。文章从评测全览切入，覆盖冷启动、扩量、自进化等后续篇章，旨在为开发者提供从零搭建评测体系的完整方法论。核心价值在于填补Agent评测领域系统化知识的空白，技术亮点包括分层评测框架与可复用的实践路径，适用于AI Agent研发团队、评测工程师及技术管理者。",
+  "tags": [
+    "Agent",
+    "Evaluation",
+    "LLM",
+    "Best Practices",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-14T02:49:56+00:00",
+  "updated_at": "2026-09-14T02:49:56+00:00"
+}

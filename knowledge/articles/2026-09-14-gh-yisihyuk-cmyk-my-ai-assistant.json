@@ -1,0 +1,19 @@
+{
+  "id": "github-20260914-010",
+  "title": "yisihyuk-cmyk/my-ai-assistant",
+  "source_url": "https://github.com/yisihyuk-cmyk/my-ai-assistant",
+  "source_type": "github_trending",
+  "summary": "这是一个个人 AI 助手项目，基于大语言模型构建，提供对话与任务自动化能力。技术亮点在于集成 LLM 接口并封装为可复用的助手框架，支持自定义提示词与工具调用。适用于个人效率提升、日常问答和简单自动化场景，但项目成熟度与文档完善度有限，更适合作为学习参考或二次开发起点。",
+  "tags": [
+    "LLM",
+    "Assistant",
+    "Chatbot",
+    "Automation",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-14T02:49:56+00:00",
+  "updated_at": "2026-09-14T02:49:56+00:00"
+}
