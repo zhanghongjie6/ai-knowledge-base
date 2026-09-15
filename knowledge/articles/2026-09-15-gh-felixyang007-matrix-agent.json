@@ -1,0 +1,19 @@
+{
+  "id": "github-20260915-004",
+  "title": "felixyang007/matrix-agent",
+  "source_url": "https://github.com/felixyang007/matrix-agent",
+  "source_type": "github_trending",
+  "summary": "Matrix-Agent 是 Sonic 云真机平台的 Agent 端组件，用于连接和管理移动设备，实现远程真机调试与自动化测试。它支持多设备接入、实时屏幕传输和操作控制，技术亮点包括高效的设备通信协议和跨平台兼容性。适用于移动应用开发、测试团队进行云端真机测试和远程协作。",
+  "tags": [
+    "Cloud Device",
+    "Mobile Testing",
+    "Remote Control",
+    "Agent",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260915-006",
+  "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
+  "source_url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
+  "source_type": "rss",
+  "summary": "OpenAI 雇佣数百名合同工阅读真实 ChatGPT 对话，并按 1-7 分进行评分，主要目的是减少模型的谄媚和拟人化行为，提升回答质量。这一做法揭示了 AI 训练中人工反馈的规模与隐私风险，适用于模型对齐、RLHF 流程及数据隐私讨论。",
+  "tags": [
+    "OpenAI",
+    "RLHF",
+    "Privacy",
+    "ChatGPT",
+    "AI Alignment",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

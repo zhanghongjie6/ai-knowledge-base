@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Lehche/Attention_LLM",
+    "url": "https://github.com/Lehche/Attention_LLM",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Transformer model Based on the paper Attention Is All You Need by Google",
+    "pushed_at": "2026-09-15T02:51:45Z",
+    "created_at_source": "2026-09-14T22:03:38Z"
+  },
+  {
+    "title": "royalskynet/deep-agent",
+    "url": "https://github.com/royalskynet/deep-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "deep — headless autonomous coding-agent loop for Claude Code via deepclaude: one task file in, verified work out. Ponytail harness + stateless loop guard.",
+    "pushed_at": "2026-09-15T02:51:44Z",
+    "created_at_source": "2026-09-12T05:51:21Z"
+  },
+  {
+    "title": "coilyco-flight-deck/agent-compose",
+    "url": "https://github.com/coilyco-flight-deck/agent-compose",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Compose agent personas and context. Selects a role, its personality meld, the skills it can see, and the tools it gets, then materializes them as plain files.",
+    "pushed_at": "2026-09-15T02:51:45Z",
+    "created_at_source": "2026-07-22T08:41:29Z"
+  },
+  {
+    "title": "felixyang007/matrix-agent",
+    "url": "https://github.com/felixyang007/matrix-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "🎉Agent of Sonic cloud real machine platform. Sonic云真机平台Agent端。",
+    "pushed_at": "2026-09-15T02:51:43Z",
+    "created_at_source": "2026-08-15T04:27:54Z"
+  },
+  {
+    "title": "HXSLtim/ai-collab",
+    "url": "https://github.com/HXSLtim/ai-collab",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Turn Claude Code, Codex and Antigravity into one team: a tmux workspace with a self-built message bus, role split and reply protocol for multi-agent collaboration.",
+    "pushed_at": "2026-09-15T02:51:46Z",
+    "created_at_source": "2026-09-15T02:51:42Z"
+  },
+  {
+    "title": "Kevino-Motav/ainfdvz",
+    "url": "https://github.com/Kevino-Motav/ainfdvz",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-15T02:51:45Z",
+    "created_at_source": "2026-09-15T02:33:10Z"
+  },
+  {
+    "title": "Emelyh-Riverss/airucwf",
+    "url": "https://github.com/Emelyh-Riverss/airucwf",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-15T02:51:46Z",
+    "created_at_source": "2026-09-15T02:33:10Z"
+  },
+  {
+    "title": "Anonymousforareason111/hybrid-orchestrator",
+    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator",
+    "source": "github_trending",
+    "popularity": 3,
+    "summary": "🤖 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI-human handoffs.",
+    "pushed_at": "2026-09-15T02:51:42Z",
+    "created_at_source": "2026-02-24T14:53:25Z"
+  },
+  {
+    "title": "nhd-ai-team/NHD-CRM-Twenty",
+    "url": "https://github.com/nhd-ai-team/NHD-CRM-Twenty",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-15T02:51:42Z",
+    "created_at_source": "2026-07-10T03:40:20Z"
+  },
+  {
+    "title": "Schoolrecords/tro-ly-giao-vien",
+    "url": "https://github.com/Schoolrecords/tro-ly-giao-vien",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Trợ lý Giáo viên - phần mềm trợ lý AI cho giáo viên trên Windows",
+    "pushed_at": "2026-09-15T02:51:42Z",
+    "created_at_source": "2026-09-15T02:30:02Z"
+  },
+  {
+    "title": "从 Trace 到规模化实时评估：面向生产流量的 Agent 可观测实践｜QCon上海",
+    "url": "https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：中国联通宣布支持所有国行设备 eSIM 业务办理、Homebrew 7.0.0 发布等",
+    "url": "https://sspai.com/post/114593",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "英伟达发布 RTX PRO 5500 Blackwell 专业显卡，阿凡途发布 AVENTHO Y 头戴式耳机等查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "R2VC: Modular Fact-Checking with Retrieval, Verification, and Confidence Calibration",
+    "url": "https://arxiv.org/abs/2609.11955",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.11955v1 Announce Type: new \nAbstract: Large language models are increasingly used for automated fact checking, but end-to-end prompting often entangles evidence retrieval, reasoning, and un",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
+    "url": "https://arxiv.org/abs/2609.11934",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.11934v1 Announce Type: new \nAbstract: In networked dynamical systems, the parameter of primary mechanistic interest is signed interaction structure. Recovering this structure from perturbat",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Feature Recovery for Object Understanding After Irreversible Fire Damage",
+    "url": "https://arxiv.org/abs/2609.12078",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.12078v1 Announce Type: new \nAbstract: Objects in post-fire environments often undergo irreversible physical transformations that change their geometry, material state, and visual appearance",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
+    "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI has hundreds of contract workers reading real ChatGPT conversations and rating them on a scale of one to seven, partly to reduce flattery and human-like behavior, 404 Media reports. The prompts",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery",
+    "url": "https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "A practitioner's map of the 3 layers in a modern agent stack, with verified sources and an overlap analysis.\nThe post Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, ",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Amodei slows frontier 🛑, ARC-AGI-4 🧠, Cursor Projects 👨‍💻",
+    "url": "https://tldr.tech/ai/2026-09-14",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "url": "https://openai.com/index/fyxer",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+    "url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Learn how Abnormal AI deployed Amazon Bedrock AgentCore Code Interpreter as an ephemeral compute scratch pad for the agents behind its real-time email threat detection at billion-message scale, plus t",
+    "feed_name": "AWS ML Blog"
+  }
+]

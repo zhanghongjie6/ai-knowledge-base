@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260915-010",
+  "title": "Abnormal AI: Amazon Bedrock AgentCore for agentic email security at scale",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/abnormal-ai-amazon-bedrock-agentcore-for-agentic-email-security-at-scale/",
+  "source_type": "rss",
+  "summary": "Abnormal AI 利用 Amazon Bedrock AgentCore 的代码解释器作为临时计算暂存器，支撑其实时邮件威胁检测代理在十亿级消息规模下运行。该方案通过无服务器架构实现弹性扩展，降低运维成本，同时保持低延迟检测。适用于大规模安全分析、实时威胁情报和自动化代理工作流等场景。",
+  "tags": [
+    "Agent",
+    "Serverless",
+    "Security",
+    "AWS",
+    "Email",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

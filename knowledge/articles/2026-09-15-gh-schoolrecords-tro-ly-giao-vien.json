@@ -1,0 +1,19 @@
+{
+  "id": "github-20260915-010",
+  "title": "Schoolrecords/tro-ly-giao-vien",
+  "source_url": "https://github.com/Schoolrecords/tro-ly-giao-vien",
+  "source_type": "github_trending",
+  "summary": "Trợ lý Giáo viên 是一款面向 Windows 教师的 AI 助手软件，旨在通过自动化处理日常教学任务来减轻教师负担。其技术亮点包括本地化部署、针对教育场景优化的 AI 模型以及简洁的桌面交互界面。典型用例包括自动生成教案、批改作业、管理学生成绩和课堂辅助，适合中小学及培训机构教师使用。",
+  "tags": [
+    "Education",
+    "AI Assistant",
+    "Windows",
+    "EdTech",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

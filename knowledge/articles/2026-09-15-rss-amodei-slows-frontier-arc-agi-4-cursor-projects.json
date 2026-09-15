@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-008",
+  "title": "Amodei slows frontier 🛑, ARC-AGI-4 🧠, Cursor Projects 👨‍💻",
+  "source_url": "https://tldr.tech/ai/2026-09-14",
+  "source_type": "rss",
+  "summary": "本期简报聚焦AI前沿动态：Anthropic CEO Amodei放缓前沿模型开发节奏，引发行业对安全与速度平衡的讨论；ARC-AGI-4基准发布，进一步挑战模型的通用推理能力；Cursor推出Projects功能，将AI编程助手升级为项目级协作工具。内容覆盖模型安全、通用智能评测与开发者工具三大方向，适合关注AI行业趋势的技术人员快速了解最新进展。",
+  "tags": [
+    "AI Safety",
+    "AGI",
+    "Developer Tools",
+    "LLM",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

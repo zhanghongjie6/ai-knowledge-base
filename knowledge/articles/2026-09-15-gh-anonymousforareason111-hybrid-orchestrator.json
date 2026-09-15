@@ -1,0 +1,19 @@
+{
+  "id": "github-20260915-008",
+  "title": "Anonymousforareason111/hybrid-orchestrator",
+  "source_url": "https://github.com/Anonymousforareason111/hybrid-orchestrator",
+  "source_type": "github_trending",
+  "summary": "该项目提供Python实现的人机混合编排模式，用于协调多个AI代理、管理会话状态，并支持AI与人类之间的平滑交接。技术亮点在于将人类决策节点无缝嵌入自动化流程，适用于客服、审批、复杂任务协作等需要人工介入的场景，提升自动化系统的灵活性与可靠性。",
+  "tags": [
+    "Agent",
+    "Orchestration",
+    "Human-in-the-loop",
+    "Python",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

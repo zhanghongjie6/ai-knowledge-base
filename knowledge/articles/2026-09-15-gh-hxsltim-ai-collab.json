@@ -1,0 +1,20 @@
+{
+  "id": "github-20260915-005",
+  "title": "HXSLtim/ai-collab",
+  "source_url": "https://github.com/HXSLtim/ai-collab",
+  "source_type": "github_trending",
+  "summary": "该项目通过 tmux 工作区和自建消息总线，将 Claude Code、Codex 和 Antigravity 等多个 AI 编码助手整合为协作团队。它实现了角色分工与回复协议，让不同 AI 代理能像团队成员一样协同工作，适用于复杂软件开发任务，提升多代理协作效率。",
+  "tags": [
+    "Multi-Agent",
+    "Collaboration",
+    "tmux",
+    "AI Coding",
+    "Message Bus",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

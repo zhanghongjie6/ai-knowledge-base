@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-004",
+  "title": "Fundamental Dynamical Units for Physics-Informed Structural Inference from Perturbation Time-Series in Networked Systems",
+  "source_url": "https://arxiv.org/abs/2609.11934",
+  "source_type": "rss",
+  "summary": "该研究提出从扰动时间序列中推断网络化动力系统符号交互结构的基本动力学单元方法。技术亮点在于将物理信息约束与数据驱动推断结合，通过识别基本动力学模式恢复网络拓扑。适用于电网、生物网络等复杂系统的结构辨识与故障诊断。",
+  "tags": [
+    "Networked Systems",
+    "Physics-Informed",
+    "Time-Series",
+    "Structure Inference",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

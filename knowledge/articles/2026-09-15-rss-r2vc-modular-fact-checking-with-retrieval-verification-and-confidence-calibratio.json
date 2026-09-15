@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-003",
+  "title": "R2VC: Modular Fact-Checking with Retrieval, Verification, and Confidence Calibration",
+  "source_url": "https://arxiv.org/abs/2609.11955",
+  "source_type": "rss",
+  "summary": "R2VC 提出模块化事实核查框架，将证据检索、推理验证与置信度校准解耦，避免端到端提示中三者纠缠导致的错误传播。技术亮点在于可插拔的检索与验证模块及校准机制，提升核查准确性与可解释性。适用于新闻核查、学术审稿、企业知识库等需要可信事实判断的场景。",
+  "tags": [
+    "Fact-Checking",
+    "RAG",
+    "LLM",
+    "Confidence Calibration",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

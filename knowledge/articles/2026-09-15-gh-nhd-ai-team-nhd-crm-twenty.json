@@ -1,0 +1,20 @@
+{
+  "id": "github-20260915-009",
+  "title": "nhd-ai-team/NHD-CRM-Twenty",
+  "source_url": "https://github.com/nhd-ai-team/NHD-CRM-Twenty",
+  "source_type": "github_trending",
+  "summary": "NHD-CRM-Twenty 是基于开源 Twenty CRM 的 AI 增强客户关系管理项目，通过集成大语言模型实现智能线索评分、自动跟进建议与销售对话摘要。技术亮点在于将 AI Agent 嵌入 CRM 工作流，支持自然语言查询客户数据并自动生成任务。适用于销售团队提升线索转化效率、减少手动录入，适合希望低成本部署智能 CRM 的中小企业。",
+  "tags": [
+    "CRM",
+    "LLM",
+    "Agent",
+    "Sales Automation",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

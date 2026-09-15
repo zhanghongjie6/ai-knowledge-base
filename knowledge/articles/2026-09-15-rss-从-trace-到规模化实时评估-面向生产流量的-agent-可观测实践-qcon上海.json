@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260915-001",
+  "title": "从 Trace 到规模化实时评估：面向生产流量的 Agent 可观测实践｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/556HrGKWUqWSg7NM3YT3?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍面向生产流量的Agent可观测性实践，从Trace追踪到规模化实时评估，覆盖数据采集、链路追踪、指标监控与实时评估体系。技术亮点在于将可观测性从离线分析扩展到生产环境实时评估，帮助团队快速定位Agent异常、优化性能。适用于LLM Agent在生产环境中的监控、调试与持续优化场景。",
+  "tags": [
+    "Agent",
+    "Observability",
+    "LLM",
+    "Monitoring",
+    "Production",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

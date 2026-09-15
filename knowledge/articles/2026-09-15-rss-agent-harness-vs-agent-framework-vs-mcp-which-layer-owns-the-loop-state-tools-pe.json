@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260915-007",
+  "title": "Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery",
+  "source_url": "https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/",
+  "source_type": "rss",
+  "summary": "本文系统梳理了现代智能体技术栈的三个关键层次：Agent Harness（负责循环、状态与恢复）、Agent Framework（提供抽象与编排能力）以及MCP（标准化工具与权限接口）。文章通过可验证来源和重叠分析，帮助开发者厘清各层职责边界，避免架构混乱。适合正在构建或评估智能体系统的工程师与架构师阅读，以做出更清晰的技术选型决策。",
+  "tags": [
+    "Agent",
+    "MCP",
+    "Architecture",
+    "Framework",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}

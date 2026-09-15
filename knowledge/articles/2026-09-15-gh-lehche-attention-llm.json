@@ -1,0 +1,19 @@
+{
+  "id": "github-20260915-001",
+  "title": "Lehche/Attention_LLM",
+  "source_url": "https://github.com/Lehche/Attention_LLM",
+  "source_type": "github_trending",
+  "summary": "该项目基于Google经典论文《Attention Is All You Need》从零实现Transformer模型，涵盖多头注意力、位置编码等核心机制。技术亮点在于代码结构清晰、注释详尽，适合作为学习Transformer原理的教学参考。使用场景包括NLP入门教学、注意力机制实验及自定义模型原型开发。",
+  "tags": [
+    "Transformer",
+    "Attention",
+    "NLP",
+    "Deep Learning",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-15T02:52:36+00:00",
+  "updated_at": "2026-09-15T02:52:36+00:00"
+}
