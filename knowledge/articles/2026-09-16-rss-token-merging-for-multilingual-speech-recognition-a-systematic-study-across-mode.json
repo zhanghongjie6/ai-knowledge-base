@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260916-004",
+  "title": "Token Merging for Multilingual Speech Recognition: A Systematic Study Across Model Scale and Fine-Tuning",
+  "source_url": "https://arxiv.org/abs/2609.13151",
+  "source_type": "rss",
+  "summary": "该研究系统探究了在多语言语音识别中应用Token Merging（令牌合并）技术，覆盖不同模型规模与微调策略。核心价值在于降低Whisper等大模型对低资源语言转录的计算开销，同时保持识别准确率。技术亮点包括跨模型尺度的合并策略分析及微调影响评估，适用于边缘设备部署与多语言实时转录场景。",
+  "tags": [
+    "Speech Recognition",
+    "Token Merging",
+    "Multilingual",
+    "Whisper",
+    "Efficiency",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

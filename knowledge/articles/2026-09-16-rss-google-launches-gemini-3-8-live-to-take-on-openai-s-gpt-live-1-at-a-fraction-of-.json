@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260916-007",
+  "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+  "source_url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
+  "source_type": "rss",
+  "summary": "Google DeepMind发布Gemini 3.8 Live和3.8 Live Extended Thinking两款音频模型，在Artificial Analysis语音到语音排行榜上登顶。核心价值在于以每小时1.38美元的低成本提供实时语音交互能力，直接对标OpenAI的GPT-Live-1。技术亮点包括扩展思维链推理和高效语音处理，适用于开发者构建实时对话、语音助手和客服系统等场景。",
+  "tags": [
+    "Audio",
+    "Speech-to-Speech",
+    "LLM",
+    "Google",
+    "Real-time",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

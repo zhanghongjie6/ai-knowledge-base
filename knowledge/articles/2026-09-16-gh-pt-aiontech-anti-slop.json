@@ -1,0 +1,19 @@
+{
+  "id": "github-20260916-003",
+  "title": "pt-aiontech/anti-slop",
+  "source_url": "https://github.com/pt-aiontech/anti-slop",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一套反AI废话（anti-AI-slop）的写作风格标准，包含分级禁用词汇、结构规则、五维评分量表和经过验证的数值阈值，支持印尼语和英语。核心价值在于帮助作者和内容审核者识别并消除AI生成文本中的空洞、冗余和低质表达，提升写作质量。技术亮点是量化评分与明确规则结合，可直接用于内容审核、写作辅助和AI输出过滤。",
+  "tags": [
+    "Writing",
+    "AI Detection",
+    "Content Quality",
+    "NLP",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

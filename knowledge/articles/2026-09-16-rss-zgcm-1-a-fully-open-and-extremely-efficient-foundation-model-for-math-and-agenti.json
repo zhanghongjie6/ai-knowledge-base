@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260916-003",
+  "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+  "source_url": "https://arxiv.org/abs/2609.13356",
+  "source_type": "rss",
+  "summary": "ZGCM-1 是一个完全开源的 7B 稠密基础模型，从零训练，在数据、系统和算法层面实现极致效率。该模型专注于数学推理与智能体搜索任务，通过高效训练策略降低算力需求，同时保持强大性能。适用于数学解题、检索增强生成及自主智能体等场景，为开源社区提供高性价比的基础模型选择。",
+  "tags": [
+    "Foundation Model",
+    "Math Reasoning",
+    "Agentic Search",
+    "Open Source",
+    "Efficient Training",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

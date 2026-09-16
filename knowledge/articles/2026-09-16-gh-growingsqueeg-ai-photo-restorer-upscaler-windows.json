@@ -1,0 +1,19 @@
+{
+  "id": "github-20260916-001",
+  "title": "growingsqueeg/AI-Photo-Restorer-Upscaler-Windows",
+  "source_url": "https://github.com/growingsqueeg/AI-Photo-Restorer-Upscaler-Windows",
+  "source_type": "github_trending",
+  "summary": "该项目是面向Windows的AI照片修复与放大工具，专注于老旧、低分辨率及受损图像。支持本地增强、锐化、放大预设、面部恢复、批量导出和可复用配置，无需联网即可处理，适合个人照片修复与批量图像增强场景。",
+  "tags": [
+    "Image Restoration",
+    "Upscaler",
+    "Windows",
+    "Batch Processing",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

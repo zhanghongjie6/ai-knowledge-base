@@ -1,0 +1,20 @@
+{
+  "id": "github-20260916-005",
+  "title": "mike-petrov-lab89j4/Local-AI-Voice-Studio",
+  "source_url": "https://github.com/mike-petrov-lab89j4/Local-AI-Voice-Studio",
+  "source_type": "github_trending",
+  "summary": "Local AI Voice Studio 是一款面向 Windows 的本地语音生成工作台，支持构建旁白项目、管理脚本、选择音色、预览片段并导出音频，所有数据保留在本地。它适合需要隐私保护、离线可用的配音与有声内容制作场景，技术亮点在于本地化工作流与项目化管理。",
+  "tags": [
+    "TTS",
+    "Local AI",
+    "Voice Generation",
+    "Windows",
+    "Audio",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 10,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

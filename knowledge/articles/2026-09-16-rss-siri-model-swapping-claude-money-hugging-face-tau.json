@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260916-008",
+  "title": "Siri model swapping 🔄, Claude Money 💰, Hugging Face Tau 👨‍💻",
+  "source_url": "https://tldr.tech/ai/2026-09-15",
+  "source_type": "rss",
+  "summary": "本期 AI 快讯涵盖三大动态：苹果计划为 Siri 更换底层模型以提升智能助手能力；Anthropic 为 Claude 推出商业化变现功能，拓展企业级应用场景；Hugging Face 发布 Tau 项目，聚焦开发者工具与开源生态建设。内容适合关注大模型落地、AI 产品商业化及开源社区趋势的从业者快速了解行业动向。",
+  "tags": [
+    "LLM",
+    "Voice Assistant",
+    "AI Monetization",
+    "Open Source",
+    "Developer Tools",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

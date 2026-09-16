@@ -1,0 +1,19 @@
+{
+  "id": "github-20260916-002",
+  "title": "luyao618/Agent-Interview-CheatSheet",
+  "source_url": "https://github.com/luyao618/Agent-Interview-CheatSheet",
+  "source_type": "github_trending",
+  "summary": "该项目是面向AI Agent岗位面试的速查手册，系统整理了Agent核心概念、架构模式、工具调用、记忆机制、多智能体协作等高频考点，并附带常见面试题与参考答案。适合求职者快速复习、查漏补缺，也可作为团队内部培训资料，帮助开发者建立完整的Agent知识体系。",
+  "tags": [
+    "Agent",
+    "Interview",
+    "LLM",
+    "CheatSheet",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 9,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

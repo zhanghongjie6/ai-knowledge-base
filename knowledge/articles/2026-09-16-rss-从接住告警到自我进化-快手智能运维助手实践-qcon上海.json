@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260916-001",
+  "title": "从接住告警到自我进化：快手智能运维助手实践｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/keHKo56wrachdtEhekUD?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "快手在QCon上海分享了其智能运维助手的实践，该助手从被动接收告警演进为具备自我进化能力的系统。技术亮点包括结合大模型与运维知识库，实现告警自动分析、根因定位和修复建议，并通过反馈闭环持续优化。适用于大规模分布式系统的故障排查与自动化运维场景，能显著降低人工干预和平均修复时间。",
+  "tags": [
+    "AIOps",
+    "LLM",
+    "Incident Management",
+    "Knowledge Base",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

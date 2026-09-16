@@ -1,0 +1,19 @@
+{
+  "id": "github-20260916-008",
+  "title": "noteflowai/evalarc",
+  "source_url": "https://github.com/noteflowai/evalarc",
+  "source_type": "github_trending",
+  "summary": "EvalArc 是一个用于检测 AI 智能体回归问题的工具，帮助开发者发现评分提升背后隐藏的退化。它通过对比变更的检查项、追踪记录的工具操作，并支持离线验证证据，确保智能体行为可靠。适用于智能体开发中的持续评估与调试，提升迭代质量。",
+  "tags": [
+    "Agent",
+    "Evaluation",
+    "Regression",
+    "Debugging",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

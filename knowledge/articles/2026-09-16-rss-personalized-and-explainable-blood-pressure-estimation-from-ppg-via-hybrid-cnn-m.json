@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260916-006",
+  "title": "Personalized and Explainable Blood Pressure Estimation from PPG via Hybrid CNN--Morphological Features",
+  "source_url": "https://arxiv.org/abs/2609.13190",
+  "source_type": "rss",
+  "summary": "该研究提出一种融合CNN与形态学特征的混合模型，从光电容积脉搏波（PPG）中实现个性化且可解释的血压估计。技术亮点在于结合深度特征与可解释的形态学特征，提升连续无袖带血压监测的准确性与透明度。适用于可穿戴设备、远程健康监测及个性化心血管管理场景。",
+  "tags": [
+    "PPG",
+    "BloodPressure",
+    "CNN",
+    "ExplainableAI",
+    "Wearable",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

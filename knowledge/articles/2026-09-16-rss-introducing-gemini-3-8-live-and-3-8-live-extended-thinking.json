@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260916-009",
+  "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+  "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+  "source_type": "rss",
+  "summary": "谷歌DeepMind发布Gemini 3.8 Live与3.8 Live Extended Thinking，主打实时多模态交互与深度推理能力。前者支持低延迟语音、视频流对话，适合实时助手与客服场景；后者引入扩展思考机制，在复杂推理、代码生成与数学任务中表现更优，可应用于Agent、教育与科研辅助。",
+  "tags": [
+    "Multimodal",
+    "Realtime",
+    "Reasoning",
+    "Agent",
+    "LLM",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

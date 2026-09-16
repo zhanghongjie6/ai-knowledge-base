@@ -1,0 +1,20 @@
+{
+  "id": "github-20260916-007",
+  "title": "chenqg618/compliance-skills",
+  "source_url": "https://github.com/chenqg618/compliance-skills",
+  "source_type": "github_trending",
+  "summary": "该项目提供面向合同、票据、招投标文件与广告文案的机械核对型 AI 技能，核心价值在于所有核查结论均可复算、可追溯为证据，且完全离线运行，无需模型与网络。技术亮点是摒弃大模型推理，采用确定性规则引擎实现零幻觉、可审计的合规检查，适合法务、财务、招投标及广告审核等对准确性与数据隐私要求高的场景。",
+  "tags": [
+    "Compliance",
+    "Offline",
+    "RuleEngine",
+    "Audit",
+    "LegalTech",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}

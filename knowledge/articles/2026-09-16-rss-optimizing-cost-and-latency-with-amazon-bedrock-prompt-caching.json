@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260916-010",
+  "title": "Optimizing cost and latency with Amazon Bedrock prompt caching",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/optimizing-cost-and-latency-with-amazon-bedrock-prompt-caching/",
+  "source_type": "rss",
+  "summary": "亚马逊Bedrock推出提示缓存功能，通过复用重复的上下文，可将输入token成本降低高达90%，并显著减少延迟。文章详细介绍了六种实用场景，包括长文档问答、多轮对话、代码生成等，帮助开发者优化大模型应用的成本与性能。该功能适用于频繁发送相同上下文的场景，是提升LLM应用经济性和响应速度的有效手段。",
+  "tags": [
+    "Prompt Caching",
+    "Amazon Bedrock",
+    "LLM",
+    "Cost Optimization",
+    "Latency",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-16T02:47:42+00:00",
+  "updated_at": "2026-09-16T02:47:42+00:00"
+}
