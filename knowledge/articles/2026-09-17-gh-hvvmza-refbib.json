@@ -1,0 +1,19 @@
+{
+  "id": "github-20260917-010",
+  "title": "hvvmza/RefBib",
+  "source_url": "https://github.com/hvvmza/RefBib",
+  "source_type": "github_trending",
+  "summary": "RefBib 是一个从学术 PDF 中提取参考文献并生成准确 BibTeX 条目的工具。它不依赖 AI 或猜测，而是通过验证过的数据库进行匹配，确保引用信息的准确性。适合研究人员、学生和学术写作者在整理文献时使用，能显著减少手动核对和格式调整的时间。",
+  "tags": [
+    "BibTeX",
+    "PDF",
+    "Reference Extraction",
+    "Academic Writing",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}

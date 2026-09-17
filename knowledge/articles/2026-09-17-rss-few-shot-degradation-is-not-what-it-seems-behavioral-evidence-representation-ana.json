@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-004",
+  "title": "Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures",
+  "source_url": "https://arxiv.org/abs/2609.15990",
+  "source_type": "rss",
+  "summary": "该研究系统探究了少样本提示导致大模型性能下降的现象，在12个开源模型、2类任务和2种架构上进行了行为实验与表征分析，并引入随机文本控制。核心发现是这种退化并非源于示例质量，而是与模型内部表征的偏移有关，为提示工程提供了新的理论解释和实用指导。",
+  "tags": [
+    "LLM",
+    "Few-Shot",
+    "Prompt Engineering",
+    "Representation Analysis",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}

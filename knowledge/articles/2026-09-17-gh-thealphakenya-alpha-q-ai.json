@@ -1,0 +1,20 @@
+{
+  "id": "github-20260917-005",
+  "title": "thealphakenya/Alpha-Q-ai",
+  "source_url": "https://github.com/thealphakenya/Alpha-Q-ai",
+  "source_type": "github_trending",
+  "summary": "Alpha-Q-ai 是一个面向量化金融的 AI 工具库，利用大语言模型与智能体技术自动生成、回测和优化交易策略。项目整合数据获取、因子计算与风险评估模块，支持自然语言交互式策略开发，降低量化研究门槛。适合个人投资者、量化研究员和金融科技开发者快速验证交易想法，探索 AI 在投资决策中的应用。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Quantitative Finance",
+    "Trading",
+    "Backtesting",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}

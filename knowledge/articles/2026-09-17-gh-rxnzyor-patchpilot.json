@@ -1,0 +1,19 @@
+{
+  "id": "github-20260917-007",
+  "title": "rxnzyor/patchpilot",
+  "source_url": "https://github.com/rxnzyor/patchpilot",
+  "source_type": "github_trending",
+  "summary": "PatchPilot 是一个纯 Python 库，无需 git 或 patch 命令即可应用 unified diff，专为处理 AI 生成的不规范补丁和复制粘贴错误而设计。它通过基于上下文的模糊匹配，自动修复行号偏移、空白差异和格式问题，让开发者能直接在代码中集成补丁应用逻辑，适用于 AI 代码助手、自动化重构和 CI 流水线等场景。",
+  "tags": [
+    "Python",
+    "Diff",
+    "AI",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}

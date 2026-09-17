@@ -1,0 +1,19 @@
+{
+  "id": "github-20260917-004",
+  "title": "mrtheroi/agents-dev",
+  "source_url": "https://github.com/mrtheroi/agents-dev",
+  "source_type": "github_trending",
+  "summary": "该项目提供专用 AI 代理集合，帮助开发者加速日常开发流程。通过预置的代理模板与工作流，可自动完成代码生成、调试、文档编写等重复性任务，降低手动操作成本。适合个人开发者或小团队快速搭建智能辅助环境，提升编码效率与项目迭代速度。",
+  "tags": [
+    "Agent",
+    "Developer Tools",
+    "Automation",
+    "AI",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}

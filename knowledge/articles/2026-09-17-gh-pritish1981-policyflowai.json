@@ -1,0 +1,20 @@
+{
+  "id": "github-20260917-008",
+  "title": "pritish1981/PolicyFlowAI",
+  "source_url": "https://github.com/pritish1981/PolicyFlowAI",
+  "source_type": "github_trending",
+  "summary": "PolicyFlow AI 是一个企业费用合规与异常处理智能体概念验证项目，能够基于合规政策证据回答自然语言费用政策问题。其技术亮点在于结合检索增强生成（RAG）与智能体工作流，自动识别费用异常并给出合规判断。适用于企业财务部门自动化审核报销、降低合规风险，提升政策查询与异常处理效率。",
+  "tags": [
+    "RAG",
+    "Agent",
+    "Compliance",
+    "Enterprise",
+    "Expense",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}

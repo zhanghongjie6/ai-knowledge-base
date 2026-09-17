@@ -1,0 +1,172 @@
+[
+  {
+    "title": "scvxr7063/blog-ai-company",
+    "url": "https://github.com/scvxr7063/blog-ai-company",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "blog-ai-company",
+    "pushed_at": "2026-09-17T02:50:48Z",
+    "created_at_source": "2026-09-17T02:50:47Z"
+  },
+  {
+    "title": "mazemoon6-star/ai-database-2026",
+    "url": "https://github.com/mazemoon6-star/ai-database-2026",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI에이전트 개발자 데이터베이스 리포지토리",
+    "pushed_at": "2026-09-17T02:50:48Z",
+    "created_at_source": "2026-09-15T00:28:39Z"
+  },
+  {
+    "title": "theruansilva/omp-web",
+    "url": "https://github.com/theruansilva/omp-web",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Web UI for OMP Coding Agent",
+    "pushed_at": "2026-09-17T02:50:47Z",
+    "created_at_source": "2026-07-05T02:07:09Z"
+  },
+  {
+    "title": "mrtheroi/agents-dev",
+    "url": "https://github.com/mrtheroi/agents-dev",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "help for develop more fast with special agents",
+    "pushed_at": "2026-09-17T02:50:46Z",
+    "created_at_source": "2026-09-16T23:45:14Z"
+  },
+  {
+    "title": "thealphakenya/Alpha-Q-ai",
+    "url": "https://github.com/thealphakenya/Alpha-Q-ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-17T02:50:46Z",
+    "created_at_source": "2025-06-08T00:36:25Z"
+  },
+  {
+    "title": "erokmaker/enhancing-llms",
+    "url": "https://github.com/erokmaker/enhancing-llms",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-17T02:50:46Z",
+    "created_at_source": "2026-09-17T02:50:42Z"
+  },
+  {
+    "title": "rxnzyor/patchpilot",
+    "url": "https://github.com/rxnzyor/patchpilot",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Apply unified diffs in Python without git or patch tools, handling messy AI-generated patches and copy-paste errors with context-based matching.",
+    "pushed_at": "2026-09-17T02:50:46Z",
+    "created_at_source": "2026-03-08T21:52:11Z"
+  },
+  {
+    "title": "pritish1981/PolicyFlowAI",
+    "url": "https://github.com/pritish1981/PolicyFlowAI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "PolicyFlow AI is an **Enterprise Expense Compliance and Exception Agent** proof of concept. The current application answers natural-language expense-policy questions from eligible policy evidence, val",
+    "pushed_at": "2026-09-17T02:50:45Z",
+    "created_at_source": "2026-09-17T02:46:18Z"
+  },
+  {
+    "title": "yanting20050326-debug/gold-research-site",
+    "url": "https://github.com/yanting20050326-debug/gold-research-site",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Static build output for the gold-etf-research site (source lives in the private Ting-Agent repo)",
+    "pushed_at": "2026-09-17T02:50:45Z",
+    "created_at_source": "2026-09-01T11:43:01Z"
+  },
+  {
+    "title": "hvvmza/RefBib",
+    "url": "https://github.com/hvvmza/RefBib",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Extract references from academic PDFs and generate accurate BibTeX entries using verified databases without AI or guesswork.",
+    "pushed_at": "2026-09-17T02:50:45Z",
+    "created_at_source": "2024-10-18T12:02:05Z"
+  },
+  {
+    "title": "如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海",
+    "url": "https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：佳能发布 EOS R8 Mark II、GPT-5.5 即将下线等",
+    "url": "https://sspai.com/post/114658",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "惠普发布 ZBook Ultra G3a 16 移动工作站、影石发布 Mic Pro 腾讯会议版 AI 录音领夹麦等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+    "url": "https://arxiv.org/abs/2609.16129",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.16129v1 Announce Type: new \nAbstract: A new scheme for parameter pruning is introduced, derived from the differential-geometric distance in model space. Pruning a parameter sets its value t",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures",
+    "url": "https://arxiv.org/abs/2609.15990",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.15990v1 Announce Type: new \nAbstract: Few-shot prompting sometimes degrades language models instead of helping them, but why this happens is unknown. We evaluate 12 open-weight models on tw",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Causal neural set filtering for online multi-target tracking",
+    "url": "https://arxiv.org/abs/2609.16054",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.16054v1 Announce Type: new \nAbstract: Transformer-based multi-target tracking (MTT) jointly learns data association and state estimation, but MT3/Track-MT3-style trackers repeatedly re-enco",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "MechReason: Benchmarking Multi-Image Multi-Hop Reasoning in Mechanical Engineering",
+    "url": "https://arxiv.org/abs/2609.16012",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.16012v1 Announce Type: new \nAbstract: Despite significant progress in general visual question answering and cross-modal understanding, multimodal large language models still face a pronounc",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming",
+    "url": "https://the-decoder.com/eu-president-warns-ai-agents-escaping-their-environment-are-just-a-preview-of-whats-coming/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Ursula von der Leyen plans to invite the major frontier labs to talks and use the AI Act to help set global AI safety standards. She cited autonomous hacking and self-improving models as immediate ris",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers",
+    "url": "https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Nunchux AI has released VC-Attention, a training-free low-bit attention kernel built for video Diffusion Transformers (DiTs). It targets 2 problems at once: value quantization error and a slow softmax",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Jev ⚡, Periodic Neon 🧬, Gemini 3.8 Live 💬",
+    "url": "https://tldr.tech/ai/2026-09-16",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+    "feed_name": "OpenAI"
+  }
+]

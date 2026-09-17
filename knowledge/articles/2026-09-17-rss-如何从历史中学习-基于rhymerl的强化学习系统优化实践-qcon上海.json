@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-001",
+  "title": "如何从历史中学习？基于RhymeRL的强化学习系统优化实践｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/CbZGXuTBMFJPZ7WNtH9h?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍基于RhymeRL的强化学习系统优化实践，核心在于利用历史训练数据加速新任务学习。技术亮点包括经验回放与策略迁移机制，可显著提升样本效率。适用于推荐、广告等需快速冷启动的在线决策场景，为RL工程落地提供可复用方案。",
+  "tags": [
+    "Reinforcement Learning",
+    "RhymeRL",
+    "Experience Replay",
+    "Recommender System",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-005",
+  "title": "Causal neural set filtering for online multi-target tracking",
+  "source_url": "https://arxiv.org/abs/2609.16054",
+  "source_type": "rss",
+  "summary": "该论文提出因果神经集合过滤方法，用于在线多目标跟踪。针对MT3/Track-MT3等Transformer跟踪器反复重编码轨迹、计算冗余的问题，通过因果集合过滤机制实现高效在线推理，在保持数据关联与状态估计联合学习优势的同时降低计算开销。适用于自动驾驶、视频监控等实时多目标跟踪场景。",
+  "tags": [
+    "Multi-Target Tracking",
+    "Transformer",
+    "Set Filtering",
+    "Online Inference",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}

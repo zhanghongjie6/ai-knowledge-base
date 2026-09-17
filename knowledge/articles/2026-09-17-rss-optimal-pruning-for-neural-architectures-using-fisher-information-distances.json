@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260917-003",
+  "title": "Optimal Pruning for Neural Architectures using Fisher Information Distances",
+  "source_url": "https://arxiv.org/abs/2609.16129",
+  "source_type": "rss",
+  "summary": "该论文提出一种基于模型空间微分几何距离的新型参数剪枝方案，利用Fisher信息距离衡量参数重要性，实现神经网络架构的最优剪枝。技术亮点在于将剪枝问题转化为几何距离度量，为模型压缩提供理论支撑。适用于边缘设备部署、大模型轻量化等场景。",
+  "tags": [
+    "Pruning",
+    "Neural Architecture",
+    "Fisher Information",
+    "Model Compression",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}

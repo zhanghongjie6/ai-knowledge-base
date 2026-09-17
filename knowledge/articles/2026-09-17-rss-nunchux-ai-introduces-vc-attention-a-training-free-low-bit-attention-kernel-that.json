@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260917-008",
+  "title": "Nunchux AI Introduces VC-Attention: A Training-Free Low-Bit Attention Kernel That Speeds Up Video Diffusion Transformers",
+  "source_url": "https://www.marktechpost.com/2026/09/16/nunchux-ai-introduces-vc-attention-a-training-free-low-bit-attention-kernel-that-speeds-up-video-diffusion-transformers/",
+  "source_type": "rss",
+  "summary": "Nunchux AI 发布 VC-Attention，一种免训练的低比特注意力内核，专为视频扩散 Transformer（DiT）设计。它同时解决值量化误差和 softmax 计算缓慢两大问题，通过优化注意力机制显著加速视频生成推理，无需重新训练模型即可部署，适用于视频生成、编辑等实时应用场景。",
+  "tags": [
+    "Video Diffusion",
+    "Attention Kernel",
+    "Low-bit Quantization",
+    "DiT",
+    "Inference Acceleration",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}

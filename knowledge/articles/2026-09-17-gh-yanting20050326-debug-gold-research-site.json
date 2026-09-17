@@ -1,0 +1,19 @@
+{
+  "id": "github-20260917-009",
+  "title": "yanting20050326-debug/gold-research-site",
+  "source_url": "https://github.com/yanting20050326-debug/gold-research-site",
+  "source_type": "github_trending",
+  "summary": "该项目是 gold-etf-research 网站的静态构建产物，源码位于私有的 Ting-Agent 仓库中。它展示了如何将 Agent 生成的研究内容发布为静态站点，核心价值在于提供黄金 ETF 研究数据的可视化前端。技术亮点包括静态站点生成与 Agent 内容集成，适用于金融研究展示、数据看板等场景。",
+  "tags": [
+    "Static Site",
+    "Agent",
+    "Finance",
+    "ETF",
+    "github"
+  ],
+  "score": 3,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-17T02:51:37+00:00",
+  "updated_at": "2026-09-17T02:51:37+00:00"
+}
