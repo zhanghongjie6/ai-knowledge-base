@@ -1,0 +1,19 @@
+{
+  "id": "github-20260918-004",
+  "title": "barrettinbox-cpu/-aios-status",
+  "source_url": "https://github.com/barrettinbox-cpu/-aios-status",
+  "source_type": "github_trending",
+  "summary": "该项目提供机器可读的AIOS健康状态接口，便于自动化监控与集成。核心价值在于以标准化格式输出系统运行状态，不包含任何机密或业务数据，适合运维团队和开发者快速接入监控流水线。技术亮点是轻量、安全、易解析，可作为AIOS生态的通用状态探针。",
+  "tags": [
+    "AIOS",
+    "Monitoring",
+    "HealthCheck",
+    "DevOps",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

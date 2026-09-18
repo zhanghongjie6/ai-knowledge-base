@@ -1,0 +1,19 @@
+{
+  "id": "github-20260918-002",
+  "title": "Pitchfork-and-Torch/ascent",
+  "source_url": "https://github.com/Pitchfork-and-Torch/ascent",
+  "source_type": "github_trending",
+  "summary": "ASCENT 是一种面向 AI 代理的文本线格式标准，旨在替代 ASCII 并兼容命名文本编码。它提供实时线实验室，支持代理间高效通信，核心价值在于为多代理系统建立统一的、可扩展的线协议。技术亮点包括兼容现有编码、代理原生设计，适用于构建分布式 AI 代理网络和实时数据交换场景。",
+  "tags": [
+    "Agent",
+    "Protocol",
+    "Encoding",
+    "AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

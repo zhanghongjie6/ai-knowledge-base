@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260918-006",
+  "title": "Selective Prediction and Uncertainty-Aware Referral for Pap Smear Classification",
+  "source_url": "https://arxiv.org/abs/2609.17545",
+  "source_type": "rss",
+  "summary": "该研究针对宫颈细胞学筛查中深度学习模型必须对所有预测采取行动的问题，提出选择性预测与不确定性感知转诊方法。通过量化模型不确定性，系统可自动将低置信度样本转诊给病理学家复核，从而在保持高灵敏度的同时减少不必要的活检。技术亮点包括不确定性估计与选择性分类框架，适用于宫颈涂片自动筛查和临床辅助诊断场景。",
+  "tags": [
+    "Medical Imaging",
+    "Uncertainty",
+    "Selective Prediction",
+    "Cervical Cancer",
+    "Deep Learning",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

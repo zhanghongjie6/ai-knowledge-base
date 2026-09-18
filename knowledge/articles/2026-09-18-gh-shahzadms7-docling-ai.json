@@ -1,0 +1,19 @@
+{
+  "id": "github-20260918-001",
+  "title": "shahzadms7/docling.ai",
+  "source_url": "https://github.com/shahzadms7/docling.ai",
+  "source_type": "github_trending",
+  "summary": "docling.ai 是一个基于 Docling 的文档解析与转换工具，旨在将 PDF、Word、PPT 等复杂文档高效转换为结构化数据，便于后续检索与 AI 应用。项目聚焦文档智能处理，支持表格、公式、图片等元素提取，适合构建 RAG 知识库、文档问答和自动化数据录入场景。",
+  "tags": [
+    "Document Parsing",
+    "RAG",
+    "PDF",
+    "Knowledge Base",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

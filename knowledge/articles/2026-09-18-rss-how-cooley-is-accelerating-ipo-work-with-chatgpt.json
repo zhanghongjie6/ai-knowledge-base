@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260918-010",
+  "title": "How Cooley is accelerating IPO work with ChatGPT",
+  "source_url": "https://openai.com/index/cooley-gopublic",
+  "source_type": "rss",
+  "summary": "Cooley律所利用ChatGPT Work构建了GO Public工具，将智能引入IPO流程。该工具帮助律师更早发现潜在问题，并将精力集中在关键判断上，从而加速IPO准备工作。技术亮点在于将大语言模型与法律专业工作流深度结合，提升文档审查与风险识别效率。适用于律所、投行等需要处理大量合规文件的场景。",
+  "tags": [
+    "LLM",
+    "LegalTech",
+    "IPO",
+    "Workflow",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

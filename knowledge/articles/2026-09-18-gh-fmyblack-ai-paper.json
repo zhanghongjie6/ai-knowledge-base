@@ -1,0 +1,20 @@
+{
+  "id": "github-20260918-009",
+  "title": "fmyblack/ai_paper",
+  "source_url": "https://github.com/fmyblack/ai_paper",
+  "source_type": "github_trending",
+  "summary": "该项目是一个 AI 论文资源合集，系统整理并分类了人工智能领域的重要学术论文，涵盖大模型、智能体、检索增强生成等热门方向。核心价值在于为研究者和开发者提供便捷的论文检索与学习入口，降低文献调研成本。技术亮点是分类清晰、持续更新，适合快速了解前沿进展或作为科研选题参考。",
+  "tags": [
+    "Paper Collection",
+    "LLM",
+    "Agent",
+    "RAG",
+    "Research",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

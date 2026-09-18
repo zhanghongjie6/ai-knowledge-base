@@ -1,0 +1,19 @@
+{
+  "id": "github-20260918-005",
+  "title": "andtii/agentic",
+  "source_url": "https://github.com/andtii/agentic",
+  "source_type": "github_trending",
+  "summary": "andtii/agentic 是一个开源 AI Agent 框架，旨在简化智能体应用的构建与编排。它提供模块化工具调用、任务规划与多步推理能力，支持开发者快速搭建自动化工作流。技术亮点包括轻量级架构、易扩展的插件系统以及对主流大模型的兼容。适用于自动化研究、数据处理和智能助手等场景。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "Framework",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

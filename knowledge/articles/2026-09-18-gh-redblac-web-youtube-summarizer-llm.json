@@ -1,0 +1,20 @@
+{
+  "id": "github-20260918-007",
+  "title": "redblac/web-youtube-summarizer-llm",
+  "source_url": "https://github.com/redblac/web-youtube-summarizer-llm",
+  "source_type": "github_trending",
+  "summary": "该项目利用LangChain和Groq Llama模型，实现对YouTube视频或任意网站URL的快速摘要。用户只需提供链接，即可获得清晰简洁的要点总结，无需观看完整视频或阅读全文。技术亮点在于结合了LangChain的灵活编排与Groq的高效推理，适合需要快速获取信息的内容创作者、研究人员和普通用户。",
+  "tags": [
+    "LLM",
+    "LangChain",
+    "Summarization",
+    "YouTube",
+    "Groq",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

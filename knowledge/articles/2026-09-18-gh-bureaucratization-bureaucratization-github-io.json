@@ -1,0 +1,19 @@
+{
+  "id": "github-20260918-006",
+  "title": "bureaucratization/bureaucratization.github.io",
+  "source_url": "https://github.com/bureaucratization/bureaucratization.github.io",
+  "source_type": "github_trending",
+  "summary": "该项目探讨混合人机组织中递归约束累积的官僚化级联现象，通过模拟或理论模型展示AI与人类协作时规则如何层层叠加导致效率下降。技术亮点在于将组织社会学概念引入AI系统设计，揭示多智能体或人机团队中的制度性摩擦。适用于AI治理、多智能体系统及组织行为研究，帮助理解复杂协作中的约束膨胀问题。",
+  "tags": [
+    "Multi-Agent",
+    "AI Governance",
+    "Human-AI Collaboration",
+    "Organization Theory",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260918-005",
+  "title": "Pay Only for Disagreement: Certified No-Regression Verdicts for Model Updates with Matching Label-Complexity Bounds",
+  "source_url": "https://arxiv.org/abs/2609.17560",
+  "source_type": "rss",
+  "summary": "该论文提出一种针对模型更新（重训练、微调、量化或供应商替换）的认证无回归判定方法，仅需为出现分歧的样本付费，即可获得有标签复杂度匹配界限的认证结论。核心价值在于以低成本保证新模型不劣于旧模型，适用于生产环境中的模型迭代与部署安全监控。",
+  "tags": [
+    "Model Update",
+    "Certification",
+    "No-Regression",
+    "Label Complexity",
+    "MLOps",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

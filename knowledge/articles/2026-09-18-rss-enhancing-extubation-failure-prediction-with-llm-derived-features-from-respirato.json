@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260918-004",
+  "title": "Enhancing Extubation Failure Prediction with LLM-Derived Features from Respiratory Therapy Clinical Notes",
+  "source_url": "https://arxiv.org/abs/2609.17532",
+  "source_type": "rss",
+  "summary": "该研究利用大语言模型从呼吸治疗临床笔记中提取特征，以增强拔管失败预测。传统预测模型依赖结构化数据，忽略了非结构化笔记中的关键信息。LLM自动提取语义特征，与现有临床变量结合，显著提升预测性能。技术亮点在于将LLM应用于临床文本挖掘，并验证了其增量价值。适用于ICU中机械通气患者的拔管决策支持，帮助医生及时识别高风险患者，减少再插管和并发症。",
+  "tags": [
+    "LLM",
+    "Clinical NLP",
+    "Healthcare",
+    "Prediction",
+    "ICU",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}

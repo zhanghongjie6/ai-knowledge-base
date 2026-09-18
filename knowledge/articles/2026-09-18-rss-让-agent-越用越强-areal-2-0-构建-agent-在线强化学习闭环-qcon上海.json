@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260918-001",
+  "title": "让 Agent 越用越强：AReaL 2.0 构建 Agent 在线强化学习闭环｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/x2FmIeCkeDYUV66BNj3g?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "AReaL 2.0 是面向 Agent 的在线强化学习框架，旨在构建让 Agent 越用越强的闭环系统。其核心价值在于将 Agent 的在线交互数据实时转化为强化学习训练信号，持续优化策略，突破传统离线训练局限。技术亮点包括在线 RL 闭环、Agent 策略迭代与工程化部署。适用于需要持续进化的智能体场景，如自动化任务、对话系统等。",
+  "tags": [
+    "Agent",
+    "Reinforcement Learning",
+    "Online Learning",
+    "LLM",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-18T02:38:31+00:00",
+  "updated_at": "2026-09-18T02:38:31+00:00"
+}
