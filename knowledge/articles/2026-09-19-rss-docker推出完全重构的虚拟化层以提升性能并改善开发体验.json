@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260919-001",
+  "title": "Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+  "source_url": "https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Docker 推出完全重构的虚拟化层，旨在显著提升容器性能并改善开发者体验。该重构优化了底层虚拟化机制，减少资源开销，加快启动速度，并增强跨平台兼容性。适用于本地开发、CI/CD 流水线及生产环境，帮助团队更高效地构建、测试和部署容器化应用。",
+  "tags": [
+    "Docker",
+    "Virtualization",
+    "Container",
+    "DevOps",
+    "Performance",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

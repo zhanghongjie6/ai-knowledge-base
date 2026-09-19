@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260919-004",
+  "title": "Modality Discrepancy Transformer for Ambivalence and Hesitancy Recognition",
+  "source_url": "https://arxiv.org/abs/2609.19148",
+  "source_type": "rss",
+  "summary": "该论文提出模态差异Transformer（MDT），用于识别矛盾与犹豫（A/H）情感状态。A/H表现为面部、语音和语言通道间的矛盾信号。MDT通过建模跨模态差异，有效捕捉不一致性，提升识别准确率。技术亮点在于显式建模模态间差异，而非简单融合。适用于心理健康监测、人机交互等场景。",
+  "tags": [
+    "Multimodal",
+    "Affective Computing",
+    "Transformer",
+    "Emotion Recognition",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

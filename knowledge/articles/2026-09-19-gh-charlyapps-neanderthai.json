@@ -1,0 +1,19 @@
+{
+  "id": "github-20260919-004",
+  "title": "CharlyApps/NeanderthAI",
+  "source_url": "https://github.com/CharlyApps/NeanderthAI",
+  "source_type": "github_trending",
+  "summary": "NeanderthAI 是一个基于大语言模型的智能体项目，旨在通过模拟早期人类思维模式来探索 AI 推理的多样性。其技术亮点在于将 LLM 与进化认知框架结合，生成更具创造性和非传统的问题解决策略。适用于创意生成、教育模拟及 AI 行为研究等场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "CognitiveScience",
+    "Creativity",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

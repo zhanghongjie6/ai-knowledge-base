@@ -1,0 +1,19 @@
+{
+  "id": "github-20260919-007",
+  "title": "chepin-ai/vci-qgl",
+  "source_url": "https://github.com/chepin-ai/vci-qgl",
+  "source_type": "github_trending",
+  "summary": "VCI-QGL 是 chepin-ai 开源的视觉常识推理与问答生成框架，通过多模态大模型自动从图像中提取常识知识并生成高质量问答对。技术亮点在于融合视觉理解与知识图谱构建，支持自动化数据标注和推理链生成。适用于智能教育、多模态检索增强生成（RAG）及视觉问答系统训练等场景。",
+  "tags": [
+    "VQA",
+    "Multimodal",
+    "KnowledgeGraph",
+    "RAG",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

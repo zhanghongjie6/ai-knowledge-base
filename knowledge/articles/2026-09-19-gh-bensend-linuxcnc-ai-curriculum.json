@@ -1,0 +1,20 @@
+{
+  "id": "github-20260919-006",
+  "title": "Bensend/LinuxCNC-AI-Curriculum",
+  "source_url": "https://github.com/Bensend/LinuxCNC-AI-Curriculum",
+  "source_type": "github_trending",
+  "summary": "该项目为LinuxCNC提供面向AI的课程与源码级开发者指南，系统讲解架构、HAL、实时系统、运动控制、HostMot2、测试及机床控制开发。核心价值在于将复杂工业控制软件知识结构化，便于AI辅助学习与开发。技术亮点是覆盖源码级细节与实时控制机制，适合工程师、研究人员及AI训练数据构建者使用。",
+  "tags": [
+    "LinuxCNC",
+    "CNC",
+    "HAL",
+    "Realtime",
+    "MotionControl",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

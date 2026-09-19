@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260919-006",
+  "title": "Open ultrasound foundation model for robust segmentation and clinical measurement across heterogeneous settings",
+  "source_url": "https://arxiv.org/abs/2609.19230",
+  "source_type": "rss",
+  "summary": "该研究提出首个开放式超声基础模型，旨在解决超声AI碎片化、单任务模型在异构临床环境中泛化差的问题。模型通过大规模多中心数据预训练，实现鲁棒的器官分割与临床测量，可跨设备、跨人群迁移。技术亮点包括统一架构支持多任务、开放权重促进社区发展。适用于资源有限地区及多样化临床场景，推动超声AI普惠化。",
+  "tags": [
+    "Ultrasound",
+    "Foundation Model",
+    "Segmentation",
+    "Medical Imaging",
+    "Open Source",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

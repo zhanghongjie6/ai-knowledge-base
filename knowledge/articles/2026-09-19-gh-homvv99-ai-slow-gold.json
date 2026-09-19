@@ -1,0 +1,19 @@
+{
+  "id": "github-20260919-008",
+  "title": "homvv99-ai/slow-gold",
+  "source_url": "https://github.com/homvv99-ai/slow-gold",
+  "source_type": "github_trending",
+  "summary": "slow-gold 是一个面向 AI 代理的慢速黄金数据集项目，旨在为智能体提供高质量、低噪声的训练与评估数据。其技术亮点在于通过人工筛选与结构化标注，构建可复用的黄金标准样本，提升模型推理与决策可靠性。适用于 LLM 代理的微调、基准测试及 RAG 知识库构建等场景。",
+  "tags": [
+    "Agent",
+    "Dataset",
+    "LLM",
+    "Benchmark",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

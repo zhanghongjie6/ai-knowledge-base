@@ -1,0 +1,172 @@
+[
+  {
+    "title": "alinglingg/personal-research-agent",
+    "url": "https://github.com/alinglingg/personal-research-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI research agent with LangGraph orchestration, local LLMs, persistent SQLite memory, tool routing, FastAPI, and automated tests.",
+    "pushed_at": "2026-09-19T02:36:43Z",
+    "created_at_source": "2026-09-19T02:35:12Z"
+  },
+  {
+    "title": "aashishbhote/AI-_Solution",
+    "url": "https://github.com/aashishbhote/AI-_Solution",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI Solutions company website built with PHP and MySQL: admin dashboard, blog/events/services management, email OTP login, and an AI chat assistant.",
+    "pushed_at": "2026-09-19T02:36:43Z",
+    "created_at_source": "2026-09-19T02:36:42Z"
+  },
+  {
+    "title": "opticcanaryshop98/repo-ci1ail1h",
+    "url": "https://github.com/opticcanaryshop98/repo-ci1ail1h",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-19T02:36:41Z",
+    "created_at_source": "2026-08-05T02:39:04Z"
+  },
+  {
+    "title": "CharlyApps/NeanderthAI",
+    "url": "https://github.com/CharlyApps/NeanderthAI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-19T02:36:41Z",
+    "created_at_source": "2026-08-31T03:22:20Z"
+  },
+  {
+    "title": "satyamdas03/Hi-EV",
+    "url": "https://github.com/satyamdas03/Hi-EV",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "EV — personal AI operating system",
+    "pushed_at": "2026-09-19T02:36:41Z",
+    "created_at_source": "2026-09-14T23:38:26Z"
+  },
+  {
+    "title": "Bensend/LinuxCNC-AI-Curriculum",
+    "url": "https://github.com/Bensend/LinuxCNC-AI-Curriculum",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI-oriented LinuxCNC curriculum and source-level developer guide for architecture, HAL, realtime, motion, HostMot2, testing, and machine-control development.",
+    "pushed_at": "2026-09-19T02:36:41Z",
+    "created_at_source": "2026-09-05T02:42:43Z"
+  },
+  {
+    "title": "chepin-ai/vci-qgl",
+    "url": "https://github.com/chepin-ai/vci-qgl",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-19T02:36:45Z",
+    "created_at_source": "2026-08-17T22:04:11Z"
+  },
+  {
+    "title": "homvv99-ai/slow-gold",
+    "url": "https://github.com/homvv99-ai/slow-gold",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-19T02:36:41Z",
+    "created_at_source": "2026-09-10T08:07:09Z"
+  },
+  {
+    "title": "dounyemsteve-creator/Mercado-market-place-",
+    "url": "https://github.com/dounyemsteve-creator/Mercado-market-place-",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Mercado an ai powered marcket place",
+    "pushed_at": "2026-09-19T02:36:40Z",
+    "created_at_source": "2026-09-18T20:16:44Z"
+  },
+  {
+    "title": "shelovemaxi/Maxis-ai-agency",
+    "url": "https://github.com/shelovemaxi/Maxis-ai-agency",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-19T02:36:40Z",
+    "created_at_source": "2026-09-13T00:23:09Z"
+  },
+  {
+    "title": "Docker推出完全重构的虚拟化层以提升性能并改善开发体验",
+    "url": "https://www.infoq.cn/article/AXtfCFx09aNmpWgLkqhN?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 9 部作品",
+    "url": "https://sspai.com/post/114716",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "📅本周新预告《哆啦A梦大雄的蒸汽时间车》首支特报9月15日，动画电影《哆啦A梦大雄的蒸汽时间车》发布了特报影像，定档2027年3月5日在日本上映。本作为《哆啦A梦》电影系列第46部作品，森山瑠潮执导， ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+    "url": "https://arxiv.org/abs/2609.19170",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.19170v1 Announce Type: new \nAbstract: Emphatic temporal-difference learning (ETD) stabilizes the expected off-policy TD update and changes its projection geometry, but neither property dete",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Modality Discrepancy Transformer for Ambivalence and Hesitancy Recognition",
+    "url": "https://arxiv.org/abs/2609.19148",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.19148v1 Announce Type: new \nAbstract: Ambivalence and hesitancy (A/H) are affective states in which individuals express contradictory signals across facial, vocal, and linguistic channels. ",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment",
+    "url": "https://arxiv.org/abs/2609.19209",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.19209v1 Announce Type: new \nAbstract: Generative query suggestion aims to enhance user engagement by anticipating user intents and recommending relevant follow-up queries. A central challen",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Open ultrasound foundation model for robust segmentation and clinical measurement across heterogeneous settings",
+    "url": "https://arxiv.org/abs/2609.19230",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.19230v1 Announce Type: new \nAbstract: Ultrasound is the most widely deployed imaging modality worldwide, yet clinical AI remains fragmented into narrow single-task models that fail when dev",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "California Governor Newsom signs executive order demanding \"kill switch\" for AI models",
+    "url": "https://the-decoder.com/california-governor-newsom-signs-executive-order-demanding-kill-switch-for-ai-models/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "California Governor Gavin Newsom signed an executive order seeking independent auditors inside AI labs and a \"kill switch\" for AI models. An expert panel has two months to deliver recommendations. New",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs",
+    "url": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Jina AI has released jina-ocr-v1, a visual document parser that converts PDFs, scans, tables, charts and invoices into Markdown. The model has 3.4B total parameters, with about 570M active per token, ",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Claude Projects v2 💼, Google family agent 👨‍👩‍👧‍👦,",
+    "url": "https://tldr.tech/ai/2026-09-18",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Partnering with Accenture on embedded evaluation",
+    "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "We're partnering with Accenture on independent evaluation of frontier AI. This is an important step toward the commitment, made in our CEO’s essay “We Must Pace the Frontier,” to embed evaluators with",
+    "feed_name": "Anthropic News"
+  }
+]

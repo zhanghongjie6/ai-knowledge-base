@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260919-010",
+  "title": "Partnering with Accenture on embedded evaluation",
+  "source_url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+  "source_type": "rss",
+  "summary": "Anthropic与埃森哲合作，对前沿AI模型进行独立嵌入式评估。此举旨在落实其CEO提出的“我们必须控制前沿发展节奏”承诺，将评估人员嵌入模型开发流程，确保安全性和可靠性。技术亮点在于第三方独立评估机制，可提升AI透明度与信任度。适用于高风险AI部署前的安全审计与合规验证。",
+  "tags": [
+    "AI Safety",
+    "Evaluation",
+    "Anthropic",
+    "Accenture",
+    "Frontier AI",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

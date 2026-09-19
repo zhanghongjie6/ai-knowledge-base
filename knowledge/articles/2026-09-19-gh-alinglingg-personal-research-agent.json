@@ -1,0 +1,20 @@
+{
+  "id": "github-20260919-001",
+  "title": "alinglingg/personal-research-agent",
+  "source_url": "https://github.com/alinglingg/personal-research-agent",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于LangGraph编排的个人AI研究代理，支持本地LLM运行、SQLite持久化记忆、工具路由和FastAPI接口，并配有自动化测试。它适合开发者快速搭建可离线运行、具备记忆能力的智能研究助手，用于信息检索、任务自动化等场景，兼顾隐私与可扩展性。",
+  "tags": [
+    "Agent",
+    "LangGraph",
+    "LocalLLM",
+    "FastAPI",
+    "SQLite",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

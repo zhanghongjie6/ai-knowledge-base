@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260919-003",
+  "title": "Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes",
+  "source_url": "https://arxiv.org/abs/2609.19170",
+  "source_type": "rss",
+  "summary": "本文研究正则化强调时序差分学习（ETD），针对离策略强化学习中固定步长下ETD的稳定性问题提出正则化方法。技术亮点在于通过正则化保证算法在恒定步长下的收敛性与稳定性，同时保持其投影几何特性。该工作适用于需要稳定离策略学习的强化学习场景，如机器人控制与推荐系统。",
+  "tags": [
+    "Reinforcement Learning",
+    "Temporal-Difference Learning",
+    "Off-Policy",
+    "Regularization",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

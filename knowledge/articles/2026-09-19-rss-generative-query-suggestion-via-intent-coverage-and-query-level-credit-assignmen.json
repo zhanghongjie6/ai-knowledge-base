@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260919-005",
+  "title": "Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment",
+  "source_url": "https://arxiv.org/abs/2609.19209",
+  "source_type": "rss",
+  "summary": "该论文提出一种生成式查询建议方法，通过意图覆盖与查询级信用分配机制，提升对用户后续搜索意图的预测能力。核心创新在于将用户意图建模与强化学习中的信用分配结合，使模型能更精准地推荐相关后续查询，从而增强搜索交互体验。适用于搜索引擎、对话式检索和推荐系统等场景。",
+  "tags": [
+    "Query Suggestion",
+    "Search",
+    "Intent Modeling",
+    "Reinforcement Learning",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

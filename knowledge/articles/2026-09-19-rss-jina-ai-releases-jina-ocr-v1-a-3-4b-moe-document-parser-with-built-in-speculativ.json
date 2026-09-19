@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260919-008",
+  "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs",
+  "source_url": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/",
+  "source_type": "rss",
+  "summary": "Jina AI 发布 jina-ocr-v1，一款 3.4B 参数的 MoE 视觉文档解析器，每 token 仅激活约 570M 参数，并内置投机解码，可在低预算 GPU 上高效运行。它能将 PDF、扫描件、表格、图表和发票转换为 Markdown，适合文档数字化、RAG 数据预处理及企业票据自动化等场景。",
+  "tags": [
+    "OCR",
+    "MoE",
+    "Document Parsing",
+    "Speculative Decoding",
+    "RAG",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}

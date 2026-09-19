@@ -1,0 +1,19 @@
+{
+  "id": "github-20260919-002",
+  "title": "aashishbhote/AI-_Solution",
+  "source_url": "https://github.com/aashishbhote/AI-_Solution",
+  "source_type": "github_trending",
+  "summary": "这是一个基于PHP和MySQL构建的AI解决方案公司官网，包含管理后台、博客/活动/服务管理、邮箱OTP登录以及AI聊天助手。技术亮点在于将传统CMS功能与AI对话集成，适合中小型企业快速搭建展示型网站并添加智能客服。",
+  "tags": [
+    "PHP",
+    "MySQL",
+    "CMS",
+    "Chatbot",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-19T02:37:30+00:00",
+  "updated_at": "2026-09-19T02:37:30+00:00"
+}
