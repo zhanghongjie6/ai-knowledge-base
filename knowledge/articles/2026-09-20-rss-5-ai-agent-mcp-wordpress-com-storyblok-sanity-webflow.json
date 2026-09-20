@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260920-010",
+  "title": "สร้างเว็บธุรกิจ 5 หน้าด้วย AI agent: เทียบ MCP ของ WordPress.com, Storyblok, Sanity และ Webflow",
+  "source_url": "https://dev.to/sarantoon/sraangewbthurkicch-5-hnaadwy-ai-agent-ethiiyb-mcp-khng-wordpresscom-storyblok-sanity-aela-webflow-4edp",
+  "source_type": "rss",
+  "summary": "本文是 MCP 系列第二篇，由 AI 代理自动撰写并人工校对，对比了 WordPress.com、Storyblok、Sanity 和 Webflow 四家平台的 MCP 服务。作者用 AI 代理实际搭建了一个 5 页商业网站，从连接配置、内容建模到页面生成逐一测试，评估各平台在自动化建站流程中的易用性、灵活性与局限，为开发者选择 AI 驱动的内容管理方案提供参考。",
+  "tags": [
+    "MCP",
+    "AI Agent",
+    "CMS",
+    "Web Development",
+    "No-Code",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-20T02:49:51+00:00",
+  "updated_at": "2026-09-20T02:49:51+00:00"
+}

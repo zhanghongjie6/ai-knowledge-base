@@ -1,0 +1,19 @@
+{
+  "id": "github-20260920-008",
+  "title": "AdrianaC4/sunspot-bcn",
+  "source_url": "https://github.com/AdrianaC4/sunspot-bcn",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向巴塞罗那的AI驱动实时阳光露台查找工具，帮助用户根据当前太阳位置和天气条件找到有阳光的露台。技术亮点在于结合地理数据、太阳轨迹计算与AI推荐，提供实时、个性化的户外场所建议。适用于本地居民和游客快速定位阳光座位，提升户外休闲体验。",
+  "tags": [
+    "AI",
+    "Geospatial",
+    "Recommendation",
+    "Real-time",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-20T02:49:50+00:00",
+  "updated_at": "2026-09-20T02:49:50+00:00"
+}

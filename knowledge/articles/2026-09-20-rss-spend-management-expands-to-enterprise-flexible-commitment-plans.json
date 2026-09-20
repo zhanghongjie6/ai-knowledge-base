@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260920-007",
+  "title": "Spend Management expands to Enterprise Flexible Commitment plans",
+  "source_url": "https://vercel.com/changelog/spend-management-enterprise-flex",
+  "source_type": "rss",
+  "summary": "Vercel 将支出管理功能扩展至企业灵活承诺计划，帮助企业在大规模部署中精细控制成本。该功能支持按项目、团队和产品维度设置预算与告警，实时监控用量，避免意外超支。技术亮点在于与 Vercel 平台深度集成，无需额外工具即可实现自动化成本治理。适用于需要可预测云支出和财务合规的大型工程团队。",
+  "tags": [
+    "Cloud",
+    "CostManagement",
+    "Enterprise",
+    "DevOps",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-20T02:49:51+00:00",
+  "updated_at": "2026-09-20T02:49:51+00:00"
+}

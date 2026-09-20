@@ -1,0 +1,19 @@
+{
+  "id": "github-20260920-010",
+  "title": "dbelt45/daniel-os",
+  "source_url": "https://github.com/dbelt45/daniel-os",
+  "source_type": "github_trending",
+  "summary": "Daniel-os 是一个个人操作系统项目，整合任务、项目、阻塞项、日历和指标管理，旨在帮助用户统一追踪工作与生活数据。作为14天AI构建冲刺的首个项目，它展示了如何用AI快速搭建个人效率工具，适合开发者参考其架构与实现思路。",
+  "tags": [
+    "PersonalOS",
+    "Productivity",
+    "AI",
+    "TaskManagement",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-20T02:49:50+00:00",
+  "updated_at": "2026-09-20T02:49:50+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20260920-003",
+  "title": "JEEVANANTHAMV/Sigrity",
+  "source_url": "https://github.com/JEEVANANTHAMV/Sigrity",
+  "source_type": "github_trending",
+  "summary": "Sigrity 是一个 MCP 服务器，将 Sigrity 的射频与信号完整性工具封装为 AI 可调用的函数。它让大模型能直接执行电磁仿真、S 参数提取和信号完整性分析，降低专业 EDA 工具的使用门槛。适用于 PCB 设计、高速互连验证和射频电路调试等场景，帮助工程师通过自然语言完成复杂仿真流程。",
+  "tags": [
+    "MCP",
+    "EDA",
+    "Signal Integrity",
+    "RF",
+    "AI Agent",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-20T02:49:50+00:00",
+  "updated_at": "2026-09-20T02:49:50+00:00"
+}

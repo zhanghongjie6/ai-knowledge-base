@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260920-001",
+  "title": "Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+  "source_url": "https://www.infoq.cn/article/YlrHfmA3R5k4Tl8iTO7Y?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Atlassian 推出自动化根因分析方案，通过关联指标、日志与追踪链路，帮助运维团队快速定位系统故障。该方案整合可观测性数据，利用算法自动分析异常模式，减少人工排查时间，提升故障响应效率。适用于微服务架构下的复杂系统监控与诊断。",
+  "tags": [
+    "Observability",
+    "Root Cause Analysis",
+    "AIOps",
+    "Microservices",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-20T02:49:50+00:00",
+  "updated_at": "2026-09-20T02:49:50+00:00"
+}

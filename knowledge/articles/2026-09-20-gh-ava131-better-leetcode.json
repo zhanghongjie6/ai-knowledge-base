@@ -1,0 +1,19 @@
+{
+  "id": "github-20260920-002",
+  "title": "ava131/better-leetcode",
+  "source_url": "https://github.com/ava131/better-leetcode",
+  "source_type": "github_trending",
+  "summary": "该项目是一款面向力扣用户的 AI 陪练浏览器插件，能自动将题目描述、用户代码与判题结果发送至对话模型，并结合本地记忆提供针对性辅导。技术栈为 Chrome MV3 插件加 Node 后端，适合刷题者即时获取解题思路与错误分析，提升练习效率。",
+  "tags": [
+    "Chrome Extension",
+    "LeetCode",
+    "AI Tutor",
+    "Node.js",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-20T02:49:50+00:00",
+  "updated_at": "2026-09-20T02:49:50+00:00"
+}

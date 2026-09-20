@@ -1,0 +1,19 @@
+{
+  "id": "github-20260920-007",
+  "title": "umjohn123/litevae-fmnist",
+  "source_url": "https://github.com/umjohn123/litevae-fmnist",
+  "source_type": "github_trending",
+  "summary": "该项目是NeurIPS 2024论文LiteVAE的轻量级实现，针对Fashion-MNIST数据集完成图像重建与去噪任务，属于CISC3024人工智能课程作业。技术亮点在于以极简代码展示变分自编码器的核心机制，适合初学者理解VAE原理与PyTorch实践。使用场景包括教学演示、课程作业参考及轻量级生成模型实验。",
+  "tags": [
+    "VAE",
+    "Autoencoder",
+    "Fashion-MNIST",
+    "PyTorch",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-20T02:49:50+00:00",
+  "updated_at": "2026-09-20T02:49:50+00:00"
+}

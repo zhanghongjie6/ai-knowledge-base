@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260920-003",
+  "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
+  "source_url": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
+  "source_type": "rss",
+  "summary": "Qwen3.8-Omni-Flash 是 Qwen 首个面向 AI Agent 的多模态模型，能同时处理音频与视频，并独立调用工具完成 vlog 剪辑、片段翻译或电影摘要等任务。其多模态基准测试与 Google Gemini Flash 持平，但定价更低，适合需要低成本、高集成度音视频理解与编辑能力的智能体应用场景。",
+  "tags": [
+    "Multimodal",
+    "Agent",
+    "Audio-Video",
+    "Tool Use",
+    "Qwen",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-20T02:49:51+00:00",
+  "updated_at": "2026-09-20T02:49:51+00:00"
+}

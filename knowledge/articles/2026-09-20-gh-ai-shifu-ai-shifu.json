@@ -1,0 +1,19 @@
+{
+  "id": "github-20260920-004",
+  "title": "ai-shifu/ai-shifu",
+  "source_url": "https://github.com/ai-shifu/ai-shifu",
+  "source_type": "github_trending",
+  "summary": "AI-Shifu 是一个让 AI 代替你进行教学和答疑的开源工具，用户只需输入文字即可快速生成互动式课程或问答内容。其技术亮点在于将大语言模型与教学场景深度结合，支持自动生成讲解、实时回答学生问题，并适配多种知识领域。适用于在线教育、企业培训、个人自学等场景，能显著降低内容创作成本，提升学习互动性。",
+  "tags": [
+    "LLM",
+    "Education",
+    "Chatbot",
+    "OpenSource",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 317,
+  "status": "draft",
+  "created_at": "2026-09-20T02:49:50+00:00",
+  "updated_at": "2026-09-20T02:49:50+00:00"
+}

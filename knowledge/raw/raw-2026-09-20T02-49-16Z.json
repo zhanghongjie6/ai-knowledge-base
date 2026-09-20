@@ -1,0 +1,172 @@
+[
+  {
+    "title": "ferralon-ai/vulnerability-corpus",
+    "url": "https://github.com/ferralon-ai/vulnerability-corpus",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-20T02:49:00Z",
+    "created_at_source": "2026-08-05T22:46:34Z"
+  },
+  {
+    "title": "ava131/better-leetcode",
+    "url": "https://github.com/ava131/better-leetcode",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "力扣 AI 陪练插件：自动把题干/代码/判题结果送进对话，附带本地记忆。Chrome MV3 + Node 后端。",
+    "pushed_at": "2026-09-20T02:48:59Z",
+    "created_at_source": "2026-09-16T16:00:53Z"
+  },
+  {
+    "title": "JEEVANANTHAMV/Sigrity",
+    "url": "https://github.com/JEEVANANTHAMV/Sigrity",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "MCP server exposing Sigrity RF/signal-integrity tools as AI-callable functions",
+    "pushed_at": "2026-09-20T02:48:59Z",
+    "created_at_source": "2026-09-17T14:06:36Z"
+  },
+  {
+    "title": "ai-shifu/ai-shifu",
+    "url": "https://github.com/ai-shifu/ai-shifu",
+    "source": "github_trending",
+    "popularity": 317,
+    "summary": "Get AI to teach and answer questions for you - just by typing!",
+    "pushed_at": "2026-09-20T02:48:59Z",
+    "created_at_source": "2024-07-23T08:55:10Z"
+  },
+  {
+    "title": "kazuhikosatomi/Keirin_ai_web",
+    "url": "https://github.com/kazuhikosatomi/Keirin_ai_web",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "競輪AI予想",
+    "pushed_at": "2026-09-20T02:48:59Z",
+    "created_at_source": "2025-05-19T10:49:26Z"
+  },
+  {
+    "title": "heepengpeng/ai_infra",
+    "url": "https://github.com/heepengpeng/ai_infra",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-20T02:48:58Z",
+    "created_at_source": "2026-06-20T14:08:25Z"
+  },
+  {
+    "title": "umjohn123/litevae-fmnist",
+    "url": "https://github.com/umjohn123/litevae-fmnist",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "LiteVAE (NeurIPS 2024) autoencoder for Fashion-MNIST reconstruction/denoising - CISC3024 AI Assignment #1",
+    "pushed_at": "2026-09-20T02:48:58Z",
+    "created_at_source": "2026-09-16T09:52:02Z"
+  },
+  {
+    "title": "AdrianaC4/sunspot-bcn",
+    "url": "https://github.com/AdrianaC4/sunspot-bcn",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI-powered real-time solar terrace finder for Barcelona",
+    "pushed_at": "2026-09-20T02:48:57Z",
+    "created_at_source": "2026-03-26T14:45:06Z"
+  },
+  {
+    "title": "vm0-ai/okou",
+    "url": "https://github.com/vm0-ai/okou",
+    "source": "github_trending",
+    "popularity": 1154,
+    "summary": "Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and operations, under your control.",
+    "pushed_at": "2026-09-20T02:48:57Z",
+    "created_at_source": "2025-11-14T03:27:22Z"
+  },
+  {
+    "title": "dbelt45/daniel-os",
+    "url": "https://github.com/dbelt45/daniel-os",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Personal operating system: tasks, projects, blockers, calendar and metrics. Project 1 of a 14-day AI build sprint.",
+    "pushed_at": "2026-09-20T02:48:57Z",
+    "created_at_source": "2026-09-19T23:22:31Z"
+  },
+  {
+    "title": "Atlassian 通过关联指标、日志与追踪链路实现根因分析自动化",
+    "url": "https://www.infoq.cn/article/YlrHfmA3R5k4Tl8iTO7Y?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "你的脸红是什么红：了解玫瑰痤疮",
+    "url": "https://sspai.com/post/114641",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "脸红发烫却没有小鹿乱撞：警惕玫瑰痤疮。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks",
+    "url": "https://the-decoder.com/qwen3-8-omni-flash-undercuts-gemini-flash-pricing-while-matching-its-multimodal-benchmarks/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Qwen3.8-Omni-Flash is Qwen's first multimodal model designed for AI agents. It processes audio and video together and independently uses tools to edit vlogs, translate clips, or summarize movies. On a",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Introducing the Australian Youth Safety Blueprint",
+    "url": "https://openai.com/index/australian-youth-safety-blueprint",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Amazon SageMaker Inference: 2026 year-to-date launches in review",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-year-to-date-launches-in-review/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Amazon SageMaker AI shipped 13 inference launches in year-to-date across two deployment paths: fully managed endpoints and Amazon SageMaker HyperPod Inference. This post reviews each launch, from infe",
+    "feed_name": "AWS ML Blog"
+  },
+  {
+    "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+    "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast.\nThe post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub B",
+    "feed_name": "GitHub Blog"
+  },
+  {
+    "title": "Spend Management expands to Enterprise Flexible Commitment plans",
+    "url": "https://vercel.com/changelog/spend-management-enterprise-flex",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Vercel News"
+  },
+  {
+    "title": "The Download: AI’s extinction risk and bioweapons threat",
+    "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answe",
+    "feed_name": "MIT Tech Review"
+  },
+  {
+    "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts,",
+    "feed_name": "The Verge AI"
+  },
+  {
+    "title": "สร้างเว็บธุรกิจ 5 หน้าด้วย AI agent: เทียบ MCP ของ WordPress.com, Storyblok, Sanity และ Webflow",
+    "url": "https://dev.to/sarantoon/sraangewbthurkicch-5-hnaadwy-ai-agent-ethiiyb-mcp-khng-wordpresscom-storyblok-sanity-aela-webflow-4edp",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "โดย Nokka (นก-กา) | 19 กันยายน 2026\n\nบทความนี้เขียนโดย AI (โมเดล glm-5.3 ของผู้ให้บริการ ollama-cloud) ผ่าน Hermes Agent จาก Nous Research ตรวจสอบและเรียบเรียงโดย Nokka (นก-กา)\n\nตอนที่ 2 ของชุด MCP · ",
+    "feed_name": "DEV.to AI"
+  }
+]
