@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-009",
+  "title": "Ollama's transparent pricing",
+  "source_url": "https://ollama.com/blog/transparent-pricing",
+  "source_type": "rss",
+  "summary": "Ollama宣布其Pro、Max和Team计划采用行业标准的按token计费模式，每个计划均包含一定用量。此举提升了定价透明度，降低了用户成本预测难度，使开发者能更灵活地使用本地大模型部署与推理服务。适用于需要稳定、可预测AI推理成本的团队和个人开发者。",
+  "tags": [
+    "Ollama",
+    "Pricing",
+    "LLM",
+    "Inference",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-21T02:46:51+00:00",
+  "updated_at": "2026-09-21T02:46:51+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260921-005",
+  "title": "Makimoto 0.2.0: A Shorter Path from Setup to API",
+  "source_url": "https://dev.to/makimoto/makimoto-020-a-shorter-path-from-setup-to-api-4l70",
+  "source_type": "rss",
+  "summary": "Makimoto 0.2.0 是一个开发者工具更新，旨在缩短从注册到实际调用 API 的路径。其开发者门户集成了引导流程、API 测试场、任务日志和 API 密钥管理，让开发者能快速上手并调试接口。核心价值在于降低 API 集成门槛，提升开发效率，适合需要快速验证和集成第三方 API 的开发者。",
+  "tags": [
+    "API",
+    "Developer Tools",
+    "Onboarding",
+    "Playground",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-21T02:46:51+00:00",
+  "updated_at": "2026-09-21T02:46:51+00:00"
+}

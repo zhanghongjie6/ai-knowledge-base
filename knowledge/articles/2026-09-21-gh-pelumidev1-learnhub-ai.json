@@ -1,0 +1,20 @@
+{
+  "id": "github-20260921-009",
+  "title": "pelumidev1/learnhub-ai",
+  "source_url": "https://github.com/pelumidev1/learnhub-ai",
+  "source_type": "github_trending",
+  "summary": "LearnHub AI 是一个面向非洲新一代科技人才的 AI 职业教练，通过个性化学习路径和流式 AI 教练帮助用户找到最适合的科技职业。技术栈采用 Next.js、Supabase 和 Anthropic API，实现实时交互与数据管理。适用于职业规划、技能提升和就业指导场景，尤其服务非洲科技教育市场。",
+  "tags": [
+    "AI Coach",
+    "Career",
+    "Next.js",
+    "Supabase",
+    "Anthropic",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-21T02:46:51+00:00",
+  "updated_at": "2026-09-21T02:46:51+00:00"
+}

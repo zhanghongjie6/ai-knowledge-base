@@ -1,0 +1,19 @@
+{
+  "id": "github-20260921-001",
+  "title": "rphanukkah-ai/KG-Logger-Updates",
+  "source_url": "https://github.com/rphanukkah-ai/KG-Logger-Updates",
+  "source_type": "github_trending",
+  "summary": "该项目为知识图谱日志记录工具，提供KG更新追踪与版本管理能力，帮助开发者监控图谱数据变更、审计修改历史。技术亮点包括轻量级日志采集与结构化存储，支持增量更新记录。适用于知识图谱运维、数据溯源及多团队协作场景，提升图谱数据治理效率。",
+  "tags": [
+    "KnowledgeGraph",
+    "Logging",
+    "DataGovernance",
+    "VersionControl",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-21T02:46:51+00:00",
+  "updated_at": "2026-09-21T02:46:51+00:00"
+}

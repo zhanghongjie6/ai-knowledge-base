@@ -1,0 +1,19 @@
+{
+  "id": "github-20260921-005",
+  "title": "iamhuahin/AI-Non-Report",
+  "source_url": "https://github.com/iamhuahin/AI-Non-Report",
+  "source_type": "github_trending",
+  "summary": "该项目是一个用于生成泰国南部内部安全行动司令部（มท.กอ.รมน.ภาค 4）报告文档的自动化工具。它通过模板化方式快速生成标准格式的官方报告，减少人工填写错误，提高文书工作效率。技术亮点在于针对特定政府机构的报告需求定制，适合军方或安全部门内部人员使用。",
+  "tags": [
+    "Document Generation",
+    "Government",
+    "Automation",
+    "Thailand",
+    "github"
+  ],
+  "score": 3,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-21T02:46:51+00:00",
+  "updated_at": "2026-09-21T02:46:51+00:00"
+}

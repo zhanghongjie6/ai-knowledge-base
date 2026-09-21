@@ -1,0 +1,20 @@
+{
+  "id": "github-20260921-008",
+  "title": "RahimMirani/piper-x-agent",
+  "source_url": "https://github.com/RahimMirani/piper-x-agent",
+  "source_type": "github_trending",
+  "summary": "Piper-X-Agent 是一个基于树莓派和 LLM 的语音交互智能体项目，集成语音识别、大语言模型推理与语音合成，实现本地化、低成本的对话机器人。技术亮点包括模块化架构、支持多种 LLM 后端及硬件外设控制，适用于智能家居、教育陪伴和边缘 AI 实验场景。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "RaspberryPi",
+    "Voice",
+    "EdgeAI",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-21T02:46:51+00:00",
+  "updated_at": "2026-09-21T02:46:51+00:00"
+}

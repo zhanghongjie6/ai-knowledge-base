@@ -1,0 +1,19 @@
+{
+  "id": "github-20260921-010",
+  "title": "Binary-Hut/factory-tasks",
+  "source_url": "https://github.com/Binary-Hut/factory-tasks",
+  "source_type": "github_trending",
+  "summary": "Factory Tasks 是 Binary-Hut 发起的 AI 软件工厂实验项目，探索用多智能体协作自动完成从需求到代码的完整开发流程。核心亮点在于将软件工程拆解为可编排的任务流水线，由 AI 代理分工执行并自动验证，适合研究自动化编程、Agent 协作与 DevOps 集成的开发者参考。",
+  "tags": [
+    "Agent",
+    "Multi-Agent",
+    "Code-Generation",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-21T02:46:51+00:00",
+  "updated_at": "2026-09-21T02:46:51+00:00"
+}

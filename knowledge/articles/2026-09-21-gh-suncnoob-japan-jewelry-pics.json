@@ -1,0 +1,19 @@
+{
+  "id": "github-20260921-002",
+  "title": "SuncNoob/japan-jewelry-pics",
+  "source_url": "https://github.com/SuncNoob/japan-jewelry-pics",
+  "source_type": "github_trending",
+  "summary": "该项目由无影Computer Agents爬取了5个日本独立珠宝品牌官网的产品图片，为AI训练、电商选品和设计参考提供高质量数据集。技术亮点在于利用自动化Agent进行多站点数据采集，覆盖小众珠宝风格，适合图像识别、生成模型和时尚分析等场景。",
+  "tags": [
+    "Dataset",
+    "Web Scraping",
+    "Computer Vision",
+    "E-commerce",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-21T02:46:51+00:00",
+  "updated_at": "2026-09-21T02:46:51+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20260921-004",
+  "title": "Advance-Labs/ninebrains",
+  "source_url": "https://github.com/Advance-Labs/ninebrains",
+  "source_type": "github_trending",
+  "summary": "Ninebrains 是一个开源桌面工作台，支持并行运行多个 Claude Code 和 Codex 智能体，并通过验证门控确保输出质量。其核心价值在于将单一“大脑”与多个“思考臂”结合，实现多智能体协作与任务并行化，提升开发效率。技术亮点包括并行代理调度、验证门控机制和桌面端集成。适用于需要多模型协作、代码生成与验证的复杂开发场景。",
+  "tags": [
+    "Multi-Agent",
+    "Claude",
+    "Codex",
+    "Desktop",
+    "Open-Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-21T02:46:51+00:00",
+  "updated_at": "2026-09-21T02:46:51+00:00"
+}
