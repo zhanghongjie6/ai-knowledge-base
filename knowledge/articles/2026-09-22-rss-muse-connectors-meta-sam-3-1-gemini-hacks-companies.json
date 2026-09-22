@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260922-008",
+  "title": "Muse connectors 🤖, Meta SAM 3.1 🖼️, Gemini hacks companies 🔓",
+  "source_url": "https://tldr.tech/ai/2026-09-21",
+  "source_type": "rss",
+  "summary": "本期简报汇总三项AI动态：Muse推出连接器，扩展AI代理与外部工具集成能力；Meta发布SAM 3.1，提升图像分割精度与效率；报道称Gemini被用于攻击企业系统，暴露AI安全风险。内容覆盖代理工具链、视觉基础模型与AI安全，适合开发者与安全从业者快速了解行业进展。",
+  "tags": [
+    "Agent",
+    "Computer Vision",
+    "AI Security",
+    "Tooling",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-22T02:47:37+00:00",
+  "updated_at": "2026-09-22T02:47:37+00:00"
+}

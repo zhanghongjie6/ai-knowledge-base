@@ -1,0 +1,20 @@
+{
+  "id": "github-20260922-007",
+  "title": "commercient-datalake-datahub/dlake-cli",
+  "source_url": "https://github.com/commercient-datalake-datahub/dlake-cli",
+  "source_type": "github_trending",
+  "summary": "Commercient Data Lake/Data Hub 官方 CLI 工具 dlake，为 SQL Server 数据平台即时生成 REST 与 GraphQL API，并提供 MCP 接入能力，让 AI 智能体可直接查询和操作企业数据。核心价值在于打通传统数据库与现代 AI 工作流，无需自建 API 层，适合企业数据集成、智能体工具调用和快速数据服务化场景。",
+  "tags": [
+    "MCP",
+    "GraphQL",
+    "REST",
+    "SQL Server",
+    "Data Lake",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 4,
+  "status": "draft",
+  "created_at": "2026-09-22T02:47:37+00:00",
+  "updated_at": "2026-09-22T02:47:37+00:00"
+}

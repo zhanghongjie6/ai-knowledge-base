@@ -1,0 +1,20 @@
+{
+  "id": "github-20260922-008",
+  "title": "COBACOBAINI/vibe",
+  "source_url": "https://github.com/COBACOBAINI/vibe",
+  "source_type": "github_trending",
+  "summary": "该项目基于 OpenAI Whisper 实现完全离线的音视频转录，数据无需上传云端，保障隐私安全。支持多语言识别，转录速度快且稳定可靠，适合处理敏感会议录音、采访素材等本地化场景，兼顾效率与合规需求。",
+  "tags": [
+    "Whisper",
+    "Speech-to-Text",
+    "Offline",
+    "Privacy",
+    "Multilingual",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 9,
+  "status": "draft",
+  "created_at": "2026-09-22T02:47:37+00:00",
+  "updated_at": "2026-09-22T02:47:37+00:00"
+}

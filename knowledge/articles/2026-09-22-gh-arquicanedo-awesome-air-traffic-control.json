@@ -1,0 +1,20 @@
+{
+  "id": "github-20260922-009",
+  "title": "arquicanedo/awesome-air-traffic-control",
+  "source_url": "https://github.com/arquicanedo/awesome-air-traffic-control",
+  "source_type": "github_trending",
+  "summary": "这是一个汇集空中交通管制模拟器、雷达客户端、工具与培训软件的资源列表。它覆盖了从飞行模拟到真实雷达数据可视化的多种项目，为航空爱好者、ATC学员和开发者提供一站式参考。技术亮点在于整合了开源雷达客户端和训练工具，便于快速搭建模拟环境。适用于学习ATC流程、开发航空软件或进行模拟训练。",
+  "tags": [
+    "Aviation",
+    "Simulation",
+    "Radar",
+    "AwesomeList",
+    "ATC",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-22T02:47:37+00:00",
+  "updated_at": "2026-09-22T02:47:37+00:00"
+}

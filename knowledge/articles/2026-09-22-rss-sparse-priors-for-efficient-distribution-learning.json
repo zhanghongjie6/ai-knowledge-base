@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260922-005",
+  "title": "Sparse Priors for Efficient Distribution Learning",
+  "source_url": "https://arxiv.org/abs/2609.20883",
+  "source_type": "rss",
+  "summary": "本文研究高维分布学习的理论问题，提出利用稀疏先验实现高效分布学习。针对生成式AI缺乏理论保证的现状，该工作分析在d维空间中的分布学习，通过引入稀疏性假设降低样本复杂度，为生成模型提供可证明的学习边界。适用于理论机器学习、高维统计与生成建模等场景。",
+  "tags": [
+    "Distribution Learning",
+    "Sparse Priors",
+    "Theory",
+    "Generative Models",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-22T02:47:37+00:00",
+  "updated_at": "2026-09-22T02:47:37+00:00"
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Girishgktester/llm-forge",
+    "url": "https://github.com/Girishgktester/llm-forge",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-22T02:46:50Z",
+    "created_at_source": "2026-09-22T02:46:49Z"
+  },
+  {
+    "title": "zhangyingxuan/payback-agent",
+    "url": "https://github.com/zhangyingxuan/payback-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-22T02:46:49Z",
+    "created_at_source": "2026-09-22T02:46:48Z"
+  },
+  {
+    "title": "Tomekwlqq/ai4cro-reports",
+    "url": "https://github.com/Tomekwlqq/ai4cro-reports",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI4CRO Reports — klienci, audyty, CS, mapy percepcji",
+    "pushed_at": "2026-09-22T02:46:49Z",
+    "created_at_source": "2026-05-21T09:18:12Z"
+  },
+  {
+    "title": "georgxzh/zk-circuit",
+    "url": "https://github.com/georgxzh/zk-circuit",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Formal verification of a zero-knowledge circuit for bounded-integer, privacy-preserving AI inference",
+    "pushed_at": "2026-09-22T02:46:49Z",
+    "created_at_source": "2026-09-17T04:01:45Z"
+  },
+  {
+    "title": "xinshou-xin/atc_agent",
+    "url": "https://github.com/xinshou-xin/atc_agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "use deepagents framework do  it",
+    "pushed_at": "2026-09-22T02:46:48Z",
+    "created_at_source": "2026-09-22T02:46:47Z"
+  },
+  {
+    "title": "CUNY-AI-Lab/fall-2026-vibe-coding-ii",
+    "url": "https://github.com/CUNY-AI-Lab/fall-2026-vibe-coding-ii",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Fall 2026 · Vibe Coding II: Building a Prototype — CUNY AI Lab workshop deck",
+    "pushed_at": "2026-09-22T02:46:48Z",
+    "created_at_source": "2026-09-16T17:19:26Z"
+  },
+  {
+    "title": "commercient-datalake-datahub/dlake-cli",
+    "url": "https://github.com/commercient-datalake-datahub/dlake-cli",
+    "source": "github_trending",
+    "popularity": 4,
+    "summary": "Commercient Data Lake / Data Hub CLI (dlake) - instant REST + GraphQL APIs and MCP access for AI agents over a SQL Server data platform. Official binaries.",
+    "pushed_at": "2026-09-22T02:46:52Z",
+    "created_at_source": "2026-07-18T00:49:16Z"
+  },
+  {
+    "title": "COBACOBAINI/vibe",
+    "url": "https://github.com/COBACOBAINI/vibe",
+    "source": "github_trending",
+    "popularity": 9,
+    "summary": "Transcribe audio and video offline with OpenAI Whisper on your device, keeping data private. Supports many languages with fast, fully local, reliable transcription. 🐙",
+    "pushed_at": "2026-09-22T02:46:48Z",
+    "created_at_source": "2025-08-14T09:44:11Z"
+  },
+  {
+    "title": "arquicanedo/awesome-air-traffic-control",
+    "url": "https://github.com/arquicanedo/awesome-air-traffic-control",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Air traffic control simulators, radar clients, tools, and training software.",
+    "pushed_at": "2026-09-22T02:46:47Z",
+    "created_at_source": "2026-08-11T03:51:45Z"
+  },
+  {
+    "title": "Demonoo/Demonoo.github.io",
+    "url": "https://github.com/Demonoo/Demonoo.github.io",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "DMEDIA官方网站",
+    "pushed_at": "2026-09-22T02:46:47Z",
+    "created_at_source": "2025-11-22T06:46:40Z"
+  },
+  {
+    "title": "NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+    "url": "https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：vivo 发布 X500 系列，Google 推出首批 Googlebook 等",
+    "url": "https://sspai.com/post/114840",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "少数派的近期动态少数派会员2026周边现已开放兑换，点击兑换给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研口袋先知新版本1.3. ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+    "url": "https://arxiv.org/abs/2609.20971",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.20971v1 Announce Type: new \nAbstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generatio",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Do small language models know what they don't know?",
+    "url": "https://arxiv.org/abs/2609.20824",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.20824v1 Announce Type: new \nAbstract: We explore whether entropy-based confidence signals can be leveraged to improve the accuracy of Small Language Models (SLMs) with fewer than 3 billion ",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Sparse Priors for Efficient Distribution Learning",
+    "url": "https://arxiv.org/abs/2609.20883",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.20883v1 Announce Type: new \nAbstract: Despite the widespread use and success of generative AI techniques today, theoretical guarantees on learning a distribution supported in $d$ dimensions",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision",
+    "url": "https://arxiv.org/abs/2609.20869",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.20869v1 Announce Type: new \nAbstract: We present TAPe+ML v3, a compact computer vision system based on TAPe (Theory of Active Perception), a structured representation that encodes relations",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
+    "url": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a misaligned goal, the",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Muse connectors 🤖, Meta SAM 3.1 🖼️, Gemini hacks companies 🔓",
+    "url": "https://tldr.tech/ai/2026-09-21",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "xAI's Grok 4.6 is now available in Amazon Bedrock: a frontier model for long-running agents, coding, and knowledge work, with a 500K token context window and four reasoning effort levels. It runs on b",
+    "feed_name": "AWS ML Blog"
+  }
+]

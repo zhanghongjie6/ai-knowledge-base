@@ -1,0 +1,19 @@
+{
+  "id": "github-20260922-001",
+  "title": "Girishgktester/llm-forge",
+  "source_url": "https://github.com/Girishgktester/llm-forge",
+  "source_type": "github_trending",
+  "summary": "LLM Forge 是一个用于构建和部署大语言模型应用的开源工具集，提供模型微调、推理优化和部署流水线。其技术亮点包括模块化架构、支持多种主流模型和高效资源管理，适合开发者快速搭建定制化 AI 应用，如聊天机器人和文本生成服务。",
+  "tags": [
+    "LLM",
+    "Fine-tuning",
+    "Deployment",
+    "Toolkit",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-22T02:47:37+00:00",
+  "updated_at": "2026-09-22T02:47:37+00:00"
+}

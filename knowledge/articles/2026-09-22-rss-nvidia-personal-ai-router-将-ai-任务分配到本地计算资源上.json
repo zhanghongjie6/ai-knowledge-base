@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260922-001",
+  "title": "NVIDIA Personal AI Router 将 AI 任务分配到本地计算资源上",
+  "source_url": "https://www.infoq.cn/article/ZSAtWPoOgIDcANYa8CXc?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "NVIDIA 推出 Personal AI Router，可将 AI 任务智能分配到本地计算资源上，如 GPU、CPU 和 NPU。该技术通过动态调度优化本地推理性能，降低对云端的依赖，提升隐私与响应速度。适用于个人开发者、边缘计算场景及需要低延迟 AI 应用的设备。",
+  "tags": [
+    "NVIDIA",
+    "Edge AI",
+    "Local Inference",
+    "Resource Scheduling",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-22T02:47:37+00:00",
+  "updated_at": "2026-09-22T02:47:37+00:00"
+}

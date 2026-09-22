@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260922-010",
+  "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/xais-grok-4-6-is-now-available-in-amazon-bedrock/",
+  "source_type": "rss",
+  "summary": "xAI 的 Grok 4.6 前沿模型现已上线 Amazon Bedrock，支持 50 万 token 上下文窗口和四档推理强度，专为长时运行智能体、编程和知识工作设计。开发者可直接在 AWS 生态中调用，无需自建基础设施，快速构建复杂 AI 应用。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "AWS",
+    "Bedrock",
+    "Coding",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-22T02:47:37+00:00",
+  "updated_at": "2026-09-22T02:47:37+00:00"
+}

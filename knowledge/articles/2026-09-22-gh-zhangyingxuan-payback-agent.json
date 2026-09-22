@@ -1,0 +1,19 @@
+{
+  "id": "github-20260922-002",
+  "title": "zhangyingxuan/payback-agent",
+  "source_url": "https://github.com/zhangyingxuan/payback-agent",
+  "source_type": "github_trending",
+  "summary": "Payback Agent 是一个基于大语言模型的智能体项目，旨在自动化处理退款、索赔等售后流程。它通过多步推理与工具调用，自动解析用户诉求、查询订单信息并生成处理方案，减少人工介入。技术亮点包括任务分解、状态追踪与外部API集成，适用于电商客服、财务对账等场景，提升售后效率与准确性。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Automation",
+    "CustomerService",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-22T02:47:37+00:00",
+  "updated_at": "2026-09-22T02:47:37+00:00"
+}
