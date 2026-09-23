@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260923-003",
+  "title": "Recognition, Simulation, and Refusal: A Contamination-Aware Study of Classic Psychological Effects in LLM Agents",
+  "source_url": "https://arxiv.org/abs/2609.22090",
+  "source_type": "rss",
+  "summary": "该研究探讨LLM智能体是否真正具备经典心理学效应，还是仅因训练数据污染而模仿。通过识别、模拟与拒绝三种实验范式，发现LLM常表现出与人类相似的偏见模式，但可能源于记忆而非内在机制。为评估LLM认知真实性提供新方法，对AI安全与可信度研究有参考价值。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Cognitive Bias",
+    "Data Contamination",
+    "AI Safety",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

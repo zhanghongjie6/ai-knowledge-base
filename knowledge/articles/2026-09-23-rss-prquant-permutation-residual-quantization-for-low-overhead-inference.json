@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-004",
+  "title": "PRQuant: Permutation Residual Quantization for Low-Overhead Inference",
+  "source_url": "https://arxiv.org/abs/2609.22106",
+  "source_type": "rss",
+  "summary": "PRQuant提出排列残差量化方法，针对低比特线性层量化中离群值主导精度损失的问题。通过排列变换与残差量化结合，在保持低推理开销的同时显著提升量化精度。适用于大模型边缘部署与高效推理场景，为低比特量化提供新思路。",
+  "tags": [
+    "Quantization",
+    "LLM",
+    "Inference",
+    "Efficiency",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

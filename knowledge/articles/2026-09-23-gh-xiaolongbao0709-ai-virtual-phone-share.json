@@ -1,0 +1,19 @@
+{
+  "id": "github-20260923-007",
+  "title": "xiaolongbao0709/ai-virtual-phone-share",
+  "source_url": "https://github.com/xiaolongbao0709/ai-virtual-phone-share",
+  "source_type": "github_trending",
+  "summary": "该项目提供AI虚拟手机共享方案，让多个AI智能体同时操作同一台虚拟手机，实现自动化测试、应用操作和任务协作。技术亮点在于虚拟化与AI代理结合，支持并行控制与状态同步。适用于移动应用自动化测试、AI代理训练及多智能体协作场景。",
+  "tags": [
+    "AI Agent",
+    "Virtualization",
+    "Automation",
+    "Mobile Testing",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 26,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260923-005",
+  "title": "Did You Steal My Shot? Pioneering Camera Motion Plagiarism Detection in Generative Videos",
+  "source_url": "https://arxiv.org/abs/2609.22267",
+  "source_type": "rss",
+  "summary": "该论文首次提出生成视频中相机运动抄袭检测问题，指出相机运动体现导演意图且需专业设备，是高价值知识产权。研究可能构建了检测框架，利用视频生成模型中的运动特征进行比对，以识别未经授权的相机运动复制。技术亮点在于将抄袭检测从文本/图像扩展到视频运动维度，并可能提出量化指标。适用于影视版权保护、AI生成内容审核及创意产业维权等场景。",
+  "tags": [
+    "Video Generation",
+    "Plagiarism Detection",
+    "Camera Motion",
+    "Intellectual Property",
+    "AI Ethics",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260923-004",
+  "title": "Echo-ai-use/mabang-logistics-match-dashboard",
+  "source_url": "https://github.com/Echo-ai-use/mabang-logistics-match-dashboard",
+  "source_type": "github_trending",
+  "summary": "该项目是马帮ERP物流匹配检查看板的静态快照版，用于展示物流订单与渠道的匹配状态。核心价值在于为跨境电商运营提供可视化监控界面，帮助快速发现物流匹配异常。技术亮点是静态快照形式，便于部署和分享，无需后端服务。适用于物流运营人员日常检查订单匹配情况，提升异常处理效率。",
+  "tags": [
+    "Logistics",
+    "Dashboard",
+    "ERP",
+    "StaticSite",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

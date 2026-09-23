@@ -1,0 +1,20 @@
+{
+  "id": "github-20260923-010",
+  "title": "AleksaZatezalo/PhrakAgent",
+  "source_url": "https://github.com/AleksaZatezalo/PhrakAgent",
+  "source_type": "github_trending",
+  "summary": "PhrakAgent 是一个基于大语言模型的智能代理项目，旨在自动化渗透测试与漏洞评估流程。它通过整合多种安全工具和推理能力，让 AI 代理自主执行侦察、扫描和利用任务。技术亮点包括模块化工具调用、任务规划与记忆机制，适合安全研究人员和红队用于提升测试效率。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Security",
+    "Pentest",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

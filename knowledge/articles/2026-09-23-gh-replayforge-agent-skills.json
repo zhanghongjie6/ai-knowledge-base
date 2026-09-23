@@ -1,0 +1,19 @@
+{
+  "id": "github-20260923-009",
+  "title": "replayforge/agent-skills",
+  "source_url": "https://github.com/replayforge/agent-skills",
+  "source_type": "github_trending",
+  "summary": "ReplayForge 的 agent-skills 项目为 AI Agent 提供可复用的技能库，通过标准化接口封装常见工具调用与任务流程，降低 Agent 开发门槛。技术亮点在于模块化技能定义与可组合执行，支持快速集成到现有 Agent 框架中。适用于自动化工作流、多步骤任务编排及需要扩展 Agent 能力的场景。",
+  "tags": [
+    "Agent",
+    "Tool Use",
+    "Automation",
+    "Workflow",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

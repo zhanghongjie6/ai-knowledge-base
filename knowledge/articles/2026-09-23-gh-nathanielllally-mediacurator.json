@@ -1,0 +1,19 @@
+{
+  "id": "github-20260923-008",
+  "title": "NathanielLLally/MediaCurator",
+  "source_url": "https://github.com/NathanielLLally/MediaCurator",
+  "source_type": "github_trending",
+  "summary": "MediaCurator 是一个本地优先、注重隐私的照片归档管理工具，能够从压缩包中提取图片，利用本地视觉模型进行分类，并根据重要性评分，最终实现自动整理与精选。它适合需要处理大量个人或家庭照片、且对数据隐私敏感的用户，无需上传云端即可完成智能分析。",
+  "tags": [
+    "Computer Vision",
+    "Privacy",
+    "Photo Management",
+    "Local AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

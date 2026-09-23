@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260923-010",
+  "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
+  "source_type": "rss",
+  "summary": "亚马逊Bedrock平台正式上线GPT-6 Sol和GPT-6 Luna两款模型，为企业日常办公场景提供更智能的AI能力。Sol侧重高智能复杂任务，Luna强调高效轻量推理，用户可根据工作负载灵活选择，平衡性能与成本。该更新降低了企业集成先进大模型的门槛，适用于文档处理、客服自动化、数据分析等场景。",
+  "tags": [
+    "LLM",
+    "Amazon Bedrock",
+    "AWS",
+    "Enterprise AI",
+    "Model Deployment",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

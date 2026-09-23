@@ -1,0 +1,20 @@
+{
+  "id": "github-20260923-003",
+  "title": "stharesh/automated-supply-chain-analytics",
+  "source_url": "https://github.com/stharesh/automated-supply-chain-analytics",
+  "source_type": "github_trending",
+  "summary": "该项目构建了一个自动化供应链分析管道，利用Gmail接收订单邮件，通过PostgreSQL和Supabase存储数据，结合SQL与Quadratic AI进行KPI分析和客户履约洞察。核心价值在于无需人工干预即可完成从数据摄取到分析的全流程，技术亮点是集成邮件、数据库与AI工具，适用于中小型企业的供应链监控与决策支持。",
+  "tags": [
+    "SupplyChain",
+    "Automation",
+    "PostgreSQL",
+    "Supabase",
+    "Analytics",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

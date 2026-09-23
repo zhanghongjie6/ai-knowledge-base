@@ -1,0 +1,172 @@
+[
+  {
+    "title": "2100031434/AiChat",
+    "url": "https://github.com/2100031434/AiChat",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-23T02:47:06Z",
+    "created_at_source": "2026-09-23T00:13:44Z"
+  },
+  {
+    "title": "Shenhan01-sys/Lencana",
+    "url": "https://github.com/Shenhan01-sys/Lencana",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Micro-course platform where an AI agent issues Open Badges 3.0 / W3C VC credentials; issuer authorisation and revocation are recorded on BNB Chain via BAS, and anyone can verify without a wallet.",
+    "pushed_at": "2026-09-23T02:47:06Z",
+    "created_at_source": "2026-09-17T15:22:37Z"
+  },
+  {
+    "title": "stharesh/automated-supply-chain-analytics",
+    "url": "https://github.com/stharesh/automated-supply-chain-analytics",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Automated supply-chain analytics pipeline using Gmail, PostgreSQL, Supabase, SQL, and Quadratic AI for automated data ingestion, KPI analysis, and customer fulfillment insights.",
+    "pushed_at": "2026-09-23T02:47:06Z",
+    "created_at_source": "2026-09-07T14:08:12Z"
+  },
+  {
+    "title": "Echo-ai-use/mabang-logistics-match-dashboard",
+    "url": "https://github.com/Echo-ai-use/mabang-logistics-match-dashboard",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "马帮ERP 物流匹配检查看板（静态快照版）",
+    "pushed_at": "2026-09-23T02:47:04Z",
+    "created_at_source": "2026-09-15T16:22:01Z"
+  },
+  {
+    "title": "cnanthini31052007/AI-WeatherWise",
+    "url": "https://github.com/cnanthini31052007/AI-WeatherWise",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-23T02:47:04Z",
+    "created_at_source": "2026-09-23T02:47:03Z"
+  },
+  {
+    "title": "CumulativeWebInc/gear-ledger",
+    "url": "https://github.com/CumulativeWebInc/gear-ledger",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Gear Ledger — server-authoritative task/event ledger for the CWI agent company. Canonical store: versioned JSON, SHA-CAS writes, Ed25519 seals.",
+    "pushed_at": "2026-09-23T02:47:04Z",
+    "created_at_source": "2026-09-16T11:15:06Z"
+  },
+  {
+    "title": "xiaolongbao0709/ai-virtual-phone-share",
+    "url": "https://github.com/xiaolongbao0709/ai-virtual-phone-share",
+    "source": "github_trending",
+    "popularity": 26,
+    "summary": "",
+    "pushed_at": "2026-09-23T02:47:03Z",
+    "created_at_source": "2026-08-10T10:32:48Z"
+  },
+  {
+    "title": "NathanielLLally/MediaCurator",
+    "url": "https://github.com/NathanielLLally/MediaCurator",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "local, privacy-first pipeline for analyzing, categorizing, and curating large photo archives. Extracts from compressed zips, classifies images with a local vision model, scores by significance, and re",
+    "pushed_at": "2026-09-23T02:47:02Z",
+    "created_at_source": "2026-09-23T02:42:13Z"
+  },
+  {
+    "title": "replayforge/agent-skills",
+    "url": "https://github.com/replayforge/agent-skills",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-23T02:47:02Z",
+    "created_at_source": "2026-09-07T06:21:35Z"
+  },
+  {
+    "title": "AleksaZatezalo/PhrakAgent",
+    "url": "https://github.com/AleksaZatezalo/PhrakAgent",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "",
+    "pushed_at": "2026-09-23T02:47:02Z",
+    "created_at_source": "2026-08-04T11:20:30Z"
+  },
+  {
+    "title": "阿里 Open Code Review 登顶 GitHub Trending 周榜第一，作者李峥峰将在 QCon 上海站揭秘百万任务验证的 Agent 工程实践",
+    "url": "https://www.infoq.cn/article/ekVtt3hgufw4wCvP7Zb5?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：OPPO Find X10 系列发布、Beats 360 头戴式耳机发布等",
+    "url": "https://sspai.com/post/114889",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Recognition, Simulation, and Refusal: A Contamination-Aware Study of Classic Psychological Effects in LLM Agents",
+    "url": "https://arxiv.org/abs/2609.22090",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.22090v1 Announce Type: new \nAbstract: An LLM producing the response pattern associated with a human psychological effect is not the same claim as the LLM possessing that bias. We present Ps",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "PRQuant: Permutation Residual Quantization for Low-Overhead Inference",
+    "url": "https://arxiv.org/abs/2609.22106",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.22106v1 Announce Type: new \nAbstract: Accuracy of Low-bit quantization of linear layers is often dominated by a small number of outliers. Although existing methods, such as smoothing, rotat",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Did You Steal My Shot? Pioneering Camera Motion Plagiarism Detection in Generative Videos",
+    "url": "https://arxiv.org/abs/2609.22267",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.22267v1 Announce Type: new \nAbstract: Camera motion often reflects directorial intent and requires professional equipment, making it a high value form of intellectual property. However, gen",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "OpenAI's GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
+    "url": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find li",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+    "url": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the level of Claude Fable 5.1 on most work. It also costs 40% less to run than Opus",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Opus 5.5 imminent ⏳, Grok 4.7 🚀, MiMo v2.6 🤖",
+    "url": "https://tldr.tech/ai/2026-09-22",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Better prompt caching for GPT-6",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Bring more intelligence to everyday work with GPT-6 Sol and GPT-6 Luna on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/bring-more-intelligence-to-everyday-work-with-gpt-6-sol-and-gpt-6-luna-on-amazon-bedrock/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock, giving you more options to match intelligence and efficiency to each workload.",
+    "feed_name": "AWS ML Blog"
+  }
+]

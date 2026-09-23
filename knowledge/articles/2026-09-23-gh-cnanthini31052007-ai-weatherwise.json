@@ -1,0 +1,18 @@
+{
+  "id": "github-20260923-005",
+  "title": "cnanthini31052007/AI-WeatherWise",
+  "source_url": "https://github.com/cnanthini31052007/AI-WeatherWise",
+  "source_type": "github_trending",
+  "summary": "AI-WeatherWise 是一个基于人工智能的天气预测项目，利用机器学习模型分析历史气象数据，提供更精准的短期天气预报。技术亮点包括数据预处理管道、多种回归模型对比以及可视化界面。适用于个人天气查询、农业规划或教学演示等场景，但项目成熟度较低，功能相对基础。",
+  "tags": [
+    "Machine Learning",
+    "Weather Prediction",
+    "Data Visualization",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}

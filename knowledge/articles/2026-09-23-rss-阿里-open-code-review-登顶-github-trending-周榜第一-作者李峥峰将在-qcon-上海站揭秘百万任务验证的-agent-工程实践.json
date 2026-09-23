@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260923-001",
+  "title": "阿里 Open Code Review 登顶 GitHub Trending 周榜第一，作者李峥峰将在 QCon 上海站揭秘百万任务验证的 Agent 工程实践",
+  "source_url": "https://www.infoq.cn/article/ekVtt3hgufw4wCvP7Zb5?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "阿里开源的Open Code Review项目登顶GitHub Trending周榜第一，作者李峥峰将在QCon上海站分享基于百万任务验证的Agent工程实践。该项目聚焦代码审查场景，通过大规模真实任务验证Agent的可靠性与效率，为AI辅助软件开发提供了可落地的工程范式，对提升代码质量和开发效率有直接帮助。",
+  "tags": [
+    "Agent",
+    "Code Review",
+    "Open Source",
+    "DevOps",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-23T02:47:54+00:00",
+  "updated_at": "2026-09-23T02:47:54+00:00"
+}
