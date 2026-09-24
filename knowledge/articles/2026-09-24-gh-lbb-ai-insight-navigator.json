@@ -1,0 +1,19 @@
+{
+  "id": "github-20260924-001",
+  "title": "lbb-ai/Insight-Navigator",
+  "source_url": "https://github.com/lbb-ai/Insight-Navigator",
+  "source_type": "github_trending",
+  "summary": "Insight-Navigator 是一个基于大语言模型的智能信息分析工具，能够自动抓取、解析并总结多源数据，帮助用户快速提取关键洞察。其技术亮点包括模块化 Agent 架构、多格式文档解析和可定制分析流程，适用于市场调研、竞品分析和学术文献综述等场景，显著提升信息处理效率。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "DataAnalysis",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}

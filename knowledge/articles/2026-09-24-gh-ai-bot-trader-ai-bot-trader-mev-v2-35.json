@@ -1,0 +1,20 @@
+{
+  "id": "github-20260924-007",
+  "title": "Ai-Bot-Trader/Ai-bot-Trader-MEV-V2.35",
+  "source_url": "https://github.com/Ai-Bot-Trader/Ai-bot-Trader-MEV-V2.35",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于AI的MEV交易机器人，专注于以太坊链上套利。它利用智能算法自动检测并执行DEX间套利机会，支持MEV提取和DeFi策略。技术亮点包括实时监控内存池、优化Gas竞价和自动化交易执行。适用于加密货币量化交易者、MEV搜索者及DeFi开发者，但需注意合规与风险。",
+  "tags": [
+    "MEV",
+    "Arbitrage",
+    "Ethereum",
+    "DeFi",
+    "TradingBot",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}

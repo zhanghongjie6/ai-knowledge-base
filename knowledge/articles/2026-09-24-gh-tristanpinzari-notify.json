@@ -1,0 +1,20 @@
+{
+  "id": "github-20260924-009",
+  "title": "TristanPinzari/Notify",
+  "source_url": "https://github.com/TristanPinzari/Notify",
+  "source_type": "github_trending",
+  "summary": "Notify 是一个利用 AI 协作学习平台，能将学生的笔记、幻灯片和录音自动合成为每个主题的可靠主文档。它解决了多源学习材料分散、重复和冲突的问题，通过智能整合提升复习效率。技术亮点在于多模态内容融合与去重，适合学生、教师及自学者快速构建结构化知识库。",
+  "tags": [
+    "Education",
+    "AI",
+    "Collaboration",
+    "Note-taking",
+    "Multimodal",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}

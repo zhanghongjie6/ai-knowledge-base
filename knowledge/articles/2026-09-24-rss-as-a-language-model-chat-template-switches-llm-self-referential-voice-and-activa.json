@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260924-005",
+  "title": "\"As a Language Model...\": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It",
+  "source_url": "https://arxiv.org/abs/2609.25021",
+  "source_type": "rss",
+  "summary": "该研究揭示聊天模板会切换大语言模型的自指语气，例如模型常以“我只是AI”等免责声明回应自身相关问题。作者通过激活引导技术成功复现这一现象，证明模板不仅影响输出格式，还直接调控模型内部表征。该发现对提示工程、模型对齐及可解释性研究具有实用价值，可用于控制模型自我认知表达。",
+  "tags": [
+    "LLM",
+    "Activation Steering",
+    "Prompt Engineering",
+    "Interpretability",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}

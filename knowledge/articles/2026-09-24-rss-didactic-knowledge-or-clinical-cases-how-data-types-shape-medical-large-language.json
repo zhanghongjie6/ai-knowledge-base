@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260924-003",
+  "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+  "source_url": "https://arxiv.org/abs/2609.22161",
+  "source_type": "rss",
+  "summary": "该研究系统探究了医学大语言模型训练中教学数据（如教科书）与临床数据（如病历）的配比影响。通过对比不同数据类型的训练效果，揭示了数据构成对模型临床推理与知识掌握的关键作用，为医学LLM的数据策略提供了实证依据，适用于医疗AI研发与临床辅助决策场景。",
+  "tags": [
+    "Medical LLM",
+    "Training Data",
+    "Clinical NLP",
+    "Healthcare AI",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}

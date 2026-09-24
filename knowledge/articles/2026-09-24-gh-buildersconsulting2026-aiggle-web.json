@@ -1,0 +1,20 @@
+{
+  "id": "github-20260924-006",
+  "title": "buildersconsulting2026/aiggle-web",
+  "source_url": "https://github.com/buildersconsulting2026/aiggle-web",
+  "source_type": "github_trending",
+  "summary": "AIGGLE Web App 是一个基于 FastAPI 后端与 React 前端的全栈 Web 应用模板，旨在帮助开发者快速搭建现代化 AI 应用界面。项目结构清晰，前后端分离，适合作为 AI 工具、聊天机器人或数据看板的起点。技术亮点包括异步 API、类型安全与组件化 UI，可立即用于原型开发与小型生产部署。",
+  "tags": [
+    "FastAPI",
+    "React",
+    "FullStack",
+    "WebApp",
+    "AI",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}

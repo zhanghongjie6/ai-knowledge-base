@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260924-001",
+  "title": "60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/06y8rRvgxgyBxOpr7L5r?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍QCon上海分享的60万行巨石应用AI重构的可验证交付工程。核心价值在于提出一套结合AI代码生成与自动化验证的工程方法，解决大规模遗留系统重构中风险高、验证难的问题。技术亮点包括分阶段重构策略、AI辅助代码迁移、以及可验证的交付流水线。适用于企业级单体应用向微服务或模块化架构的现代化改造场景。",
+  "tags": [
+    "AI",
+    "Refactoring",
+    "Legacy System",
+    "DevOps",
+    "Verification",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}

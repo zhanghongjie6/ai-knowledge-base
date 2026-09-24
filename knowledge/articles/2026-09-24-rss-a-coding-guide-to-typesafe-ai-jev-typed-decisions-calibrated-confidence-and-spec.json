@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260924-008",
+  "title": "A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model",
+  "source_url": "https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/",
+  "source_type": "rss",
+  "summary": "本教程提供TypeSafe AI的Jev完整编码指南，Jev是一个专为非文本结构化判断设计的System One模型。内容涵盖安装官方Python SDK、使用原始查询、类型化决策、校准置信度以及投机扇出等核心功能。技术亮点在于将类型安全引入AI决策流程，通过校准置信度提升可靠性，并利用投机扇出优化推理效率。适用于需要结构化判断、低延迟决策和可解释AI的工程场景，如自动化工作流、智能路由和实时分类系统。",
+  "tags": [
+    "TypeSafe AI",
+    "System One",
+    "Structured Judgment",
+    "Python SDK",
+    "Calibrated Confidence",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260924-003",
+  "title": "ryantalty9-school/ai4i-failure-warning",
+  "source_url": "https://github.com/ryantalty9-school/ai4i-failure-warning",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向预测性维护的机器学习系统，基于AI4I数据集构建故障预警模型。技术亮点包括特征工程、多模型对比与评估，适用于工业设备故障预测场景，帮助降低停机成本。",
+  "tags": [
+    "Predictive Maintenance",
+    "Machine Learning",
+    "Industrial AI",
+    "Failure Prediction",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}

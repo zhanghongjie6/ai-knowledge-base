@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260924-004",
+  "title": "What Does 99% Accuracy Measure? A Reproducible Audit of Shortcut Learning in a Widely Used Fake News Corpus",
+  "source_url": "https://arxiv.org/abs/2609.25006",
+  "source_type": "rss",
+  "summary": "该研究对广泛使用的ISOT/Kaggle假新闻语料库进行可复现审计，发现基于该数据集训练的文本分类器虽报告超过0.98的准确率和F1值，但实际存在严重的捷径学习问题。核心价值在于揭示高准确率背后的数据偏差与评估缺陷，提醒研究者警惕虚假性能指标。技术亮点包括系统性复现实验、捷径特征识别及可复现审计流程，适用于NLP模型评估、假新闻检测及数据集质量审查等场景。",
+  "tags": [
+    "Fake News Detection",
+    "Shortcut Learning",
+    "Dataset Audit",
+    "NLP Evaluation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}

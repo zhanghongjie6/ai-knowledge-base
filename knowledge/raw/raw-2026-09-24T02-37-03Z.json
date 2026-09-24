@@ -1,0 +1,172 @@
+[
+  {
+    "title": "lbb-ai/Insight-Navigator",
+    "url": "https://github.com/lbb-ai/Insight-Navigator",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-24T02:36:50Z",
+    "created_at_source": "2026-09-24T02:34:50Z"
+  },
+  {
+    "title": "Shaweeen/newpeee-technocore-field-notes",
+    "url": "https://github.com/Shaweeen/newpeee-technocore-field-notes",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Technocore / $FLOP field notes for agents — Newpeee DID contribution",
+    "pushed_at": "2026-09-24T02:36:49Z",
+    "created_at_source": "2026-09-03T08:32:31Z"
+  },
+  {
+    "title": "ryantalty9-school/ai4i-failure-warning",
+    "url": "https://github.com/ryantalty9-school/ai4i-failure-warning",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Predictive maintenance ML system for BANA 7075",
+    "pushed_at": "2026-09-24T02:36:49Z",
+    "created_at_source": "2026-09-24T02:36:48Z"
+  },
+  {
+    "title": "summitedge147603/cryptopulse-ai",
+    "url": "https://github.com/summitedge147603/cryptopulse-ai",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "AI trading terminal with live signals and portfolio tracking.",
+    "pushed_at": "2026-09-24T02:36:52Z",
+    "created_at_source": "2026-09-23T08:09:15Z"
+  },
+  {
+    "title": "mantou-fat/huajuan-ai-assistant",
+    "url": "https://github.com/mantou-fat/huajuan-ai-assistant",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-24T02:36:47Z",
+    "created_at_source": "2026-09-19T09:00:06Z"
+  },
+  {
+    "title": "buildersconsulting2026/aiggle-web",
+    "url": "https://github.com/buildersconsulting2026/aiggle-web",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AIGGLE Web App - FastAPI backend + React frontend",
+    "pushed_at": "2026-09-24T02:36:47Z",
+    "created_at_source": "2026-08-09T05:23:32Z"
+  },
+  {
+    "title": "Ai-Bot-Trader/Ai-bot-Trader-MEV-V2.35",
+    "url": "https://github.com/Ai-Bot-Trader/Ai-bot-Trader-MEV-V2.35",
+    "source": "github_trending",
+    "popularity": 3,
+    "summary": "Ai-bot-Trader-MEV-V2.35 Ai-Bot-Trader AI Trading Bot MEV Trading Bot MEV Arbitrage Bot Ethereum Arbitrage Bot Ethereum MEV MEV Arbitrage Crypto Arbitrage Bot DEX Arbitrage DeFi Arbitrage Ethereum Trad",
+    "pushed_at": "2026-09-24T02:36:47Z",
+    "created_at_source": "2026-09-02T03:51:13Z"
+  },
+  {
+    "title": "hengne/aic8800-rhel9-driver",
+    "url": "https://github.com/hengne/aic8800-rhel9-driver",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "aic8800-rhel9-driver",
+    "pushed_at": "2026-09-24T02:36:47Z",
+    "created_at_source": "2026-09-23T05:18:33Z"
+  },
+  {
+    "title": "TristanPinzari/Notify",
+    "url": "https://github.com/TristanPinzari/Notify",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "A collaborative platform that uses AI to synthesize students' notes, slides, and recordings into one reliable master document per topic.",
+    "pushed_at": "2026-09-24T02:36:47Z",
+    "created_at_source": "2026-06-12T20:27:33Z"
+  },
+  {
+    "title": "hh476p2t4c/ailefu",
+    "url": "https://github.com/hh476p2t4c/ailefu",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-24T02:36:52Z",
+    "created_at_source": "2026-09-24T02:33:55Z"
+  },
+  {
+    "title": "60 万行巨石应用 AI 重构的可验证交付工程｜QCon上海",
+    "url": "https://www.infoq.cn/article/06y8rRvgxgyBxOpr7L5r?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
+    "url": "https://sspai.com/post/114913",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
+    "url": "https://arxiv.org/abs/2609.22161",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.22161v1 Announce Type: new \nAbstract: Medical large language models are commonly trained on mixtures of didactic data (e.g., textbooks) and clinical data (e.g., patient records), yet how th",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "What Does 99% Accuracy Measure? A Reproducible Audit of Shortcut Learning in a Widely Used Fake News Corpus",
+    "url": "https://arxiv.org/abs/2609.25006",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.25006v1 Announce Type: new \nAbstract: Text classifiers trained on the ISOT/Kaggle \"Fake and Real News\" corpus routinely report accuracy and F1 above 0.98, a level of performance that sits u",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "\"As a Language Model...\": Chat Template Switches LLM Self-Referential Voice and Activation Steering Reproduces It",
+    "url": "https://arxiv.org/abs/2609.25021",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.25021v1 Announce Type: new \nAbstract: Large Language Models (LLMs) tend to add disclaimers like \"I'm just an AI\" when asked about something related to themselves. The self-reports from such",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Deepfakes and Synthetic Media: Generation, Detection, and Governance",
+    "url": "https://arxiv.org/abs/2609.25017",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.25017v1 Announce Type: new \nAbstract: Deepfakes, synthetic audiovisual content produced by deep generative models, have escalated into a critical threat across civilian and military domains",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access",
+    "url": "https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "ChatGPT Voice now runs on OpenAI's new GPT-6 Astra, Sol, and Luna models and can tap into plugins like email, calendar, and Slack. Users can manage appointments, send emails, or build websites just by",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "A Coding Guide to TypeSafe AI Jev: Typed Decisions, Calibrated Confidence, and Speculative Fan-Out with a System One Model",
+    "url": "https://www.marktechpost.com/2026/09/23/a-coding-guide-to-typesafe-ai-jev/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "This tutorial provides a complete coding guide to TypeSafe AI's Jev, a System One model designed for non-text, structured judgments. It covers installing the official Python SDK, using primitive quest",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "GPT-6 ⚡, Opus 5.5 🧠, AI leaders at UN 🌐",
+    "url": "https://tldr.tech/ai/2026-09-23",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Two years of OpenAI Academy",
+    "url": "https://openai.com/index/two-years-of-openai-academy",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+    "feed_name": "OpenAI"
+  }
+]

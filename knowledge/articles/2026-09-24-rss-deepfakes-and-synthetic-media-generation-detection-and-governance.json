@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260924-006",
+  "title": "Deepfakes and Synthetic Media: Generation, Detection, and Governance",
+  "source_url": "https://arxiv.org/abs/2609.25017",
+  "source_type": "rss",
+  "summary": "本文系统梳理了深度伪造与合成媒体技术，涵盖生成、检测与治理三大维度。文章指出深度生成模型制造的视听内容已在民用与军事领域构成严重威胁，并分析了当前检测技术的局限与治理框架的不足。该综述为研究人员和政策制定者提供了跨学科视角，有助于推动防御技术与监管规范的协同发展。",
+  "tags": [
+    "Deepfake",
+    "Synthetic Media",
+    "AI Safety",
+    "Governance",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-24T02:37:35+00:00",
+  "updated_at": "2026-09-24T02:37:35+00:00"
+}
