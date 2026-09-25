@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260925-010",
+  "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+  "source_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+  "source_type": "rss",
+  "summary": "Anthropic 成立生命科学研究组，利用 Claude 分析 DNA 数据集，发现了一种具有 CRISPR 样重复序列的新型酶系统。该工作展示了 AI 在基础生物学研究中的潜力，能够从海量未表征蛋白质中识别新结构，加速基因编辑工具的开发。",
+  "tags": [
+    "AI",
+    "Biology",
+    "CRISPR",
+    "Genomics",
+    "Research",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

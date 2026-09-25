@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260925-006",
+  "title": "AgroBench: A Reproducible Multimodal Benchmark for Weakly Supervised Crop Yield Learning from County Statistics and Pixel Observations",
+  "source_url": "https://arxiv.org/abs/2609.26809",
+  "source_type": "rss",
+  "summary": "AgroBench 是一个可复现的多模态基准，用于弱监督作物产量学习。它结合县级统计数据和像素级观测，解决农业产量预测中标签粗粒度与细粒度特征不匹配的问题。技术亮点包括多模态融合和弱监督学习框架，适用于农业遥感、精准农业和粮食安全评估等场景。",
+  "tags": [
+    "Agriculture",
+    "Remote Sensing",
+    "Weak Supervision",
+    "Multimodal",
+    "Benchmark",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20260925-010",
+  "title": "aiprofitwire/tellbuster",
+  "source_url": "https://github.com/aiprofitwire/tellbuster",
+  "source_type": "github_trending",
+  "summary": "Tellbuster 是一个免费开源的 AI 写作检测工具，能识别文本中常见的 AI 生成短语，帮助用户优化写作。它提供 Chrome 扩展、网页演示和 npm 包，完全在本地设备运行，保护隐私。适用于编辑、内容创作者和开发者检测并去除 AI 痕迹。",
+  "tags": [
+    "AI Detection",
+    "Writing",
+    "Chrome Extension",
+    "Open Source",
+    "Privacy",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

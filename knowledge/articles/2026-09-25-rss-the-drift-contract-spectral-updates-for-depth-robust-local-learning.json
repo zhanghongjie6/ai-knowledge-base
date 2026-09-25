@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-005",
+  "title": "The Drift Contract: Spectral Updates for Depth-Robust Local Learning",
+  "source_url": "https://arxiv.org/abs/2609.26811",
+  "source_type": "rss",
+  "summary": "该论文提出“漂移契约”方法，通过谱更新实现深度鲁棒的局部学习。局部学习各层独立训练，无需全局反向传播，但存在层间漂移和深度退化问题。该方法利用谱分析约束层更新，保持并行性的同时提升深层网络性能。适用于分布式训练、边缘计算等资源受限场景，为高效深度学习提供新思路。",
+  "tags": [
+    "Local Learning",
+    "Spectral Methods",
+    "Deep Learning",
+    "Parallel Training",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

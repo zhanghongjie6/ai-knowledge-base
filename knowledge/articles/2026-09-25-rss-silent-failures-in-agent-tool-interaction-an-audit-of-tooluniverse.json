@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-003",
+  "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+  "source_url": "https://arxiv.org/abs/2609.26836",
+  "source_type": "rss",
+  "summary": "本文对ToolUniverse中的智能体-工具交互进行了审计，揭示了工具调用过程中普遍存在的静默失败现象。研究指出，当前自动化流水线在集成多工具时，错误常被掩盖而不被察觉，导致系统可靠性下降。该工作为智能体系统的鲁棒性评估提供了新视角，适用于AI Agent开发、工具编排及可靠性测试等场景。",
+  "tags": [
+    "Agent",
+    "Tool Use",
+    "Reliability",
+    "Audit",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

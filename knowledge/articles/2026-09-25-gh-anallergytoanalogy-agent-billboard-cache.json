@@ -1,0 +1,19 @@
+{
+  "id": "github-20260925-006",
+  "title": "AnAllergyToAnalogy/agent-billboard-cache",
+  "source_url": "https://github.com/AnAllergyToAnalogy/agent-billboard-cache",
+  "source_type": "github_trending",
+  "summary": "该项目利用 GitHub 免费基础设施（如 Issues、Actions 等）构建轻量级缓存层，为 AI Agent 提供低成本、够用即可的缓存方案。技术亮点在于巧妙复用现有平台能力，无需额外服务器或数据库，适合个人开发者和小型项目快速集成，降低 Agent 应用的部署与运维成本。",
+  "tags": [
+    "Agent",
+    "Cache",
+    "GitHub",
+    "Infrastructure",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

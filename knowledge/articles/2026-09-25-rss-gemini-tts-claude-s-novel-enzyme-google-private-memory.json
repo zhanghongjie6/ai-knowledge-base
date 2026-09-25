@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260925-008",
+  "title": "Gemini TTS 🗣️, Claude’s novel enzyme 🧬, Google private memory 🔒",
+  "source_url": "https://tldr.tech/ai/2026-09-24",
+  "source_type": "rss",
+  "summary": "本期简报汇总三项AI进展：Gemini推出文本转语音（TTS）能力，提升语音合成的自然度与多场景适用性；Claude展示在新型酶设计上的应用，体现大模型在生物科研中的潜力；Google则聚焦隐私保护，推出私有记忆功能，让AI在个性化服务中兼顾数据安全。整体覆盖语音、科研与隐私三大方向，适合关注AI落地与合规的读者快速了解前沿动态。",
+  "tags": [
+    "TTS",
+    "LLM",
+    "Privacy",
+    "Biotech",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260925-004",
+  "title": "COMED: The Missing Middle Between Routing and Collaboration in Multi-LLM Inference",
+  "source_url": "https://arxiv.org/abs/2609.26913",
+  "source_type": "rss",
+  "summary": "COMED 提出多 LLM 推理中路由与协作之间的缺失环节，旨在解决单一模型难以在所有查询上保持可靠的问题。该方法通过动态选择与协同多个 LLM，兼顾效率与准确性，适用于需要高可靠性的复杂问答、推理与生成任务，为多模型系统设计提供新思路。",
+  "tags": [
+    "LLM",
+    "Multi-Model",
+    "Inference",
+    "Routing",
+    "Collaboration",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

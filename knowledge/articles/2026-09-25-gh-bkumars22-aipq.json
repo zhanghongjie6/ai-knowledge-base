@@ -1,0 +1,19 @@
+{
+  "id": "github-20260925-001",
+  "title": "bkumars22/AIPQ",
+  "source_url": "https://github.com/bkumars22/AIPQ",
+  "source_type": "github_trending",
+  "summary": "AIPQ 是一个基于 AI 的自动化渗透测试工具，利用大语言模型智能分析目标并生成攻击路径。它集成了侦察、漏洞扫描与利用模块，可自动执行常见 Web 安全测试任务。技术亮点在于将 LLM 推理与安全工具链结合，降低渗透测试门槛，适合安全研究人员和初学者快速评估目标安全性。",
+  "tags": [
+    "Security",
+    "LLM",
+    "Pentest",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

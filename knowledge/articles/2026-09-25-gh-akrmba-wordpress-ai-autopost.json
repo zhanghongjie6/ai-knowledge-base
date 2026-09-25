@@ -1,0 +1,19 @@
+{
+  "id": "github-20260925-004",
+  "title": "akrmba/wordpress-ai-autopost",
+  "source_url": "https://github.com/akrmba/wordpress-ai-autopost",
+  "source_type": "github_trending",
+  "summary": "这是一个实验性的 WordPress AI 自动发布插件，目前仍在开发中。它尝试将 AI 内容生成与 WordPress 发布流程结合，实现自动撰写并发布文章，适合想探索自动化内容运营的开发者或站长。由于项目处于早期阶段，功能尚不完善，稳定性和可用性有待验证，建议仅用于测试和学习。",
+  "tags": [
+    "WordPress",
+    "AI",
+    "Automation",
+    "Plugin",
+    "github"
+  ],
+  "score": 4,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

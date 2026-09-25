@@ -1,0 +1,19 @@
+{
+  "id": "github-20260925-008",
+  "title": "Cashnaruto/vidclaw",
+  "source_url": "https://github.com/Cashnaruto/vidclaw",
+  "source_type": "github_trending",
+  "summary": "VidClaw 是一个自托管的 OpenClaw AI 代理管理控制中心，提供任务看板、用量追踪和模型无缝切换功能，帮助用户安全地管理 AI 代理。它适合需要集中监控代理运行状态、控制成本并灵活切换底层模型的开发者和团队，强调数据自主与安全。",
+  "tags": [
+    "Agent",
+    "Self-hosted",
+    "Dashboard",
+    "Model Switching",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}

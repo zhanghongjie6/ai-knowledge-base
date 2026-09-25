@@ -1,0 +1,20 @@
+{
+  "id": "github-20260925-002",
+  "title": "Agentic-AI-for-EIC/eic-streaming-tracking-benchmark",
+  "source_url": "https://github.com/Agentic-AI-for-EIC/eic-streaming-tracking-benchmark",
+  "source_type": "github_trending",
+  "summary": "该项目为电子离子对撞机（EIC）提供流式粒子追踪基准测试框架，聚焦于实时数据处理与在线重建场景。技术亮点包括流式追踪算法评估、标准化指标与可复现流程，支持AI代理在极端数据率下优化追踪性能。适用于高能物理实验、实时事件筛选及AI驱动科学发现等场景。",
+  "tags": [
+    "Streaming",
+    "ParticleTracking",
+    "Benchmark",
+    "HighEnergyPhysics",
+    "AI4Science",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-25T02:54:46+00:00",
+  "updated_at": "2026-09-25T02:54:46+00:00"
+}
