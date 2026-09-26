@@ -1,0 +1,19 @@
+{
+  "id": "github-20260926-001",
+  "title": "Dimitdisini/Ai-Sendiri",
+  "source_url": "https://github.com/Dimitdisini/Ai-Sendiri",
+  "source_type": "github_trending",
+  "summary": "该项目是一个开源AI工具集合，旨在帮助用户快速搭建本地化AI应用。核心亮点在于集成多种模型接口与简易部署脚本，支持文本生成、对话及自动化任务。适合开发者与爱好者进行原型验证、学习AI集成，或构建个人助手。技术门槛较低，但功能相对基础，缺乏深度定制与生产级优化。",
+  "tags": [
+    "AI",
+    "OpenSource",
+    "LocalDeployment",
+    "Toolkit",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-26T02:58:04+00:00",
+  "updated_at": "2026-09-26T02:58:04+00:00"
+}

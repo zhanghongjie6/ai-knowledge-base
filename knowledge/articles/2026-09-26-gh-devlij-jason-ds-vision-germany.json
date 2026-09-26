@@ -1,0 +1,19 @@
+{
+  "id": "github-20260926-005",
+  "title": "devlij/jason-ds-vision-germany",
+  "source_url": "https://github.com/devlij/jason-ds-vision-germany",
+  "source_type": "github_trending",
+  "summary": "该项目利用AI生成艺术手法，为德国16个联邦州各创作一幅视觉作品，以画廊形式展示。每页对应一个州，融合地域特色与AI创意，适合艺术爱好者、旅行者及AI生成艺术研究者浏览参考。技术亮点在于批量生成与网页画廊的轻量结合，但整体偏展示性，实用价值有限。",
+  "tags": [
+    "AI Art",
+    "Gallery",
+    "Germany",
+    "Generative",
+    "github"
+  ],
+  "score": 4,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-26T02:58:04+00:00",
+  "updated_at": "2026-09-26T02:58:04+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20260926-002",
+  "title": "Wranked1/DDNet-AI",
+  "source_url": "https://github.com/Wranked1/DDNet-AI",
+  "source_type": "github_trending",
+  "summary": "DDNet-AI 是一个能自动玩 DDNet 游戏中的 block 模式的开源机器人。它通过计算机视觉和强化学习技术，实时分析游戏画面并控制角色移动，实现全自动游玩。该项目以单个 Windows exe 文件分发，支持俄语和英语，方便玩家快速体验。其核心价值在于展示了 AI 在复杂游戏环境中的实时决策能力，适用于游戏自动化测试、AI 训练研究以及娱乐演示等场景。",
+  "tags": [
+    "Game AI",
+    "Reinforcement Learning",
+    "Computer Vision",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-09-26T02:58:04+00:00",
+  "updated_at": "2026-09-26T02:58:04+00:00"
+}

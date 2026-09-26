@@ -1,0 +1,20 @@
+{
+  "id": "github-20260926-010",
+  "title": "atomantic/PortOS",
+  "source_url": "https://github.com/atomantic/PortOS",
+  "source_type": "github_trending",
+  "summary": "PortOS 是一个自托管、自改进的联邦式全能应用，集开发管理、智能体编排、持久化思维、数字孪生、第二大脑和创意流水线于单一仪表盘，并通过 Tailscale 实现安全远程访问。其技术亮点在于联邦架构与自改进机制，适合开发者、AI 研究者和创意工作者构建个人化智能工作空间。",
+  "tags": [
+    "Self-hosted",
+    "Agent",
+    "Digital Twin",
+    "Tailscale",
+    "Dashboard",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 40,
+  "status": "draft",
+  "created_at": "2026-09-26T02:58:04+00:00",
+  "updated_at": "2026-09-26T02:58:04+00:00"
+}

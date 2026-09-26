@@ -1,0 +1,20 @@
+{
+  "id": "github-20260926-008",
+  "title": "BrokkAi/mjolnir",
+  "source_url": "https://github.com/BrokkAi/mjolnir",
+  "source_type": "github_trending",
+  "summary": "Mjolnir 是一个用 Rust 编写的终端与 Web 控制平面，用于统一管理 Codex、Claude Code、Muse Code、Kimi Code、Grok Build 和 DeepSeek Harness 等多种 AI 编码代理。它提供持久会话、隔离环境、配额管理和远程控制功能，帮助开发者在多代理协作场景中高效调度资源、避免冲突，并实现跨平台远程操作，适合需要同时使用多个 AI 编码助手的团队或个人。",
+  "tags": [
+    "AI Agents",
+    "Coding Assistant",
+    "Rust",
+    "Control Plane",
+    "Remote Management",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 63,
+  "status": "draft",
+  "created_at": "2026-09-26T02:58:04+00:00",
+  "updated_at": "2026-09-26T02:58:04+00:00"
+}

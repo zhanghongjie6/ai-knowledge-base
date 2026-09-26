@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260926-003",
+  "title": "When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing",
+  "source_url": "https://arxiv.org/abs/2609.28475",
+  "source_type": "rss",
+  "summary": "该研究针对预测智能体在语言模型推理、检索、集成与校准等行为上的可靠性问题，提出行为压力测试与可靠性路由方法，判断何时应启用推理。核心价值在于为智能体决策提供动态路由依据，提升预测准确性与资源效率。技术亮点包括压力测试框架与路由策略。适用于金融、供应链等时序预测场景。",
+  "tags": [
+    "Agent",
+    "Forecasting",
+    "LLM",
+    "Reliability",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-26T02:58:04+00:00",
+  "updated_at": "2026-09-26T02:58:04+00:00"
+}
