@@ -1,0 +1,20 @@
+{
+  "id": "github-20260927-004",
+  "title": "varity-labs/varity-docs",
+  "source_url": "https://github.com/varity-labs/varity-docs",
+  "source_type": "github_trending",
+  "summary": "Varity 是一个一站式部署平台，支持通过单条命令部署 Node、Python 应用、AI 代理和 LLM。其核心优势是成本比 Vercel、Render 和 Railway 低 60-80%，适合需要快速上线 AI 应用且预算有限的开发者。技术亮点包括统一部署流程、多语言支持以及内置 AI 代理与 LLM 集成，降低了运维复杂度。",
+  "tags": [
+    "Deployment",
+    "AI Agents",
+    "LLM",
+    "Node.js",
+    "Python",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-27T03:01:36+00:00",
+  "updated_at": "2026-09-27T03:01:36+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260927-006",
+  "title": "Push images to Vercel Container Registry from GitHub Actions",
+  "source_url": "https://vercel.com/changelog/vcr-login-github-action",
+  "source_type": "rss",
+  "summary": "Vercel 推出 GitHub Action，允许在 CI/CD 工作流中直接登录 Vercel Container Registry 并推送容器镜像。该功能简化了从 GitHub Actions 部署容器化应用到 Vercel 的流程，无需手动配置凭证或编写复杂脚本。技术亮点在于与 Vercel 生态无缝集成，支持自动化构建和推送镜像，适用于使用 Vercel 部署容器化应用的开发团队，提升 DevOps 效率。",
+  "tags": [
+    "Vercel",
+    "GitHub Actions",
+    "CI/CD",
+    "Container Registry",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-27T03:01:37+00:00",
+  "updated_at": "2026-09-27T03:01:37+00:00"
+}

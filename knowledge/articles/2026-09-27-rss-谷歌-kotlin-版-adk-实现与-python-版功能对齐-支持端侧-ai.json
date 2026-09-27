@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260927-001",
+  "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+  "source_url": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "谷歌发布 Kotlin 版 Agent Development Kit（ADK），功能与 Python 版全面对齐，并新增端侧 AI 支持。开发者可用 Kotlin 构建智能体，在 Android 等设备上本地运行，降低延迟与隐私风险。该工具简化多智能体编排、工具调用与状态管理，适用于移动端 AI 助手、离线场景及边缘计算应用。",
+  "tags": [
+    "Agent",
+    "Kotlin",
+    "On-device AI",
+    "Android",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-27T03:01:36+00:00",
+  "updated_at": "2026-09-27T03:01:36+00:00"
+}

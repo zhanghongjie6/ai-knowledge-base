@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260927-004",
+  "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
+  "source_type": "rss",
+  "summary": "本文介绍在Amazon EKS上利用EFA和DeepEP扩展MoE强化学习，实现40%吞吐量提升。架构结合EKS、EFA和DeepEP优化专家并行通信，降低训练延迟。适用于大规模MoE模型RL训练场景，帮助工程师快速部署高效分布式训练。",
+  "tags": [
+    "MoE",
+    "Reinforcement Learning",
+    "Amazon EKS",
+    "EFA",
+    "DeepEP",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-27T03:01:37+00:00",
+  "updated_at": "2026-09-27T03:01:37+00:00"
+}

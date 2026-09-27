@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260927-005",
+  "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+  "source_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+  "source_type": "rss",
+  "summary": "GitHub Copilot 推出画布功能，允许用户用自然语言描述所需界面，由 AI 代理实时生成可交互的工作界面。用户与代理可共同使用和更新该界面，从而减少适应工具的时间，专注于完成任务。该功能降低了自定义工作流的门槛，适合开发者快速构建原型、数据看板或自动化流程，提升人机协作效率。",
+  "tags": [
+    "GitHub Copilot",
+    "AI Agent",
+    "Workflow",
+    "No-Code",
+    "Developer Tools",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-27T03:01:37+00:00",
+  "updated_at": "2026-09-27T03:01:37+00:00"
+}

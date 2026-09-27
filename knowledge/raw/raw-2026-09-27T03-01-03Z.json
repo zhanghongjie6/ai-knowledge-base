@@ -1,0 +1,172 @@
+[
+  {
+    "title": "tushar29k/pr-review-agent",
+    "url": "https://github.com/tushar29k/pr-review-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Automated PR reviewer: deterministic checks + swappable LLM backend, CLI + API, evals",
+    "pushed_at": "2026-09-27T03:00:49Z",
+    "created_at_source": "2026-09-20T22:46:14Z"
+  },
+  {
+    "title": "databasetherufidz/aisilabusTRI03",
+    "url": "https://github.com/databasetherufidz/aisilabusTRI03",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-27T03:00:47Z",
+    "created_at_source": "2026-09-27T00:42:52Z"
+  },
+  {
+    "title": "Ramachandra-075/kaggle-topper-agent",
+    "url": "https://github.com/Ramachandra-075/kaggle-topper-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-27T03:00:47Z",
+    "created_at_source": "2026-09-25T15:39:22Z"
+  },
+  {
+    "title": "varity-labs/varity-docs",
+    "url": "https://github.com/varity-labs/varity-docs",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Official Varity documentation: deploy Node and Python apps, AI agents, and LLMs in one command. 60-80% cheaper than Vercel, Render, and Railway.",
+    "pushed_at": "2026-09-27T03:00:47Z",
+    "created_at_source": "2026-01-28T15:41:30Z"
+  },
+  {
+    "title": "Pursue-LLL/myrm-agent",
+    "url": "https://github.com/Pursue-LLL/myrm-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-27T03:00:46Z",
+    "created_at_source": "2026-06-02T10:29:46Z"
+  },
+  {
+    "title": "frostbound12563/Doors-AI",
+    "url": "https://github.com/frostbound12563/Doors-AI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "I told an AI to recreate doors and this is what it gave me",
+    "pushed_at": "2026-09-27T03:00:46Z",
+    "created_at_source": "2026-09-27T02:41:42Z"
+  },
+  {
+    "title": "ompyr11/Ompyr",
+    "url": "https://github.com/ompyr11/Ompyr",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "OMPYR – Problem-Solution Company Operating System powered by AI and software.",
+    "pushed_at": "2026-09-27T03:00:46Z",
+    "created_at_source": "2026-09-26T10:22:06Z"
+  },
+  {
+    "title": "nitishkumarpidikiti457/enterprise_rag_and_agentic_ai",
+    "url": "https://github.com/nitishkumarpidikiti457/enterprise_rag_and_agentic_ai",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-27T03:00:46Z",
+    "created_at_source": "2026-09-27T02:41:02Z"
+  },
+  {
+    "title": "woaiyudian/agent-redirect",
+    "url": "https://github.com/woaiyudian/agent-redirect",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "???????",
+    "pushed_at": "2026-09-27T03:00:46Z",
+    "created_at_source": "2026-09-22T12:59:20Z"
+  },
+  {
+    "title": "HKUDS/Vibe-Trading",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "source": "github_trending",
+    "popularity": 34084,
+    "summary": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "pushed_at": "2026-09-27T03:00:46Z",
+    "created_at_source": "2026-04-01T09:52:20Z"
+  },
+  {
+    "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+    "url": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+    "url": "https://sspai.com/post/114958",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
+    "url": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Former Ukrainian Defense Minister Mykhailo Fedorov has announced \"Army of Robots,\" a private combat robotics initiative. The robots would handle casualty evacuation, mine clearance, and combat. Drones",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Scaling MoE reinforcement learning on Amazon EKS with EFA and DeepEP with 40% more throughput",
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-moe-reinforcement-learning-on-amazon-eks-with-efa-and-deepep-with-40-more-throughput/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Learn how to scale Mixture-of-Experts (MoE) reinforcement learning on Amazon EKS using Elastic Fabric Adapter (EFA) and DeepEP. This post presents an architecture that combines Amazon EKS, EFA, and Am",
+    "feed_name": "AWS ML Blog"
+  },
+  {
+    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.\nThe post",
+    "feed_name": "GitHub Blog"
+  },
+  {
+    "title": "Push images to Vercel Container Registry from GitHub Actions",
+    "url": "https://vercel.com/changelog/vcr-login-github-action",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Vercel News"
+  },
+  {
+    "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+    "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe",
+    "feed_name": "MIT Tech Review"
+  },
+  {
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The de",
+    "feed_name": "The Verge AI"
+  },
+  {
+    "title": "Token Optimization Techniques for AI Apps: Caps and Cost Control",
+    "url": "https://dev.to/smartgate/token-optimization-techniques-for-ai-apps-caps-and-cost-control-21an",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Short answer: Token optimization for AI apps is four disciplines in one request path: measure tokens before you spend them, shape and compress the payload before the model sees it, cache and route so ",
+    "feed_name": "DEV.to AI"
+  },
+  {
+    "title": "MakerMap",
+    "url": "https://www.producthunt.com/products/makermap",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "A living map of makers and what they’re building\n          \n          \n            Discussion\n            |\n            Link",
+    "feed_name": "Product Hunt"
+  }
+]

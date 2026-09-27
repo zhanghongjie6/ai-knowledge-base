@@ -1,0 +1,18 @@
+{
+  "id": "github-20260927-002",
+  "title": "databasetherufidz/aisilabusTRI03",
+  "source_url": "https://github.com/databasetherufidz/aisilabusTRI03",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI教学大纲生成工具，利用大语言模型根据课程主题自动生成结构化的教学大纲，包含学习目标、周次安排和评估方式。技术亮点在于提示工程与模板化输出，适合教师快速备课或学生自学规划，能显著节省课程设计时间。",
+  "tags": [
+    "LLM",
+    "Education",
+    "Prompt Engineering",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-27T03:01:36+00:00",
+  "updated_at": "2026-09-27T03:01:36+00:00"
+}

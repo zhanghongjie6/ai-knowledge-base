@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260927-009",
+  "title": "Token Optimization Techniques for AI Apps: Caps and Cost Control",
+  "source_url": "https://dev.to/smartgate/token-optimization-techniques-for-ai-apps-caps-and-cost-control-21an",
+  "source_type": "rss",
+  "summary": "本文介绍了AI应用中的Token优化技术，涵盖测量、压缩、缓存和路由四个环节。通过预计算Token、压缩请求负载、缓存响应和智能路由，可有效控制成本并提升效率。适用于所有调用大模型API的开发者，尤其对高频率、长上下文场景有直接帮助。",
+  "tags": [
+    "Token Optimization",
+    "Cost Control",
+    "LLM",
+    "API",
+    "Caching",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-27T03:01:37+00:00",
+  "updated_at": "2026-09-27T03:01:37+00:00"
+}

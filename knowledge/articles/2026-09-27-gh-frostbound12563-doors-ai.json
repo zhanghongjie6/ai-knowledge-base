@@ -1,0 +1,19 @@
+{
+  "id": "github-20260927-006",
+  "title": "frostbound12563/Doors-AI",
+  "source_url": "https://github.com/frostbound12563/Doors-AI",
+  "source_type": "github_trending",
+  "summary": "该项目展示了用AI生成《Doors》游戏复刻版的结果，核心价值在于直观呈现当前AI在游戏逻辑与交互设计上的能力边界。技术亮点是端到端生成可玩原型，适合开发者了解AI辅助游戏开发的实际效果与局限，也可作为教学演示案例。",
+  "tags": [
+    "AI",
+    "GameDev",
+    "Prototype",
+    "CodeGeneration",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-27T03:01:36+00:00",
+  "updated_at": "2026-09-27T03:01:36+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20260927-008",
+  "title": "nitishkumarpidikiti457/enterprise_rag_and_agentic_ai",
+  "source_url": "https://github.com/nitishkumarpidikiti457/enterprise_rag_and_agentic_ai",
+  "source_type": "github_trending",
+  "summary": "该项目展示了企业级RAG与智能体AI的完整实现方案，涵盖文档检索、向量数据库、多智能体协作等核心模块。技术亮点包括模块化架构设计、可扩展的检索增强生成流程，以及智能体任务编排能力。适用于企业知识库问答、智能客服、自动化工作流等场景，帮助开发者快速构建生产级AI应用。",
+  "tags": [
+    "RAG",
+    "Agent",
+    "Enterprise",
+    "LLM",
+    "VectorDB",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-27T03:01:36+00:00",
+  "updated_at": "2026-09-27T03:01:36+00:00"
+}
