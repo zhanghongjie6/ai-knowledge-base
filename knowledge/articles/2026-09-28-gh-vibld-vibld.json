@@ -1,0 +1,20 @@
+{
+  "id": "github-20260928-006",
+  "title": "vibld/vibld",
+  "source_url": "https://github.com/vibld/vibld",
+  "source_type": "github_trending",
+  "summary": "vibld 是一个开源 AI 应用构建器，用户只需用自然语言描述网站或应用，即可生成可读、可运行、可迁移的真实 React 项目。它降低了开发门槛，让非专业开发者也能快速获得完整代码，同时方便专业开发者在此基础上二次开发。适用于快速原型设计、教学演示和轻量级产品搭建。",
+  "tags": [
+    "AI",
+    "React",
+    "Code Generation",
+    "Open Source",
+    "Low-Code",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}

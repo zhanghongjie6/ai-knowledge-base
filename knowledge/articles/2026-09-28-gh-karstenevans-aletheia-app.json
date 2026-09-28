@@ -1,0 +1,20 @@
+{
+  "id": "github-20260928-002",
+  "title": "KarstenEvans/aletheia-app",
+  "source_url": "https://github.com/KarstenEvans/aletheia-app",
+  "source_type": "github_trending",
+  "summary": "Aletheia 是一个基于 Aletheia 协议的可移植 Markdown 与 HTML 应用框架，专为证据感知型 AI 任务设计。其核心价值在于让 AI 应用明确标注能力边界，避免过度承诺，并支持可选配套协议扩展。技术亮点包括轻量级可移植格式、证据追踪机制与诚实的能力声明。适用于需要可审计、可信 AI 输出的场景，如研究辅助、合规审查与知识管理。",
+  "tags": [
+    "AI",
+    "Markdown",
+    "Protocol",
+    "Evidence",
+    "Portable",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}

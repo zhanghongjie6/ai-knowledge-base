@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-004",
+  "title": "Google Research Introduces an AI Video Co-Director: 4 Agentic Frameworks for Coherent, Minutes-Long Video Generation",
+  "source_url": "https://www.marktechpost.com/2026/09/27/google-research-introduces-an-ai-video-co-director-4-agentic-frameworks-for-coherent-minutes-long-video-generation/",
+  "source_type": "rss",
+  "summary": "Google Research 推出 AI 视频联合导演系统，包含 4 个智能体框架，可将短视频片段转化为连贯的分钟级长视频。该系统通过多智能体协作解决身份漂移、场景一致性等长视频生成难题，适用于影视预演、广告创作和自动化内容生产等场景。",
+  "tags": [
+    "Video Generation",
+    "Multi-Agent",
+    "Google Research",
+    "Long-Form Video",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}

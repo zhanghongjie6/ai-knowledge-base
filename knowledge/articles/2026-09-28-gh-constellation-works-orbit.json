@@ -1,0 +1,20 @@
+{
+  "id": "github-20260928-003",
+  "title": "constellation-works/orbit",
+  "source_url": "https://github.com/constellation-works/orbit",
+  "source_type": "github_trending",
+  "summary": "Orbit 是一个面向 AI 编码代理的本地优先交付层。它将代理任务在沙箱化工作树中执行，通过文件锁和审查门控确保安全，每次运行最终生成一个拉取请求。核心价值在于为 AI 编码代理提供可审计、可控制的本地执行环境，适合需要安全集成 AI 代码贡献的开发团队。",
+  "tags": [
+    "AI Coding Agent",
+    "Local-first",
+    "Sandbox",
+    "Pull Request",
+    "Workflow",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 11,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}

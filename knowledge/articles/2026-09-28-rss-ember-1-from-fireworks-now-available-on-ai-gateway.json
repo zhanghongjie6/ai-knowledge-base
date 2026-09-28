@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-005",
+  "title": "Ember-1 from Fireworks now available on AI Gateway",
+  "source_url": "https://vercel.com/changelog/ember-1-from-fireworks-now-available-on-ai-gateway",
+  "source_type": "rss",
+  "summary": "Vercel AI Gateway 现已接入 Fireworks 的 Ember-1 模型，开发者可通过统一 API 直接调用该模型，无需单独配置 Fireworks 账户或管理密钥。此举简化了多模型集成流程，提升了开发效率，适用于需要快速切换和测试不同大模型的 AI 应用开发场景。",
+  "tags": [
+    "AI Gateway",
+    "Fireworks",
+    "LLM",
+    "API",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}

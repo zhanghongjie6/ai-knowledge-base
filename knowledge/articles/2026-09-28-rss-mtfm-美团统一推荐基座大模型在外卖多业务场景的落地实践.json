@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260928-010",
+  "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+  "source_url": "https://tech.meituan.com/2026/09/22/Meituan-Foundation-Model-for-Recommendation.html",
+  "source_type": "rss",
+  "summary": "美团在MTGR基础上提出统一推荐基座大模型MTFM，首次实现外卖多个主要业务的统一精排模型。该模型通过共享底层参数与业务自适应层，解决多业务数据稀疏与冷启动问题，提升推荐精度与训练效率。技术亮点包括统一基座架构、多业务联合训练及在线推理优化。适用于外卖、到店等大规模推荐场景，为多业务推荐系统提供可复用的基础模型方案。",
+  "tags": [
+    "Recommendation",
+    "Foundation Model",
+    "Multi-Task",
+    "Meituan",
+    "Ranking",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}

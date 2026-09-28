@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260928-001",
+  "title": "生成式到代理式跃迁：构建保险后援数字分身｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/9UvorlMxKgjEoFauQ4py?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍从生成式AI到代理式AI的跃迁，并分享在保险后援领域构建数字分身的实践。技术亮点包括多智能体协作、任务规划与工具调用，实现自动化理赔、客服等场景。该方案能提升保险后援效率，降低人工成本，为金融行业智能化提供参考。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "Insurance",
+    "Digital Twin",
+    "Automation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}

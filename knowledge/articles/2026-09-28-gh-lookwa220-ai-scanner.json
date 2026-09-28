@@ -1,0 +1,20 @@
+{
+  "id": "github-20260928-009",
+  "title": "lookwa220/ai-scanner",
+  "source_url": "https://github.com/lookwa220/ai-scanner",
+  "source_type": "github_trending",
+  "summary": "该项目是一个移动端摄像头检测演示，结合Teachable Machine训练的图像分类模型与Google Sheets作为数据存储，实现实时拍照识别并记录结果。技术亮点在于无需后端即可快速搭建AI检测流程，利用浏览器端TensorFlow.js推理，通过Sheets API写入数据。适用于教育演示、轻量级质检、现场巡检等场景，帮助非开发者快速验证AI视觉应用。",
+  "tags": [
+    "TeachableMachine",
+    "TensorFlow.js",
+    "GoogleSheets",
+    "Mobile",
+    "ComputerVision",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260928-006",
+  "title": "Engram is a sampler that turns broken AI hallucinations into music",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+  "source_type": "rss",
+  "summary": "Engram 是 Thoughtful Things 推出的 AI 采样器与 groovebox，通过 Kickstarter 众筹。它利用 AI 对输入音频进行变形处理，甚至将 AI 幻觉转化为音乐素材。核心价值在于为音乐人提供独特的创作工具，将 AI 的不可预测性变为创意来源。技术亮点包括实时音频 mangling 和幻觉生成。适用于电子音乐制作、实验音乐和现场表演。",
+  "tags": [
+    "AI",
+    "Music",
+    "Sampler",
+    "Groovebox",
+    "Audio",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}

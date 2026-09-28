@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260928-007",
+  "title": "How to build an MCP server — and actually get it used",
+  "source_url": "https://dev.to/yahhi/how-to-build-an-mcp-server-and-actually-get-it-used-5331",
+  "source_type": "rss",
+  "summary": "本文作者分享了构建远程MCP服务器的实战经验，指出协议实现仅需一个下午，但真正的挑战在于让服务器被实际使用。文章强调MCP协议本身简单，但部署、发现、认证和用户采纳等环节才是关键。适合开发者快速了解MCP落地中的非技术障碍，并获取实用建议。",
+  "tags": [
+    "MCP",
+    "Server",
+    "Protocol",
+    "Developer Experience",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}

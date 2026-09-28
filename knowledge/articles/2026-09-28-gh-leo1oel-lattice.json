@@ -1,0 +1,20 @@
+{
+  "id": "github-20260928-007",
+  "title": "leo1oel/lattice",
+  "source_url": "https://github.com/leo1oel/lattice",
+  "source_type": "github_trending",
+  "summary": "Lattice 是一个本地优先、智能体优先的科学 LaTeX 写作环境，旨在通过 AI 代理辅助用户高效撰写学术论文。其核心价值在于将 LaTeX 编辑与智能体工作流深度结合，支持本地运行以保障数据隐私。技术亮点包括智能体驱动的自动补全、文献管理和格式检查，适用于科研人员、学生等需要频繁撰写复杂 LaTeX 文档的场景。",
+  "tags": [
+    "LaTeX",
+    "Agent",
+    "Local-first",
+    "Scientific Writing",
+    "AI Assistant",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 7,
+  "status": "draft",
+  "created_at": "2026-09-28T02:59:59+00:00",
+  "updated_at": "2026-09-28T02:59:59+00:00"
+}
