@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260929-007",
+  "title": "NVIDIA Launches Open Agent Safety Platform: OpenShell Sandboxes Agents on Vera CPUs While Sentry on BlueField-4 Quarantines Them in Milliseconds",
+  "source_url": "https://www.marktechpost.com/2026/09/28/nvidia-launches-open-agent-safety-platform/",
+  "source_type": "rss",
+  "summary": "英伟达推出开放代理安全平台，通过外部强制机制保障AI代理安全。OpenShell（Apache 2.0运行时）在Vera CPU上以YAML策略沙箱化代理，Sentry在BlueField-4 DPU上毫秒级隔离违规代理。该平台将安全执行与代理本身解耦，适用于企业级AI代理部署，防止越权操作和恶意行为。",
+  "tags": [
+    "AI Safety",
+    "Agent",
+    "NVIDIA",
+    "Sandbox",
+    "DPU",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

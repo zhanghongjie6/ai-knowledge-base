@@ -1,0 +1,20 @@
+{
+  "id": "github-20260929-004",
+  "title": "robdevops/envirobot",
+  "source_url": "https://github.com/robdevops/envirobot",
+  "source_type": "github_trending",
+  "summary": "Envirobot 是一个基于 Telegram 的 LLM 机器人，集成 Ecowitt 和 AirGradient 环境监测设备，实时获取并分析空气质量与气象数据。用户通过自然语言查询即可获得智能解读与建议，技术亮点在于将 LLM 与物联网传感器数据结合，适用于家庭、办公室等场景的环境健康管理。",
+  "tags": [
+    "LLM",
+    "IoT",
+    "Telegram",
+    "AirQuality",
+    "Bot",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

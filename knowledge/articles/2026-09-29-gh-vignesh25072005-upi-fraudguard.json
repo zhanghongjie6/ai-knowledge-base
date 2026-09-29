@@ -1,0 +1,19 @@
+{
+  "id": "github-20260929-008",
+  "title": "vignesh25072005/upi_fraudguard",
+  "source_url": "https://github.com/vignesh25072005/upi_fraudguard",
+  "source_type": "github_trending",
+  "summary": "UPI FraudGuard AI 是一个基于机器学习的 UPI 交易欺诈检测系统，通过分析交易数据识别可疑模式，将交易分类为合法或欺诈。项目提供完整的训练与推理流程，适合支付安全场景，帮助金融机构实时拦截异常交易，降低资金损失风险。",
+  "tags": [
+    "Fraud Detection",
+    "Machine Learning",
+    "UPI",
+    "FinTech",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

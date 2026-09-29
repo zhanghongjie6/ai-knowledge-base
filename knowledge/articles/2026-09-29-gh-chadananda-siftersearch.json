@@ -1,0 +1,19 @@
+{
+  "id": "github-20260929-009",
+  "title": "chadananda/siftersearch",
+  "source_url": "https://github.com/chadananda/siftersearch",
+  "source_type": "github_trending",
+  "summary": "SifterSearch 是一个面向 RAG 应用的库管理后台，帮助开发者集中管理文档、向量索引与检索配置。其技术亮点在于将 RAG 流程中的知识库维护、数据清洗与检索调优整合为可视化界面，降低运维门槛。适用于需要快速搭建和迭代 RAG 知识库的团队，尤其适合内部文档问答、客服知识库等场景。",
+  "tags": [
+    "RAG",
+    "Vector Database",
+    "Admin Dashboard",
+    "Knowledge Base",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

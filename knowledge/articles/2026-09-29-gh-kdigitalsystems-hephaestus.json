@@ -1,0 +1,19 @@
+{
+  "id": "github-20260929-003",
+  "title": "kdigitalsystems/Hephaestus",
+  "source_url": "https://github.com/kdigitalsystems/Hephaestus",
+  "source_type": "github_trending",
+  "summary": "Hephaestus 是一款基于本地 LLM 的自动化供应链映射工具，专注于追踪半导体硬件依赖关系并识别下游市场信号。它利用本地大模型分析复杂供应链数据，每日导出关系型数据，帮助用户洞察芯片产业动态与潜在风险。适用于供应链分析、投资研究和地缘政治风险评估等场景。",
+  "tags": [
+    "Supply Chain",
+    "Local LLM",
+    "Semiconductor",
+    "Data Export",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

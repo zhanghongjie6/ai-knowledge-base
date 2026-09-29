@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260929-001",
+  "title": "AI 数据平台，要补的恰恰是“模型不知道的事”",
+  "source_url": "https://www.infoq.cn/article/uwfvFTWwH5Qupo2lBxF6?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "文章探讨AI数据平台的核心价值在于补充模型未知的信息，而非仅提供训练数据。技术亮点包括强调数据平台需整合企业私有知识、实时上下文与业务规则，以增强模型推理的准确性和可解释性。适用场景涵盖企业级AI应用、智能客服、数据分析等需要结合领域知识的任务。",
+  "tags": [
+    "Data Platform",
+    "Enterprise AI",
+    "Knowledge Management",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

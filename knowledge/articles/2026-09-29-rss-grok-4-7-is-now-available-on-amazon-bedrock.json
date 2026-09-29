@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260929-010",
+  "title": "Grok 4.7 is now available on Amazon Bedrock",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/grok-4-7-is-now-available-on-amazon-bedrock/",
+  "source_type": "rss",
+  "summary": "xAI 的 Grok 4.7 前沿模型现已上线 Amazon Bedrock，面向编码、长时运行智能体与知识工作场景。该模型支持 500K token 超长上下文窗口，并提供四档可配置推理强度，方便开发者按任务复杂度平衡质量与成本。借助 Bedrock 托管服务，企业可快速集成并规模化部署，适用于代码生成、复杂文档分析和多步骤自动化工作流。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Amazon Bedrock",
+    "Coding",
+    "Long Context",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

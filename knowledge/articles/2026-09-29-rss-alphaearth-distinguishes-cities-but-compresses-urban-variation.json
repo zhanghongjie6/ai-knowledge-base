@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-005",
+  "title": "AlphaEarth distinguishes cities but compresses urban variation",
+  "source_url": "https://arxiv.org/abs/2609.30356",
+  "source_type": "rss",
+  "summary": "该研究分析AlphaEarth卫星基础模型在城市表征中的表现，发现其能有效区分不同城市，但会压缩城市内部的空间变异。技术亮点在于利用卫星基础模型进行跨城市比较，揭示模型在捕捉城市异质性方面的局限。适用于城市遥感、地理空间分析和城市规划等场景。",
+  "tags": [
+    "Remote Sensing",
+    "Foundation Model",
+    "Urban Analysis",
+    "Geospatial",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

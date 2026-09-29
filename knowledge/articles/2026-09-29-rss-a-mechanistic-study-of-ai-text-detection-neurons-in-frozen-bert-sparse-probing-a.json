@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260929-004",
+  "title": "A Mechanistic Study of AI-Text Detection Neurons in Frozen BERT: Sparse Probing and Activation Patching on RAID",
+  "source_url": "https://arxiv.org/abs/2609.30287",
+  "source_type": "rss",
+  "summary": "该研究对冻结的BERT模型进行机制性分析，通过稀疏探针和激活修补技术，在RAID数据集上定位负责AI文本检测的特定神经元。核心价值在于揭示检测器内部表征机制，提升可解释性，为构建更鲁棒、可迁移的AI文本检测系统提供理论基础，适用于学术研究与内容审核场景。",
+  "tags": [
+    "BERT",
+    "Interpretability",
+    "AI-Text-Detection",
+    "Mechanistic-Analysis",
+    "NLP",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

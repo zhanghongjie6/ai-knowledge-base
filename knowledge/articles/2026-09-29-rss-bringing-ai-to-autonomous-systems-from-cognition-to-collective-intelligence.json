@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260929-003",
+  "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+  "source_url": "https://arxiv.org/abs/2609.30291",
+  "source_type": "rss",
+  "summary": "本文探讨自主系统作为AI发展的终极阶段，阐述从认知到集体智能的演进路径。核心价值在于提出自主系统是AI落地的关键形态，技术亮点包括认知架构与集体智能的融合，适用于多机器人协作、自动驾驶及分布式决策等场景，为自主系统研究提供理论框架。",
+  "tags": [
+    "Autonomous Systems",
+    "Collective Intelligence",
+    "Multi-Agent",
+    "AI",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20260929-010",
+  "title": "vaugouin/fastapi-text2sql",
+  "source_url": "https://github.com/vaugouin/fastapi-text2sql",
+  "source_type": "github_trending",
+  "summary": "该项目基于FastAPI构建REST API，利用任意LLM将自然语言问题转换为SQL查询，并遵循MCP协议。核心价值在于降低数据库查询门槛，让非技术用户也能通过自然语言获取数据。技术亮点包括灵活的LLM集成、标准化的MCP接口以及高效的FastAPI框架。适用于数据分析、BI工具和智能客服等场景。",
+  "tags": [
+    "Text2SQL",
+    "FastAPI",
+    "LLM",
+    "MCP",
+    "REST API",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

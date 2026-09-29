@@ -1,0 +1,19 @@
+{
+  "id": "github-20260929-002",
+  "title": "sudosubin/agents.nix",
+  "source_url": "https://github.com/sudosubin/agents.nix",
+  "source_type": "github_trending",
+  "summary": "agents.nix 是一个 Nixpkgs overlay，将 skills.sh 和 skillsdirectory.com 上的 AI agent 技能打包为可复现的 Nix 包。它让 Nix 用户能以声明式方式安装、管理和锁定 AI agent 技能，解决技能来源分散、版本不可控的问题。适用于使用 NixOS 或 home-manager 的开发者在本地或 CI 中统一配置 AI agent 能力。",
+  "tags": [
+    "Nix",
+    "Agent",
+    "Package Manager",
+    "Reproducibility",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 14,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

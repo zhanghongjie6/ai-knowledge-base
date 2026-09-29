@@ -1,0 +1,20 @@
+{
+  "id": "github-20260929-007",
+  "title": "plasmate-labs/plasmate",
+  "source_url": "https://github.com/plasmate-labs/plasmate",
+  "source_type": "github_trending",
+  "summary": "Plasmate 是专为 AI Agent 设计的浏览器引擎，将 HTML 输入转化为结构化语义对象模型（SOM），原生支持 MCP 与 AWP 协议，并提供受支持的 CDP 子集。它解决了 Agent 直接解析网页时噪声大、结构混乱的问题，让智能体以语义化方式理解页面，适用于网页自动化、信息抽取和 Agent 工具调用等场景。",
+  "tags": [
+    "Agent",
+    "Browser",
+    "MCP",
+    "Web Automation",
+    "Semantic Model",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 37,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}

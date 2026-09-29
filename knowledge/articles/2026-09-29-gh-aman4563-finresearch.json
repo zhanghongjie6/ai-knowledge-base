@@ -1,0 +1,20 @@
+{
+  "id": "github-20260929-005",
+  "title": "Aman4563/finresearch",
+  "source_url": "https://github.com/Aman4563/finresearch",
+  "source_type": "github_trending",
+  "summary": "该项目是一个本地优先的个人投资研究引擎，利用Claude Code智能体自动生成针对印度IPO的深度、事实核查研究报告。核心亮点在于所有结论均附带引用，并通过Python代码验证，同时支持本地模型回退，确保数据隐私与可靠性。适用于个人投资者或分析师快速获取可信的IPO分析。",
+  "tags": [
+    "Agent",
+    "Finance",
+    "Research",
+    "Local-first",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-29T03:39:50+00:00",
+  "updated_at": "2026-09-29T03:39:50+00:00"
+}
