@@ -1,0 +1,20 @@
+{
+  "id": "github-20260930-007",
+  "title": "cdsap/daemonitor",
+  "source_url": "https://github.com/cdsap/daemonitor",
+  "source_type": "github_trending",
+  "summary": "Daemonitor 是一款针对 Gradle 守护进程的桌面活动监控工具，提供实时进程洞察与构建历史记录，并支持 AI 代理归因。它帮助开发者直观了解构建性能、资源占用及代理行为，适用于持续集成与本地开发调试场景。",
+  "tags": [
+    "Gradle",
+    "Monitoring",
+    "Build",
+    "AI-Agent",
+    "Desktop",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 19,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:46+00:00",
+  "updated_at": "2026-09-30T03:26:46+00:00"
+}

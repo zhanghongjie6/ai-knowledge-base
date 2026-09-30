@@ -1,0 +1,19 @@
+{
+  "id": "github-20260930-001",
+  "title": "yjmyp/ai-learning",
+  "source_url": "https://github.com/yjmyp/ai-learning",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI学习资源仓库，系统整理了大模型、深度学习、NLP等方向的学习路线、课程笔记与实战代码。技术亮点在于内容按主题分层组织，覆盖从数学基础到Transformer、微调与部署全流程，并附带可运行示例。适合初学者建立知识体系，也方便开发者查漏补缺、快速上手AI项目。",
+  "tags": [
+    "LLM",
+    "Deep Learning",
+    "NLP",
+    "Education",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:46+00:00",
+  "updated_at": "2026-09-30T03:26:46+00:00"
+}

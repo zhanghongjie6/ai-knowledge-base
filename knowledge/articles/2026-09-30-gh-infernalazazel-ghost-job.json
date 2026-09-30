@@ -1,0 +1,19 @@
+{
+  "id": "github-20260930-010",
+  "title": "InfernalAzazel/ghost-job",
+  "source_url": "https://github.com/InfernalAzazel/ghost-job",
+  "source_type": "github_trending",
+  "summary": "该项目是面向BOSS直聘的智能投递助手，可自动筛选岗位并利用AI分析职位与简历的匹配度，帮助求职者减少无效沟通、提升投递效率。技术亮点在于将自动化爬取与LLM匹配评估结合，适用于批量求职、岗位初筛和简历优化等场景。",
+  "tags": [
+    "Automation",
+    "JobSearch",
+    "LLM",
+    "Matching",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 23,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:46+00:00",
+  "updated_at": "2026-09-30T03:26:46+00:00"
+}

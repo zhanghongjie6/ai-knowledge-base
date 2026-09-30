@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260930-005",
+  "title": "One Bad Prompt Took Down a Company’s Salesforce: RSA’s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise",
+  "source_url": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
+  "source_type": "rss",
+  "summary": "RSA推出Agent ID平台，旨在发现、保护和管理企业内大量未受管控的AI代理（即“影子AI代理”）。文章以某公司因一个错误提示词导致Salesforce系统瘫痪为例，揭示AI代理在受监管行业中的安全风险。该平台提供代理身份识别、权限治理和实时监控，帮助企业防范因AI自主行为引发的数据泄露和运营事故，适用于金融、医疗等合规要求高的领域。",
+  "tags": [
+    "AI Agent",
+    "Security",
+    "Governance",
+    "Enterprise",
+    "Compliance",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:47+00:00",
+  "updated_at": "2026-09-30T03:26:47+00:00"
+}

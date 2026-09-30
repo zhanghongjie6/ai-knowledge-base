@@ -1,0 +1,20 @@
+{
+  "id": "github-20260930-004",
+  "title": "OwaisMunawar/rn-booking",
+  "source_url": "https://github.com/OwaisMunawar/rn-booking",
+  "source_type": "github_trending",
+  "summary": "这是一个基于 Expo 和 Next.js 的按需预约全栈产品模板，内置 AI 礼宾助手、管理后台与 Supabase 后端。技术亮点在于利用行级安全（RLS）和数据库约束强制防止重复预约，保证数据一致性。适合开发者快速搭建美容、医疗、家政等预约类应用，可直接复用其前后端架构与 AI 集成方案。",
+  "tags": [
+    "Expo",
+    "Next.js",
+    "Supabase",
+    "Booking",
+    "AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:46+00:00",
+  "updated_at": "2026-09-30T03:26:46+00:00"
+}

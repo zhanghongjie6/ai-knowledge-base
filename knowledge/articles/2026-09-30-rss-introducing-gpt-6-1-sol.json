@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260930-007",
+  "title": "Introducing GPT-6.1 Sol",
+  "source_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+  "source_type": "rss",
+  "summary": "GPT-6.1 Sol 是 OpenAI 推出的新一代模型，以 Astra 五分之一的价格提供接近 Astra 的智能水平，专注于编程、计算机操作和专业工作场景。其核心价值在于大幅降低高级 AI 能力的使用成本，让更多开发者和企业能够以更低门槛集成强大的编码与自动化能力，适用于代码生成、软件测试、办公自动化及复杂任务代理等场景。",
+  "tags": [
+    "LLM",
+    "Coding",
+    "Computer Use",
+    "API",
+    "OpenAI",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:47+00:00",
+  "updated_at": "2026-09-30T03:26:47+00:00"
+}

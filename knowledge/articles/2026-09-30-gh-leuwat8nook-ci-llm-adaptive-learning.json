@@ -1,0 +1,19 @@
+{
+  "id": "github-20260930-003",
+  "title": "leuwat8nook-ci/llm-adaptive-learning",
+  "source_url": "https://github.com/leuwat8nook-ci/llm-adaptive-learning",
+  "source_type": "github_trending",
+  "summary": "该项目展示如何利用大语言模型构建自适应学习系统，根据学习者表现动态调整内容难度与路径。技术亮点包括LLM驱动的个性化推荐、实时反馈与知识追踪，适合在线教育、企业培训等场景，帮助提升学习效率与参与度。",
+  "tags": [
+    "LLM",
+    "Adaptive Learning",
+    "Education",
+    "Personalization",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:46+00:00",
+  "updated_at": "2026-09-30T03:26:46+00:00"
+}

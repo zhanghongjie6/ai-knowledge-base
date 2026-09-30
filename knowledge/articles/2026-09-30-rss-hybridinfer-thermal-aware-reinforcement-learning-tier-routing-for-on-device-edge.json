@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260930-003",
+  "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
+  "source_url": "https://arxiv.org/abs/2609.30270",
+  "source_type": "rss",
+  "summary": "HybridInfer 提出一种热感知强化学习路由框架，用于在端侧、边缘和云端之间动态调度 LLM 推理任务。它兼顾端侧推理的隐私、离线与零成本优势，同时通过强化学习根据设备温度、延迟和负载选择最优层级，避免过热降频。适用于移动端 AI 助手、隐私敏感场景和异构边缘计算环境。",
+  "tags": [
+    "LLM",
+    "Edge Computing",
+    "Reinforcement Learning",
+    "On-Device AI",
+    "Inference",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:47+00:00",
+  "updated_at": "2026-09-30T03:26:47+00:00"
+}

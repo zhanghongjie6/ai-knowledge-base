@@ -1,0 +1,19 @@
+{
+  "id": "github-20260930-005",
+  "title": "shashankp89/ai-data-platform",
+  "source_url": "https://github.com/shashankp89/ai-data-platform",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI数据平台，旨在统一管理AI应用的数据管道与存储。技术亮点包括集成向量数据库、数据版本控制及自动化ETL流程，支持RAG与模型训练场景。适用于需要高效处理非结构化数据、构建智能问答或推荐系统的团队，降低数据工程复杂度。",
+  "tags": [
+    "Data Platform",
+    "Vector Database",
+    "RAG",
+    "ETL",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:46+00:00",
+  "updated_at": "2026-09-30T03:26:46+00:00"
+}

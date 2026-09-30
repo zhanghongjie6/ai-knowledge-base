@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260930-008",
+  "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
+  "source_type": "rss",
+  "summary": "亚马逊Bedrock将Anthropic的Claude Opus 5、Sonnet 5和Haiku 4.5模型扩展至印度境内推理，通过地理跨区域推理功能，让印度用户可在本地处理数据的同时访问这些先进模型。此举降低了延迟并满足数据驻留合规要求，适用于印度企业的生成式AI应用开发、内容生成和智能客服等场景。",
+  "tags": [
+    "AWS",
+    "Bedrock",
+    "Claude",
+    "Inference",
+    "India",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:47+00:00",
+  "updated_at": "2026-09-30T03:26:47+00:00"
+}

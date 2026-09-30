@@ -1,0 +1,172 @@
+[
+  {
+    "title": "yjmyp/ai-learning",
+    "url": "https://github.com/yjmyp/ai-learning",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-30T03:26:04Z",
+    "created_at_source": "2026-08-10T04:17:47Z"
+  },
+  {
+    "title": "amienberrl1/llm-adaptive-learning",
+    "url": "https://github.com/amienberrl1/llm-adaptive-learning",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-30T03:26:04Z",
+    "created_at_source": "2026-09-30T03:26:00Z"
+  },
+  {
+    "title": "leuwat8nook-ci/llm-adaptive-learning",
+    "url": "https://github.com/leuwat8nook-ci/llm-adaptive-learning",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-30T03:26:03Z",
+    "created_at_source": "2026-09-30T03:25:58Z"
+  },
+  {
+    "title": "OwaisMunawar/rn-booking",
+    "url": "https://github.com/OwaisMunawar/rn-booking",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "On-demand booking product — Expo app with an AI concierge, Next.js admin panel, and Supabase with RLS and database-enforced no-double-booking.",
+    "pushed_at": "2026-09-30T03:26:03Z",
+    "created_at_source": "2026-09-30T03:26:02Z"
+  },
+  {
+    "title": "shashankp89/ai-data-platform",
+    "url": "https://github.com/shashankp89/ai-data-platform",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI data platform",
+    "pushed_at": "2026-09-30T03:26:03Z",
+    "created_at_source": "2026-09-30T03:25:46Z"
+  },
+  {
+    "title": "goldeneye2006yuigon-a11y/my-ai-notes",
+    "url": "https://github.com/goldeneye2006yuigon-a11y/my-ai-notes",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-30T03:26:03Z",
+    "created_at_source": "2026-09-30T03:26:02Z"
+  },
+  {
+    "title": "cdsap/daemonitor",
+    "url": "https://github.com/cdsap/daemonitor",
+    "source": "github_trending",
+    "popularity": 19,
+    "summary": "Desktop Activity Monitor for your Gradle daemons — live process insight + build history with AI-agent attribution.",
+    "pushed_at": "2026-09-30T03:26:02Z",
+    "created_at_source": "2026-06-25T23:25:31Z"
+  },
+  {
+    "title": "kamalesh6455-bot/LegalEase-AI",
+    "url": "https://github.com/kamalesh6455-bot/LegalEase-AI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "LegalEase: AI",
+    "pushed_at": "2026-09-30T03:26:02Z",
+    "created_at_source": "2026-09-30T03:26:01Z"
+  },
+  {
+    "title": "greeninbluedigital/open-air-allergy-network",
+    "url": "https://github.com/greeninbluedigital/open-air-allergy-network",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-09-30T03:26:01Z",
+    "created_at_source": "2026-09-14T20:09:08Z"
+  },
+  {
+    "title": "InfernalAzazel/ghost-job",
+    "url": "https://github.com/InfernalAzazel/ghost-job",
+    "source": "github_trending",
+    "popularity": 23,
+    "summary": "🤖 BOSS直聘智能投递助手：自动筛选岗位，AI 分析职位与简历匹配度，让每一次沟通都更有价值。",
+    "pushed_at": "2026-09-30T03:26:00Z",
+    "created_at_source": "2026-09-23T03:23:13Z"
+  },
+  {
+    "title": "Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
+    "url": "https://www.infoq.cn/article/Rgb6X5RSD1P8HQzRc0K7?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
+    "url": "https://sspai.com/post/115197",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
+    "url": "https://arxiv.org/abs/2609.30270",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.30270v1 Announce Type: new \nAbstract: On-device inference with small language models keeps user data local, works offline, and incurs no per-query cost, so the on-device tier is preferred w",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+    "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled. The model used fake identities and malic",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "One Bad Prompt Took Down a Company’s Salesforce: RSA’s Jim Taylor on Agent ID and Taming the 4,000 Shadow AI Agents Hiding in Your Enterprise",
+    "url": "https://www.marktechpost.com/2026/09/29/rsa-launches-agent-id-to-discover-secure-and-govern-ai-agents-in-regulated-industries/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Claude Sonnet 5.5 🧠, Anthropic IPO leaks 📝, AMD buys World Labs 💰",
+    "url": "https://tldr.tech/ai/2026-09-29",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Introducing GPT-6.1 Sol",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Amazon Bedrock expands Claude model availability to in-country inferencing in India",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-expands-claude-model-availability-to-india-cross-region-inference/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic's Claude Opus 5, Claude Sonnet 5, and Claude Haiku 4.5 are now available in India through Amazon Bedrock geographic cross-Region inference. You can access these models while processing data ",
+    "feed_name": "AWS ML Blog"
+  },
+  {
+    "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+    "url": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source.\nThe post Developer policy update: Transparency, state policy, and what’s ahead appea",
+    "feed_name": "GitHub Blog"
+  },
+  {
+    "title": "Search trace spans from the Vercel CLI",
+    "url": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Vercel News"
+  }
+]

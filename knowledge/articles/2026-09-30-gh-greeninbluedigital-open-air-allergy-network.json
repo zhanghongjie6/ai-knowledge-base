@@ -1,0 +1,19 @@
+{
+  "id": "github-20260930-009",
+  "title": "greeninbluedigital/open-air-allergy-network",
+  "source_url": "https://github.com/greeninbluedigital/open-air-allergy-network",
+  "source_type": "github_trending",
+  "summary": "该项目构建了一个开放式的户外过敏原监测网络，通过众包传感器数据与公开气象信息，实时追踪花粉、霉菌孢子等过敏原浓度。技术亮点包括分布式数据采集、标准化API接口及可视化地图，帮助过敏人群规划出行。适用于公共卫生研究、个人健康管理及智慧城市环境监测。",
+  "tags": [
+    "IoT",
+    "OpenData",
+    "Health",
+    "SensorNetwork",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:46+00:00",
+  "updated_at": "2026-09-30T03:26:46+00:00"
+}

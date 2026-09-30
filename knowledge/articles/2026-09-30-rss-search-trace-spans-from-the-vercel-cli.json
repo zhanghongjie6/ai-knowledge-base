@@ -1,0 +1,20 @@
+{
+  "id": "rss-20260930-010",
+  "title": "Search trace spans from the Vercel CLI",
+  "source_url": "https://vercel.com/changelog/search-trace-spans-from-the-vercel-cli",
+  "source_type": "rss",
+  "summary": "Vercel CLI 新增搜索 trace spans 功能，开发者可直接在命令行中检索分布式追踪数据，快速定位请求链路中的性能瓶颈与错误。该功能简化了调试流程，无需跳转至 Web 控制台，适合在 CI/CD 或本地开发中排查 Serverless 函数与边缘请求问题。",
+  "tags": [
+    "Vercel",
+    "Observability",
+    "CLI",
+    "Tracing",
+    "DevOps",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-09-30T03:26:47+00:00",
+  "updated_at": "2026-09-30T03:26:47+00:00"
+}
