@@ -1,0 +1,19 @@
+{
+  "id": "github-20261001-003",
+  "title": "andyprevalsky/agent-1ede49f0",
+  "source_url": "https://github.com/andyprevalsky/agent-1ede49f0",
+  "source_type": "github_trending",
+  "summary": "该项目是 Rose Labs 代理自动创建的工作区仓库，用于托管 AI 代理运行所需的代码、配置与产物。核心价值在于展示代理自主生成并管理开发环境的能力，技术亮点包括自动化仓库初始化与代理工作流集成。适用于研究自主 AI 代理、自动化开发流程及代理协作场景。",
+  "tags": [
+    "Agent",
+    "Automation",
+    "GitHub",
+    "AI",
+    "github"
+  ],
+  "score": 4,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-01T03:32:26+00:00",
+  "updated_at": "2026-10-01T03:32:26+00:00"
+}

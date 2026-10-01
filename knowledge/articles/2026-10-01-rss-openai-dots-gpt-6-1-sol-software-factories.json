@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-008",
+  "title": "OpenAI Dots 🟡, GPT-6.1 Sol ⚡, software factories 🏭",
+  "source_url": "https://tldr.tech/ai/2026-09-30",
+  "source_type": "rss",
+  "summary": "本期 TLDR AI 汇总了 OpenAI 新模型 Dots 与 GPT-6.1 Sol 的发布动态，并探讨了软件工厂（software factories）这一自动化开发范式。内容涵盖前沿模型能力升级、AI 驱动软件生产流程的落地实践，以及行业对自动化编码与智能体协作的最新思考，适合关注大模型演进与工程化应用的开发者快速了解趋势。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Software Engineering",
+    "OpenAI",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-01T03:32:26+00:00",
+  "updated_at": "2026-10-01T03:32:26+00:00"
+}

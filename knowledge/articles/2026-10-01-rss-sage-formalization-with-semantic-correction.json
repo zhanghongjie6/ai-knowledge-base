@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261001-005",
+  "title": "Sage: Formalization with Semantic Correction",
+  "source_url": "https://arxiv.org/abs/2609.35790",
+  "source_type": "rss",
+  "summary": "Sage 提出一种带语义校正的形式化方法，旨在解决神经定理证明器在 Lean 4 中生成形式化代码时语义不忠实的问题。其核心价值在于通过语义校正机制提升自动形式化的可靠性，技术亮点包括对形式化结果进行语义一致性校验与修正，适用于数学定理自动证明、形式化验证及 AI 辅助数学研究等场景。",
+  "tags": [
+    "Theorem Proving",
+    "Formalization",
+    "Lean 4",
+    "Neural Networks",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-01T03:32:26+00:00",
+  "updated_at": "2026-10-01T03:32:26+00:00"
+}

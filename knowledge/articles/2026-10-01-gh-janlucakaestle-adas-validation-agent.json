@@ -1,0 +1,20 @@
+{
+  "id": "github-20261001-002",
+  "title": "janlucakaestle/adas-validation-agent",
+  "source_url": "https://github.com/janlucakaestle/adas-validation-agent",
+  "source_type": "github_trending",
+  "summary": "该项目为学习型SAE Level 2自适应巡航控制（ACC）提供SOTIF风格验证框架，涵盖验收标准、覆盖率分析、曝光加权评估、可追溯性及智能体辅助故障发现。技术亮点在于将安全验证流程自动化，并利用AI智能体主动挖掘潜在失效场景。适用于自动驾驶功能安全测试与合规验证场景。",
+  "tags": [
+    "Autonomous Driving",
+    "Safety Validation",
+    "SOTIF",
+    "Agent",
+    "ACC",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-01T03:32:26+00:00",
+  "updated_at": "2026-10-01T03:32:26+00:00"
+}

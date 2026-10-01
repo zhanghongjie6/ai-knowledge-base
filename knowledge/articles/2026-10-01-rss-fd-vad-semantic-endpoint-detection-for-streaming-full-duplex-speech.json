@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261001-004",
+  "title": "FD-VAD: Semantic Endpoint Detection for Streaming Full-Duplex Speech",
+  "source_url": "https://arxiv.org/abs/2609.35791",
+  "source_type": "rss",
+  "summary": "FD-VAD 提出面向流式全双工语音交互的语义端点检测方法，通过分析部分语音判断停顿是犹豫还是话轮结束。该技术突破传统 VAD 仅依赖声学能量的局限，引入语义理解提升端点判定准确性，适用于实时语音助手、对话机器人和全双工语音交互系统，可显著改善自然轮替体验。",
+  "tags": [
+    "VAD",
+    "Full-Duplex",
+    "Speech",
+    "Turn-Taking",
+    "Streaming",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-01T03:32:26+00:00",
+  "updated_at": "2026-10-01T03:32:26+00:00"
+}

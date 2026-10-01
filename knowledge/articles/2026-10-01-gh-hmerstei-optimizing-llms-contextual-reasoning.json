@@ -1,0 +1,19 @@
+{
+  "id": "github-20261001-004",
+  "title": "hmerstei/optimizing-llms-contextual-reasoning",
+  "source_url": "https://github.com/hmerstei/optimizing-llms-contextual-reasoning",
+  "source_type": "github_trending",
+  "summary": "该项目探索优化大语言模型上下文推理能力的方法，通过改进提示工程与上下文组织策略，提升模型在多步推理任务中的表现。技术亮点包括结构化上下文注入与推理链优化，适用于复杂问答、代码生成及需要深度逻辑分析的场景，为开发者提供可复用的实验框架。",
+  "tags": [
+    "LLM",
+    "Prompt Engineering",
+    "Reasoning",
+    "Context",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-01T03:32:26+00:00",
+  "updated_at": "2026-10-01T03:32:26+00:00"
+}

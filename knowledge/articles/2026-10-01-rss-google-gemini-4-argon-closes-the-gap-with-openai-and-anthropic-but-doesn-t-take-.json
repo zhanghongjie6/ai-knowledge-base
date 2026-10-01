@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261001-007",
+  "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn't take a clear lead",
+  "source_url": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
+  "source_type": "rss",
+  "summary": "Google发布Gemini 4 Argon，是其七个月来首个前沿模型。独立测试显示其性能与GPT-6 Astra相当，但落后于Anthropic的Claude Opus 5.5。该模型每token价格较低，适合成本敏感的大规模推理任务，但未取得明显领先优势，行业竞争格局仍胶着。",
+  "tags": [
+    "LLM",
+    "Google",
+    "Gemini",
+    "Frontier Model",
+    "AI Competition",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-01T03:32:26+00:00",
+  "updated_at": "2026-10-01T03:32:26+00:00"
+}
