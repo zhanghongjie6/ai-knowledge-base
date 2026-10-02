@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261002-004",
+  "title": "Evaluating Multi-Task Morphological Concept Learning for Pulmonary Nodule Malignancy Assessment in 3D CT",
+  "source_url": "https://arxiv.org/abs/2609.38271",
+  "source_type": "rss",
+  "summary": "该研究提出多任务形态学概念学习框架，用于3D CT中肺结节恶性评估。通过联合学习毛刺、分叶等形态特征，提升结节良恶性分类的可解释性与准确性。技术亮点在于多任务学习与概念瓶颈结合，适用于医学影像辅助诊断场景。",
+  "tags": [
+    "Medical Imaging",
+    "Multi-Task Learning",
+    "Concept Learning",
+    "3D CT",
+    "Lung Nodule",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-02T03:32:19+00:00",
+  "updated_at": "2026-10-02T03:32:19+00:00"
+}

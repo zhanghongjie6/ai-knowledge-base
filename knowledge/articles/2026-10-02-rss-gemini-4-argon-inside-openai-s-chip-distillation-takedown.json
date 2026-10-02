@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261002-007",
+  "title": "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
+  "source_url": "https://tldr.tech/ai/2026-10-01",
+  "source_type": "rss",
+  "summary": "本期TLDR AI汇总了多项前沿动态：谷歌发布Gemini 4 Argon模型，性能进一步提升；深入解析OpenAI自研芯片的内部架构与设计思路；同时报道了针对模型蒸馏技术的监管与下架事件。内容覆盖大模型迭代、AI硬件自研趋势及知识产权合规，适合关注AI产业与技术演进的开发者与研究者快速了解行业风向。",
+  "tags": [
+    "LLM",
+    "AI Chip",
+    "Model Distillation",
+    "Google",
+    "OpenAI",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-02T03:32:19+00:00",
+  "updated_at": "2026-10-02T03:32:19+00:00"
+}

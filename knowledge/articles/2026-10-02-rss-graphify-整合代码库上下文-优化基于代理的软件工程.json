@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261002-001",
+  "title": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+  "source_url": "https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Graphify 是一款面向代理式软件工程的上下文整合工具，通过构建代码库的知识图谱，为 AI 代理提供结构化、可检索的代码上下文。其技术亮点在于将代码实体与关系图谱化，支持代理精准理解项目结构与依赖，从而提升代码生成、重构和调试的准确率。适用于大型代码库的自动化维护、智能编程助手及多代理协作开发场景。",
+  "tags": [
+    "CodeGraph",
+    "Agent",
+    "SoftwareEngineering",
+    "Context",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-02T03:32:19+00:00",
+  "updated_at": "2026-10-02T03:32:19+00:00"
+}

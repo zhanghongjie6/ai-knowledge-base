@@ -1,0 +1,19 @@
+{
+  "id": "github-20261002-003",
+  "title": "obselate/tokate",
+  "source_url": "https://github.com/obselate/tokate",
+  "source_type": "github_trending",
+  "summary": "Tokate 是一个将本地编码代理算力捐赠给已批准 GitHub issue 的开源工具。它允许开发者贡献闲置的 AI 编码能力，自动处理社区认可的任务，从而加速开源项目维护。技术亮点在于任务审批机制与本地代理调度，适用于开源维护者、AI 代理开发者及希望参与贡献的算力提供者。",
+  "tags": [
+    "Coding Agent",
+    "GitHub",
+    "Open Source",
+    "Compute Donation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-02T03:32:19+00:00",
+  "updated_at": "2026-10-02T03:32:19+00:00"
+}

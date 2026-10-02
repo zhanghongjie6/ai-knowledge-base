@@ -1,0 +1,19 @@
+{
+  "id": "github-20261002-006",
+  "title": "imsebeom/hwpx",
+  "source_url": "https://github.com/imsebeom/hwpx",
+  "source_type": "github_trending",
+  "summary": "该项目为AI代理提供HWPX（韩文Hangul文档格式）的生成、读取与编辑一体化技能，可将Markdown、纯文本或URL内容自动转换为韩文办公软件Hangul文档，并以Claude Code Skill形式集成。核心价值在于打通AI代理与韩国主流办公文档格式的交互，技术亮点是统一封装读写编辑操作，适用于自动化报告生成、文档转换及韩文办公场景。",
+  "tags": [
+    "HWPX",
+    "Document Automation",
+    "Claude Skill",
+    "Korean Office",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-02T03:32:19+00:00",
+  "updated_at": "2026-10-02T03:32:19+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20261002-004",
+  "title": "cmrnwdwrd/br.o",
+  "source_url": "https://github.com/cmrnwdwrd/br.o",
+  "source_type": "github_trending",
+  "summary": "该项目名为 br.o，是一个基于 Bottle 框架的 RAG（检索增强生成）播放器。它可能将本地文档或知识库与语言模型结合，提供交互式问答或内容播放体验。技术亮点在于轻量级 Bottle 后端与 RAG 流程的整合，适合个人开发者快速搭建原型或小型知识助手。",
+  "tags": [
+    "RAG",
+    "Bottle",
+    "LLM",
+    "Prototype",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-02T03:32:19+00:00",
+  "updated_at": "2026-10-02T03:32:19+00:00"
+}

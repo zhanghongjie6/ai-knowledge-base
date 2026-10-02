@@ -1,0 +1,19 @@
+{
+  "id": "github-20261002-007",
+  "title": "samudrakartikapratama-ai/Girlhood-Den-Community",
+  "source_url": "https://github.com/samudrakartikapratama-ai/Girlhood-Den-Community",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向 Girlhood Den 社区成员的工具，用于查看活跃营销活动（Campaign Aktif）和产品调色板（Product Pallete），旨在帮助不同级别的创作者更高效地参与社区活动与内容创作。技术实现可能基于简单的 Web 前端，核心价值在于为特定社区提供信息聚合与展示，提升创作者协作效率。",
+  "tags": [
+    "Community",
+    "CreatorTools",
+    "Dashboard",
+    "WebApp",
+    "github"
+  ],
+  "score": 3,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-10-02T03:32:19+00:00",
+  "updated_at": "2026-10-02T03:32:19+00:00"
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "rachmad-jenss/badminton-motion-lab",
+    "url": "https://github.com/rachmad-jenss/badminton-motion-lab",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Local-first Badminton Motion Lab — web control plane + Windows Local Agent",
+    "pushed_at": "2026-10-02T03:31:35Z",
+    "created_at_source": "2026-07-24T03:33:31Z"
+  },
+  {
+    "title": "systemsomicslab/msdial-interactive-app",
+    "url": "https://github.com/systemsomicslab/msdial-interactive-app",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Local web workflow assistant for MS-DIAL Console with agent and mzTab-M handoff support",
+    "pushed_at": "2026-10-02T03:31:35Z",
+    "created_at_source": "2026-07-30T07:33:22Z"
+  },
+  {
+    "title": "obselate/tokate",
+    "url": "https://github.com/obselate/tokate",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Donate local coding-agent compute to approved GitHub issues",
+    "pushed_at": "2026-10-02T03:31:35Z",
+    "created_at_source": "2026-10-02T01:22:15Z"
+  },
+  {
+    "title": "cmrnwdwrd/br.o",
+    "url": "https://github.com/cmrnwdwrd/br.o",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Bottle Rag Player",
+    "pushed_at": "2026-10-02T03:31:33Z",
+    "created_at_source": "2026-09-08T19:09:25Z"
+  },
+  {
+    "title": "Dazzmondo/dh-PM2.5-forecast",
+    "url": "https://github.com/Dazzmondo/dh-PM2.5-forecast",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Project for Data Handling and Infrastructure for AI module",
+    "pushed_at": "2026-10-02T03:31:33Z",
+    "created_at_source": "2026-09-29T20:50:21Z"
+  },
+  {
+    "title": "imsebeom/hwpx",
+    "url": "https://github.com/imsebeom/hwpx",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI 에이전트용 HWPX(.hwpx) 한글 문서 생성·읽기·편집 통합 스킬 — 마크다운·텍스트·URL을 한컴오피스 한글 문서로 자동 변환 (Claude Code Skill)",
+    "pushed_at": "2026-10-02T03:31:32Z",
+    "created_at_source": "2026-02-08T10:16:44Z"
+  },
+  {
+    "title": "samudrakartikapratama-ai/Girlhood-Den-Community",
+    "url": "https://github.com/samudrakartikapratama-ai/Girlhood-Den-Community",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Buat Member Girlhood Den dalam melihat Campaign Aktif dan Product Pallete guna membantu Creator semua Level",
+    "pushed_at": "2026-10-02T03:31:32Z",
+    "created_at_source": "2026-07-09T03:49:42Z"
+  },
+  {
+    "title": "NVKQ2022/PolyRAG",
+    "url": "https://github.com/NVKQ2022/PolyRAG",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A modular, multi-paradigm Retrieval-Augmented Generation (RAG) framework supporting Vector, Agentic, and Graph RAG architectures.",
+    "pushed_at": "2026-10-02T03:31:31Z",
+    "created_at_source": "2026-09-30T12:26:25Z"
+  },
+  {
+    "title": "Nebutra/Nebutra-Sailor",
+    "url": "https://github.com/Nebutra/Nebutra-Sailor",
+    "source": "github_trending",
+    "popularity": 5,
+    "summary": "Enterprise-grade SaaS monorepo for AI-native, multi-tenant platforms",
+    "pushed_at": "2026-10-02T03:31:31Z",
+    "created_at_source": "2025-11-30T10:26:03Z"
+  },
+  {
+    "title": "mayank-shekhar-dot/QwickGen",
+    "url": "https://github.com/mayank-shekhar-dot/QwickGen",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Qwick gen is the AI powered chatbot which is special made for students",
+    "pushed_at": "2026-10-02T03:31:31Z",
+    "created_at_source": "2025-08-23T15:16:36Z"
+  },
+  {
+    "title": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+    "url": "https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation",
+    "url": "https://arxiv.org/abs/2609.38282",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.38282v1 Announce Type: new \nAbstract: Vision-language models may rewrite anomalous text in images into linguistically plausible expressions, compromising OCR transcription faithfulness. Seq",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Large Language Models are Approximate Survival Estimators",
+    "url": "https://arxiv.org/abs/2609.38181",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.38181v1 Announce Type: new \nAbstract: Survival analysis estimates time-to-event outcomes from patient covariates and is widely used for medical risk assessment. Patients seeking prognostic ",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Evaluating Multi-Task Morphological Concept Learning for Pulmonary Nodule Malignancy Assessment in 3D CT",
+    "url": "https://arxiv.org/abs/2609.38271",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.38271v1 Announce Type: new \nAbstract: Morphological characteristics such as spiculation and lobulation play an important role in assessing pulmonary nodules on computed tomography (CT), par",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
+    "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus ",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+    "url": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API compatible, accept images, and run on Workers AI a",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Gemini 4 Argon 🧠, inside OpenAI’s chip ⚡, distillation takedown 🕵️",
+    "url": "https://tldr.tech/ai/2026-10-01",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "The eternal complement",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Barclays scales Claude to upgrade operations and improve client experience",
+    "url": "https://www.anthropic.com/news/barclays-scales-claude",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations.Barclays is extending Claude",
+    "feed_name": "Anthropic News"
+  },
+  {
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Google DeepMind"
+  }
+]

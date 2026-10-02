@@ -1,0 +1,20 @@
+{
+  "id": "github-20261002-001",
+  "title": "rachmad-jenss/badminton-motion-lab",
+  "source_url": "https://github.com/rachmad-jenss/badminton-motion-lab",
+  "source_type": "github_trending",
+  "summary": "该项目是一个本地优先的羽毛球动作分析实验室，通过Web控制面板与Windows本地代理协同工作。用户可在浏览器中管理视频、标注动作，本地代理负责计算密集型处理，实现低延迟、隐私安全的运动分析。技术亮点包括本地优先架构、Web与本地代理分离、支持动作标注与可视化。适用于羽毛球爱好者、教练进行技术动作复盘与训练优化。",
+  "tags": [
+    "Local-first",
+    "Motion Analysis",
+    "Web",
+    "Windows Agent",
+    "Sports Tech",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-02T03:32:19+00:00",
+  "updated_at": "2026-10-02T03:32:19+00:00"
+}
