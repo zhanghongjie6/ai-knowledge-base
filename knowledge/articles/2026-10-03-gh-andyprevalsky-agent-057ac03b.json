@@ -1,0 +1,18 @@
+{
+  "id": "github-20261003-010",
+  "title": "andyprevalsky/agent-057ac03b",
+  "source_url": "https://github.com/andyprevalsky/agent-057ac03b",
+  "source_type": "github_trending",
+  "summary": "该项目是 Rose Labs 智能体自动创建的工作空间仓库，用于存放智能体运行过程中生成的代码、配置与中间产物。核心价值在于展示智能体自主管理文件系统的能力，技术亮点是自动化工作区生成与隔离，适用于智能体开发调试、任务执行记录追踪等场景。",
+  "tags": [
+    "Agent",
+    "Workspace",
+    "Automation",
+    "github"
+  ],
+  "score": 3,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

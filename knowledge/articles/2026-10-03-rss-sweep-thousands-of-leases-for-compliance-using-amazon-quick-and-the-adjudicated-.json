@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261003-010",
+  "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+  "source_type": "rss",
+  "summary": "本文介绍了一种名为“Adjudicated Query”的模式，将Amazon Quick聊天代理与基于确定性规则引擎的受限MCP服务器结合，用于批量扫描数千份租赁合同以进行合规检查。该模式能提供可证明完整且可辩护的合规答案，核心价值在于将LLM的交互能力与规则引擎的确定性相结合，确保合规审查的准确性和可审计性。适用于法律、房地产等需要大规模合同合规审查的场景。",
+  "tags": [
+    "LLM",
+    "Compliance",
+    "MCP",
+    "Rule Engine",
+    "Contract Analysis",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

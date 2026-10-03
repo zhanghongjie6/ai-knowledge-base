@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261003-004",
+  "title": "Travel Time Prediction in Supply Chain Management Using Machine Learning",
+  "source_url": "https://arxiv.org/abs/2609.38190",
+  "source_type": "rss",
+  "summary": "该研究利用机器学习和深度学习方法，基于供应链管理中的历史数据预测运输旅行时间。核心价值在于提升物流效率与可靠性，技术亮点包括多种回归模型与神经网络对比，以及特征工程优化。适用于货运调度、路径规划与交付时间预估等场景。",
+  "tags": [
+    "Supply Chain",
+    "Travel Time Prediction",
+    "Machine Learning",
+    "Logistics",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

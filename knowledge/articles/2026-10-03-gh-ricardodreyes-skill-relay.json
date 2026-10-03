@@ -1,0 +1,20 @@
+{
+  "id": "github-20261003-006",
+  "title": "ricardodreyes/skill-relay",
+  "source_url": "https://github.com/ricardodreyes/skill-relay",
+  "source_type": "github_trending",
+  "summary": "该项目将 Claude Code 技能通过 AWS Lambda 和 S3 托管，并借助 MCP 协议暴露给 claude.ai 及任意 MCP 客户端。核心价值在于让本地技能无缝上云，实现跨平台复用。技术亮点包括无服务器架构、S3 存储技能文件、MCP 标准接口。适用于团队共享技能、远程调用 AI 能力等场景。",
+  "tags": [
+    "MCP",
+    "Claude",
+    "AWS Lambda",
+    "Serverless",
+    "AI Skills",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

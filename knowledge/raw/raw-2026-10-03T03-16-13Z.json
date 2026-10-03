@@ -1,0 +1,172 @@
+[
+  {
+    "title": "viridia/ldd_template",
+    "url": "https://github.com/viridia/ldd_template",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Ledger-driven development: a template for working with coding agents",
+    "pushed_at": "2026-10-03T03:16:02Z",
+    "created_at_source": "2026-10-03T03:06:01Z"
+  },
+  {
+    "title": "andyprevalsky/agent-1f78a7ce",
+    "url": "https://github.com/andyprevalsky/agent-1f78a7ce",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Auto-created workspace for Rose Labs agent",
+    "pushed_at": "2026-10-03T03:16:01Z",
+    "created_at_source": "2026-10-03T03:15:59Z"
+  },
+  {
+    "title": "chrishotza/Skill-Conscious",
+    "url": "https://github.com/chrishotza/Skill-Conscious",
+    "source": "github_trending",
+    "popularity": 3,
+    "summary": "• Build AI that maintains continuity, models itself, observes its own state, and uses internal dynamics to select trajectories. • Construí IA que mantenga continuidad, modele su propio estado, se auto",
+    "pushed_at": "2026-10-03T03:15:59Z",
+    "created_at_source": "2026-09-30T17:30:58Z"
+  },
+  {
+    "title": "lukeliu-sob/stock-insider",
+    "url": "https://github.com/lukeliu-sob/stock-insider",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "CS5351 agentic software engineering project — a CLI financial analyst agent for HK+US equities, built governance-first (registry → architecture → coding governance → verification gates) under auditabl",
+    "pushed_at": "2026-10-03T03:15:59Z",
+    "created_at_source": "2026-09-15T08:31:31Z"
+  },
+  {
+    "title": "joshuaJJM/ai_learning_agent",
+    "url": "https://github.com/joshuaJJM/ai_learning_agent",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "hackathon project",
+    "pushed_at": "2026-10-03T03:15:59Z",
+    "created_at_source": "2026-10-01T12:29:36Z"
+  },
+  {
+    "title": "ricardodreyes/skill-relay",
+    "url": "https://github.com/ricardodreyes/skill-relay",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Serve your Claude Code skills to claude.ai and any MCP client, from AWS Lambda + S3",
+    "pushed_at": "2026-10-03T03:16:02Z",
+    "created_at_source": "2026-10-03T03:15:57Z"
+  },
+  {
+    "title": "powerfs/powerfs",
+    "url": "https://github.com/powerfs/powerfs",
+    "source": "github_trending",
+    "popularity": 13,
+    "summary": "Zero-jitter unified parallel file system for HPC and LLM KV cache",
+    "pushed_at": "2026-10-03T03:15:58Z",
+    "created_at_source": "2026-06-30T02:01:57Z"
+  },
+  {
+    "title": "Eklakh-AI-Engineer/ENTERPRISE-RAG",
+    "url": "https://github.com/Eklakh-AI-Engineer/ENTERPRISE-RAG",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Production-oriented RAG system combining dense retrieval, BM25, hybrid search, reranking, and evidence-grounded generation.",
+    "pushed_at": "2026-10-03T03:15:58Z",
+    "created_at_source": "2026-08-09T06:29:59Z"
+  },
+  {
+    "title": "zealot0515/AI-Pages",
+    "url": "https://github.com/zealot0515/AI-Pages",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-03T03:15:57Z",
+    "created_at_source": "2026-05-12T15:48:41Z"
+  },
+  {
+    "title": "andyprevalsky/agent-057ac03b",
+    "url": "https://github.com/andyprevalsky/agent-057ac03b",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Auto-created workspace for Rose Labs agent",
+    "pushed_at": "2026-10-03T03:15:57Z",
+    "created_at_source": "2026-10-03T03:15:55Z"
+  },
+  {
+    "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+    "url": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 8 部作品",
+    "url": "https://sspai.com/post/115211",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+    "url": "https://arxiv.org/abs/2610.00010",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.00010v1 Announce Type: new \nAbstract: Long-horizon language agents increasingly rely on external memory as a frozen world model, yet current memory systems are usually judged only by task s",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Travel Time Prediction in Supply Chain Management Using Machine Learning",
+    "url": "https://arxiv.org/abs/2609.38190",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2609.38190v1 Announce Type: new \nAbstract: The purpose of this research is to find data and methods using machine learning and deep learning to correctly predict the estimated travel time for tr",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "STATERA: Hidden Mass Estimation via Zero-Shot Sim-to-Real Kinematics using Frozen Temporal Tubelets",
+    "url": "https://arxiv.org/abs/2610.00003",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.00003v1 Announce Type: new \nAbstract: Vision models pretrained for frame-level appearance often struggle to infer hidden physical properties from motion. We study center-of-mass (CoM) local",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "AI music generator Suno can now create spoken audio with matching background music",
+    "url": "https://the-decoder.com/ai-music-generator-suno-can-now-create-spoken-audio-with-matching-background-music/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Suno is adding a feature called \"Speech\" to its AI music generator that creates spoken text with matching background music in a single audio track. The company says it's built for things like poems, m",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Decision models 🤖, Claude-shaped science 🧪, OpenAI safety firings 🚨",
+    "url": "https://tldr.tech/ai/2026-10-02",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "A model guide for the GPT-6 family",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "url": "https://www.anthropic.com/news/claude-frontier-academy",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The first-of-its-kind Academy trains Frontier Deployed Engineers using the same standard of skills as Anthropic’s own engineers, starting with cohorts from Accenture, Bain, Capgemini, Commonwealth Ban",
+    "feed_name": "Anthropic News"
+  },
+  {
+    "title": "Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern",
+    "url": "https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The Adjudicated Query pattern pairs the Amazon Quick chat agent with a bounded MCP server over a deterministic rules engine to deliver provably complete, defensible compliance answers. This post walks",
+    "feed_name": "AWS ML Blog"
+  }
+]

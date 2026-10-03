@@ -1,0 +1,19 @@
+{
+  "id": "github-20261003-004",
+  "title": "lukeliu-sob/stock-insider",
+  "source_url": "https://github.com/lukeliu-sob/stock-insider",
+  "source_type": "github_trending",
+  "summary": "该项目是CS5351智能体软件工程课程项目，实现了一个面向港股和美股市场的CLI金融分析师智能体。其核心价值在于采用治理优先的开发范式，从注册表、架构设计到编码治理和验证门禁层层把关，确保系统可审计、可追溯。技术亮点包括智能体驱动的金融分析流程与严格的工程治理框架。适用于金融数据分析、智能投顾原型及学术研究等场景。",
+  "tags": [
+    "Agent",
+    "Finance",
+    "CLI",
+    "Governance",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

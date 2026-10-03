@@ -1,0 +1,19 @@
+{
+  "id": "github-20261003-001",
+  "title": "viridia/ldd_template",
+  "source_url": "https://github.com/viridia/ldd_template",
+  "source_type": "github_trending",
+  "summary": "Ledger-driven development (LDD) 是一种面向编码代理的工作流模板，通过维护一个结构化的账本（ledger）来记录任务、决策和代码变更，使 AI 代理能持续跟踪上下文并减少幻觉。核心价值在于提升代理协作的可靠性和可追溯性，适合需要多轮迭代的复杂开发场景。",
+  "tags": [
+    "Agent",
+    "Coding",
+    "Workflow",
+    "Template",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

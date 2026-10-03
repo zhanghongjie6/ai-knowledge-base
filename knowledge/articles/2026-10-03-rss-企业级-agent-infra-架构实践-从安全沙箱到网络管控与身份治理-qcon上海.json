@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261003-001",
+  "title": "企业级 Agent Infra 架构实践：从安全沙箱到网络管控与身份治理｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文介绍企业级 Agent 基础设施架构实践，聚焦安全沙箱、网络管控与身份治理三大核心能力。通过隔离运行环境、精细化网络策略和统一身份体系，解决 Agent 在企业落地中的安全与合规难题，适用于金融、政企等对权限与审计要求严格的场景。",
+  "tags": [
+    "Agent",
+    "Infra",
+    "Security",
+    "Sandbox",
+    "Enterprise",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

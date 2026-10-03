@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261003-005",
+  "title": "STATERA: Hidden Mass Estimation via Zero-Shot Sim-to-Real Kinematics using Frozen Temporal Tubelets",
+  "source_url": "https://arxiv.org/abs/2610.00003",
+  "source_type": "rss",
+  "summary": "该论文提出STATERA方法，利用冻结的时序管状体（temporal tubelets）进行零样本仿真到现实的运动学分析，从视频中估计隐藏的质心位置。核心价值在于无需真实标注即可推断物理属性，技术亮点包括冻结视觉模型、时序管状体表示和零样本迁移。适用于机器人抓取、物理推理和视频理解等场景。",
+  "tags": [
+    "Zero-Shot",
+    "Sim-to-Real",
+    "Kinematics",
+    "Vision",
+    "Physics",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20261003-007",
+  "title": "powerfs/powerfs",
+  "source_url": "https://github.com/powerfs/powerfs",
+  "source_type": "github_trending",
+  "summary": "PowerFS 是一个面向 HPC 与 LLM KV 缓存场景的零抖动统一并行文件系统。它通过消除元数据与数据访问的抖动，提供高吞吐、低延迟的并行 I/O 能力，适用于大规模训练推理中的 KV 缓存复用、科学计算数据密集型任务，以及需要稳定性能的分布式存储环境。",
+  "tags": [
+    "FileSystem",
+    "HPC",
+    "LLM",
+    "KV Cache",
+    "Parallel IO",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 13,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

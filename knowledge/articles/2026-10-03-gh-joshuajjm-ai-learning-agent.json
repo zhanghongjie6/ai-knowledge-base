@@ -1,0 +1,19 @@
+{
+  "id": "github-20261003-005",
+  "title": "joshuaJJM/ai_learning_agent",
+  "source_url": "https://github.com/joshuaJJM/ai_learning_agent",
+  "source_type": "github_trending",
+  "summary": "这是一个黑客松项目，构建了AI学习智能体，能根据用户目标自动规划学习路径并推荐资源。技术亮点在于结合LLM与任务分解，实现个性化学习助手。适用于快速原型验证、个人学习规划等场景，但成熟度有限。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "Education",
+    "Hackathon",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

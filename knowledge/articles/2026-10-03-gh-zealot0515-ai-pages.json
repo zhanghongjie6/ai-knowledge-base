@@ -1,0 +1,19 @@
+{
+  "id": "github-20261003-009",
+  "title": "zealot0515/AI-Pages",
+  "source_url": "https://github.com/zealot0515/AI-Pages",
+  "source_type": "github_trending",
+  "summary": "AI-Pages 是一个将 AI 能力与静态页面生成结合的开源项目，用户可通过自然语言描述快速生成网页。技术亮点在于集成大语言模型自动生成 HTML/CSS 代码，降低前端开发门槛。适用于快速原型设计、个人主页搭建及营销落地页制作等场景，让非开发者也能高效产出可用页面。",
+  "tags": [
+    "LLM",
+    "Web Generation",
+    "No-Code",
+    "Frontend",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}

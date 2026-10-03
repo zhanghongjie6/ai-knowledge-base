@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261003-003",
+  "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+  "source_url": "https://arxiv.org/abs/2610.00010",
+  "source_type": "rss",
+  "summary": "该研究分析长时程语言智能体的外部记忆访问模式，发现记忆轨迹呈现重尾分布，即少数记忆条目被频繁访问而多数极少使用。这一发现挑战了现有记忆系统仅以任务成功率评估的惯例，为设计更高效的记忆压缩、缓存与检索策略提供了理论依据，适用于需要长期记忆的对话、规划与自主智能体场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Memory",
+    "Long-Horizon",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-03T03:16:43+00:00",
+  "updated_at": "2026-10-03T03:16:43+00:00"
+}
