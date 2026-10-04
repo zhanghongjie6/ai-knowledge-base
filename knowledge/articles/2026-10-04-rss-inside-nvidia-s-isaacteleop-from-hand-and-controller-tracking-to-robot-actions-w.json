@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261004-005",
+  "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
+  "source_url": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
+  "source_type": "rss",
+  "summary": "NVIDIA IsaacTeleop 是一个纯 Python 重定向引擎，利用 NumPy 将 XR 手部追踪和运动控制器输入转化为机器人动作。其核心价值在于简化遥操作流程，通过图结构实现高效映射，技术亮点包括纯 Python 实现、基于 NumPy 的快速计算以及图重定向引擎。适用于机器人遥操作、XR 交互和具身智能研究。",
+  "tags": [
+    "Robotics",
+    "Teleoperation",
+    "XR",
+    "Python",
+    "NumPy",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

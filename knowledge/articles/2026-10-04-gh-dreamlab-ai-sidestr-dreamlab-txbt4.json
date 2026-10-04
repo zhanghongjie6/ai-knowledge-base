@@ -1,0 +1,19 @@
+{
+  "id": "github-20261004-009",
+  "title": "DreamLab-AI/sidestr-dreamlab-txbt4",
+  "source_url": "https://github.com/DreamLab-AI/sidestr-dreamlab-txbt4",
+  "source_type": "github_trending",
+  "summary": "DreamLab-AI/sidestr-dreamlab-txbt4 是 BLAKE2b testnet4 分叉旁侧链 sidestr 的镜像仓库，提供测试网环境下的侧链实现。技术亮点包括 BLAKE2b 哈希算法集成与 testnet4 分叉兼容性，适用于区块链开发者测试侧链交易、共识机制及跨链交互。",
+  "tags": [
+    "Blockchain",
+    "Sidechain",
+    "BLAKE2b",
+    "Testnet",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

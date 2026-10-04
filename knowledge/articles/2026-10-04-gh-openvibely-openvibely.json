@@ -1,0 +1,19 @@
+{
+  "id": "github-20261004-004",
+  "title": "openvibely/openvibely",
+  "source_url": "https://github.com/openvibely/openvibely",
+  "source_type": "github_trending",
+  "summary": "OpenVibely 是一个面向大规模编码代理的软件工厂平台，支持跨多个项目并行运行和管理 AI 编码代理。它提供统一的调度、隔离与编排能力，让开发者能像管理流水线一样批量执行编码任务，适用于团队级自动化开发、批量代码生成与重构等场景。",
+  "tags": [
+    "Coding Agent",
+    "Orchestration",
+    "Automation",
+    "DevTools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 7,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

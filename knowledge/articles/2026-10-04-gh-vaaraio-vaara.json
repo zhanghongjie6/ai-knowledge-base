@@ -1,0 +1,20 @@
+{
+  "id": "github-20261004-006",
+  "title": "vaaraio/vaara",
+  "source_url": "https://github.com/vaaraio/vaara",
+  "source_type": "github_trending",
+  "summary": "Vaara 是一个开源证据层，用于对 AI 代理的每次工具调用进行策略门控，并生成哈希链式审计记录。其核心价值在于实现可问责的自主性：审计员可离线验证记录，无需信任运营方。技术亮点包括策略拦截、防篡改哈希链和根无关设计，适用于需要合规审计的 AI 代理部署场景。",
+  "tags": [
+    "AI Agent",
+    "Audit",
+    "Policy",
+    "Security",
+    "Open Source",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 14,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

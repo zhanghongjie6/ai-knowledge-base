@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261004-008",
+  "title": "Jev for Python engineers",
+  "source_url": "https://vercel.com/blog/jev-for-python-engineers",
+  "source_type": "rss",
+  "summary": "Vercel 发布 Jev，一款面向 Python 工程师的 AI 编程助手，可深度理解 Python 代码库并自动生成、重构与调试代码。其技术亮点在于结合静态分析与大语言模型，提供上下文感知的代码补全和跨文件重构建议，并支持在 Vercel 平台上无缝部署。适用于快速原型开发、遗留代码维护及团队协作场景，帮助 Python 开发者显著提升编码效率。",
+  "tags": [
+    "Python",
+    "AI Coding Assistant",
+    "LLM",
+    "Developer Tools",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

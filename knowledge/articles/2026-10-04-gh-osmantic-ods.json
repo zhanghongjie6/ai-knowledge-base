@@ -1,0 +1,19 @@
+{
+  "id": "github-20261004-003",
+  "title": "Osmantic/ODS",
+  "source_url": "https://github.com/Osmantic/ODS",
+  "source_type": "github_trending",
+  "summary": "Osmantic/ODS V3预发布版可将个人电脑（PC、Mac或Linux）转变为私有AI服务器，提供本地化AI服务。其核心价值在于数据隐私与自主控制，技术亮点包括跨平台支持、预发布测试优化，适用于个人开发者或小团队搭建私有AI环境，进行模型部署与实验。",
+  "tags": [
+    "Private AI",
+    "Self-hosted",
+    "Cross-platform",
+    "Pre-release",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 6970,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

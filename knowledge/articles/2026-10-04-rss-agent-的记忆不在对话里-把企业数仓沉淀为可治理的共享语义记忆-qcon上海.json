@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261004-001",
+  "title": "Agent 的记忆不在对话里：把企业数仓沉淀为可治理的共享语义记忆｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/M4mgbKf4RDv5AKTwQvFH?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文探讨Agent记忆机制的新思路：不依赖对话历史，而是将企业数据仓库沉淀为可治理的共享语义记忆。核心价值在于让Agent获得持久、结构化且可审计的知识底座，技术亮点包括语义层建模、数据治理与记忆共享，适用于企业级智能问答、数据分析及自动化决策场景。",
+  "tags": [
+    "Agent",
+    "Memory",
+    "Data Warehouse",
+    "Semantic Layer",
+    "Governance",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

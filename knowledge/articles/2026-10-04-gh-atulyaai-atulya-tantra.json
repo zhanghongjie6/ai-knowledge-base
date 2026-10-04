@@ -1,0 +1,20 @@
+{
+  "id": "github-20261004-007",
+  "title": "atulyaai/Atulya-Tantra",
+  "source_url": "https://github.com/atulyaai/Atulya-Tantra",
+  "source_type": "github_trending",
+  "summary": "Atulya-Tantra 是一个本地优先的 JARVIS 级 AI 助手，提供全息 UI、印地语/英语语音交互、神经记忆和 23+ 工具集成，支持 9 种 LLM 后端。其核心价值在于完全离线运行，保护隐私，同时具备多语言语音和丰富工具生态，适合个人助理、智能家居控制及多语言场景。",
+  "tags": [
+    "Local-first",
+    "AI Assistant",
+    "Voice",
+    "Multi-LLM",
+    "Privacy",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20261004-002",
+  "title": "kyokun-ai/kyokun-boatrace-api",
+  "source_url": "https://github.com/kyokun-ai/kyokun-boatrace-api",
+  "source_type": "github_trending",
+  "summary": "该项目提供日本竞艇（Boat Race）官方数据的非官方API，可获取赛事、选手、赔率等结构化信息。技术亮点在于封装了复杂的数据抓取与解析逻辑，提供简洁的REST接口，方便开发者快速集成。适用于竞艇数据分析、预测模型构建及爱好者应用开发。",
+  "tags": [
+    "API",
+    "SportsData",
+    "WebScraping",
+    "BoatRace",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

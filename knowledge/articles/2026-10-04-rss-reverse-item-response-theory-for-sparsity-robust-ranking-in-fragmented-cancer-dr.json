@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261004-003",
+  "title": "Reverse Item Response Theory for Sparsity-Robust Ranking in Fragmented Cancer Drug-Response Matrices",
+  "source_url": "https://arxiv.org/abs/2610.00002",
+  "source_type": "rss",
+  "summary": "该论文提出反向项目反应理论（Reverse IRT），将癌症类型视为具有耐药性的潜在“受试者”，用于解决片段化癌症药物反应矩阵中的稀疏性问题。技术亮点在于反转传统IRT建模方向，实现稀疏鲁棒排序，可提升药物反应预测与个性化治疗排序的准确性。",
+  "tags": [
+    "IRT",
+    "Pharmacogenomics",
+    "DrugResponse",
+    "Ranking",
+    "Sparsity",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

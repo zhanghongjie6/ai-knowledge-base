@@ -1,0 +1,19 @@
+{
+  "id": "github-20261004-010",
+  "title": "roboticskite/Holo_Controled_ai",
+  "source_url": "https://github.com/roboticskite/Holo_Controled_ai",
+  "source_type": "github_trending",
+  "summary": "该项目展示如何用全息投影界面控制AI机器人，结合计算机视觉与语音交互实现非接触式操控。技术亮点在于将全息显示与AI决策融合，通过手势和语音指令驱动机器人动作。适用于教育演示、智能家居原型及人机交互研究，为未来空间计算与机器人控制提供低成本实验方案。",
+  "tags": [
+    "Hologram",
+    "Robotics",
+    "HCI",
+    "ComputerVision",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

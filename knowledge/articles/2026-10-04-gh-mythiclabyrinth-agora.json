@@ -1,0 +1,19 @@
+{
+  "id": "github-20261004-005",
+  "title": "mythiclabyrinth/agora",
+  "source_url": "https://github.com/mythiclabyrinth/agora",
+  "source_type": "github_trending",
+  "summary": "Agora 是一个面向 AI Agent 的开源协作平台，旨在让多个智能体像人类一样进行交流、协商与协作。项目提供统一的通信协议与消息路由机制，支持 Agent 之间的任务分发、信息共享和群体决策，可应用于多智能体系统、自动化工作流和分布式 AI 应用开发。",
+  "tags": [
+    "Agent",
+    "Multi-Agent",
+    "Collaboration",
+    "Open Source",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}

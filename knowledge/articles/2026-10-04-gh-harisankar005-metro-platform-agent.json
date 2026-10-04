@@ -1,0 +1,19 @@
+{
+  "id": "github-20261004-001",
+  "title": "Harisankar005/metro-platform-agent",
+  "source_url": "https://github.com/Harisankar005/metro-platform-agent",
+  "source_type": "github_trending",
+  "summary": "该项目是一个智能地铁站台分配与动态调度代理，利用强化学习或规则引擎优化列车停靠和乘客流。技术亮点包括实时决策、多目标优化和模拟环境。适用于城市轨道交通管理，提升运营效率。",
+  "tags": [
+    "Agent",
+    "Reinforcement Learning",
+    "Transportation",
+    "Scheduling",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-04T03:44:46+00:00",
+  "updated_at": "2026-10-04T03:44:46+00:00"
+}
