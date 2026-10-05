@@ -1,0 +1,20 @@
+{
+  "id": "github-20261005-008",
+  "title": "tuan-vu-tran/ecommerce-rag-qwen3",
+  "source_url": "https://github.com/tuan-vu-tran/ecommerce-rag-qwen3",
+  "source_type": "github_trending",
+  "summary": "该项目基于Qwen3构建电商场景的RAG检索增强生成系统，整合向量检索与大模型生成能力，用于商品问答、推荐和客服自动化。技术亮点包括Qwen3模型微调、向量数据库检索和上下文增强生成，适合电商平台快速搭建智能导购与售后助手。",
+  "tags": [
+    "RAG",
+    "Qwen3",
+    "Ecommerce",
+    "LLM",
+    "VectorSearch",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

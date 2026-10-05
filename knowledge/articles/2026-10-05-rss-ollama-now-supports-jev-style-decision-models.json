@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261005-009",
+  "title": "Ollama now supports Jev-style decision models",
+  "source_url": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
+  "source_type": "rss",
+  "summary": "Ollama 新增对 Jev 风格决策模型的支持，基于 TypeSafe 的 Jev API，实现快速、类型化的决策。该模型可零成本、低延迟运行，根据文本输入回答是/否问题。适用于需要快速二元判断的场景，如内容过滤、意图识别、自动化流程中的条件分支等，显著降低决策延迟与成本。",
+  "tags": [
+    "Ollama",
+    "Decision Model",
+    "Jev",
+    "Low Latency",
+    "TypeSafe",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

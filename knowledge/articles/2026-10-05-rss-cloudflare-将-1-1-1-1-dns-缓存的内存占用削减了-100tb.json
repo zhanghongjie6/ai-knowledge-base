@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261005-001",
+  "title": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+  "source_url": "https://www.infoq.cn/article/XWJ8G6GaFmNL74xpSgjU?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Cloudflare 对其公共 DNS 解析器 1.1.1.1 进行内存优化，通过改进缓存数据结构与淘汰策略，将缓存内存占用削减了 100TB。该技术显著降低服务器资源消耗与运营成本，同时保持低延迟和高查询吞吐。适用于大规模 DNS 服务、边缘计算节点及高并发网络基础设施场景。",
+  "tags": [
+    "DNS",
+    "Cloudflare",
+    "Memory Optimization",
+    "Edge Computing",
+    "Infrastructure",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

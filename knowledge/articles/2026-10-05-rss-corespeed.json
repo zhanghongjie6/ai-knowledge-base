@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261005-007",
+  "title": "CoreSpeed",
+  "source_url": "https://www.producthunt.com/products/corespeed",
+  "source_type": "rss",
+  "summary": "CoreSpeed 是一个面向 AI 智能体的统一 MCP 平台，将应用、记忆和工具整合到单一接口中。它解决了智能体开发中多源集成复杂的问题，让开发者无需分别对接各类服务即可快速构建具备持久记忆和丰富工具调用能力的智能体。适用于需要跨应用协作、长期记忆管理的自动化工作流场景，显著降低集成成本。",
+  "tags": [
+    "MCP",
+    "Agent",
+    "Memory",
+    "Tool Integration",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

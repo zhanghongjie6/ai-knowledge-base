@@ -1,0 +1,19 @@
+{
+  "id": "github-20261005-001",
+  "title": "jccontrerasg08-cpu/agent-traffic-intelligence",
+  "source_url": "https://github.com/jccontrerasg08-cpu/agent-traffic-intelligence",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向AI Agent的流量智能分析工具，通过采集和解析Agent请求数据，帮助开发者理解调用模式、识别异常行为并优化性能。技术亮点包括实时流量监控、多维度指标聚合以及可视化仪表盘，适用于Agent运维、安全审计和成本优化等场景。",
+  "tags": [
+    "Agent",
+    "Observability",
+    "Traffic Analysis",
+    "Monitoring",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

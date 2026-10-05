@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261005-008",
+  "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+  "source_url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+  "source_type": "rss",
+  "summary": "谷歌因AI生成的低质量漏洞报告激增，暂停了其开源漏洞赏金计划。这反映了AI工具被滥用于自动化提交漏洞，导致审核负担过重。事件凸显了AI在安全研究中的双刃剑效应，也促使业界思考如何应对AI生成的噪音，对漏洞赏金平台和开源安全维护具有警示意义。",
+  "tags": [
+    "AI",
+    "Security",
+    "Bug Bounty",
+    "Open Source",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

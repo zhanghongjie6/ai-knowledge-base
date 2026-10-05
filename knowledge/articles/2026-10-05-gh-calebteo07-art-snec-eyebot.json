@@ -1,0 +1,20 @@
+{
+  "id": "github-20261005-010",
+  "title": "calebteo07-art/SNEC_EYEBOT",
+  "source_url": "https://github.com/calebteo07-art/SNEC_EYEBOT",
+  "source_type": "github_trending",
+  "summary": "SNEC_EYEBOT 是新加坡国家眼科中心已投入生产的 AI 培训平台，专为眼视光学生设计。核心功能包括 OSCE 虚拟患者、苏格拉底式导师、闪卡和员工控制台。技术栈采用 FastAPI + Next.js + Gemini，实现智能问答与模拟考核，提升临床培训效率与互动性。",
+  "tags": [
+    "Medical Education",
+    "LLM",
+    "FastAPI",
+    "Next.js",
+    "Gemini",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

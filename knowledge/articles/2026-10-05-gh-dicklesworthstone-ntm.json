@@ -1,0 +1,19 @@
+{
+  "id": "github-20261005-009",
+  "title": "Dicklesworthstone/ntm",
+  "source_url": "https://github.com/Dicklesworthstone/ntm",
+  "source_type": "github_trending",
+  "summary": "Named Tmux Manager (ntm) 是一个基于 tmux 的多 AI 编码代理管理工具，支持在多个窗格中生成、平铺和协调 Claude、Codex、Gemini 等代理。它提供 TUI 命令面板，简化多代理并行工作流的启动与切换，适合需要同时运行多个 AI 编码助手进行协作或对比的开发者。",
+  "tags": [
+    "AI Agent",
+    "tmux",
+    "TUI",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 452,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

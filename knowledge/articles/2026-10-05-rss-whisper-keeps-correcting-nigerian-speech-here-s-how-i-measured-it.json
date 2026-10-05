@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261005-006",
+  "title": "Whisper Keeps Correcting Nigerian Speech. Here's How I Measured It",
+  "source_url": "https://dev.to/nadinev/whisper-keeps-correcting-nigerian-speech-heres-how-i-measured-it-4f4j",
+  "source_type": "rss",
+  "summary": "本文作者针对Whisper模型在尼日利亚语音识别中频繁纠错的问题，构建了一个基准测试来量化微调模型与标准模型的性能差异。通过实际测量，揭示了模型在特定口音下的偏差，为语音识别公平性评估提供了可复用的方法。技术亮点在于自定义基准和对比分析，适用于多语言语音模型优化和口音鲁棒性研究。",
+  "tags": [
+    "Speech Recognition",
+    "Whisper",
+    "Benchmark",
+    "Accent Bias",
+    "Fine-tuning",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

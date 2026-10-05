@@ -1,0 +1,19 @@
+{
+  "id": "github-20261005-006",
+  "title": "vanillagreencom/vsys",
+  "source_url": "https://github.com/vanillagreencom/vsys",
+  "source_type": "github_trending",
+  "summary": "vsys 是一款专为本地运行大量 AI Agent 的用户设计的系统监控工具，提供对切片、分组、权重等资源的可观测性。它帮助开发者实时掌握多个 Agent 的运行状态与资源分配，解决本地多 Agent 场景下监控困难的问题，适用于需要精细化管理 Agent 集群的开发与调试场景。",
+  "tags": [
+    "Agent",
+    "Observability",
+    "System Monitor",
+    "Local",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

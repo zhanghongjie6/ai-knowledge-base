@@ -1,0 +1,20 @@
+{
+  "id": "github-20261005-003",
+  "title": "NellInc/MillOS",
+  "source_url": "https://github.com/NellInc/MillOS",
+  "source_type": "github_trending",
+  "summary": "MillOS 是一个 AI 驱动的谷物磨坊数字孪生模拟器，集成 SCADA 工业控制系统。它通过实时数据同步与智能算法，模拟磨粉流程、预测设备故障并优化生产参数，帮助工厂降低停机时间与能耗。适用于食品加工、智能制造及工业物联网场景，为传统磨坊提供数字化升级方案。",
+  "tags": [
+    "Digital Twin",
+    "SCADA",
+    "Industrial AI",
+    "Simulation",
+    "IoT",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 8,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

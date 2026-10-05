@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261005-004",
+  "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
+  "source_url": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
+  "source_type": "rss",
+  "summary": "Cantina Security与Yeta Labs联合发布开源权重模型apex-flash-1，专为漏洞研究设计。该模型基于Z.ai的GLM-5.3-Flash进行强化学习微调，在60个保留漏洞任务中成功解决40个，展现了开源模型在安全研究领域的潜力。其核心价值在于降低安全研究门槛，可应用于自动化漏洞挖掘、代码审计和渗透测试等场景。",
+  "tags": [
+    "Security",
+    "Open Source",
+    "LLM",
+    "Vulnerability Research",
+    "Reinforcement Learning",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}

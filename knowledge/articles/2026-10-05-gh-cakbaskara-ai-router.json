@@ -1,0 +1,20 @@
+{
+  "id": "github-20261005-002",
+  "title": "CakBaskara/ai-router",
+  "source_url": "https://github.com/CakBaskara/ai-router",
+  "source_type": "github_trending",
+  "summary": "ai-router 是一个终端聊天工具，能根据每条消息自动路由到合适的 Claude Code 或 Codex 模型，并复用用户已有的订阅。它解决了多模型切换的痛点，让开发者无需手动选择即可获得最佳响应。技术亮点在于智能路由和订阅复用，适合日常开发中需要频繁调用不同 AI 模型的场景。",
+  "tags": [
+    "LLM",
+    "Router",
+    "Terminal",
+    "Claude",
+    "Codex",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-05T03:28:56+00:00",
+  "updated_at": "2026-10-05T03:28:56+00:00"
+}
