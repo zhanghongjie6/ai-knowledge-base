@@ -1,0 +1,20 @@
+{
+  "id": "github-20261006-009",
+  "title": "Parad0x-Labs/dna-x402",
+  "source_url": "https://github.com/Parad0x-Labs/dna-x402",
+  "source_type": "github_trending",
+  "summary": "DNA 为 AI 代理提供基于 Solana 的 x402 微支付协议，支持净额结算、转账和流式结算，并将收据锚定在链上。该项目解决了 AI 代理间高频小额支付的低效问题，通过链上收据确保交易可验证与不可篡改，适用于自主代理经济、API 按次付费和实时结算等场景。",
+  "tags": [
+    "AI Agents",
+    "Micropayments",
+    "Solana",
+    "Blockchain",
+    "Settlement",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 7,
+  "status": "draft",
+  "created_at": "2026-10-06T04:16:28+00:00",
+  "updated_at": "2026-10-06T04:16:28+00:00"
+}

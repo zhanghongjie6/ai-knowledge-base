@@ -1,0 +1,20 @@
+{
+  "id": "github-20261006-008",
+  "title": "AryenP/llm-inference-platform",
+  "source_url": "https://github.com/AryenP/llm-inference-platform",
+  "source_type": "github_trending",
+  "summary": "该项目提供自托管LLM推理与评估全栈方案，集成vLLM部署Qwen3-8B模型、pgvector混合检索以及CI中门控发布的评估工具。技术亮点在于将模型服务、向量检索与自动化评估流水线整合，确保每次发布经过质量验证。适用于需要私有化部署、RAG应用及严格质量控制的团队。",
+  "tags": [
+    "LLM",
+    "vLLM",
+    "RAG",
+    "pgvector",
+    "CI/CD",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-06T04:16:28+00:00",
+  "updated_at": "2026-10-06T04:16:28+00:00"
+}

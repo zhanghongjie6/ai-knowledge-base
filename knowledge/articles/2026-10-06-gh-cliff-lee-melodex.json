@@ -1,0 +1,19 @@
+{
+  "id": "github-20261006-006",
+  "title": "Cliff-Lee/melodex",
+  "source_url": "https://github.com/Cliff-Lee/melodex",
+  "source_type": "github_trending",
+  "summary": "Melodex 是一款开源音乐播放器，将本地音乐库与连接源整合为个性化收听旅程。其核心亮点包括 Flow 排序、品味记忆、重新发现机制，并可选集成 LLM 控制。技术上将推荐算法与播放器深度结合，适合追求智能、个性化音乐体验的用户，尤其适合本地音乐收藏者。",
+  "tags": [
+    "Music",
+    "LLM",
+    "Recommendation",
+    "Open Source",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-10-06T04:16:28+00:00",
+  "updated_at": "2026-10-06T04:16:28+00:00"
+}

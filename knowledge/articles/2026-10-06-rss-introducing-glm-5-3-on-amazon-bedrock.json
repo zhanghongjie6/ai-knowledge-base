@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261006-007",
+  "title": "Introducing GLM 5.3 on Amazon Bedrock",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
+  "source_type": "rss",
+  "summary": "智谱AI的GLM 5.3大模型现已登陆Amazon Bedrock，这是一个7530亿参数的混合专家模型，专为编程和长周期智能体任务设计。用户可通过OpenAI兼容API直接调用，无需自建基础设施，适用于代码生成、复杂Agent工作流和企业级AI应用开发。",
+  "tags": [
+    "LLM",
+    "MoE",
+    "Agent",
+    "Coding",
+    "AWS",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-06T04:16:28+00:00",
+  "updated_at": "2026-10-06T04:16:28+00:00"
+}

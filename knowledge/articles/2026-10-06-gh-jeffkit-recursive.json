@@ -1,0 +1,19 @@
+{
+  "id": "github-20261006-004",
+  "title": "jeffkit/recursive",
+  "source_url": "https://github.com/jeffkit/recursive",
+  "source_type": "github_trending",
+  "summary": "Recursive 是一个用 Rust 编写的极简、正交且可嵌入的编码智能体内核。它剥离了复杂框架的冗余，提供核心的智能体循环与工具调用能力，便于开发者将其集成到自有应用中。技术亮点在于正交设计带来的高可组合性，以及 Rust 带来的高性能与内存安全。适用于需要轻量级、可定制编码助手的场景，如 IDE 插件、自动化脚本或边缘设备。",
+  "tags": [
+    "Rust",
+    "Agent",
+    "Coding Assistant",
+    "Embeddable",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 4,
+  "status": "draft",
+  "created_at": "2026-10-06T04:16:28+00:00",
+  "updated_at": "2026-10-06T04:16:28+00:00"
+}

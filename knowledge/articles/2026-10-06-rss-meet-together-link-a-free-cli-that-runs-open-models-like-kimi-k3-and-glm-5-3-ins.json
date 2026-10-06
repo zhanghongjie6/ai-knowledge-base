@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261006-004",
+  "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+  "source_url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+  "source_type": "rss",
+  "summary": "Together AI 发布免费 MIT 许可的 CLI 工具 Together Link，可将 Claude Code、Codex、OpenCode、Pi 及 Claude/ChatGPT 桌面应用连接到 Kimi K3、GLM 5.3 等开源模型。它统一了多客户端与多模型的接入方式，让开发者无需切换工具即可在熟悉的编码环境中调用开放权重模型，降低对闭源 API 的依赖，适合追求成本可控与模型灵活性的开发团队。",
+  "tags": [
+    "CLI",
+    "Open Models",
+    "Coding Agent",
+    "Developer Tools",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-06T04:16:28+00:00",
+  "updated_at": "2026-10-06T04:16:28+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20261006-010",
+  "title": "paul-gross/blizzard",
+  "source_url": "https://github.com/paul-gross/blizzard",
+  "source_type": "github_trending",
+  "summary": "Blizzard 是一个面向自主编码智能体集群的编排平台，包含 Hub、Runner、CLI 和 Web 看板四大组件。它让开发者能够同时调度、监控和管理大量并行运行的编码 Agent，实现任务分发、状态追踪与结果汇总。适用于大规模自动化代码生成、批量重构和持续集成场景，显著提升多 Agent 协作效率。",
+  "tags": [
+    "Agent",
+    "Orchestration",
+    "Coding",
+    "CLI",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-10-06T04:16:28+00:00",
+  "updated_at": "2026-10-06T04:16:28+00:00"
+}

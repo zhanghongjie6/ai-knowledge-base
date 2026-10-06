@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Anysonyuki-del/yumi-homestay-bot",
+    "url": "https://github.com/Anysonyuki-del/yumi-homestay-bot",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "YuMi 民宿 AI 智能客服及运营管理系统",
+    "pushed_at": "2026-10-06T04:15:40Z",
+    "created_at_source": "2026-08-02T23:36:04Z"
+  },
+  {
+    "title": "Anhao1314/Anhao1314",
+    "url": "https://github.com/Anhao1314/Anhao1314",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Algorithm engineering portfolio — reinforcement learning, robotics, quantitative research and AI-native decision systems.",
+    "pushed_at": "2026-10-06T04:15:40Z",
+    "created_at_source": "2026-09-10T09:07:21Z"
+  },
+  {
+    "title": "holger81/mcp-proxy-server",
+    "url": "https://github.com/holger81/mcp-proxy-server",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "LLM-first MCP gateway",
+    "pushed_at": "2026-10-06T04:15:39Z",
+    "created_at_source": "2026-03-23T23:01:36Z"
+  },
+  {
+    "title": "jeffkit/recursive",
+    "url": "https://github.com/jeffkit/recursive",
+    "source": "github_trending",
+    "popularity": 4,
+    "summary": "A minimal, orthogonal, embeddable coding-agent kernel in Rust.",
+    "pushed_at": "2026-10-06T04:15:39Z",
+    "created_at_source": "2026-05-25T04:19:51Z"
+  },
+  {
+    "title": "konyan3150-lgtm/kyotei-ai-v8-dev",
+    "url": "https://github.com/konyan3150-lgtm/kyotei-ai-v8-dev",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-06T04:15:38Z",
+    "created_at_source": "2026-09-26T08:20:11Z"
+  },
+  {
+    "title": "Cliff-Lee/melodex",
+    "url": "https://github.com/Cliff-Lee/melodex",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Open-source music player that turns your local library and connected sources into personalised listening journeys using Flow sequencing, taste memory, rediscovery, and optional LLM control.",
+    "pushed_at": "2026-10-06T04:15:38Z",
+    "created_at_source": "2026-09-26T14:41:08Z"
+  },
+  {
+    "title": "mistyxab384479/ai-trend-detector",
+    "url": "https://github.com/mistyxab384479/ai-trend-detector",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Detect market trends with AI.",
+    "pushed_at": "2026-10-06T04:15:38Z",
+    "created_at_source": "2026-09-25T09:07:31Z"
+  },
+  {
+    "title": "AryenP/llm-inference-platform",
+    "url": "https://github.com/AryenP/llm-inference-platform",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Self-hosted LLM serving and evaluation stack: Qwen3-8B on vLLM, hybrid retrieval over pgvector, and an eval harness that gates releases in CI",
+    "pushed_at": "2026-10-06T04:15:38Z",
+    "created_at_source": "2026-08-31T23:43:18Z"
+  },
+  {
+    "title": "Parad0x-Labs/dna-x402",
+    "url": "https://github.com/Parad0x-Labs/dna-x402",
+    "source": "github_trending",
+    "popularity": 7,
+    "summary": "DNA — Payment rails for AI agents. x402 micropayment protocol on Solana. Netting, transfer, stream settlement. Receipt anchoring on-chain.",
+    "pushed_at": "2026-10-06T04:15:37Z",
+    "created_at_source": "2026-05-27T05:22:28Z"
+  },
+  {
+    "title": "paul-gross/blizzard",
+    "url": "https://github.com/paul-gross/blizzard",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Blizzard — orchestration platform for autonomous fleets of coding agents: hub, runner, CLI, web board",
+    "pushed_at": "2026-10-06T04:15:37Z",
+    "created_at_source": "2026-07-13T12:03:15Z"
+  },
+  {
+    "title": "AI + SRE ≠ AISRE：AI 如何真正进入生产运维闭环｜QCon上海",
+    "url": "https://www.infoq.cn/article/u70P77XPmsXmRBciu6fL?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "十个案例助你轻松上手 iOS 27 通知自动化",
+    "url": "https://sspai.com/post/114536",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
+    "url": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+    "url": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop apps to open models like Kimi K3 and GLM 5.3. One in",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Prime Inference 📈, agent population 📈, Claude academy 🎓",
+    "url": "https://tldr.tech/ai/2026-10-05",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Our approach to EU text provenance rules",
+    "url": "https://openai.com/index/eu-text-provenance",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Introducing GLM 5.3 on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "GLM 5.3 from Z.ai is now available on Amazon Bedrock: a 753B-parameter mixture-of-experts model built for coding and long-horizon agentic tasks. Learn how to invoke it with the OpenAI-compatible APIs,",
+    "feed_name": "AWS ML Blog"
+  },
+  {
+    "title": "ReviewBench: An open benchmark for AI code review",
+    "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics.\nThe post",
+    "feed_name": "GitHub Blog"
+  },
+  {
+    "title": "Connecting AI agents to enterprise knowledge",
+    "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha",
+    "feed_name": "MIT Tech Review"
+  },
+  {
+    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory s",
+    "feed_name": "The Verge AI"
+  }
+]

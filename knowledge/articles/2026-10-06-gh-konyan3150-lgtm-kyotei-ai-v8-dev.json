@@ -1,0 +1,19 @@
+{
+  "id": "github-20261006-005",
+  "title": "konyan3150-lgtm/kyotei-ai-v8-dev",
+  "source_url": "https://github.com/konyan3150-lgtm/kyotei-ai-v8-dev",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向日本竞艇（kyotei）赛事的AI预测系统开发仓库，通过机器学习模型分析历史比赛数据、选手状态与赛道条件，输出胜率预测与投注建议。技术亮点在于将特征工程与集成学习结合，针对竞艇领域做定制化建模。适合对体育博彩预测、时序数据分析感兴趣的开发者参考，但领域较窄且仓库成熟度有限。",
+  "tags": [
+    "MachineLearning",
+    "SportsPrediction",
+    "Betting",
+    "TimeSeries",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-06T04:16:28+00:00",
+  "updated_at": "2026-10-06T04:16:28+00:00"
+}

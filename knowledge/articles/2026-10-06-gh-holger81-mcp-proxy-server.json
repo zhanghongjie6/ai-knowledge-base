@@ -1,0 +1,20 @@
+{
+  "id": "github-20261006-003",
+  "title": "holger81/mcp-proxy-server",
+  "source_url": "https://github.com/holger81/mcp-proxy-server",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向LLM的MCP网关，充当模型上下文协议（MCP）的代理服务器，统一管理多个MCP工具与数据源。技术亮点在于LLM优先设计，简化工具接入与路由，支持动态发现和调用。适用于AI Agent开发、多工具编排及RAG场景，帮助开发者快速集成外部能力。",
+  "tags": [
+    "MCP",
+    "LLM",
+    "Agent",
+    "Gateway",
+    "RAG",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-06T04:16:28+00:00",
+  "updated_at": "2026-10-06T04:16:28+00:00"
+}

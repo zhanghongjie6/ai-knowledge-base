@@ -1,0 +1,19 @@
+{
+  "id": "github-20261006-001",
+  "title": "Anysonyuki-del/yumi-homestay-bot",
+  "source_url": "https://github.com/Anysonyuki-del/yumi-homestay-bot",
+  "source_type": "github_trending",
+  "summary": "YuMi 是一个面向民宿行业的 AI 智能客服与运营管理系统，基于大语言模型实现自动问答、订单咨询与客户接待，帮助民宿主降低人工客服成本、提升响应效率。项目整合了对话管理、知识库与运营后台，适合中小型民宿快速部署智能化服务。",
+  "tags": [
+    "LLM",
+    "Chatbot",
+    "Hospitality",
+    "KnowledgeBase",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-06T04:16:27+00:00",
+  "updated_at": "2026-10-06T04:16:27+00:00"
+}
