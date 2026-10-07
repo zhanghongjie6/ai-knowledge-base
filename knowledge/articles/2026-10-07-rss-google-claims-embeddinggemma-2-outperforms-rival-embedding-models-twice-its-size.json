@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261007-003",
+  "title": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
+  "source_url": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
+  "source_type": "rss",
+  "summary": "Google发布EmbeddingGemma 2，一个7.4亿参数的开源多模态嵌入模型，可将文本、图像、视频、音频和代码转换为向量。其核心价值在于极低资源占用（仅需约191MB内存）和端侧运行能力，且性能超越两倍大小的竞品。技术亮点包括多模态统一嵌入和高效推理，适用于移动端搜索、推荐、RAG等场景。",
+  "tags": [
+    "Embedding",
+    "Multimodal",
+    "On-device",
+    "Open Source",
+    "RAG",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

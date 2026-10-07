@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261007-005",
+  "title": "Instinct group chats 💬, Reflection’s 501B model 🧠, OpenAI text watermarks 🏷️",
+  "source_url": "https://tldr.tech/ai/2026-10-06",
+  "source_type": "rss",
+  "summary": "本期AI快讯涵盖三项进展：Instinct推出群聊式多智能体协作功能，让多个AI代理在群组中协同完成任务；Reflection发布501B参数大模型，主打推理与自主能力；OpenAI为AI生成文本加入水印标识，用于内容溯源与合规。整体反映了多智能体协作、超大规模模型和AI内容治理三大趋势，适合开发者、产品经理及AI研究者快速了解行业动态。",
+  "tags": [
+    "Multi-Agent",
+    "LLM",
+    "Watermark",
+    "AI Governance",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20261007-005",
+  "title": "yusufworkmail456-sys/SRE-Agentic",
+  "source_url": "https://github.com/yusufworkmail456-sys/SRE-Agentic",
+  "source_type": "github_trending",
+  "summary": "SRE-Agentic 是一个面向站点可靠性工程（SRE）的智能体框架，利用大语言模型自动执行故障排查、根因分析和运维决策。其技术亮点在于将 Agent 工作流与可观测性数据（日志、指标、链路）深度集成，实现自动化诊断与修复建议。适用于云原生环境下的运维自动化、告警降噪和事故响应场景。",
+  "tags": [
+    "Agent",
+    "SRE",
+    "Observability",
+    "LLM",
+    "AIOps",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

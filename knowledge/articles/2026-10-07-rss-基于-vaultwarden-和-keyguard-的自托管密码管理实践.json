@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261007-002",
+  "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
+  "source_url": "https://sspai.com/post/115416",
+  "source_type": "rss",
+  "summary": "本文介绍如何利用 Vaultwarden 和 Keyguard 搭建自托管密码管理服务，实现密码数据的完全自主掌控。Vaultwarden 作为轻量级 Bitwarden 兼容服务器，支持多用户和客户端同步；Keyguard 则提供跨平台客户端访问。技术亮点在于开源、低资源占用、端到端加密，适合注重隐私的个人或小团队自建密码库，替代商业密码管理器。",
+  "tags": [
+    "Self-hosted",
+    "Password Manager",
+    "Privacy",
+    "Vaultwarden",
+    "Keyguard",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

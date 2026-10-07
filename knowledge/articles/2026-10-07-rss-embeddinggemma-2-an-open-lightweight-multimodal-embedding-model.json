@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261007-008",
+  "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+  "source_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+  "source_type": "rss",
+  "summary": "EmbeddingGemma 2 是 DeepMind 推出的开源轻量级多模态嵌入模型，可同时处理文本、图像等模态并生成统一向量表示。其技术亮点在于模型体积小、推理高效，同时保持较强跨模态检索与语义匹配能力。适用于移动端、边缘设备上的多模态搜索、推荐、RAG 检索增强等场景，降低部署门槛。",
+  "tags": [
+    "Multimodal",
+    "Embedding",
+    "Open Source",
+    "Edge AI",
+    "RAG",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

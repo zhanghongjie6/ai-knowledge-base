@@ -1,0 +1,20 @@
+{
+  "id": "github-20261007-002",
+  "title": "johnInarti/pqc-receipts-colosseum",
+  "source_url": "https://github.com/johnInarti/pqc-receipts-colosseum",
+  "source_type": "github_trending",
+  "summary": "FractalAI 是一个面向代理支付场景的后量子安全项目，采用 ML-DSA-65（FIPS 204）标准对收据和风险警报进行签名。它提供离线验证器、黄金向量测试，并在 Arbitrum One 和 Arc 上部署锚定合约，确保交易不可篡改且抗量子攻击。适用于需要高安全性的自动化支付、DeFi 代理和跨链结算场景。",
+  "tags": [
+    "Post-Quantum",
+    "Blockchain",
+    "Agent Payments",
+    "Security",
+    "Arbitrum",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

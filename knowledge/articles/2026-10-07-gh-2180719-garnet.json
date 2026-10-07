@@ -1,0 +1,19 @@
+{
+  "id": "github-20261007-008",
+  "title": "2180719/Garnet",
+  "source_url": "https://github.com/2180719/Garnet",
+  "source_type": "github_trending",
+  "summary": "Garnet 是一个全新的智能体运行框架（agent harness），旨在为开发者提供构建、编排和运行 AI 智能体的基础架构。其技术亮点在于简化智能体与工具、环境的交互流程，可能支持多步骤任务规划与执行。适用于自动化工作流、AI 助手开发等场景，帮助快速搭建可用的智能体应用。",
+  "tags": [
+    "Agent",
+    "Framework",
+    "Automation",
+    "LLM",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

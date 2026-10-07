@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261007-001",
+  "title": "MCP 终于无状态了，但状态并没有消失，只是被“甩”给了应用",
+  "source_url": "https://www.infoq.cn/article/MwQyLYzgSiD16x36k9Ef?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "MCP 协议实现无状态化，将状态管理从协议层转移到应用层。这一变化简化了协议本身，提升了可扩展性和部署灵活性，同时要求开发者自行处理会话与上下文。适用于构建 AI Agent、工具调用及多轮对话系统，推动 MCP 生态更轻量、更易集成。",
+  "tags": [
+    "MCP",
+    "Agent",
+    "Protocol",
+    "Tool Calling",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

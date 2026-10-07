@@ -1,0 +1,20 @@
+{
+  "id": "github-20261007-006",
+  "title": "EnzoVezzaro/ace-proagents",
+  "source_url": "https://github.com/EnzoVezzaro/ace-proagents",
+  "source_type": "github_trending",
+  "summary": "ACE 是一个面向智能体编程环境的 Git 原生包生态系统，类似 npm 但专为编排器驱动的可复现智能体环境设计。它通过 ace/v1 规范定义环境包，支持版本控制、依赖管理和一键复现，解决了智能体开发中环境配置碎片化的问题。技术亮点包括 Git 原生集成和标准化规范，适用于团队协作、CI/CD 和智能体应用部署。",
+  "tags": [
+    "Agent",
+    "DevOps",
+    "Package Manager",
+    "Git",
+    "Orchestration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

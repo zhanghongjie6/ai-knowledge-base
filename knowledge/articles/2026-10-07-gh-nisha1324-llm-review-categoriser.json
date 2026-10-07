@@ -1,0 +1,19 @@
+{
+  "id": "github-20261007-010",
+  "title": "nisha1324/llm-review-categoriser",
+  "source_url": "https://github.com/nisha1324/llm-review-categoriser",
+  "source_type": "github_trending",
+  "summary": "该项目利用LLM对客户产品评论进行业务主题分类，并分析负面反馈的驱动因素。它提供了离线基线方法，便于对比LLM效果。技术亮点包括LLM辅助分类、离线基线以及负面反馈归因分析。适用于电商、产品团队快速洞察用户反馈，优化产品和服务。",
+  "tags": [
+    "LLM",
+    "Text Classification",
+    "Customer Feedback",
+    "Sentiment Analysis",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

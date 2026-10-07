@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261007-007",
+  "title": "Expanding the Cyber Verification Program",
+  "source_url": "https://www.anthropic.com/news/cyber-verification-program",
+  "source_type": "rss",
+  "summary": "Anthropic扩展了其网络验证计划（CVP），向合格的安全专业人员提供高级网络能力和减少的拦截分类器。该计划旨在帮助安全团队更有效地进行漏洞研究、渗透测试和威胁分析，同时确保AI能力不被滥用。技术亮点包括定制化模型访问和降低误报率，适用于企业安全运营和红队演练。",
+  "tags": [
+    "Security",
+    "AI Safety",
+    "Cybersecurity",
+    "Anthropic",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

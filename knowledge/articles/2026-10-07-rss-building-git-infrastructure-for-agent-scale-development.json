@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261007-010",
+  "title": "Building Git infrastructure for agent-scale development",
+  "source_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+  "source_type": "rss",
+  "summary": "GitHub 正在重构其 Git 基础设施，以支持代理规模（agent-scale）的软件开发。核心价值在于在不中断现有服务的前提下，为 AI 代理大规模并行操作代码仓库提供底层支撑。技术亮点包括架构优化、高并发处理与无缝迁移。适用于 AI 代理驱动的自动化编码、大规模代码生成与协作场景。",
+  "tags": [
+    "Git",
+    "Agent",
+    "Infrastructure",
+    "AI",
+    "DevOps",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}

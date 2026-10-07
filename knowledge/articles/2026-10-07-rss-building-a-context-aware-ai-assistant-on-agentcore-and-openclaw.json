@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261007-009",
+  "title": "Building a context-aware AI assistant on AgentCore and OpenClaw",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/building-a-context-aware-ai-assistant-on-agentcore-and-openclaw/",
+  "source_type": "rss",
+  "summary": "本文介绍如何利用Amazon Bedrock AgentCore运行时和OpenClaw构建具有上下文感知能力的个人AI助手，解决传统助手在对话间遗忘信息的问题。通过持久化记忆和上下文累积机制，助手能跨会话记住用户偏好与历史，适用于个性化助理、客户支持等需要长期记忆的场景。",
+  "tags": [
+    "Agent",
+    "Context-Aware",
+    "Memory",
+    "AWS",
+    "Personal Assistant",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-07T03:43:10+00:00",
+  "updated_at": "2026-10-07T03:43:10+00:00"
+}
