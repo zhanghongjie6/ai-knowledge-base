@@ -1,0 +1,19 @@
+{
+  "id": "github-20261008-002",
+  "title": "A1f1ed/finsight-agent",
+  "source_url": "https://github.com/A1f1ed/finsight-agent",
+  "source_type": "github_trending",
+  "summary": "FinSight Agent 是一个基于大语言模型的金融分析智能体，能够自动完成财报解读、数据查询与投资研究等任务。项目整合了 RAG 检索增强、工具调用与多步推理能力，让 AI 自主规划并执行复杂金融工作流。适合量化研究者、投资分析师及金融科技开发者快速搭建自动化投研助手。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "RAG",
+    "FinTech",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

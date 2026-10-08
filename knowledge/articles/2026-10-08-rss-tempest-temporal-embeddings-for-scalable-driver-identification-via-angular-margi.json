@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-005",
+  "title": "TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular Margin Learning",
+  "source_url": "https://arxiv.org/abs/2610.06855",
+  "source_type": "rss",
+  "summary": "TEMPEST提出一种基于角度边际学习的时序嵌入方法，用于大规模车队中的驾驶员识别。该方法通过优化嵌入空间的角度间隔，提升模型在车队规模扩大时的判别能力，解决传统三元组损失在可扩展性上的不足。适用于网约车、物流车队等需要持续扩展驾驶员库的场景。",
+  "tags": [
+    "Embedding",
+    "Driver Identification",
+    "Metric Learning",
+    "Time Series",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

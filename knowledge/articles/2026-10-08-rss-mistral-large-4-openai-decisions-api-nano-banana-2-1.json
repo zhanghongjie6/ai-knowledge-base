@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-009",
+  "title": "Mistral Large 4 🧠, OpenAI Decisions API ❓, Nano Banana 2.1 🍌",
+  "source_url": "https://tldr.tech/ai/2026-10-07",
+  "source_type": "rss",
+  "summary": "本期简报汇总了 Mistral Large 4 大模型发布、OpenAI 决策 API 以及 Nano Banana 2.1 等 AI 动态。Mistral Large 4 在推理与多语言能力上进一步提升，OpenAI 决策 API 则尝试将模型输出结构化为可执行决策，Nano Banana 2.1 聚焦轻量级部署。这些更新覆盖大模型能力、Agent 决策编排与边缘推理场景，适合开发者与产品团队快速了解行业前沿。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "API",
+    "Edge AI",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

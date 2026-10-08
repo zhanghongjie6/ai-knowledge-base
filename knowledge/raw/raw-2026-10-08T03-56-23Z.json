@@ -1,0 +1,172 @@
+[
+  {
+    "title": "eddiezgq/freecad-ai-parts",
+    "url": "https://github.com/eddiezgq/freecad-ai-parts",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-08T03:56:11Z",
+    "created_at_source": "2026-09-30T21:02:25Z"
+  },
+  {
+    "title": "A1f1ed/finsight-agent",
+    "url": "https://github.com/A1f1ed/finsight-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-08T03:56:11Z",
+    "created_at_source": "2026-08-28T09:26:28Z"
+  },
+  {
+    "title": "zapplyjobs/New-Grad-Data-Science-Jobs-2027",
+    "url": "https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027",
+    "source": "github_trending",
+    "popularity": 82,
+    "summary": "2027 entry-level data science & ML jobs — analytics, AI, quant & machine learning US roles",
+    "pushed_at": "2026-10-08T03:56:11Z",
+    "created_at_source": "2025-08-13T19:44:57Z"
+  },
+  {
+    "title": "Ming-doan/stcode",
+    "url": "https://github.com/Ming-doan/stcode",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Terminal Coding Agent",
+    "pushed_at": "2026-10-08T03:56:11Z",
+    "created_at_source": "2026-08-14T02:47:33Z"
+  },
+  {
+    "title": "zapplyjobs/awesome-ml-internships-2027",
+    "url": "https://github.com/zapplyjobs/awesome-ml-internships-2027",
+    "source": "github_trending",
+    "popularity": 457,
+    "summary": "Live AI and machine learning internships for students, refreshed through the Zapply job pipeline.",
+    "pushed_at": "2026-10-08T03:56:11Z",
+    "created_at_source": "2022-08-04T04:35:49Z"
+  },
+  {
+    "title": "gaurishr/medtech-llm",
+    "url": "https://github.com/gaurishr/medtech-llm",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Clinical Protocol Lookup Assistant",
+    "pushed_at": "2026-10-08T03:56:10Z",
+    "created_at_source": "2026-10-07T11:29:40Z"
+  },
+  {
+    "title": "ekoredu-maker/AGA",
+    "url": "https://github.com/ekoredu-maker/AGA",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI-팻 링크",
+    "pushed_at": "2026-10-08T03:56:09Z",
+    "created_at_source": "2026-10-08T02:51:00Z"
+  },
+  {
+    "title": "MichaelVendor/typescript-agent-harness",
+    "url": "https://github.com/MichaelVendor/typescript-agent-harness",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "TypeScript Agent Runtime — everything is a capability",
+    "pushed_at": "2026-10-08T03:56:09Z",
+    "created_at_source": "2026-10-06T08:33:43Z"
+  },
+  {
+    "title": "arvinkil2/news",
+    "url": "https://github.com/arvinkil2/news",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Kilambi News — daily AI-generated briefings: commodities, infra deals, politics, rates",
+    "pushed_at": "2026-10-08T03:56:09Z",
+    "created_at_source": "2026-10-04T02:00:56Z"
+  },
+  {
+    "title": "manojna165/gemini-llm-api",
+    "url": "https://github.com/manojna165/gemini-llm-api",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "FastAPI service that sends prompts to the Google Gemini API, with error handling and env-based API key.",
+    "pushed_at": "2026-10-08T03:56:08Z",
+    "created_at_source": "2026-10-06T10:27:06Z"
+  },
+  {
+    "title": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+    "url": "https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+    "url": "https://sspai.com/post/115462",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国际咨询公司经济学家MarkusvonWa ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+    "url": "https://arxiv.org/abs/2610.06910",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.06910v1 Announce Type: new \nAbstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generatio",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Zero-Shot Visualization: Exploring Text Corpora with User-Prompted Axes",
+    "url": "https://arxiv.org/abs/2610.06889",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.06889v1 Announce Type: new \nAbstract: We study the application of large language models (LLMs) to the visual exploration of textual corpora. We introduce zero-shot visualization (ZSV), a ta",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "TEMPEST: Temporal Embeddings for Scalable Driver Identification via Angular Margin Learning",
+    "url": "https://arxiv.org/abs/2610.06855",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.06855v1 Announce Type: new \nAbstract: Scalable driver identification requires embedding models that maintain discriminative performance as fleet size grows, yet existing triplet-loss formul",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Medical Image Alignment Assessment as a Test of Generalist Visual Reasoning in Frontier Multimodal Models",
+    "url": "https://arxiv.org/abs/2610.06896",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.06896v1 Announce Type: new \nAbstract: Frontier multimodal large language models (MLLMs) are increasingly positioned as general purpose visual reasoners as part of the quest for artificial g",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
+    "url": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wai",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
+    "url": "https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Mistral Large 4 🧠, OpenAI Decisions API ❓, Nano Banana 2.1 🍌",
+    "url": "https://tldr.tech/ai/2026-10-07",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "feed_name": "OpenAI"
+  }
+]

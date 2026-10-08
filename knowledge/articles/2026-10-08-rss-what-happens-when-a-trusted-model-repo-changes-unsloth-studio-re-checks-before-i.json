@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-008",
+  "title": "What Happens When a Trusted Model Repo Changes? Unsloth Studio Re-Checks Before It Runs",
+  "source_url": "https://www.marktechpost.com/2026/10/07/what-happens-when-a-trusted-model-repo-changes-unsloth-studio-re-checks-before-it-runs/",
+  "source_type": "rss",
+  "summary": "Unsloth Studio 引入模型仓库变更前的重新校验机制，解决可信模型仓库被篡改或更新后直接运行带来的安全风险。技术亮点在于运行前自动检测仓库变更并重新验证，确保模型来源可信。适用于本地模型部署、AI 开发工作流等场景，提升模型供应链安全性。",
+  "tags": [
+    "Model Security",
+    "Supply Chain",
+    "Local Deployment",
+    "Unsloth",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-003",
+  "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
+  "source_url": "https://arxiv.org/abs/2610.06910",
+  "source_type": "rss",
+  "summary": "GAMEGO提出一种利用真实世界资产锚定合成轨迹来训练游戏开发智能体的方法。通过将LLM生成的合成轨迹与真实游戏资产对齐，提升智能体在浏览器端游戏生成任务中的执行能力。该技术亮点在于合成数据与真实资产结合，降低对人工标注的依赖，适用于自动化游戏开发、前端代码生成等场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "GameDev",
+    "SyntheticData",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-001",
+  "title": "苹果筑起的权限高墙，被 Meta AI 助手“借道”绕过",
+  "source_url": "https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Meta AI助手通过系统级集成绕过苹果权限限制，利用iOS快捷指令和辅助功能API实现跨应用操作。该方案无需越狱即可读取屏幕内容、模拟点击，突破沙盒隔离。技术亮点在于巧妙利用系统合法接口，为AI Agent在封闭生态中落地提供新思路，适用于自动化任务和智能助理场景。",
+  "tags": [
+    "AI Agent",
+    "iOS",
+    "Automation",
+    "Privacy",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

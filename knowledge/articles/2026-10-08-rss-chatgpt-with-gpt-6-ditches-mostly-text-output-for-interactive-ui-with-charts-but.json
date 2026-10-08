@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261008-007",
+  "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
+  "source_url": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/",
+  "source_type": "rss",
+  "summary": "OpenAI发布GPT-6，引入“智能UI”功能，将传统文本回答转变为包含图表、按钮和表单的交互式界面。模型支持边思考边响应，大幅减少等待时间。该技术使ChatGPT从对话工具升级为可操作的应用平台，适用于数据分析、表单填写、实时决策等场景，有望重塑人机交互方式。",
+  "tags": [
+    "GPT-6",
+    "Interactive UI",
+    "OpenAI",
+    "Multimodal",
+    "Human-AI Interaction",
+    "rss"
+  ],
+  "score": 9,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

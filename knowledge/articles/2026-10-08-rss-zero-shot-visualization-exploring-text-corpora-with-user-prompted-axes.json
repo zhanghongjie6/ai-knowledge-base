@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-004",
+  "title": "Zero-Shot Visualization: Exploring Text Corpora with User-Prompted Axes",
+  "source_url": "https://arxiv.org/abs/2610.06889",
+  "source_type": "rss",
+  "summary": "该研究提出零样本可视化（ZSV），利用大语言模型根据用户提示的坐标轴对文本语料进行可视化探索。用户无需预先定义维度或训练模型，即可通过自然语言指定关注维度，LLM自动生成语义坐标，实现交互式文本分析。技术亮点在于将LLM的语义理解能力直接用于可视化映射，降低探索门槛。适用于文本挖掘、文献综述、舆情分析等场景。",
+  "tags": [
+    "LLM",
+    "Visualization",
+    "Text Corpus",
+    "Zero-Shot",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

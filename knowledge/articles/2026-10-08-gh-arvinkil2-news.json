@@ -1,0 +1,18 @@
+{
+  "id": "github-20261008-009",
+  "title": "arvinkil2/news",
+  "source_url": "https://github.com/arvinkil2/news",
+  "source_type": "github_trending",
+  "summary": "该项目通过AI自动生成每日新闻简报，覆盖大宗商品、基础设施交易、政治和利率等垂直领域。技术亮点在于利用大语言模型实现新闻聚合与摘要生成，降低人工编辑成本。适用于投资者、分析师等需要快速获取特定领域动态的用户，可作为信息筛选的辅助工具。",
+  "tags": [
+    "LLM",
+    "News",
+    "Automation",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

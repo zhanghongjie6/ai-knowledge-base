@@ -1,0 +1,19 @@
+{
+  "id": "github-20261008-010",
+  "title": "manojna165/gemini-llm-api",
+  "source_url": "https://github.com/manojna165/gemini-llm-api",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于 FastAPI 的轻量级服务，用于将用户提示转发至 Google Gemini API，并返回生成结果。核心价值在于简化 Gemini 大模型的调用流程，内置错误处理机制和基于环境变量的 API 密钥管理，提升安全性与易用性。技术亮点包括异步请求处理、清晰的接口封装和配置分离。适用于快速搭建聊天机器人、文本生成工具或作为后端 AI 能力接入层。",
+  "tags": [
+    "FastAPI",
+    "Gemini",
+    "LLM",
+    "API",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20261008-006",
+  "title": "gaurishr/medtech-llm",
+  "source_url": "https://github.com/gaurishr/medtech-llm",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向医疗领域的临床协议查询助手，基于LLM构建，帮助医护人员快速检索和解读临床协议。技术亮点在于将大语言模型与医疗知识库结合，提供自然语言问答接口。适用于医院、诊所等场景下的临床决策支持，可提升协议查询效率，但需注意医疗信息的准确性验证。",
+  "tags": [
+    "LLM",
+    "Healthcare",
+    "Clinical",
+    "RAG",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

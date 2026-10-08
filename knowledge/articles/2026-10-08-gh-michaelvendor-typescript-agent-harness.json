@@ -1,0 +1,19 @@
+{
+  "id": "github-20261008-008",
+  "title": "MichaelVendor/typescript-agent-harness",
+  "source_url": "https://github.com/MichaelVendor/typescript-agent-harness",
+  "source_type": "github_trending",
+  "summary": "TypeScript Agent Harness 是一个基于 TypeScript 的 Agent 运行时框架，核心思想是“一切皆能力”。它通过统一的能力抽象，让开发者能够灵活组合工具、模型和外部服务，快速构建可扩展的 AI Agent 应用。技术亮点包括类型安全的运行时、模块化能力注册与动态编排，适用于需要复杂工具调用和自定义工作流的智能助手场景。",
+  "tags": [
+    "Agent",
+    "TypeScript",
+    "Runtime",
+    "Tooling",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

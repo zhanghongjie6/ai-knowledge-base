@@ -1,0 +1,20 @@
+{
+  "id": "github-20261008-001",
+  "title": "eddiezgq/freecad-ai-parts",
+  "source_url": "https://github.com/eddiezgq/freecad-ai-parts",
+  "source_type": "github_trending",
+  "summary": "该项目将AI代码生成能力引入FreeCAD参数化建模，通过自然语言描述自动生成Python脚本，快速创建3D零件。技术亮点在于打通LLM与CAD脚本接口，降低建模门槛，适合工程师快速原型设计、教学演示及非专业用户生成简单机械零件。",
+  "tags": [
+    "LLM",
+    "CAD",
+    "FreeCAD",
+    "CodeGeneration",
+    "3DModeling",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261008-006",
+  "title": "Medical Image Alignment Assessment as a Test of Generalist Visual Reasoning in Frontier Multimodal Models",
+  "source_url": "https://arxiv.org/abs/2610.06896",
+  "source_type": "rss",
+  "summary": "该研究将医学图像对齐评估作为检验前沿多模态大模型通用视觉推理能力的测试。通过医学影像对齐任务，揭示模型在专业领域视觉推理中的表现与局限，为评估MLLM的泛化能力提供新基准。技术亮点在于跨领域任务设计与系统性评测，适用于医学AI、多模态推理及模型能力边界研究。",
+  "tags": [
+    "MLLM",
+    "Medical Imaging",
+    "Visual Reasoning",
+    "Benchmark",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-08T03:56:52+00:00",
+  "updated_at": "2026-10-08T03:56:52+00:00"
+}
