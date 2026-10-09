@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-003",
+  "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+  "source_url": "https://arxiv.org/abs/2610.10541",
+  "source_type": "rss",
+  "summary": "该论文提出一种以表头为中心的可解释框架，用于大规模语义表格解释与数据质量评估。它强调表格元数据质量对知识图谱构建的关键影响，通过表头语义分析实现列类型识别、实体链接与质量评分，提升数据集成前的可靠性。适用于知识图谱构建、数据治理和表格数据清洗等场景。",
+  "tags": [
+    "Table Interpretation",
+    "Knowledge Graph",
+    "Data Quality",
+    "Explainability",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-09T04:02:13+00:00",
+  "updated_at": "2026-10-09T04:02:13+00:00"
+}

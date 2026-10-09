@@ -1,0 +1,172 @@
+[
+  {
+    "title": "takecchi/alteroid",
+    "url": "https://github.com/takecchi/alteroid",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Autonomous AI clone that drives Claude Code on your behalf — three-layer agent runtime (clone / manager / worker) with persistent memory, escalation protocol, and role-based model routing",
+    "pushed_at": "2026-10-09T04:01:31Z",
+    "created_at_source": "2026-08-12T00:17:32Z"
+  },
+  {
+    "title": "nguyenthang23092005/K4-L3-DAY23-NguyenVanThang-2A202602835-AIProductGrowth",
+    "url": "https://github.com/nguyenthang23092005/K4-L3-DAY23-NguyenVanThang-2A202602835-AIProductGrowth",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-09T04:01:31Z",
+    "created_at_source": "2026-10-09T04:01:29Z"
+  },
+  {
+    "title": "wangwang13242734995/dwell-ai-deploy",
+    "url": "https://github.com/wangwang13242734995/dwell-ai-deploy",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-09T04:01:31Z",
+    "created_at_source": "2026-10-04T12:22:29Z"
+  },
+  {
+    "title": "abdulraheemnohri/Nano-AI",
+    "url": "https://github.com/abdulraheemnohri/Nano-AI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-09T04:01:31Z",
+    "created_at_source": "2026-10-08T12:32:45Z"
+  },
+  {
+    "title": "AlanRasch/Agents-that-help-manage-day-to-day-activities-on-desktop-for-Mac-and-win",
+    "url": "https://github.com/AlanRasch/Agents-that-help-manage-day-to-day-activities-on-desktop-for-Mac-and-win",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-09T04:01:30Z",
+    "created_at_source": "2026-10-09T03:49:40Z"
+  },
+  {
+    "title": "ahmedsakri/youtube-agent-pro",
+    "url": "https://github.com/ahmedsakri/youtube-agent-pro",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "YouTube Agent Pro: a Claude Code plugin with 24 AI skills and 11 tools for YouTube creators. Idea research, scripts, hooks, titles, thumbnails, SEO, retention and funnel analysis, Shorts, repurposing,",
+    "pushed_at": "2026-10-09T04:01:30Z",
+    "created_at_source": "2026-10-09T03:38:54Z"
+  },
+  {
+    "title": "antono4/agentku",
+    "url": "https://github.com/antono4/agentku",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "agentku",
+    "pushed_at": "2026-10-09T04:01:30Z",
+    "created_at_source": "2026-07-07T02:07:11Z"
+  },
+  {
+    "title": "akhileshmanitiwari06/RAG-Based-Voice-Agent",
+    "url": "https://github.com/akhileshmanitiwari06/RAG-Based-Voice-Agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-09T04:01:30Z",
+    "created_at_source": "2026-10-09T02:56:56Z"
+  },
+  {
+    "title": "Yolandaladaladala/News-Agent",
+    "url": "https://github.com/Yolandaladaladala/News-Agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-09T04:01:29Z",
+    "created_at_source": "2026-10-09T04:01:10Z"
+  },
+  {
+    "title": "kevin987654321/AI_Paper_Trader",
+    "url": "https://github.com/kevin987654321/AI_Paper_Trader",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-09T04:01:28Z",
+    "created_at_source": "2026-06-08T08:47:49Z"
+  },
+  {
+    "title": "从 Demo 到生产：AI Agent 缺的到底是什么？",
+    "url": "https://www.infoq.cn/article/PLEWse6sEviMN99iLE93?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "App+1｜所得即所见，更适合中文的字体预览工具：Anyway.Fonts",
+    "url": "https://sspai.com/post/114869",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+    "url": "https://arxiv.org/abs/2610.10541",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.10541v1 Announce Type: new \nAbstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In m",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Diffu-LoRA: A Novel Low-Rank Adaptation for Personalized Diffusion Models",
+    "url": "https://arxiv.org/abs/2610.10550",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.10550v1 Announce Type: new \nAbstract: Personalizing text-to-image diffusion models from a few reference images requires preserving subject identity while following prompts that describe new",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Freeze the Decoder, Heal the Encoder: Parameter-Efficient Adaptation for SVD-Based KV-Cache Compression",
+    "url": "https://arxiv.org/abs/2610.10552",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.10552v1 Announce Type: new \nAbstract: Comparing parameter-efficient fine-tuning recipes under a single, shared learning rate is a common but flawed practice: when the arms being compared ha",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows",
+    "url": "https://arxiv.org/abs/2610.10563",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.10563v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) often answer visual reasoning questions by relying on linguistic priors rather than task-relevant visual evide",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
+    "url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion generates animated explainer videos from t",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
+    "url": "https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "JetBrains released Mellum2.1, an Apache 2.0, 12B mixture-of-experts thinking model with 2.5B active parameters. RL in real repositories lifted its SWE-bench Verified score from 2.0 to 47.0.\nThe post J",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "ChatGPT Intelligent UI 🧠, Claude Haiku 5.5 ⚡, Grok Bot 3rd party models 🤖",
+    "url": "https://tldr.tech/ai/2026-10-08",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "url": "https://openai.com/index/oracle",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "feed_name": "OpenAI"
+  }
+]

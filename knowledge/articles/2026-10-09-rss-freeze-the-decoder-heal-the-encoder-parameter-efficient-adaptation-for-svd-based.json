@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-005",
+  "title": "Freeze the Decoder, Heal the Encoder: Parameter-Efficient Adaptation for SVD-Based KV-Cache Compression",
+  "source_url": "https://arxiv.org/abs/2610.10552",
+  "source_type": "rss",
+  "summary": "本文指出在参数高效微调中，使用统一学习率比较不同方法存在缺陷，并提出针对SVD-based KV-Cache压缩的适配策略：冻结解码器、仅微调编码器。该方法能显著降低显存占用并保持生成质量，适用于大模型长上下文推理场景。",
+  "tags": [
+    "PEFT",
+    "KV-Cache",
+    "LLM",
+    "Inference",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-09T04:02:13+00:00",
+  "updated_at": "2026-10-09T04:02:13+00:00"
+}

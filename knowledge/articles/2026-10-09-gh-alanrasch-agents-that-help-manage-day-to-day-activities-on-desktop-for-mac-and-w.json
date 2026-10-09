@@ -1,0 +1,19 @@
+{
+  "id": "github-20261009-005",
+  "title": "AlanRasch/Agents-that-help-manage-day-to-day-activities-on-desktop-for-Mac-and-win",
+  "source_url": "https://github.com/AlanRasch/Agents-that-help-manage-day-to-day-activities-on-desktop-for-Mac-and-win",
+  "source_type": "github_trending",
+  "summary": "该项目提供可在Mac和Windows桌面运行的AI代理，帮助用户自动化管理日常活动，如文件整理、日程安排和任务执行。技术亮点在于跨平台兼容与代理自主决策，能理解自然语言指令并操作本地系统。适用于个人效率提升和重复性桌面任务自动化场景。",
+  "tags": [
+    "Agent",
+    "Desktop Automation",
+    "Cross-platform",
+    "Productivity",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-09T04:02:13+00:00",
+  "updated_at": "2026-10-09T04:02:13+00:00"
+}

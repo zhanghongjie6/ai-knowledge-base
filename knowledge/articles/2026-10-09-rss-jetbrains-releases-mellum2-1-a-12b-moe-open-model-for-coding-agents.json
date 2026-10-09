@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261009-008",
+  "title": "JetBrains Releases Mellum2.1: A 12B MoE Open Model for Coding Agents",
+  "source_url": "https://www.marktechpost.com/2026/10/08/jetbrains-releases-mellum2-1-a-12b-moe-open-model-for-coding-agents/",
+  "source_type": "rss",
+  "summary": "JetBrains发布Mellum2.1，一个Apache 2.0许可的12B混合专家（MoE）思考模型，仅激活2.5B参数。通过在真实代码仓库中进行强化学习，其SWE-bench Verified得分从2.0大幅提升至47.0，专为编码智能体设计，可显著提升代码生成、修复和自动化编程任务的性能，适合集成到IDE和开发工作流中。",
+  "tags": [
+    "MoE",
+    "Coding Agent",
+    "Open Source",
+    "RL",
+    "SWE-bench",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-09T04:02:13+00:00",
+  "updated_at": "2026-10-09T04:02:13+00:00"
+}

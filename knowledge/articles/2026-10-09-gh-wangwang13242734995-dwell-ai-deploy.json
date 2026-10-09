@@ -1,0 +1,19 @@
+{
+  "id": "github-20261009-003",
+  "title": "wangwang13242734995/dwell-ai-deploy",
+  "source_url": "https://github.com/wangwang13242734995/dwell-ai-deploy",
+  "source_type": "github_trending",
+  "summary": "该项目提供 Dwell AI 的一键部署方案，通过 Docker 和配置文件简化本地或云端环境搭建流程。技术亮点在于预置依赖与自动化脚本，降低 AI 应用部署门槛。适用于开发者快速验证 Dwell AI 功能、搭建演示环境或进行二次开发。",
+  "tags": [
+    "Docker",
+    "Deployment",
+    "AI",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-09T04:02:13+00:00",
+  "updated_at": "2026-10-09T04:02:13+00:00"
+}

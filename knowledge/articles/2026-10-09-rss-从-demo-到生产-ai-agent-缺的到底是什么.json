@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-001",
+  "title": "从 Demo 到生产：AI Agent 缺的到底是什么？",
+  "source_url": "https://www.infoq.cn/article/PLEWse6sEviMN99iLE93?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "文章探讨AI Agent从演示到生产落地的核心障碍，指出缺乏可靠的工程化基础设施、可观测性与错误恢复机制，而非模型能力本身。技术亮点在于系统化梳理生产级Agent所需的状态管理、工具调用稳定性与评估体系，适用于正在构建企业级Agent应用的开发者与架构师参考。",
+  "tags": [
+    "Agent",
+    "LLMOps",
+    "Production",
+    "Architecture",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-09T04:02:13+00:00",
+  "updated_at": "2026-10-09T04:02:13+00:00"
+}

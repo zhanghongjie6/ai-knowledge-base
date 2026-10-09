@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261009-006",
+  "title": "SLVR: Structured Latent Visual Reasoning via Human-like Reasoning Flows",
+  "source_url": "https://arxiv.org/abs/2610.10563",
+  "source_type": "rss",
+  "summary": "SLVR提出结构化潜在视觉推理框架，通过模拟人类推理流程，让多模态大模型在回答视觉问题时真正依赖任务相关的视觉证据，而非仅凭语言先验。该方法将推理过程分解为结构化潜在步骤，提升视觉问答的准确性与可解释性，适用于需要精细视觉理解的场景。",
+  "tags": [
+    "MLLM",
+    "Visual Reasoning",
+    "Multimodal",
+    "Latent Reasoning",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-09T04:02:13+00:00",
+  "updated_at": "2026-10-09T04:02:13+00:00"
+}

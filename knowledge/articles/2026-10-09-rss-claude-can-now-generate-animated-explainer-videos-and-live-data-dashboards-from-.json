@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261009-007",
+  "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
+  "source_url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
+  "source_type": "rss",
+  "summary": "Anthropic为Claude推出两项测试功能：Dashboards可将BigQuery、Snowflake等数据源通过文本提示转化为实时仪表盘；Motion则能根据文本生成动画解说视频。这标志着AI从文本生成向动态可视化与视频创作延伸，显著降低数据分析和视频制作门槛，适用于商业智能、数据报告和营销内容等场景。",
+  "tags": [
+    "Claude",
+    "Data Visualization",
+    "Video Generation",
+    "Anthropic",
+    "BI",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-09T04:02:13+00:00",
+  "updated_at": "2026-10-09T04:02:13+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20261009-009",
+  "title": "Yolandaladaladala/News-Agent",
+  "source_url": "https://github.com/Yolandaladaladala/News-Agent",
+  "source_type": "github_trending",
+  "summary": "News-Agent 是一个基于大语言模型的自动化新闻聚合与摘要工具，能够从多个来源抓取新闻并生成结构化摘要。技术亮点在于利用 LLM 进行内容理解和摘要生成，支持自定义新闻源和输出格式。适用于个人资讯追踪、内容创作者素材收集以及企业舆情监控等场景。",
+  "tags": [
+    "LLM",
+    "News",
+    "Agent",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-09T04:02:13+00:00",
+  "updated_at": "2026-10-09T04:02:13+00:00"
+}

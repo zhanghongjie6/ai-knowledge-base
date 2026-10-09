@@ -1,0 +1,19 @@
+{
+  "id": "github-20261009-010",
+  "title": "kevin987654321/AI_Paper_Trader",
+  "source_url": "https://github.com/kevin987654321/AI_Paper_Trader",
+  "source_type": "github_trending",
+  "summary": "AI_Paper_Trader 是一个基于大语言模型的模拟交易系统，利用 AI 分析市场数据并自动执行虚拟买卖决策。项目结合了 LLM 推理与金融数据接口，支持策略回测和实时模拟，适合量化交易爱好者和 AI 研究者探索智能投顾与自动化交易场景。",
+  "tags": [
+    "LLM",
+    "Trading",
+    "Agent",
+    "Finance",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-09T04:02:13+00:00",
+  "updated_at": "2026-10-09T04:02:13+00:00"
+}
