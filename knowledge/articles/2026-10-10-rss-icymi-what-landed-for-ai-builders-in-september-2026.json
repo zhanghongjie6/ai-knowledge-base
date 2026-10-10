@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261010-009",
+  "title": "ICYMI: What landed for AI builders in September 2026",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+  "source_type": "rss",
+  "summary": "本文汇总了2026年9月AWS面向AI开发者的重要更新，涵盖Amazon Bedrock、Bedrock AgentCore与Strands。核心价值在于提供更广泛的模型选择、更快的无服务器智能体部署，并内置评估能力，同时实现自动化工作流。技术亮点包括无服务器智能体性能提升与原生评估集成，适用于企业级AI应用快速构建与迭代场景。",
+  "tags": [
+    "AWS",
+    "Bedrock",
+    "Agent",
+    "Serverless",
+    "LLM",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

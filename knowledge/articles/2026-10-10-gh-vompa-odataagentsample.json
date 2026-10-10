@@ -1,0 +1,20 @@
+{
+  "id": "github-20261010-005",
+  "title": "vompa/ODataAgentSample",
+  "source_url": "https://github.com/vompa/ODataAgentSample",
+  "source_type": "github_trending",
+  "summary": "该项目将OData v4服务（基于.NET 10和EF Core）改造为面向AI代理的接口，通过MCP工具、角色权限、调用限制和审计日志，使AI代理能安全、可控地访问企业数据。技术亮点包括MCP协议集成、细粒度权限与配额管理、完整审计追踪，适用于需要让AI代理操作业务数据的场景。",
+  "tags": [
+    "MCP",
+    "OData",
+    "AI Agent",
+    ".NET",
+    "EF Core",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

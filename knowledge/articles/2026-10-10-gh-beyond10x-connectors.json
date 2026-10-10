@@ -1,0 +1,20 @@
+{
+  "id": "github-20261010-004",
+  "title": "beyond10x/connectors",
+  "source_url": "https://github.com/beyond10x/connectors",
+  "source_type": "github_trending",
+  "summary": "该项目提供连接应用与AI代理到外部服务的连接器框架，核心价值在于通过审核操作、显式权限和连接器自有凭证来保障安全集成。技术亮点包括系统探索、请求与事件流管理及灵活部署选项，适用于需要安全访问第三方API的代理应用场景。",
+  "tags": [
+    "Agent",
+    "Connector",
+    "Security",
+    "API",
+    "Integration",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

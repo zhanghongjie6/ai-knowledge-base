@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261010-006",
+  "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
+  "source_url": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
+  "source_type": "rss",
+  "summary": "本期AI周报聚焦三大事件：OpenAI发布719份未公开前沿模型的数学手稿，展示其在形式化证明上的突破；Mistral与Reflection AI推出开源权重模型，旨在与中国开源模型竞争；同时又一位安全研究员离职，引发对AI安全治理的担忧。内容适合追踪前沿动态的研究者与开发者。",
+  "tags": [
+    "LLM",
+    "OpenSource",
+    "Math",
+    "AI Safety",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20261010-007",
+  "title": "edwardbudaza/contract-rag",
+  "source_url": "https://github.com/edwardbudaza/contract-rag",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于RAG架构的合同智能分析工具，利用大语言模型检索并回答合同相关问题。技术亮点在于将向量检索与LLM结合，支持对法律文档的语义搜索和问答。适用于法务人员快速审查合同条款、提取关键信息，降低人工阅读成本。",
+  "tags": [
+    "RAG",
+    "LLM",
+    "LegalTech",
+    "VectorSearch",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

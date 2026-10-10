@@ -1,0 +1,19 @@
+{
+  "id": "github-20261010-003",
+  "title": "tsamandarov-afk/polymarket-agent",
+  "source_url": "https://github.com/tsamandarov-afk/polymarket-agent",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于AI Agent的Polymarket预测市场自动化交易工具，利用大语言模型分析市场信息并自动执行交易策略。技术亮点包括Agent架构、市场数据抓取与LLM决策结合，适用于量化交易和预测市场套利场景。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "Trading",
+    "PredictionMarket",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

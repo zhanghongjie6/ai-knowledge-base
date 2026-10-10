@@ -1,0 +1,20 @@
+{
+  "id": "github-20261010-010",
+  "title": "dthinkr/openrouter-uptime",
+  "source_url": "https://github.com/dthinkr/openrouter-uptime",
+  "source_type": "github_trending",
+  "summary": "该项目为OpenRouter平台上的每个模型提供独立的可用性监控注册表，每30分钟轮询一次，记录原始数据、衍生指标和故障事件，且无需API密钥即可使用。核心价值在于帮助开发者实时掌握各模型的稳定性和服务中断情况，从而优化模型选择与容错策略。技术亮点包括自动化轮询、数据聚合与事件追踪，适用于需要高可用性保障的AI应用开发场景。",
+  "tags": [
+    "OpenRouter",
+    "Uptime",
+    "Monitoring",
+    "API",
+    "Reliability",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

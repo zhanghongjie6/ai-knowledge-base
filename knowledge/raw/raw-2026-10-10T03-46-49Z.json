@@ -1,0 +1,172 @@
+[
+  {
+    "title": "bradcstevens/git-loopy",
+    "url": "https://github.com/bradcstevens/git-loopy",
+    "source": "github_trending",
+    "popularity": 3,
+    "summary": "GitHub Copilot SDK Loop Engineering Harness — skills, agents, and sandboxed autonomous implementation runners.",
+    "pushed_at": "2026-10-10T03:46:35Z",
+    "created_at_source": "2026-04-30T01:37:43Z"
+  },
+  {
+    "title": "doublegate/CyberChef-MCP",
+    "url": "https://github.com/doublegate/CyberChef-MCP",
+    "source": "github_trending",
+    "popularity": 23,
+    "summary": "Model Context Protocol server for CyberChef — exposes GCHQ's \"Cyber Swiss Army Knife\" as AI-agent tools: 504 operations across encryption, encoding, compression and forensics, on MCP protocol revision",
+    "pushed_at": "2026-10-10T03:46:33Z",
+    "created_at_source": "2025-11-20T12:00:52Z"
+  },
+  {
+    "title": "tsamandarov-afk/polymarket-agent",
+    "url": "https://github.com/tsamandarov-afk/polymarket-agent",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-10T03:46:33Z",
+    "created_at_source": "2026-09-26T19:39:06Z"
+  },
+  {
+    "title": "beyond10x/connectors",
+    "url": "https://github.com/beyond10x/connectors",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Connect applications and agents to external services with reviewed operations, explicit permissions, and Connector-owned credentials. Explore the system, request and event flows, deployment options, a",
+    "pushed_at": "2026-10-10T03:46:36Z",
+    "created_at_source": "2026-08-23T13:03:07Z"
+  },
+  {
+    "title": "vompa/ODataAgentSample",
+    "url": "https://github.com/vompa/ODataAgentSample",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "OData-v4-Service (.NET 10, EF Core) umgebaut für KI-Agenten: MCP-Tools, Rollen, Limits, Audit-Log",
+    "pushed_at": "2026-10-10T03:46:33Z",
+    "created_at_source": "2026-10-08T19:46:31Z"
+  },
+  {
+    "title": "rarora2414/forecasting-blockers",
+    "url": "https://github.com/rarora2414/forecasting-blockers",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "An AI skill for spotting project blockers early, batching human actions, and keeping a simple Markdown project tracker.",
+    "pushed_at": "2026-10-10T03:46:36Z",
+    "created_at_source": "2026-10-10T03:46:31Z"
+  },
+  {
+    "title": "edwardbudaza/contract-rag",
+    "url": "https://github.com/edwardbudaza/contract-rag",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-10T03:46:33Z",
+    "created_at_source": "2026-09-18T08:26:47Z"
+  },
+  {
+    "title": "weisinsim/crypto-ai-trader",
+    "url": "https://github.com/weisinsim/crypto-ai-trader",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-10T03:46:32Z",
+    "created_at_source": "2026-10-04T04:32:39Z"
+  },
+  {
+    "title": "clarityvasupport/AI-OS",
+    "url": "https://github.com/clarityvasupport/AI-OS",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "My file tree",
+    "pushed_at": "2026-10-10T03:46:31Z",
+    "created_at_source": "2026-10-10T00:57:43Z"
+  },
+  {
+    "title": "dthinkr/openrouter-uptime",
+    "url": "https://github.com/dthinkr/openrouter-uptime",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Independent uptime registry for every OpenRouter model. Polled every 30 min, raw + derived + incidents, keyless",
+    "pushed_at": "2026-10-10T03:46:31Z",
+    "created_at_source": "2026-07-04T14:03:47Z"
+  },
+  {
+    "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+    "url": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "App+1｜专注星空：让「少刷手机」这件事更愉悦一点",
+    "url": "https://sspai.com/post/115237",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "把决定使用时长的时机，放到每次打开应用之前。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+    "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bu",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+    "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Alibaba&#8217;s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits images in 8 denoising steps instead of the base m",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "GPT-6.1 Ultrafast ⚡, Gemini universal agent 🤖, speculative decoding 🧠",
+    "url": "https://tldr.tech/ai/2026-10-09",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Last Week in AI #346 - 719 math manuscripts, 2 Western open models, 1 more safety resignation",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-346-719-math-manuscripts",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI publishes hundreds of math proofs from unreleased frontier model, Mistral and Reflection AI launch open-weight models to rival China, and more!",
+    "feed_name": "Last Week in AI"
+  },
+  {
+    "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+    "url": "https://openai.com/index/sophos",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "2026 Usage Policy update",
+    "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Each year, Anthropic updates its Usage Policy in response to the evolving capabilities of our models, and the feedback we’ve received from our customers. We're publishing a new version of the policy t",
+    "feed_name": "Anthropic News"
+  },
+  {
+    "title": "ICYMI: What landed for AI builders in September 2026",
+    "url": "https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "A monthly recap of the latest Amazon Bedrock, Amazon Bedrock AgentCore, and Strands updates from September 2026: broader model choice, faster serverless agents with built-in evaluation, and automated ",
+    "feed_name": "AWS ML Blog"
+  },
+  {
+    "title": "Hack the World: Why hackathons are still the best place to learn to build",
+    "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning.\nThe post Hack the World: Why hackathons are still the best place to learn to ",
+    "feed_name": "GitHub Blog"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "id": "github-20261010-006",
+  "title": "rarora2414/forecasting-blockers",
+  "source_url": "https://github.com/rarora2414/forecasting-blockers",
+  "source_type": "github_trending",
+  "summary": "该项目是一个AI技能，用于早期识别项目阻塞点、批量处理需人工介入的操作，并维护简洁的Markdown项目追踪器。技术亮点在于将AI代理能力与轻量级文本工作流结合，无需复杂工具即可实现项目风险预警与任务批处理。适用于个人开发者或小团队管理开源项目、敏捷迭代中的任务跟踪与阻塞管理。",
+  "tags": [
+    "AI",
+    "ProjectManagement",
+    "Markdown",
+    "Workflow",
+    "Agent",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

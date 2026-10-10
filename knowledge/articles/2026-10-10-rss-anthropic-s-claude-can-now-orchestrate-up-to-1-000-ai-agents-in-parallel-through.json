@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261010-003",
+  "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+  "source_url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+  "source_type": "rss",
+  "summary": "Anthropic 为 Claude Managed Agents 引入动态工作流，允许主智能体将任务分发给最多 1000 个子智能体并行执行。测试中单个智能体最多找到 70 个隐藏漏洞中的 27 个，而动态工作流显著提升效率。该技术适用于大规模并行任务处理、安全审计和复杂问题求解，标志着多智能体编排能力的重大突破。",
+  "tags": [
+    "Multi-Agent",
+    "Orchestration",
+    "Claude",
+    "Parallel Computing",
+    "Workflow",
+    "rss"
+  ],
+  "score": 9,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

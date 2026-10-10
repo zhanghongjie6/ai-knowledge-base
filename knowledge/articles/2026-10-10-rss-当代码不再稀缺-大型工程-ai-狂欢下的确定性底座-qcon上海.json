@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261010-001",
+  "title": "当代码不再稀缺：大型工程 AI 狂欢下的确定性底座｜QCon上海",
+  "source_url": "https://www.infoq.cn/article/0LiYFbYJtkttVMpDVkWC?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文是QCon上海演讲整理，探讨AI大规模生成代码后，软件工程如何建立确定性底座。核心观点是代码不再稀缺，真正的挑战转向验证、测试与工程治理。技术亮点包括以形式化方法、自动化测试和可观测性构建可信交付链路，适用于大型团队在AI辅助开发中控制质量与风险。",
+  "tags": [
+    "AI",
+    "Software Engineering",
+    "Testing",
+    "Formal Methods",
+    "Observability",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

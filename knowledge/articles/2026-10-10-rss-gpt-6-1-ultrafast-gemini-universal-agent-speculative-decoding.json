@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261010-005",
+  "title": "GPT-6.1 Ultrafast ⚡, Gemini universal agent 🤖, speculative decoding 🧠",
+  "source_url": "https://tldr.tech/ai/2026-10-09",
+  "source_type": "rss",
+  "summary": "本期AI快讯聚焦三项前沿进展：GPT-6.1以超高速推理刷新性能纪录，Gemini推出通用智能体实现跨任务自主执行，推测解码技术进一步优化大模型推理效率。这些突破共同指向更快速、更自主、更高效的AI系统，适用于实时交互、自动化工作流与低成本部署等场景。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Inference",
+    "Speculative Decoding",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

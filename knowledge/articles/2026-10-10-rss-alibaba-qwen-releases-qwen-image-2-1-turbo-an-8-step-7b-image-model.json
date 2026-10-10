@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261010-004",
+  "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+  "source_url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+  "source_type": "rss",
+  "summary": "阿里巴巴Qwen团队发布Qwen-Image-2.1-Turbo，这是其开源权重图像模型Qwen-Image-2.1的加速版本。该模型仅需8步去噪即可生成和编辑图像，大幅提升推理速度，同时保持高质量输出。技术亮点包括7B参数规模、高效采样策略和开源权重，适用于快速图像生成、编辑及创意设计等场景，降低部署成本。",
+  "tags": [
+    "Image Generation",
+    "Diffusion",
+    "Open Source",
+    "Qwen",
+    "Turbo",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

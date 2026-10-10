@@ -1,0 +1,20 @@
+{
+  "id": "github-20261010-008",
+  "title": "weisinsim/crypto-ai-trader",
+  "source_url": "https://github.com/weisinsim/crypto-ai-trader",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于AI的加密货币自动交易机器人，利用大语言模型分析市场情绪和技术指标，自动生成交易策略并执行买卖操作。技术亮点包括多模型集成、实时数据流处理和风险控制模块，适合量化交易爱好者和开发者快速搭建AI驱动的加密交易系统。",
+  "tags": [
+    "LLM",
+    "Trading",
+    "Crypto",
+    "Agent",
+    "Quant",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261010-008",
+  "title": "2026 Usage Policy update",
+  "source_url": "https://www.anthropic.com/news/2026-usage-policy-update",
+  "source_type": "rss",
+  "summary": "Anthropic 发布 2026 年使用政策更新，根据模型能力演进与客户反馈调整条款。核心价值在于明确 AI 模型使用边界，涵盖安全、合规与责任规范，技术亮点是动态适配模型能力变化，适用于开发者、企业及 API 用户，确保合规部署 Claude 等模型。",
+  "tags": [
+    "AI Policy",
+    "Anthropic",
+    "Compliance",
+    "LLM",
+    "rss"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-10T03:47:18+00:00",
+  "updated_at": "2026-10-10T03:47:18+00:00"
+}
