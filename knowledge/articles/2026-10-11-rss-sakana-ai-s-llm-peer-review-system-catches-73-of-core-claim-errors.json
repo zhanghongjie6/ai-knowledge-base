@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261011-003",
+  "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+  "source_url": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+  "source_type": "rss",
+  "summary": "Sakana AI 在 TMLR 发表论文，提出多层评审系统 MLR，基于三个 Claude 智能体协作进行学术论文同行评审，并构建了包含 1,164 个错误的 Contradiction Benchmark。MLR 能捕获 73.43% 的核心主张错误，远超最佳基线 14.81%，显著提升评审准确性与效率，适用于学术出版、论文预审和科研质量把控。",
+  "tags": [
+    "LLM",
+    "Peer Review",
+    "Multi-Agent",
+    "Benchmark",
+    "Academic Publishing",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

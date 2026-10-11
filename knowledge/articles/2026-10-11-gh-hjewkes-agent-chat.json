@@ -1,0 +1,20 @@
+{
+  "id": "github-20261011-006",
+  "title": "HJewkes/agent-chat",
+  "source_url": "https://github.com/HJewkes/agent-chat",
+  "source_type": "github_trending",
+  "summary": "该项目为 Claude Code 提供跨会话消息传递与智能体编排能力，通过 channels 机制实现多个 Claude Code 实例之间的通信与协作。核心价值在于打破单会话隔离，让不同会话中的智能体可以互相发送消息、协调任务，适用于多智能体工作流、分布式任务处理和复杂自动化场景。",
+  "tags": [
+    "Agent",
+    "Orchestration",
+    "Claude",
+    "Multi-Agent",
+    "Messaging",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

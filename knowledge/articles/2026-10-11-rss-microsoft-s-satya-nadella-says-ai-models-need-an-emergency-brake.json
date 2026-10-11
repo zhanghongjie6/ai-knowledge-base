@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-009",
+  "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+  "source_url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+  "source_type": "rss",
+  "summary": "微软CEO萨提亚·纳德拉发文呼吁AI模型需要“紧急刹车”机制，强调应重新评估AI的信任架构。该观点聚焦于AI安全与可控性，提出在模型部署中嵌入可中断、可回滚的防护措施，以应对潜在风险。技术亮点在于将传统软件安全理念引入AI治理，适用于高风险AI应用场景，如自动驾驶、医疗诊断和金融决策，推动行业建立更可靠的AI安全标准。",
+  "tags": [
+    "AI Safety",
+    "Governance",
+    "Trust Architecture",
+    "Microsoft",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

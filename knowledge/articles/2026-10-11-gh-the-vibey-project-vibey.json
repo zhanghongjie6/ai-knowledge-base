@@ -1,0 +1,20 @@
+{
+  "id": "github-20261011-008",
+  "title": "the-vibey-project/vibey",
+  "source_url": "https://github.com/the-vibey-project/vibey",
+  "source_type": "github_trending",
+  "summary": "Vibey 是一个开源 AI 编码代理编排器，通过规格访谈、无人值守构建（支持本地 Ollama 或付费代理）、人工审核门禁和仅追加的 PostgreSQL 账本，实现崩溃代理工作的恢复与审计。它解决了多代理协作中的状态管理和可靠性问题，适合需要自动化编码流程并保留完整操作记录的开发团队。",
+  "tags": [
+    "AI Coding",
+    "Orchestrator",
+    "Agent",
+    "PostgreSQL",
+    "Ollama",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 3,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

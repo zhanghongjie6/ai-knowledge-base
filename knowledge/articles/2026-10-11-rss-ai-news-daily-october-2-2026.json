@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-007",
+  "title": "AI News Daily — October 2, 2026",
+  "source_url": "https://dev.to/dylanhsiehtech/ai-news-daily-october-2-2026-1e9p",
+  "source_type": "rss",
+  "summary": "本文汇总了2026年10月2日AI领域三大趋势：MCP协议成为主流，圣路易斯联储将FRED经济数据库接入MCP连接器，标志传统金融数据与AI代理的融合；同时Blo等其他平台也在跟进。这些进展展示了AI代理通过标准化协议访问专业数据源的能力，为金融分析、经济研究等场景提供了实时、结构化的数据接入方案，降低了AI应用开发门槛。",
+  "tags": [
+    "MCP",
+    "AI Agent",
+    "Finance",
+    "Data Integration",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

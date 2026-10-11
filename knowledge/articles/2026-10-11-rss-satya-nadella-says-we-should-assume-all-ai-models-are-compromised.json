@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261011-006",
+  "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+  "source_type": "rss",
+  "summary": "微软CEO萨提亚·纳德拉在X发长文警告，应假设所有AI模型均已被攻破或植入后门，呼吁行业建立更严格的安全验证与防御机制。文章强调高级AI模型带来的风险已超出传统安全框架，需从模型供应链、部署环境到持续监控全面重构信任模型。该观点对AI安全治理、企业AI部署策略及监管政策具有重要参考价值。",
+  "tags": [
+    "AI Safety",
+    "Security",
+    "LLM",
+    "Policy",
+    "Trust",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

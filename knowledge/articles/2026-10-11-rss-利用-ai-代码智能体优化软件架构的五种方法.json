@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-001",
+  "title": "利用 AI 代码智能体优化软件架构的五种方法",
+  "source_url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "本文探讨了利用AI代码智能体优化软件架构的五种方法，包括自动化代码审查、重构建议、依赖分析、性能优化和文档生成。这些方法能提升开发效率与代码质量，适用于现代软件开发团队，帮助架构师和开发者更高效地维护和演进系统。",
+  "tags": [
+    "AI",
+    "CodeAgent",
+    "SoftwareArchitecture",
+    "DevOps",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261011-004",
+  "title": "Agents can now buy domains with the Vercel CLI",
+  "source_url": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
+  "source_type": "rss",
+  "summary": "Vercel 在其 CLI 中新增了域名购买能力，使 AI Agent 能够通过命令行直接完成域名查询、购买与配置。该功能将域名注册流程自动化，Agent 无需人工介入即可为项目获取并绑定域名，打通了从代码部署到线上访问的最后一环。适用于自动化建站、Agent 自主部署、CI/CD 流水线等场景，显著降低运维门槛。",
+  "tags": [
+    "Agent",
+    "CLI",
+    "DevOps",
+    "Vercel",
+    "Automation",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

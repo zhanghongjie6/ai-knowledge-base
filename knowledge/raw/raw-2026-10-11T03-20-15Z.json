@@ -1,0 +1,164 @@
+[
+  {
+    "title": "ishandutta2007/Awesome-Autonomous-Sales-Agents",
+    "url": "https://github.com/ishandutta2007/Awesome-Autonomous-Sales-Agents",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Top Autonomous Sales Agents (Opensource)  Star if you like it!",
+    "pushed_at": "2026-10-11T03:19:56Z",
+    "created_at_source": "2026-10-11T03:19:55Z"
+  },
+  {
+    "title": "jobright-ai/2026-Art-Internship",
+    "url": "https://github.com/jobright-ai/2026-Art-Internship",
+    "source": "github_trending",
+    "popularity": 4,
+    "summary": "Collection of 2026 internships in Arts and Entertainment!",
+    "pushed_at": "2026-10-11T03:19:55Z",
+    "created_at_source": "2024-07-09T05:26:46Z"
+  },
+  {
+    "title": "venkatsubbarao123/Docuextract-AI",
+    "url": "https://github.com/venkatsubbarao123/Docuextract-AI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Intelligent Document Extraction & Structuring Agent DocuExtract AI is an AI-powered document processing application that automatically analyzes vendor documents in PDF and image formats, identifies th",
+    "pushed_at": "2026-10-11T03:19:54Z",
+    "created_at_source": "2026-08-23T17:23:07Z"
+  },
+  {
+    "title": "ethereal-cobra61jykw6/UNISWAP-ARBITRAGE-BOT",
+    "url": "https://github.com/ethereal-cobra61jykw6/UNISWAP-ARBITRAGE-BOT",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
+    "pushed_at": "2026-10-11T03:19:54Z",
+    "created_at_source": "2026-09-14T07:48:10Z"
+  },
+  {
+    "title": "fayazasra99/KaamConnect-AI",
+    "url": "https://github.com/fayazasra99/KaamConnect-AI",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI-powered local job matching platform for workers and employers.",
+    "pushed_at": "2026-10-11T03:19:54Z",
+    "created_at_source": "2026-10-10T07:05:04Z"
+  },
+  {
+    "title": "HJewkes/agent-chat",
+    "url": "https://github.com/HJewkes/agent-chat",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Cross-session messaging and agent orchestration for Claude Code, delivered over the channels capability",
+    "pushed_at": "2026-10-11T03:19:53Z",
+    "created_at_source": "2026-07-27T04:27:19Z"
+  },
+  {
+    "title": "ForgeDreams-AI/mini-games",
+    "url": "https://github.com/ForgeDreams-AI/mini-games",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Mini Games - daily mini games hub",
+    "pushed_at": "2026-10-11T03:19:53Z",
+    "created_at_source": "2026-10-11T00:17:06Z"
+  },
+  {
+    "title": "the-vibey-project/vibey",
+    "url": "https://github.com/the-vibey-project/vibey",
+    "source": "github_trending",
+    "popularity": 3,
+    "summary": "Open-source orchestrator for AI coding agents: a spec interview, unattended builds on local (Ollama) or paid agents, human-gated review, and an append-only PostgreSQL ledger so a crashed agent's work ",
+    "pushed_at": "2026-10-11T03:19:53Z",
+    "created_at_source": "2026-08-14T21:25:22Z"
+  },
+  {
+    "title": "falconpumanzabcf/ai-trade-reporter",
+    "url": "https://github.com/falconpumanzabcf/ai-trade-reporter",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "",
+    "pushed_at": "2026-10-11T03:19:53Z",
+    "created_at_source": "2026-09-25T09:03:43Z"
+  },
+  {
+    "title": "hyper-swe/mgit",
+    "url": "https://github.com/hyper-swe/mgit",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Sandboxed version control for autonomous coding agents: an agent's untrusted code runs in a per-task microVM, its work stays in an isolated, append-only store, and only the reviewed result lands in yo",
+    "pushed_at": "2026-10-11T03:19:53Z",
+    "created_at_source": "2026-04-02T12:08:13Z"
+  },
+  {
+    "title": "利用 AI 代码智能体优化软件架构的五种方法",
+    "url": "https://www.infoq.cn/article/soRObi5sjdTTUM95zLJK?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
+    "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately bypassed network restrictions by routing",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
+    "url": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43% of core-claim errors, versus 14.81% for the best p",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Agents can now buy domains with the Vercel CLI",
+    "url": "https://vercel.com/changelog/agents-can-now-buy-domains-with-the-vercel-cli",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Vercel News"
+  },
+  {
+    "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+    "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to sa",
+    "feed_name": "MIT Tech Review"
+  },
+  {
+    "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is t",
+    "feed_name": "The Verge AI"
+  },
+  {
+    "title": "AI News Daily — October 2, 2026",
+    "url": "https://dev.to/dylanhsiehtech/ai-news-daily-october-2-2026-1e9p",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "📰 Today's Themes\n\n\nThree threads dominated the last 24 hours:\n\n\n\nMCP goes mainstream. Within three days, the St. Louis Fed put its FRED economic database behind a Model Context Protocol connector, Blo",
+    "feed_name": "DEV.to AI"
+  },
+  {
+    "title": "ej",
+    "url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "An 11MB local model for typed decisions in one pass\n          \n          \n            Discussion\n            |\n            Link",
+    "feed_name": "Product Hunt"
+  },
+  {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+    "feed_name": "TechCrunch AI"
+  }
+]

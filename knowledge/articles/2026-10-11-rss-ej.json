@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-008",
+  "title": "ej",
+  "source_url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices",
+  "source_type": "rss",
+  "summary": "ej 是一个仅 11MB 的本地模型，专为边缘设备设计，能在单次推理中完成带类型的决策。其核心价值在于极小的体积和高效的本地处理能力，无需联网即可运行，适合物联网、移动端和嵌入式场景。技术亮点包括单次推理完成类型化决策，降低延迟和资源消耗。",
+  "tags": [
+    "Edge AI",
+    "Local Model",
+    "TinyML",
+    "Decision Making",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

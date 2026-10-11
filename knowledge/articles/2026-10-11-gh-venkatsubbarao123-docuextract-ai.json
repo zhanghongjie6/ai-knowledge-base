@@ -1,0 +1,19 @@
+{
+  "id": "github-20261011-003",
+  "title": "venkatsubbarao123/Docuextract-AI",
+  "source_url": "https://github.com/venkatsubbarao123/Docuextract-AI",
+  "source_type": "github_trending",
+  "summary": "DocuExtract AI 是一个智能文档提取与结构化代理，能自动分析 PDF 和图片格式的供应商文档，识别关键字段并输出结构化数据。它结合 OCR 与大语言模型，简化了发票、合同等非结构化文档的自动化处理流程，适合企业财务、采购和行政场景，减少人工录入成本。",
+  "tags": [
+    "Document Extraction",
+    "OCR",
+    "LLM",
+    "Automation",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

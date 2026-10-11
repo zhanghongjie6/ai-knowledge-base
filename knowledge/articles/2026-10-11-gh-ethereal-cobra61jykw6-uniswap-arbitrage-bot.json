@@ -1,0 +1,20 @@
+{
+  "id": "github-20261011-004",
+  "title": "ethereal-cobra61jykw6/UNISWAP-ARBITRAGE-BOT",
+  "source_url": "https://github.com/ethereal-cobra61jykw6/UNISWAP-ARBITRAGE-BOT",
+  "source_type": "github_trending",
+  "summary": "该项目是一个针对Uniswap的MEV套利机器人，通过监控内存池中的大额交易，利用优先Gas费抢先买入，推高价格后让原交易者以更高价格成交，随后机器人卖出获利，每周期可锁定0.6%至2.8%的收益。技术核心在于内存池监控、Gas竞价和自动化交易执行，适用于以太坊DeFi套利场景，但存在伦理争议和监管风险。",
+  "tags": [
+    "MEV",
+    "DeFi",
+    "Arbitrage",
+    "Uniswap",
+    "Bot",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

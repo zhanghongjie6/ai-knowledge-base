@@ -1,0 +1,20 @@
+{
+  "id": "github-20261011-010",
+  "title": "hyper-swe/mgit",
+  "source_url": "https://github.com/hyper-swe/mgit",
+  "source_type": "github_trending",
+  "summary": "mgit 为自主编码代理提供沙箱化版本控制，每个任务的不可信代码在独立微虚拟机中运行，工作内容保存在隔离的仅追加存储中，仅经审核的结果合并到主仓库。核心价值在于安全隔离与审计追踪，技术亮点包括微虚拟机沙箱、仅追加存储和审核门控，适用于需要安全执行AI生成代码的CI/CD或代理开发场景。",
+  "tags": [
+    "Sandbox",
+    "Version Control",
+    "Autonomous Agents",
+    "Security",
+    "MicroVM",
+    "github"
+  ],
+  "score": 8,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

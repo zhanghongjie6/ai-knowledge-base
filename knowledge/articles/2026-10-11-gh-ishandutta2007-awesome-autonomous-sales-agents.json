@@ -1,0 +1,19 @@
+{
+  "id": "github-20261011-001",
+  "title": "ishandutta2007/Awesome-Autonomous-Sales-Agents",
+  "source_url": "https://github.com/ishandutta2007/Awesome-Autonomous-Sales-Agents",
+  "source_type": "github_trending",
+  "summary": "该项目汇总了开源自主销售代理（Autonomous Sales Agents）资源，涵盖自动化销售流程、客户开发、邮件外联等工具。技术亮点在于集成LLM与Agent框架，实现销售任务自动化。适用于销售团队、创业者及开发者快速选型，提升获客效率。",
+  "tags": [
+    "Sales",
+    "Agent",
+    "LLM",
+    "Automation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}

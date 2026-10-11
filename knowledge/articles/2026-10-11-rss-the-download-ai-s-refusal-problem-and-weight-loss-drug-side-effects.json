@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261011-005",
+  "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+  "source_url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+  "source_type": "rss",
+  "summary": "本文是《麻省理工科技评论》每日通讯，聚焦AI的“拒绝问题”——即模型过度拒绝合理请求，以及减肥药副作用。文章指出人们过度信任AI的安全能力，导致误判和用户体验下降，同时探讨了GLP-1类减肥药的真实副作用。核心价值在于提醒业界平衡AI安全与可用性，并关注药物长期影响。",
+  "tags": [
+    "AI Safety",
+    "LLM",
+    "Healthcare",
+    "GLP-1",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-11T03:20:46+00:00",
+  "updated_at": "2026-10-11T03:20:46+00:00"
+}
