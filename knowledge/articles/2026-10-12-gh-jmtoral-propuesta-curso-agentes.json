@@ -1,0 +1,19 @@
+{
+  "id": "github-20261012-002",
+  "title": "jmtoral/propuesta_curso_agentes",
+  "source_url": "https://github.com/jmtoral/propuesta_curso_agentes",
+  "source_type": "github_trending",
+  "summary": "这是一个关于AI智能体（Agent）课程提案的GitHub仓库，主要提供课程大纲、教学材料和项目实践方案。核心价值在于为教育者和学习者提供结构化的Agent学习路径，涵盖基础概念到实际应用。技术亮点包括结合LLM构建智能体、多步骤任务规划与工具调用。适用于高校课程设计、自学或培训工作坊。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "Education",
+    "Course",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-12T03:43:40+00:00",
+  "updated_at": "2026-10-12T03:43:40+00:00"
+}

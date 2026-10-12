@@ -1,0 +1,19 @@
+{
+  "id": "github-20261012-003",
+  "title": "wanderingcuvul1698/signalforge-ai",
+  "source_url": "https://github.com/wanderingcuvul1698/signalforge-ai",
+  "source_type": "github_trending",
+  "summary": "SignalForge AI 是一个实时信号生成器，通过 AI 确认机制提升交易信号的可靠性。项目结合实时数据流与 AI 模型，自动生成并验证交易信号，减少误报。适用于量化交易、加密货币监控和金融数据分析等场景，帮助开发者和交易者快速构建智能信号系统。",
+  "tags": [
+    "Trading",
+    "AI",
+    "Real-time",
+    "Signal Processing",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 2,
+  "status": "draft",
+  "created_at": "2026-10-12T03:43:40+00:00",
+  "updated_at": "2026-10-12T03:43:40+00:00"
+}

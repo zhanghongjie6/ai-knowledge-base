@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261012-001",
+  "title": "Radicle 披露了可能导致私有仓库以明文形式暴露的关键漏洞",
+  "source_url": "https://www.infoq.cn/article/h86bNjSBdJRBYwxP4Xgt?utm_source=rss&utm_medium=article",
+  "source_type": "rss",
+  "summary": "Radicle 披露了一个关键安全漏洞，可能导致私有仓库内容以明文形式暴露。该漏洞影响基于 Git 的去中心化代码协作平台，攻击者可能借此绕过访问控制读取敏感代码。事件提醒开发者关注去中心化基础设施的安全审计与权限隔离，适用于使用 Radicle 托管私有项目的团队。",
+  "tags": [
+    "Security",
+    "Git",
+    "Decentralized",
+    "Vulnerability",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-12T03:43:40+00:00",
+  "updated_at": "2026-10-12T03:43:40+00:00"
+}

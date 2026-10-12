@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261012-006",
+  "title": "Field Notes IRL. Touch the grass!",
+  "source_url": "https://dev.to/herbs_and_spices_api/field-notes-irl-touch-the-grass-d49",
+  "source_type": "rss",
+  "summary": "该项目是Hacktoberfest开源AI挑战赛的参赛作品，核心创意是制作一盏智能台灯，当天气适宜外出时自动亮起，提醒用户放下屏幕、走进自然。技术亮点在于将天气API与硬件控制结合，通过简单的自动化逻辑实现物理世界与数字信息的联动。适用于居家办公或学习场景，帮助改善久坐习惯，增加户外活动时间。",
+  "tags": [
+    "IoT",
+    "Automation",
+    "WeatherAPI",
+    "Hardware",
+    "rss"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-12T03:43:40+00:00",
+  "updated_at": "2026-10-12T03:43:40+00:00"
+}

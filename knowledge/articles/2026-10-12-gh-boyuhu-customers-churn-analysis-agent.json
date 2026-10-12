@@ -1,0 +1,20 @@
+{
+  "id": "github-20261012-006",
+  "title": "BoyuHu/Customers-Churn-Analysis-Agent",
+  "source_url": "https://github.com/BoyuHu/Customers-Churn-Analysis-Agent",
+  "source_type": "github_trending",
+  "summary": "该项目是一个面向B2B场景的客户流失分析智能体，旨在帮助企业提升客户留存率。它利用AI代理自动分析客户行为数据，识别流失风险并生成可执行的挽留策略。技术亮点在于将LLM与数据分析流程结合，实现从数据洞察到行动建议的闭环。适用于客户成功团队、SaaS企业及需要精细化运营的B2B业务。",
+  "tags": [
+    "Agent",
+    "LLM",
+    "CustomerRetention",
+    "B2B",
+    "DataAnalysis",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-12T03:43:40+00:00",
+  "updated_at": "2026-10-12T03:43:40+00:00"
+}

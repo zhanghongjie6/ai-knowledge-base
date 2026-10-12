@@ -1,0 +1,19 @@
+{
+  "id": "github-20261012-009",
+  "title": "proj-airi/airicraft",
+  "source_url": "https://github.com/proj-airi/airicraft",
+  "source_type": "github_trending",
+  "summary": "Airicraft 是 proj-airi 团队正在开发的开源项目，旨在将 AI 智能体引入 Minecraft 游戏环境，让 AI 能够自主感知、决策并执行游戏内操作。项目结合大语言模型与游戏 API，探索具身智能与虚拟世界交互，适用于 AI 游戏陪玩、自动化任务和智能 NPC 研究。目前项目处于早期构建阶段，代码和文档尚不完整。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Minecraft",
+    "Game AI",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 6,
+  "status": "draft",
+  "created_at": "2026-10-12T03:43:40+00:00",
+  "updated_at": "2026-10-12T03:43:40+00:00"
+}

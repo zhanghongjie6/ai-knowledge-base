@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261012-003",
+  "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+  "source_url": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
+  "source_type": "rss",
+  "summary": "研究显示，多AI智能体团队相比单智能体性能提升微乎其微，但成本高达5.1倍。在GPT-6 Sol和Claude Opus 5.5的四项测试中，仅一项有可测量增益。该发现挑战了多智能体协作的盲目采用，提示开发者需权衡成本与收益，适用于AI系统架构与成本优化场景。",
+  "tags": [
+    "Multi-Agent",
+    "LLM",
+    "Cost-Efficiency",
+    "AI-Research",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-12T03:43:40+00:00",
+  "updated_at": "2026-10-12T03:43:40+00:00"
+}

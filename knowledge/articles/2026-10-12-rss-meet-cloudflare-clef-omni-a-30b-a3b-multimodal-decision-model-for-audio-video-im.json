@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261012-004",
+  "title": "Meet Cloudflare Clef-omni: A 30B-A3B Multimodal Decision Model for Audio, Video, Image and Text",
+  "source_url": "https://www.marktechpost.com/2026/10/11/cloudflare-clef-omni-multimodal-decision-model/",
+  "source_type": "rss",
+  "summary": "Cloudflare发布Clef-omni，一个基于Qwen3-Omni-30B-A3B的Apache-2.0多模态决策模型，能单次调用对文本、图像、音频和视频进行评分，输入成本仅每百万token 0.15美元。该模型面向内容审核、推荐排序等场景，提供高效低成本的多模态理解与决策能力，显著降低多模态AI应用门槛。",
+  "tags": [
+    "Multimodal",
+    "Decision Model",
+    "Cloudflare",
+    "Qwen",
+    "Open Source",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-12T03:43:40+00:00",
+  "updated_at": "2026-10-12T03:43:40+00:00"
+}

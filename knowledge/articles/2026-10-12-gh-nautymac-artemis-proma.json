@@ -1,0 +1,20 @@
+{
+  "id": "github-20261012-004",
+  "title": "nautymac/Artemis-ProMa",
+  "source_url": "https://github.com/nautymac/Artemis-ProMa",
+  "source_type": "github_trending",
+  "summary": "Artemis-ProMa 是一个基于 Moonlight 的 3D 流媒体方案，专为裸眼 3D 平板（如 IHQ Skyy 3D、ProMa King Tablet）设计。它支持 SBS 左右格式直通，并利用 AI 将普通 2D 内容实时转换为 3D，让用户在这些设备上直接串流游戏或视频，获得立体视觉体验。",
+  "tags": [
+    "3D Streaming",
+    "Moonlight",
+    "AI 2D-to-3D",
+    "Lenticular",
+    "Game Streaming",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-12T03:43:40+00:00",
+  "updated_at": "2026-10-12T03:43:40+00:00"
+}

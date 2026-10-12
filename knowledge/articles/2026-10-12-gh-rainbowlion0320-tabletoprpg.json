@@ -1,0 +1,19 @@
+{
+  "id": "github-20261012-001",
+  "title": "RainbowLion0320/TabletopRPG",
+  "source_url": "https://github.com/RainbowLion0320/TabletopRPG",
+  "source_type": "github_trending",
+  "summary": "该项目利用大语言模型驱动AI跑团游戏，玩家可扮演角色与AI主持人互动，自动生成剧情、对话和事件。技术亮点在于结合LLM的叙事生成能力与游戏状态管理，实现动态分支剧情。适用于桌面角色扮演爱好者、AI游戏开发者和互动叙事实验，降低跑团门槛，提供单人沉浸式体验。",
+  "tags": [
+    "LLM",
+    "Game",
+    "Narrative",
+    "AI",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 1,
+  "status": "draft",
+  "created_at": "2026-10-12T03:43:40+00:00",
+  "updated_at": "2026-10-12T03:43:40+00:00"
+}
