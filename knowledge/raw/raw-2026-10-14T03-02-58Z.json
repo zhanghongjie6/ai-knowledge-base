@@ -1,0 +1,172 @@
+[
+  {
+    "title": "marwanvx/dovet",
+    "url": "https://github.com/marwanvx/dovet",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Provider-neutral terminal coding agent",
+    "pushed_at": "2026-10-14T03:02:44Z",
+    "created_at_source": "2026-10-12T11:42:28Z"
+  },
+  {
+    "title": "skssingh-source/enterprise-ai-architecture",
+    "url": "https://github.com/skssingh-source/enterprise-ai-architecture",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Practical architecture patterns for building secure, scalable, production-ready enterprise AI systems.",
+    "pushed_at": "2026-10-14T03:02:44Z",
+    "created_at_source": "2026-10-14T03:00:11Z"
+  },
+  {
+    "title": "ishandutta2007/Awesome-AI-Audio-Enhancement",
+    "url": "https://github.com/ishandutta2007/Awesome-AI-Audio-Enhancement",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Top AI Audio Enhancement (Opensource)  Star if you like it!",
+    "pushed_at": "2026-10-14T03:02:43Z",
+    "created_at_source": "2026-10-14T01:46:09Z"
+  },
+  {
+    "title": "rezaarvet99/arisan-circle",
+    "url": "https://github.com/rezaarvet99/arisan-circle",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Arisan Circle - pelacak arisan Indonesia (Build With AI: Basics hackathon)",
+    "pushed_at": "2026-10-14T03:02:43Z",
+    "created_at_source": "2026-10-14T03:02:41Z"
+  },
+  {
+    "title": "tech-sharp/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit",
+    "url": "https://github.com/tech-sharp/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-14T03:02:42Z",
+    "created_at_source": "2026-03-06T02:15:54Z"
+  },
+  {
+    "title": "robinstar06-cpu/ai-trader",
+    "url": "https://github.com/robinstar06-cpu/ai-trader",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "test ai trade account",
+    "pushed_at": "2026-10-14T03:02:42Z",
+    "created_at_source": "2026-10-12T09:25:43Z"
+  },
+  {
+    "title": "brokoskokoli/wendelin",
+    "url": "https://github.com/brokoskokoli/wendelin",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Wendelin – persönlicher Sprachassistent (Flutter): lokales STT, eigenes LLM per API-Key, Tools auf dem Handy und über MCP",
+    "pushed_at": "2026-10-14T03:02:41Z",
+    "created_at_source": "2026-10-12T21:43:44Z"
+  },
+  {
+    "title": "serpapi/serpapi-golang",
+    "url": "https://github.com/serpapi/serpapi-golang",
+    "source": "github_trending",
+    "popularity": 30,
+    "summary": "Official Golang wrapper for SerpApi HTTP endpoints",
+    "pushed_at": "2026-10-14T03:02:41Z",
+    "created_at_source": "2022-06-30T01:40:43Z"
+  },
+  {
+    "title": "scode/farhelm",
+    "url": "https://github.com/scode/farhelm",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Take the helm - control your agents far away and local.",
+    "pushed_at": "2026-10-14T03:02:41Z",
+    "created_at_source": "2026-07-25T21:58:28Z"
+  },
+  {
+    "title": "TuRaing/TURION_AI_Trader",
+    "url": "https://github.com/TuRaing/TURION_AI_Trader",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Professional AI Trading Platform with Market Analysis, AI Decision Engine, and Algorithmic Trading for Indian Stock Market.",
+    "pushed_at": "2026-10-14T03:02:41Z",
+    "created_at_source": "2026-07-06T16:05:59Z"
+  },
+  {
+    "title": "一块 GPU 空转 11 天？Adobe 用 Prometheus 找出问题所在",
+    "url": "https://www.infoq.cn/article/AO4MbiBaYqwwCubevkpD?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
+    "url": "https://sspai.com/post/92653",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Faithfulness Without Anchors: A Position Paper on the Structural Misalignments of Explainable AI Faithfulness Metrics for Feature Importance",
+    "url": "https://arxiv.org/abs/2610.12493",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.12493v1 Announce Type: new \nAbstract: Explainable Artificial Intelligence (XAI) tools have often been presented as methods to increase trust in machine learning models by making aspects of ",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "AutoIndexer: Flexible-Order Decoding by Training Causal Models on Chains of Edits",
+    "url": "https://arxiv.org/abs/2610.12545",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.12545v1 Announce Type: new \nAbstract: Autoregressive decoding is less suited to non-causally ordered data, e.g., cross-references or future dependencies, since their outputs cannot be revis",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "406 scientists demand AI models be cut off from the internet immediately",
+    "url": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "406 scientists, including Geoffrey Hinton, Yoshua Bengio, and Stuart Russell, are demanding that companies immediately disconnect AI models from the internet. Their open letter responds to incidents w",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Meta Launches Muse Wonder and Muse Wonder Full: Benchmarks, Pricing and How to Use It",
+    "url": "https://www.marktechpost.com/2026/10/13/meta-muse-wonder-muse-wonder-full-release/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Muse Wonder ✨, Maia 300 ⚡, AI self-replication 🧬",
+    "url": "https://tldr.tech/ai/2026-10-13",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Higgsfield takes AI video from 1 minute to over 10",
+    "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "feed_name": "OpenAI"
+  },
+  {
+    "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "Google DeepMind"
+  },
+  {
+    "title": "Building agents that transact with Anchor Browser and AgentCore payments",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Learn how the AWS Generative AI Innovation Center Partner Agent Factory and Anchor Browser built AI agents that autonomously pay for x402-protected web resources and APIs. Amazon Bedrock AgentCore pay",
+    "feed_name": "AWS ML Blog"
+  }
+]

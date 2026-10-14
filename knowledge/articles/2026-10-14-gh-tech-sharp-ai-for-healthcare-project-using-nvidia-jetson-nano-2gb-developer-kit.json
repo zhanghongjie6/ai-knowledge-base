@@ -1,0 +1,19 @@
+{
+  "id": "github-20261014-005",
+  "title": "tech-sharp/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit",
+  "source_url": "https://github.com/tech-sharp/AI-for-Healthcare-Project-using-NVIDIA-Jetson-Nano-2GB-Developer-kit",
+  "source_type": "github_trending",
+  "summary": "该项目展示如何在NVIDIA Jetson Nano 2GB开发套件上部署医疗AI应用，涵盖疾病检测、医学影像分析等场景。技术亮点在于边缘端低功耗推理与资源受限优化，适合嵌入式医疗设备开发者学习，可快速构建便携式健康监测原型。",
+  "tags": [
+    "Edge AI",
+    "Healthcare",
+    "Jetson Nano",
+    "Embedded",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-14T03:03:36+00:00",
+  "updated_at": "2026-10-14T03:03:36+00:00"
+}

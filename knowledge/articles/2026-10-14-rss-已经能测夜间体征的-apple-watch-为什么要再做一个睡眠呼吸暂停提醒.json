@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261014-002",
+  "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个睡眠呼吸暂停提醒",
+  "source_url": "https://sspai.com/post/92653",
+  "source_type": "rss",
+  "summary": "本文深入解析 Apple Watch 新增的睡眠呼吸暂停提醒功能，探讨其技术实现与健康价值。该功能利用加速度计和心率传感器监测夜间呼吸模式，通过算法识别呼吸暂停事件，旨在提升用户对睡眠呼吸暂停的认知并促进及时就医。文章还对比了已有夜间体征监测能力，说明新增提醒如何降低健康风险，适合关注可穿戴设备与数字健康的读者。",
+  "tags": [
+    "Apple Watch",
+    "Health",
+    "Wearable",
+    "Sleep Apnea",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-14T03:03:36+00:00",
+  "updated_at": "2026-10-14T03:03:36+00:00"
+}

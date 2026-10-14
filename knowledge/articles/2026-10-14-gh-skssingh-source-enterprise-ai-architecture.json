@@ -1,0 +1,20 @@
+{
+  "id": "github-20261014-002",
+  "title": "skssingh-source/enterprise-ai-architecture",
+  "source_url": "https://github.com/skssingh-source/enterprise-ai-architecture",
+  "source_type": "github_trending",
+  "summary": "该项目提供企业级AI系统的实用架构模式，聚焦安全、可扩展与生产就绪。涵盖数据管道、模型部署、权限控制与监控等关键环节，帮助团队将AI从原型推向规模化落地。适合架构师与工程团队参考，降低企业AI实施风险。",
+  "tags": [
+    "Enterprise",
+    "Architecture",
+    "MLOps",
+    "Security",
+    "Scalability",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-14T03:03:36+00:00",
+  "updated_at": "2026-10-14T03:03:36+00:00"
+}

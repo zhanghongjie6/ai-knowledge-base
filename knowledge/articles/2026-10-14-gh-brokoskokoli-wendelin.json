@@ -1,0 +1,20 @@
+{
+  "id": "github-20261014-007",
+  "title": "brokoskokoli/wendelin",
+  "source_url": "https://github.com/brokoskokoli/wendelin",
+  "source_type": "github_trending",
+  "summary": "Wendelin 是一个基于 Flutter 的个人语音助手，支持本地语音识别（STT），通过 API 密钥接入自有 LLM，并能在手机上调用工具及通过 MCP 协议扩展功能。它强调隐私与本地处理，适合希望拥有定制化、可离线使用的智能助手用户，尤其适合开发者与隐私敏感人群。",
+  "tags": [
+    "Flutter",
+    "Voice Assistant",
+    "Local STT",
+    "MCP",
+    "LLM",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-14T03:03:36+00:00",
+  "updated_at": "2026-10-14T03:03:36+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261014-010",
+  "title": "Building agents that transact with Anchor Browser and AgentCore payments",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/building-agents-that-transact-with-anchor-browser-and-agentcore-payments/",
+  "source_type": "rss",
+  "summary": "本文介绍AWS生成式AI创新中心与Anchor Browser合作，利用Amazon Bedrock AgentCore Payments构建能自主支付x402保护网络资源的AI代理。技术亮点在于代理可自动完成微支付并访问付费API，无需人工干预。适用于自动化数据采集、API调用和在线交易等场景，推动代理经济落地。",
+  "tags": [
+    "Agent",
+    "Payments",
+    "AWS",
+    "x402",
+    "Autonomous",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-14T03:03:36+00:00",
+  "updated_at": "2026-10-14T03:03:36+00:00"
+}

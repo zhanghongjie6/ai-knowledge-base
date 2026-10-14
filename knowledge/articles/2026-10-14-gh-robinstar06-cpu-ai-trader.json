@@ -1,0 +1,19 @@
+{
+  "id": "github-20261014-006",
+  "title": "robinstar06-cpu/ai-trader",
+  "source_url": "https://github.com/robinstar06-cpu/ai-trader",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于AI的交易账户测试工具，旨在利用人工智能技术辅助或自动化交易决策。核心价值在于为开发者提供一个实验平台，探索AI在金融交易领域的应用。技术亮点可能包括简单的交易策略模拟和账户管理功能。使用场景主要面向对AI交易感兴趣的开发者进行原型验证和学习。",
+  "tags": [
+    "AI",
+    "Trading",
+    "Finance",
+    "Test",
+    "github"
+  ],
+  "score": 3,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-14T03:03:36+00:00",
+  "updated_at": "2026-10-14T03:03:36+00:00"
+}

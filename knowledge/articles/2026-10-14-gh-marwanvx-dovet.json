@@ -1,0 +1,19 @@
+{
+  "id": "github-20261014-001",
+  "title": "marwanvx/dovet",
+  "source_url": "https://github.com/marwanvx/dovet",
+  "source_type": "github_trending",
+  "summary": "Dovet 是一个供应商中立的终端编码代理，允许开发者在命令行中直接调用多种大模型完成代码生成、修改与调试任务。其核心价值在于解耦模型供应商，用户可自由切换不同 LLM 后端，避免锁定。技术亮点包括终端原生交互、多模型适配层与代理式工作流，适合需要灵活选择模型、注重隐私与本地开发效率的工程师。",
+  "tags": [
+    "Coding Agent",
+    "Terminal",
+    "LLM",
+    "Developer Tools",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-14T03:03:36+00:00",
+  "updated_at": "2026-10-14T03:03:36+00:00"
+}
