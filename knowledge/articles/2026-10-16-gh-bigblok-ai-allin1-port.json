@@ -1,0 +1,19 @@
+{
+  "id": "github-20261016-008",
+  "title": "Bigblok-ai/allin1-port",
+  "source_url": "https://github.com/Bigblok-ai/allin1-port",
+  "source_type": "github_trending",
+  "summary": "Allin1-port 是一个将多种 AI 能力集成到单一端口的开源工具，支持快速接入大模型、图像生成与语音处理等主流服务。其技术亮点在于统一 API 封装与模块化设计，降低多模型调用复杂度，适合开发者快速构建 AI 应用原型或轻量级生产工具。",
+  "tags": [
+    "AI",
+    "API",
+    "LLM",
+    "Toolkit",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-16T02:39:07+00:00",
+  "updated_at": "2026-10-16T02:39:07+00:00"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "github-20261016-003",
+  "title": "ohp1x/privyx",
+  "source_url": "https://github.com/ohp1x/privyx",
+  "source_type": "github_trending",
+  "summary": "Privyx 是一个面向 LLM 提供商的 AI 数据隐私网关，集隐私引擎与代理于一体。它能在请求发送至 OpenAI、Anthropic 等模型前自动检测并脱敏敏感信息，如姓名、邮箱、密钥等，防止企业数据泄露。技术亮点在于透明代理架构与可配置的隐私规则，无需修改现有代码即可接入。适用于企业合规、金融医疗等对数据安全要求高的 AI 应用场景。",
+  "tags": [
+    "Privacy",
+    "LLM",
+    "Proxy",
+    "Security",
+    "Gateway",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-16T02:39:07+00:00",
+  "updated_at": "2026-10-16T02:39:07+00:00"
+}

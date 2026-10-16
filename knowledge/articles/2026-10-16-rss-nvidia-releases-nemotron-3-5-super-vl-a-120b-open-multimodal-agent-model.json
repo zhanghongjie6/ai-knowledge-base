@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261016-008",
+  "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+  "source_url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
+  "source_type": "rss",
+  "summary": "NVIDIA发布Nemotron 3.5 Super VL，一款120B参数的开源多模态MoE模型，仅激活12B参数，支持100万token上下文，采用NVFP4权重可在单台DGX Spark上运行，并附带两款Bolt边缘模型。该模型面向多模态智能体场景，兼顾超长上下文与低部署门槛，为开源社区提供高性能视觉语言推理能力。",
+  "tags": [
+    "Multimodal",
+    "MoE",
+    "Open Source",
+    "Agent",
+    "Long Context",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-16T02:39:07+00:00",
+  "updated_at": "2026-10-16T02:39:07+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "github-20261016-010",
+  "title": "cann-hccl/hccl",
+  "source_url": "https://github.com/cann-hccl/hccl",
+  "source_type": "github_trending",
+  "summary": "HCCL是华为昇腾AI处理器的高性能集合通信库，为计算集群提供高可靠通信方案。它支持多种集合通信原语，优化大规模分布式训练中的数据传输，降低通信开销，提升集群计算效率。适用于深度学习训练、科学计算等需要多节点协同的场景，是昇腾生态的关键组件。",
+  "tags": [
+    "HCCL",
+    "Ascend",
+    "Collective Communication",
+    "Distributed Training",
+    "github"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-16T02:39:07+00:00",
+  "updated_at": "2026-10-16T02:39:07+00:00"
+}

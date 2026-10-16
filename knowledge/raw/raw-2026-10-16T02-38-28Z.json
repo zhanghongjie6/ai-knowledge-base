@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Open-Markets-Initiative/omi-wireshark-lua",
+    "url": "https://github.com/Open-Markets-Initiative/omi-wireshark-lua",
+    "source": "github_trending",
+    "popularity": 236,
+    "summary": "Deterministically code generated Wireshark dissectors for common exchange protocols (LLM-friendly)",
+    "pushed_at": "2026-10-16T02:38:16Z",
+    "created_at_source": "2017-02-25T04:15:36Z"
+  },
+  {
+    "title": "RIll-cmd/ascend-hub",
+    "url": "https://github.com/RIll-cmd/ascend-hub",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "Ascend Hub — a retro-futuristic (ZZZ inspired) personal progression workstation connecting my personal AI projects and AI agents through customizable shelves, CRT interfaces, media, and interactive mo",
+    "pushed_at": "2026-10-16T02:38:16Z",
+    "created_at_source": "2026-09-11T16:40:10Z"
+  },
+  {
+    "title": "ohp1x/privyx",
+    "url": "https://github.com/ohp1x/privyx",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI data privacy gateway: privacy engine + proxy for LLM providers",
+    "pushed_at": "2026-10-16T02:38:16Z",
+    "created_at_source": "2026-09-14T04:34:43Z"
+  },
+  {
+    "title": "b1acKr0se/taro",
+    "url": "https://github.com/b1acKr0se/taro",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Agents work through your whole ticket board on their own: a manager files your requests as tickets, and owner agents take every one to completion, spawning subagents to build, test and review.",
+    "pushed_at": "2026-10-16T02:38:15Z",
+    "created_at_source": "2026-10-13T16:09:33Z"
+  },
+  {
+    "title": "HarshaDokula/opencode-container",
+    "url": "https://github.com/HarshaDokula/opencode-container",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Containerized opencode agent",
+    "pushed_at": "2026-10-16T02:38:15Z",
+    "created_at_source": "2026-07-08T04:44:10Z"
+  },
+  {
+    "title": "jobright-ai/2026-Public-Sector-New-Grad",
+    "url": "https://github.com/jobright-ai/2026-Public-Sector-New-Grad",
+    "source": "github_trending",
+    "popularity": 2,
+    "summary": "Collection of 2026 New Grad Jobs in Public Sector and Government!",
+    "pushed_at": "2026-10-16T02:38:15Z",
+    "created_at_source": "2024-08-26T06:23:18Z"
+  },
+  {
+    "title": "bakhoon/ai-audio-capture",
+    "url": "https://github.com/bakhoon/ai-audio-capture",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-16T02:38:15Z",
+    "created_at_source": "2026-10-16T02:34:37Z"
+  },
+  {
+    "title": "Bigblok-ai/allin1-port",
+    "url": "https://github.com/Bigblok-ai/allin1-port",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-16T02:38:15Z",
+    "created_at_source": "2026-09-16T16:08:53Z"
+  },
+  {
+    "title": "Icyunvbankai/ziggy-colony",
+    "url": "https://github.com/Icyunvbankai/ziggy-colony",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Ziggy's Colony — Adrian's live agent operation as a 3D colony (Bot Crossing + Muse adapter, static hosting).",
+    "pushed_at": "2026-10-16T02:38:18Z",
+    "created_at_source": "2026-10-14T16:42:29Z"
+  },
+  {
+    "title": "cann-hccl/hccl",
+    "url": "https://github.com/cann-hccl/hccl",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "集合通信库（Huawei Collective Communication Library，简称HCCL）是基于昇腾AI处理器的高性能集合通信库，为计算集群提供高性能、高可靠的通信方案",
+    "pushed_at": "2026-10-16T02:38:14Z",
+    "created_at_source": "2026-10-09T14:59:12Z"
+  },
+  {
+    "title": "AI 写完代码，谁来验证？手淘 TEKO “写—验—修”自主闭环的工程实践｜QCon上海",
+    "url": "https://www.infoq.cn/article/t3XbHewuN37fsodaprUC?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
+    "url": "https://sspai.com/post/116355",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
+    "url": "https://arxiv.org/abs/2610.14005",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.14005v1 Announce Type: new \nAbstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or satur",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection",
+    "url": "https://arxiv.org/abs/2610.18881",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.18881v1 Announce Type: new \nAbstract: Voice agents built on large language models (LLMs) now handle customer calls, but in regulated applications completing the task is not enough: the agen",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "Lotus: Learning to Understand Time-series by Learning to Forecast",
+    "url": "https://arxiv.org/abs/2610.18877",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.18877v1 Announce Type: new \nAbstract: Time-series language models typically align numerical signals with language using labels, captions, or question-answer pairs. Although such supervision",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "Action Jets: Learning the Local Shape of the Action-conditioned Data Manifold",
+    "url": "https://arxiv.org/abs/2610.19007",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.19007v1 Announce Type: new \nAbstract: World models are a powerful means of reasoning and planning, but many of these action-conditioned predictive models are high dimensional and computatio",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
+    "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with th",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "NVIDIA Releases Nemotron 3.5 Super VL, a 120B Open Multimodal Agent Model",
+    "url": "https://www.marktechpost.com/2026/10/15/nvidia-nemotron-3-5-super-vl-release/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "NVIDIA released Nemotron 3.5 Super VL, an open 120B-parameter multimodal MoE model with 12B active parameters, 1M-token context and NVFP4 weights that run on 1 DGX Spark, plus 2 Bolt edge models.\nThe ",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Jev 1.14 ⚡, Grok Voice 3 🎙️, RSI 🔁",
+    "url": "https://tldr.tech/ai/2026-10-15",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "feed_name": "OpenAI"
+  }
+]

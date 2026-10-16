@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261016-005",
+  "title": "Lotus: Learning to Understand Time-series by Learning to Forecast",
+  "source_url": "https://arxiv.org/abs/2610.18877",
+  "source_type": "rss",
+  "summary": "Lotus提出一种通过预测任务来学习时间序列理解的新范式，摒弃传统依赖标签、描述或问答对的对齐方式。该方法利用预测作为自监督信号，使语言模型能够捕捉时序数据的深层模式与动态规律，在时序预测、异常检测和跨模态推理等场景中展现出潜力，为时序语言模型训练提供了更高效、可扩展的路径。",
+  "tags": [
+    "Time-series",
+    "LLM",
+    "Self-supervised",
+    "Forecasting",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-16T02:39:07+00:00",
+  "updated_at": "2026-10-16T02:39:07+00:00"
+}
