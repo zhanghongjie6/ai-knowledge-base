@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261017-006",
+  "title": "BD-HazardVLM: Probing Vision-Language Models for Latent Defensive-Driving Hazards in Bangladesh Road Scenes",
+  "source_url": "https://arxiv.org/abs/2610.20627",
+  "source_type": "rss",
+  "summary": "该研究构建BD-HazardVLM基准，系统评估视觉语言模型在孟加拉国复杂道路场景中的防御性驾驶隐患识别能力。技术亮点在于聚焦全球南方弱结构化交通环境，揭示现有VLM在潜在危险推理上的不足，为自动驾驶安全评估提供新视角。适用于自动驾驶感知测试、VLM鲁棒性研究及新兴市场交通场景分析。",
+  "tags": [
+    "VLM",
+    "Autonomous Driving",
+    "Benchmark",
+    "Road Safety",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

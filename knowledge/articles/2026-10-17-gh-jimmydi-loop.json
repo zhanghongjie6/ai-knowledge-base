@@ -1,0 +1,19 @@
+{
+  "id": "github-20261017-006",
+  "title": "JimmyDi/loop",
+  "source_url": "https://github.com/JimmyDi/loop",
+  "source_type": "github_trending",
+  "summary": "Loop 是一个本地优先、供应商无关的智能体运行框架，核心价值在于让开发者自由切换不同大模型供应商，同时保证数据与执行留在本地。技术亮点包括统一抽象层屏蔽各家 API 差异、本地化执行降低隐私风险，适合需要多模型对比、私有化部署或构建可移植 Agent 应用的场景。",
+  "tags": [
+    "Agent",
+    "Local-first",
+    "LLM",
+    "Framework",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

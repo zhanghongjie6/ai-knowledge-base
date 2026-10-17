@@ -1,0 +1,19 @@
+{
+  "id": "github-20261017-002",
+  "title": "vastobb/albedo-voice-clone",
+  "source_url": "https://github.com/vastobb/albedo-voice-clone",
+  "source_type": "github_trending",
+  "summary": "该项目基于XTTS v2构建本地AI语音克隆流水线，专为Albedo参考音频设计，完全运行于GitHub Actions云端环境。用户只需点击按钮即可生成带情感色彩的语音片段，无需本地GPU或复杂配置，降低了语音克隆的使用门槛，适合快速原型验证、内容创作及角色配音等场景。",
+  "tags": [
+    "Voice Cloning",
+    "TTS",
+    "XTTS",
+    "GitHub Actions",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

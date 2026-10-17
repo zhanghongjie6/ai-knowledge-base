@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261017-003",
+  "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+  "source_url": "https://arxiv.org/abs/2610.20665",
+  "source_type": "rss",
+  "summary": "该论文研究LLM智能体在真实动态环境中的时间感知问题：推理与工具调用耗时会导致信息过时。作者提出在实时时钟下评估与训练智能体的方法，弥补静态基准的不足，提升其在持续变化场景中的决策可靠性。",
+  "tags": [
+    "LLM",
+    "Agent",
+    "Evaluation",
+    "Real-time",
+    "Benchmark",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

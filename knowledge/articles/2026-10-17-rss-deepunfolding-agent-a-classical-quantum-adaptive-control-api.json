@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261017-004",
+  "title": "DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API",
+  "source_url": "https://arxiv.org/abs/2610.20615",
+  "source_type": "rss",
+  "summary": "该论文提出DeepUnfolding_Agent，一种面向经典-量子混合系统的自适应控制API，将深度展开（deep unfolding）与智能体调度结合，统一管理机器学习、联邦学习及量子机器学习中的优化流程。技术亮点在于用可学习展开网络替代手工迭代算法，并通过Agent动态选择超参与控制策略，提升收敛速度与鲁棒性。适用于量子神经网络训练、混合计算资源调度及分布式优化场景。",
+  "tags": [
+    "DeepUnfolding",
+    "QuantumMachineLearning",
+    "Agent",
+    "AdaptiveOptimization",
+    "FederatedLearning",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

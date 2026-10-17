@@ -1,0 +1,18 @@
+{
+  "id": "github-20261017-001",
+  "title": "kumarvijay40745-ai/buywhy-testcases",
+  "source_url": "https://github.com/kumarvijay40745-ai/buywhy-testcases",
+  "source_type": "github_trending",
+  "summary": "该项目是BuyWhy平台的测试用例集合，用于验证电商导购或比价功能的正确性。技术亮点在于以仓库形式集中管理测试场景，便于回归测试与协作。适用于开发团队进行功能验证、CI集成及质量保障，但内容较单一，通用性有限。",
+  "tags": [
+    "Testing",
+    "E-commerce",
+    "QA",
+    "github"
+  ],
+  "score": 4,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

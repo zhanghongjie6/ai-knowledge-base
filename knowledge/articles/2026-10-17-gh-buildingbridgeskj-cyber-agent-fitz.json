@@ -1,0 +1,19 @@
+{
+  "id": "github-20261017-007",
+  "title": "buildingbridgeskj-cyber/agent-fitz",
+  "source_url": "https://github.com/buildingbridgeskj-cyber/agent-fitz",
+  "source_type": "github_trending",
+  "summary": "Agent Fitz 是一个面向大学橄榄球纸质门票的人工整理冻结票据账本工具，仅做票据数据分析，绝不参与下注。项目聚焦于将纸质门票信息结构化记录并冻结存档，便于追溯与核对，适合收藏者、票务研究者或合规审查场景使用。技术亮点在于人工策展与不可变账本结合，确保数据可信。",
+  "tags": [
+    "Ledger",
+    "Sports",
+    "DataCuration",
+    "Compliance",
+    "github"
+  ],
+  "score": 4,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

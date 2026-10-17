@@ -1,0 +1,19 @@
+{
+  "id": "github-20261017-005",
+  "title": "Sabari-Raj-Devarajan/WALL-E__EVE-signal",
+  "source_url": "https://github.com/Sabari-Raj-Devarajan/WALL-E__EVE-signal",
+  "source_type": "github_trending",
+  "summary": "该项目是一个自主网格世界模拟器，智能体WALL-E在电量约束下，利用动态信念地图和信号强度启发式策略寻找目标EVE。核心价值在于展示资源受限环境中的自主导航与决策算法，技术亮点包括实时ASCII可视化与信念地图更新机制，适用于AI教学、强化学习原型验证及路径规划研究。",
+  "tags": [
+    "Autonomous Navigation",
+    "Grid World",
+    "Heuristic Search",
+    "Simulation",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "kumarvijay40745-ai/buywhy-testcases",
+    "url": "https://github.com/kumarvijay40745-ai/buywhy-testcases",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "",
+    "pushed_at": "2026-10-17T02:30:43Z",
+    "created_at_source": "2026-10-17T02:30:42Z"
+  },
+  {
+    "title": "vastobb/albedo-voice-clone",
+    "url": "https://github.com/vastobb/albedo-voice-clone",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Local-AI voice cloning pipeline (XTTS v2) for the Albedo reference clip — runs entirely on GitHub Actions. Press the button, get emotional voice takes.",
+    "pushed_at": "2026-10-17T02:30:42Z",
+    "created_at_source": "2026-10-16T18:25:55Z"
+  },
+  {
+    "title": "iamHTV/arXiv-distill",
+    "url": "https://github.com/iamHTV/arXiv-distill",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Distilled knowledge from arXiv papers: AI, business, marketing, decision science",
+    "pushed_at": "2026-10-17T02:30:41Z",
+    "created_at_source": "2026-06-01T03:15:55Z"
+  },
+  {
+    "title": "scallsen/nutrifacts-jp",
+    "url": "https://github.com/scallsen/nutrifacts-jp",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Parse Japanese nutrition labels (栄養成分表示) into a simplified, honest view. Tokyo Agent Hackathon Oct 17 2026.",
+    "pushed_at": "2026-10-17T02:30:41Z",
+    "created_at_source": "2026-10-16T11:38:22Z"
+  },
+  {
+    "title": "Sabari-Raj-Devarajan/WALL-E__EVE-signal",
+    "url": "https://github.com/Sabari-Raj-Devarajan/WALL-E__EVE-signal",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "An autonomous grid-world simulation where an agent (WALL-E) uses dynamic belief mapping and signal strength heuristics to locate a target (EVE) under battery constraints. It features live ASCII visual",
+    "pushed_at": "2026-10-17T02:30:41Z",
+    "created_at_source": "2026-10-17T02:30:40Z"
+  },
+  {
+    "title": "JimmyDi/loop",
+    "url": "https://github.com/JimmyDi/loop",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "A local-first, provider-agnostic agent harness.",
+    "pushed_at": "2026-10-17T02:30:40Z",
+    "created_at_source": "2026-09-16T00:55:32Z"
+  },
+  {
+    "title": "buildingbridgeskj-cyber/agent-fitz",
+    "url": "https://github.com/buildingbridgeskj-cyber/agent-fitz",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "Agent Fitz - human-curated frozen-ticket ledger for college football paper tickets. Paper analysis only, never places wagers.",
+    "pushed_at": "2026-10-17T02:30:40Z",
+    "created_at_source": "2026-09-25T20:50:21Z"
+  },
+  {
+    "title": "antono4/ai-content-generator",
+    "url": "https://github.com/antono4/ai-content-generator",
+    "source": "github_trending",
+    "popularity": 1,
+    "summary": "🤖 AI-powered content generator for social media, blogs, and marketing - Built with FastAPI, LangChain, and modern AI models",
+    "pushed_at": "2026-10-17T02:30:40Z",
+    "created_at_source": "2026-07-16T02:49:25Z"
+  },
+  {
+    "title": "JhansiKotta/smart_attendance_system_using_face_recognition",
+    "url": "https://github.com/JhansiKotta/smart_attendance_system_using_face_recognition",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "AI-powered smart attendance system using face recognition, OpenCV, LBPH, Pandas, Plotly and Streamlit.",
+    "pushed_at": "2026-10-17T02:30:40Z",
+    "created_at_source": "2026-07-27T17:14:06Z"
+  },
+  {
+    "title": "CorbanuCore/CorbanuCore.github.io",
+    "url": "https://github.com/CorbanuCore/CorbanuCore.github.io",
+    "source": "github_trending",
+    "popularity": 0,
+    "summary": "The private AI trading workspace for on-chain traders",
+    "pushed_at": "2026-10-17T02:30:40Z",
+    "created_at_source": "2026-08-11T23:58:48Z"
+  },
+  {
+    "title": "The World Is Not a Dataset - Building AI Systems That Continuously Learn from Reality｜QCon上海",
+    "url": "https://www.infoq.cn/article/JMZ6WUx4a4cVqAwhwviU?utm_source=rss&utm_medium=article",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "点击查看原文>",
+    "feed_name": "InfoQ中文"
+  },
+  {
+    "title": "本周看什么 | 最近值得一看的 13 部作品",
+    "url": "https://sspai.com/post/116423",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...查看全文",
+    "feed_name": "少数派"
+  },
+  {
+    "title": "The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock",
+    "url": "https://arxiv.org/abs/2610.20665",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.20665v1 Announce Type: new \nAbstract: Large language model (LLM) agents can solve complex interactive tasks, yet reasoning and tool calls take time. In continuously changing environments, a",
+    "feed_name": "ArXiv AI"
+  },
+  {
+    "title": "DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API",
+    "url": "https://arxiv.org/abs/2610.20615",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.20615v1 Announce Type: new \nAbstract: Adaptive optimization workflows in machine learning, federated learning, quantum machine learning, and hybrid classical quantum systems often embed con",
+    "feed_name": "ArXiv CL"
+  },
+  {
+    "title": "FlowBudget: Training-Free Sampling-Budget Estimation for Flow Matching Models",
+    "url": "https://arxiv.org/abs/2610.20636",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.20636v1 Announce Type: new \nAbstract: Sampling from continuous flow-based generators such as flow matching models requires numerical ODE or SDE integration, making inference cost depend on ",
+    "feed_name": "ArXiv LG"
+  },
+  {
+    "title": "BD-HazardVLM: Probing Vision-Language Models for Latent Defensive-Driving Hazards in Bangladesh Road Scenes",
+    "url": "https://arxiv.org/abs/2610.20627",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "arXiv:2610.20627v1 Announce Type: new \nAbstract: Vision-language models are increasingly used for driving-scene understanding, yet their defensive reasoning under weakly structured Global South traffi",
+    "feed_name": "ArXiv CV"
+  },
+  {
+    "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
+    "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several tabs. It is open to al",
+    "feed_name": "The Decoder"
+  },
+  {
+    "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
+    "url": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "Perplexity has open-sourced SPACE, the sandbox platform behind every task in Perplexity Computer. The Perplexity SPACE sandbox gives each agent task its own Firecracker microVM. Credentials and outbou",
+    "feed_name": "MarkTechPost"
+  },
+  {
+    "title": "Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡",
+    "url": "https://tldr.tech/ai/2026-10-16",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "",
+    "feed_name": "TLDR AI"
+  },
+  {
+    "title": "How Itaú is building generative AI for its entire customer base",
+    "url": "https://openai.com/index/itau-generative-ai",
+    "source": "rss",
+    "popularity": 0,
+    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+    "feed_name": "OpenAI"
+  }
+]

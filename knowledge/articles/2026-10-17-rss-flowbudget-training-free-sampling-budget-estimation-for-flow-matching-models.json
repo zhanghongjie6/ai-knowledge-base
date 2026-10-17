@@ -1,0 +1,19 @@
+{
+  "id": "rss-20261017-005",
+  "title": "FlowBudget: Training-Free Sampling-Budget Estimation for Flow Matching Models",
+  "source_url": "https://arxiv.org/abs/2610.20636",
+  "source_type": "rss",
+  "summary": "该论文提出FlowBudget，一种无需训练的采样预算估计方法，用于流匹配模型的推理加速。流匹配模型需通过数值ODE/SDE积分采样，推理成本随步数增加。FlowBudget能在不重新训练的情况下自适应确定每样本所需采样步数，平衡生成质量与计算开销，适用于图像生成等扩散类模型的部署优化。",
+  "tags": [
+    "Flow Matching",
+    "Diffusion Models",
+    "Inference Acceleration",
+    "Sampling",
+    "rss"
+  ],
+  "score": 7,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

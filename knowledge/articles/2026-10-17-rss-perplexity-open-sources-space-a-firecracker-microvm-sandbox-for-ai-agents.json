@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261017-008",
+  "title": "Perplexity Open-Sources SPACE, a Firecracker MicroVM Sandbox for AI Agents",
+  "source_url": "https://www.marktechpost.com/2026/10/16/perplexity-open-sources-space-firecracker-microvm-sandbox-ai-agents/",
+  "source_type": "rss",
+  "summary": "Perplexity开源了SPACE沙箱平台，这是支撑Perplexity Computer所有任务的底层基础设施。SPACE为每个AI代理任务分配独立的Firecracker微虚拟机，实现强隔离，并管理凭据与出站网络访问。该方案提升了代理执行的安全性与可控性，适用于需要多任务并发、代码执行和外部工具调用的AI代理场景。",
+  "tags": [
+    "AI Agents",
+    "Sandbox",
+    "Firecracker",
+    "MicroVM",
+    "Security",
+    "rss"
+  ],
+  "score": 8,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

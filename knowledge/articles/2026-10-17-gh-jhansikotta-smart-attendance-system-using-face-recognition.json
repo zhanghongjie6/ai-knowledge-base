@@ -1,0 +1,20 @@
+{
+  "id": "github-20261017-009",
+  "title": "JhansiKotta/smart_attendance_system_using_face_recognition",
+  "source_url": "https://github.com/JhansiKotta/smart_attendance_system_using_face_recognition",
+  "source_type": "github_trending",
+  "summary": "该项目基于OpenCV与LBPH算法实现人脸识别考勤系统，结合Pandas处理考勤数据、Plotly可视化统计结果，并通过Streamlit构建交互式界面。核心价值在于提供低成本、易部署的端到端考勤方案，适合教学演示、小型团队或课堂签到场景，技术栈轻量且代码结构清晰。",
+  "tags": [
+    "Face Recognition",
+    "OpenCV",
+    "Streamlit",
+    "Attendance System",
+    "LBPH",
+    "github"
+  ],
+  "score": 5,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

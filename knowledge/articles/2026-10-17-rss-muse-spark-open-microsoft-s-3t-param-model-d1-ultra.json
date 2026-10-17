@@ -1,0 +1,20 @@
+{
+  "id": "rss-20261017-009",
+  "title": "Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡",
+  "source_url": "https://tldr.tech/ai/2026-10-16",
+  "source_type": "rss",
+  "summary": "本期AI快讯聚焦多项前沿模型发布：Muse Spark Open开源项目、微软3万亿参数大模型及d1-ultra推理模型。核心价值在于展示超大规模模型训练与开源生态的最新进展，技术亮点涵盖参数规模突破与推理能力优化，适用于研究者跟踪大模型趋势、开发者评估模型选型及企业规划AI基础设施。",
+  "tags": [
+    "LLM",
+    "Open Source",
+    "Microsoft",
+    "Model Scaling",
+    "Reasoning",
+    "rss"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}

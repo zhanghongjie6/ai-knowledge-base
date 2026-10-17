@@ -1,0 +1,20 @@
+{
+  "id": "github-20261017-004",
+  "title": "scallsen/nutrifacts-jp",
+  "source_url": "https://github.com/scallsen/nutrifacts-jp",
+  "source_type": "github_trending",
+  "summary": "该项目可将日本食品的营养成分标签（栄養成分表示）解析为简洁直观的视图，帮助消费者快速理解食品营养信息。技术亮点在于针对日文标签的解析能力，结合AI Agent实现结构化提取。适用于健康饮食管理、食品信息透明化等场景，源自东京Agent黑客松。",
+  "tags": [
+    "OCR",
+    "Nutrition",
+    "Japanese",
+    "Agent",
+    "Data Extraction",
+    "github"
+  ],
+  "score": 6,
+  "popularity": 0,
+  "status": "draft",
+  "created_at": "2026-10-17T02:31:27+00:00",
+  "updated_at": "2026-10-17T02:31:27+00:00"
+}
